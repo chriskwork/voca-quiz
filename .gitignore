@@ -48,3 +48,6 @@ next-env.d.ts
 # JSON files
 /csv
 /json-files
+
+# ETC
+CLAUDE.md
