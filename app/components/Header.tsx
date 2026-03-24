@@ -10,7 +10,7 @@ export default function Header() {
   const pathname = usePathname();
 
   return (
-    <header className="flex justify-between items-center bg-card px-4 h-14">
+    <header className="flex justify-between items-center bg-card px-2 h-14">
       {/* left */}
       <div className="flex items-center gap-3">
         <button onClick={() => setIsOpen(true)} className="p-2 rounded-xl text-tema-brown cursor-pointer">
