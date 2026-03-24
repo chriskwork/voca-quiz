@@ -89,7 +89,7 @@ export default function Home() {
                 <span className="mb-2 text-tema-brown-muted text-xs">{count}개 단어</span>
                 <Link
                   href={`/voca/${tema}`}
-                  className="bg-linear-to-br from-tema-brown to-tema-orange px-4 py-2 rounded-xl w-full font-semibold text-white text-xs text-center"
+                  className="bg-linear-to-br from-tema-brown to-tema-orange px-4 py-2 rounded-2xl w-full font-semibold text-white text-xs text-center"
                 >
                   시작
                 </Link>
