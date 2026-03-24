@@ -10,8 +10,8 @@ const geistSans = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "스페인어 단어 퀴즈",
-  description: "스페인어-한국어 단어 퀴즈 앱",
+  title: "스페인어 단어/퀴즈",
+  description: "스페인어-한국어 단어 공부, 퀴즈 앱",
 };
 
 export default function RootLayout({
