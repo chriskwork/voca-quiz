@@ -61,10 +61,12 @@ export default function NoteQuiz() {
 
   if (finished)
     return (
-      <div className="flex flex-col items-center gap-6 px-4 py-20">
+      <div className="flex flex-col items-center gap-6 px-4 py-10">
         <p className="font-bold text-lg">결과</p>
         <p className="text-gray-500 text-sm">
-          맞은 개수: {questions.length - wrong.length} / {questions.length} (맞춘 문제는 오답노트 목록에서 삭제됩니다.)
+          맞은 개수: {questions.length - wrong.length} / {questions.length}
+          <br />
+          (맞춘 문제는 오답노트 목록에서 삭제됩니다.)
         </p>
 
         <button className="py-3 border rounded-xl w-full" onClick={() => router.replace("/notes")}>
