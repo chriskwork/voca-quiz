@@ -28,3 +28,11 @@ export async function getWrongNotesByTema(tema: string): Promise<WrongNote[]> {
   const all = await getWrongNotes();
   return all.filter((v) => v.tema === tema);
 }
+
+export async function deleteWrongNote(id: number) {
+  return (await dbPromise).delete("wrong-notes", id);
+}
+
+export async function clearWrongNotes() {
+  return (await dbPromise).clear("wrong-notes");
+}
