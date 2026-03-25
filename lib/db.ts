@@ -7,21 +7,28 @@ export type WrongNote = {
   tema: string;
 };
 
-const dbPromise = openDB("voca-quiz", 1, {
-  upgrade(db) {
-    db.createObjectStore("wrong-notes", { keyPath: "id" });
-  },
-});
+let dbPromise: ReturnType<typeof openDB> | null = null;
+
+function getDB() {
+  if (!dbPromise) {
+    dbPromise = openDB("voca-quiz", 1, {
+      upgrade(db) {
+        db.createObjectStore("wrong-notes", { keyPath: "id" });
+      },
+    });
+  }
+  return dbPromise;
+}
 
 export async function saveWrongNotes(vocas: WrongNote[]) {
-  const db = await dbPromise;
+  const db = await getDB();
   const tx = db.transaction("wrong-notes", "readwrite");
   await Promise.all(vocas.map((v) => tx.store.put(v)));
   await tx.done;
 }
 
 export async function getWrongNotes(): Promise<WrongNote[]> {
-  return (await dbPromise).getAll("wrong-notes");
+  return (await getDB()).getAll("wrong-notes");
 }
 
 export async function getWrongNotesByTema(tema: string): Promise<WrongNote[]> {
@@ -30,9 +37,9 @@ export async function getWrongNotesByTema(tema: string): Promise<WrongNote[]> {
 }
 
 export async function deleteWrongNote(id: number) {
-  return (await dbPromise).delete("wrong-notes", id);
+  return (await getDB()).delete("wrong-notes", id);
 }
 
 export async function clearWrongNotes() {
-  return (await dbPromise).clear("wrong-notes");
+  return (await getDB()).clear("wrong-notes");
 }
