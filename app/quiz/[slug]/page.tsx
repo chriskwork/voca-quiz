@@ -140,7 +140,11 @@ export default function TemaQuiz() {
       </ul>
 
       {/* 틀린 답 갯수 */}
-      <p className="mt-20 text-xs">틀린답: {wrong.length} / 10</p>
+      <p className="mt-20 text-xs">
+        틀린답: {wrong.length} / 10
+        <br />
+        틀린답은 오답노트에 저장됩니다.
+      </p>
 
       {/* 그만하기, 계속하기 버튼 */}
     </div>
