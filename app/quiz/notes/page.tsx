@@ -32,7 +32,8 @@ export default function NoteQuiz() {
   const [current, setCurrent] = useState(0);
   const [wrong, setWrong] = useState<Voca[]>([]);
   const [finished, setFinished] = useState(false);
-  const [selected, setSelected] = useState<number | null>(null); // 선택한 보기의 id
+  // 선택한 보기의 id
+  const [selected, setSelected] = useState<number | null>(null);
 
   useEffect(() => {
     async function load() {

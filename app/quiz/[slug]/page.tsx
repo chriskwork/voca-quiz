@@ -77,10 +77,12 @@ export default function TemaQuiz() {
         >
           10개 더 풀기
         </button>
-        <button className="py-3 border rounded-xl w-full" onClick={() => router.push(`/voca/${slug}`)}>
+        <button className="py-3 border rounded-xl w-full" onClick={() => router.replace(`/voca/${slug}`)}>
           그만하기
         </button>
-        <button className="py-3 border rounded-xl w-full">오답노트 보기</button>
+        <button onClick={() => router.replace("/notes")} className="py-3 border rounded-xl w-full">
+          오답노트 보기
+        </button>
       </div>
     );
 
