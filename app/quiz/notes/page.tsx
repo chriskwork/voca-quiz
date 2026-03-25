@@ -52,10 +52,11 @@ export default function NoteQuiz() {
     load();
   }, []);
 
-  const choices = useMemo(
-    () => (questions[current] ? makeChoices(questions[current], allVocas) : []),
-    [current, questions, allVocas],
-  );
+  const choices = useMemo(() => {
+    if (!questions[current]) return [];
+    const temaPool = allVocas.filter((v) => v.tema === questions[current].tema);
+    return makeChoices(questions[current], temaPool);
+  }, [current, questions, allVocas]);
 
   if (questions.length === 0) return <div className="pt-20 text-sm text-center">로딩 중...</div>;
 
