@@ -51,3 +51,4 @@ next-env.d.ts
 
 # ETC
 CLAUDE.md
+.claude/
