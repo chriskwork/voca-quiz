@@ -53,17 +53,21 @@ function getTemas() {
 // Main app
 export default function Home() {
   const temas = getTemas();
+  const totalWords = temas.reduce((sum, t) => sum + t.count, 0);
 
   return (
     <main className="flex flex-col min-h-screen">
       {/* Header */}
       <div className="bg-linear-to-br from-tema-brown to-tema-orange px-5 pt-12 pb-8 rounded-b-3xl text-white">
         <p className="opacity-70 mb-1 text-sm">스페인어 단어/퀴즈</p>
-        <h1 className="mb-8 font-bold text-2xl leading-snug">
+        <h1 className="font-bold text-2xl leading-snug">
           오늘도 한 단어씩,
           <br />
           스페인어를 정복해요
         </h1>
+        <p className="mt-2 mb-8 opacity-60 text-sm">
+          {temas.length}개 테마 · {totalWords.toLocaleString()}개 단어
+        </p>
 
         <Link
           href={"/quiz/random"}
