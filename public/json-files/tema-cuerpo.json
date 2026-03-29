@@ -1,0 +1,902 @@
+[
+ {
+   "id": 1,
+   "spanish": "el cuerpo",
+   "korean": "몸, 신체",
+   "synonym": "",
+   "example_es": "Hay que cuidar el cuerpo y la mente.",
+   "example_ko": "몸과 마음을 관리해야 해.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 2,
+   "spanish": "el esqueleto",
+   "korean": "해골, 골격",
+   "synonym": "",
+   "example_es": "El esqueleto humano tiene muchos huesos.",
+   "example_ko": "인간의 골격은 많은 뼈로 이루어져 있어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 3,
+   "spanish": "la anatomía",
+   "korean": "해부학, 해부",
+   "synonym": "",
+   "example_es": "Estudiamos la anatomía en la clase.",
+   "example_ko": "우리는 수업 시간에 해부학을 공부해.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 4,
+   "spanish": "el espinazo",
+   "korean": "척추, 척수",
+   "synonym": "la columna vertebral",
+   "example_es": "El espinazo sostiene todo el cuerpo.",
+   "example_ko": "척추는 몸 전체를 지탱해.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 5,
+   "spanish": "el hueso",
+   "korean": "뼈",
+   "synonym": "",
+   "example_es": "Toma calcio para fortalecer los huesos.",
+   "example_ko": "뼈를 튼튼하게 하려면 칼슘을 섭취해.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 6,
+   "spanish": "el órgano",
+   "korean": "장기, 기관",
+   "synonym": "",
+   "example_es": "El corazón es un órgano vital.",
+   "example_ko": "심장은 생명에 필수적인 장기야.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 7,
+   "spanish": "el cerebro",
+   "korean": "뇌",
+   "synonym": "",
+   "example_es": "El cerebro controla los movimientos.",
+   "example_ko": "뇌는 움직임을 조절해.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 8,
+   "spanish": "la neurona",
+   "korean": "신경세포, 뉴런",
+   "synonym": "",
+   "example_es": "Las neuronas transmiten impulsos.",
+   "example_ko": "뉴런은 충동(신호)을 전달해.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 9,
+   "spanish": "el corazón",
+   "korean": "심장",
+   "synonym": "",
+   "example_es": "El corazón late con fuerza.",
+   "example_ko": "심장이 힘차게 뛰어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 10,
+   "spanish": "el pulmón",
+   "korean": "폐",
+   "synonym": "",
+   "example_es": "Los pulmones se llenan de aire.",
+   "example_ko": "폐가 공기로 가득 차.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 11,
+   "spanish": "el riñón",
+   "korean": "신장, 콩팥",
+   "synonym": "",
+   "example_es": "Los riñones filtran la sangre.",
+   "example_ko": "신장은 피를 걸러줘.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 12,
+   "spanish": "el hígado",
+   "korean": "간",
+   "synonym": "",
+   "example_es": "El hígado elimina las toxinas.",
+   "example_ko": "간은 독소를 제거해.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 13,
+   "spanish": "la vesícula",
+   "korean": "쓸개",
+   "synonym": "",
+   "example_es": "La vesícula biliar almacena bilis.",
+   "example_ko": "쓸개는 담즙을 저장해.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 14,
+   "spanish": "la vejiga",
+   "korean": "방광",
+   "synonym": "",
+   "example_es": "Tengo la vejiga llena de agua.",
+   "example_ko": "방광에 물(소변)이 가득 찼어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 15,
+   "spanish": "el intestino",
+   "korean": "장, 창자",
+   "synonym": "",
+   "example_es": "La comida pasa por el intestino.",
+   "example_ko": "음식은 장을 통과해.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 16,
+   "spanish": "el intestino grueso",
+   "korean": "대장",
+   "synonym": "",
+   "example_es": "El intestino grueso absorbe agua.",
+   "example_ko": "대장은 물을 흡수해.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 17,
+   "spanish": "el intestino delgado",
+   "korean": "소장",
+   "synonym": "",
+   "example_es": "La digestión ocurre en el intestino delgado.",
+   "example_ko": "소화는 소장에서 일어나.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 18,
+   "spanish": "el ano",
+   "korean": "항문",
+   "synonym": "el ojete",
+   "example_es": "El ano es el final del tracto.",
+   "example_ko": "항문은 소화관의 끝이야.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 19,
+   "spanish": "la espalda",
+   "korean": "등",
+   "synonym": "",
+   "example_es": "Me duele la espalda de estar sentado.",
+   "example_ko": "앉아 있었더니 등이 아파.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 20,
+   "spanish": "el estómago",
+   "korean": "위",
+   "synonym": "",
+   "example_es": "Tengo el estómago vacío y mucha hambre.",
+   "example_ko": "위가 비어서 배가 너무 고파.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 21,
+   "spanish": "la cintura",
+   "korean": "허리",
+   "synonym": "",
+   "example_es": "Ella tiene una cintura muy fina.",
+   "example_ko": "그녀는 허리가 아주 가늘어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 22,
+   "spanish": "el músculo",
+   "korean": "근육",
+   "synonym": "",
+   "example_es": "El ejercicio fortalece los músculos.",
+   "example_ko": "운동은 근육을 튼튼하게 해.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 23,
+   "spanish": "el nervio",
+   "korean": "신경",
+   "synonym": "",
+   "example_es": "El sistema nervioso es complejo.",
+   "example_ko": "신경계는 복잡해.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 24,
+   "spanish": "el pecho",
+   "korean": "가슴",
+   "synonym": "",
+   "example_es": "Siento una presión en el pecho.",
+   "example_ko": "가슴에 압박감이 느껴져.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 25,
+   "spanish": "la piel",
+   "korean": "피부",
+   "synonym": "",
+   "example_es": "Usa crema para proteger la piel.",
+   "example_ko": "피부를 보호하기 위해 크림을 발라.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 26,
+   "spanish": "la cabeza",
+   "korean": "머리",
+   "synonym": "",
+   "example_es": "Lleva un sombrero en la cabeza.",
+   "example_ko": "머리에 모자를 쓰고 있어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 27,
+   "spanish": "el cráneo",
+   "korean": "두개골, 머리뼈",
+   "synonym": "",
+   "example_es": "El cráneo protege el cerebro.",
+   "example_ko": "두개골은 뇌를 보호해.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 28,
+   "spanish": "la cara",
+   "korean": "얼굴",
+   "synonym": "el rostro",
+   "example_es": "Lávate la cara con agua fría.",
+   "example_ko": "찬물로 세수(얼굴을 씻다)하렴.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 29,
+   "spanish": "el rostro",
+   "korean": "얼굴",
+   "synonym": "la cara",
+   "example_es": "Su rostro refleja mucha alegría.",
+   "example_ko": "그의 얼굴에 기쁨이 가득해.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 30,
+   "spanish": "la frente",
+   "korean": "이마",
+   "synonym": "",
+   "example_es": "Secó el sudor de su frente.",
+   "example_ko": "그는 이마의 땀을 닦았어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 31,
+   "spanish": "la ceja",
+   "korean": "눈썹",
+   "synonym": "",
+   "example_es": "Levantó las cejas con sorpresa.",
+   "example_ko": "그는 놀라서 눈썹을 치켜세웠어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 32,
+   "spanish": "el ojo",
+   "korean": "눈",
+   "synonym": "",
+   "example_es": "Los ojos son el espejo del alma.",
+   "example_ko": "눈은 마음의 거울이야.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 33,
+   "spanish": "la retina",
+   "korean": "망막",
+   "synonym": "",
+   "example_es": "La retina capta las imágenes.",
+   "example_ko": "망막은 이미지를 포착해.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 34,
+   "spanish": "la nariz",
+   "korean": "코",
+   "synonym": "",
+   "example_es": "Respiramos el aire por la nariz.",
+   "example_ko": "우리는 코로 공기를 마셔.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 35,
+   "spanish": "el paladar",
+   "korean": "입천장",
+   "synonym": "",
+   "example_es": "La comida está pegada al paladar.",
+   "example_ko": "음식이 입천장에 붙었어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 36,
+   "spanish": "la boca",
+   "korean": "입",
+   "synonym": "",
+   "example_es": "Cierra la boca mientras comes.",
+   "example_ko": "먹는 동안에는 입을 다물렴.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 37,
+   "spanish": "la úvula",
+   "korean": "목젖",
+   "synonym": "",
+   "example_es": "La úvula vibra al roncar.",
+   "example_ko": "코를 골 때 목젖이 떨려.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 38,
+   "spanish": "la amígdala",
+   "korean": "편도선",
+   "synonym": "",
+   "example_es": "Tengo las amígdalas inflamadas.",
+   "example_ko": "나는 편도선이 부었어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 39,
+   "spanish": "el piso de la boca",
+   "korean": "혀 아랫부분",
+   "synonym": "",
+   "example_es": "Debajo de la lengua está el piso.",
+   "example_ko": "혀 아래에 입저(혀 아랫부분)가 있어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 40,
+   "spanish": "la barba",
+   "korean": "턱수염",
+   "synonym": "",
+   "example_es": "Él se dejó crecer la barba.",
+   "example_ko": "그는 턱수염을 길렀어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 41,
+   "spanish": "el bigote",
+   "korean": "콧수염",
+   "synonym": "",
+   "example_es": "El bigote le queda muy bien.",
+   "example_ko": "콧수염이 그에게 아주 잘 어울려.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 42,
+   "spanish": "el hoyuelo",
+   "korean": "보조개",
+   "synonym": "",
+   "example_es": "Ella tiene hoyuelos cuando sonríe.",
+   "example_ko": "그녀는 웃을 때 보조개가 생겨.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 43,
+   "spanish": "el arco de cupido",
+   "korean": "인중",
+   "synonym": "",
+   "example_es": "El arco de cupido está sobre el labio.",
+   "example_ko": "인중은 입술 위에 있어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 44,
+   "spanish": "el cuello",
+   "korean": "목",
+   "synonym": "",
+   "example_es": "Me duele el cuello de dormir mal.",
+   "example_ko": "잠을 잘못 자서 목이 아파.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 45,
+   "spanish": "el diente",
+   "korean": "치아",
+   "synonym": "",
+   "example_es": "Cepilla tus dientes tres veces al día.",
+   "example_ko": "하루에 세 번 이를 닦으렴.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 46,
+   "spanish": "las encías",
+   "korean": "잇몸",
+   "synonym": "",
+   "example_es": "Las encías sangran si no usas hilo.",
+   "example_ko": "치실을 안 쓰면 잇몸에서 피가 나.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 47,
+   "spanish": "la muela de juicio",
+   "korean": "사랑니",
+   "synonym": "",
+   "example_es": "Me tienen que sacar la muela de juicio.",
+   "example_ko": "나는 사랑니를 뽑아야 해.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 48,
+   "spanish": "la garganta",
+   "korean": "목구멍, 식도",
+   "synonym": "",
+   "example_es": "Me duele la garganta al tragar.",
+   "example_ko": "침 삼킬 때 목구멍이 아파.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 49,
+   "spanish": "los labios",
+   "korean": "입술",
+   "synonym": "",
+   "example_es": "Tengo los labios cortados por el frío.",
+   "example_ko": "추위 때문에 입술이 텄어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 50,
+   "spanish": "la lengua",
+   "korean": "혀",
+   "synonym": "",
+   "example_es": "La lengua sirve para saborear.",
+   "example_ko": "혀는 맛을 느끼는 데 쓰여.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 51,
+   "spanish": "la mejilla",
+   "korean": "뺨, 볼",
+   "synonym": "",
+   "example_es": "Le dio un beso en la mejilla.",
+   "example_ko": "그녀의 볼에 키스를 했어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 52,
+   "spanish": "la oreja",
+   "korean": "귀",
+   "synonym": "",
+   "example_es": "Lleva un pendiente en la oreja.",
+   "example_ko": "귀에 귀걸이를 하고 있어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 53,
+   "spanish": "el pelo",
+   "korean": "털, 머리카락",
+   "synonym": "el cabello",
+   "example_es": "Se cortó el pelo ayer.",
+   "example_ko": "그는 어제 머리카락을 잘랐어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 54,
+   "spanish": "el brazo",
+   "korean": "팔",
+   "synonym": "",
+   "example_es": "Cruza los brazos sobre el pecho.",
+   "example_ko": "가슴 위로 팔짱을 끼렴.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 55,
+   "spanish": "el hombro",
+   "korean": "어깨",
+   "synonym": "",
+   "example_es": "Lleva al niño sobre sus hombros.",
+   "example_ko": "아이를 어깨 위에 태우고 있어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 56,
+   "spanish": "el codo",
+   "korean": "팔꿈치",
+   "synonym": "",
+   "example_es": "Me golpeé el codo con la mesa.",
+   "example_ko": "책상에 팔꿈치를 부딪쳤어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 57,
+   "spanish": "la mano",
+   "korean": "손",
+   "synonym": "",
+   "example_es": "Lávate las manos antes de comer.",
+   "example_ko": "먹기 전에 손을 씻으렴.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 58,
+   "spanish": "la axila",
+   "korean": "겨드랑이 (해부학)",
+   "synonym": "",
+   "example_es": "La axila es una zona sensible.",
+   "example_ko": "겨드랑이는 민감한 부위야.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 59,
+   "spanish": "el sobaco",
+   "korean": "겨드랑이 (일반)",
+   "synonym": "la axila",
+   "example_es": "Él tiene mucho sudor en el sobaco.",
+   "example_ko": "그는 겨드랑이에 땀이 많아.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 60,
+   "spanish": "la muñeca",
+   "korean": "손목, 인형",
+   "synonym": "",
+   "example_es": "Me duele la muñeca de usar el ratón.",
+   "example_ko": "마우스를 써서 손목이 아파.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 61,
+   "spanish": "la palma",
+   "korean": "손바닥, 야자나무",
+   "synonym": "",
+   "example_es": "Lee el futuro en la palma de la mano.",
+   "example_ko": "손바닥에서 미래를 읽어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 62,
+   "spanish": "el dedo",
+   "korean": "손가락",
+   "synonym": "",
+   "example_es": "Se cortó el dedo con un papel.",
+   "example_ko": "종이에 손가락을 베었어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 63,
+   "spanish": "el pulgar",
+   "korean": "엄지 손가락",
+   "synonym": "",
+   "example_es": "Levantó el pulgar en señal de OK.",
+   "example_ko": "좋다는 신호로 엄지를 올렸어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 64,
+   "spanish": "el índice",
+   "korean": "검지 손가락",
+   "synonym": "",
+   "example_es": "Señaló la puerta con el índice.",
+   "example_ko": "검지로 문을 가리켰어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 65,
+   "spanish": "el dedo medio",
+   "korean": "중지 손가락",
+   "synonym": "corazón",
+   "example_es": "El dedo medio es el más largo.",
+   "example_ko": "중지가 가장 길어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 66,
+   "spanish": "el anular",
+   "korean": "약지 손가락",
+   "synonym": "",
+   "example_es": "Lleva la alianza en el dedo anular.",
+   "example_ko": "약지 손가락에 결혼반지를 끼고 있어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 67,
+   "spanish": "el meñique",
+   "korean": "새끼 손가락",
+   "synonym": "",
+   "example_es": "El meñique es el dedo más pequeño.",
+   "example_ko": "새끼손가락은 가장 작은 손가락이야.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 68,
+   "spanish": "la cadera",
+   "korean": "골반",
+   "synonym": "",
+   "example_es": "Ella mueve las caderas al bailar.",
+   "example_ko": "그녀는 춤출 때 골반을 흔들어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 69,
+   "spanish": "las nalgas",
+   "korean": "엉덩이",
+   "synonym": "",
+   "example_es": "Las nalgas son músculos grandes.",
+   "example_ko": "엉덩이는 큰 근육들이야.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 70,
+   "spanish": "el culo",
+   "korean": "엉덩이 (비격식)",
+   "synonym": "",
+   "example_es": "Se cayó de culo en el hielo.",
+   "example_ko": "빙판에서 엉덩방아를 찧었어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 71,
+   "spanish": "la pierna",
+   "korean": "다리",
+   "synonym": "",
+   "example_es": "Tengo las piernas cansadas de caminar.",
+   "example_ko": "걸었더니 다리가 피곤해.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 72,
+   "spanish": "la rodilla",
+   "korean": "무릎",
+   "synonym": "",
+   "example_es": "Me duele la rodilla al correr.",
+   "example_ko": "달릴 때 무릎이 아파.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 73,
+   "spanish": "el tobillo",
+   "korean": "발목",
+   "synonym": "",
+   "example_es": "Se torció el tobillo jugando fútbol.",
+   "example_ko": "축구하다가 발목을 삐었어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 74,
+   "spanish": "el muslo",
+   "korean": "허벅지",
+   "synonym": "",
+   "example_es": "El músculo del muslo es potente.",
+   "example_ko": "허벅지 근육은 강력해.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 75,
+   "spanish": "el talón",
+   "korean": "뒤꿈치",
+   "synonym": "",
+   "example_es": "Le duele el talón por los zapatos.",
+   "example_ko": "신발 때문에 뒤꿈치가 아파.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 76,
+   "spanish": "el pie",
+   "korean": "발",
+   "synonym": "",
+   "example_es": "Lávate los pies al llegar a casa.",
+   "example_ko": "집에 오면 발을 씻으렴.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 77,
+   "spanish": "el dedo gordo",
+   "korean": "엄지발가락",
+   "synonym": "",
+   "example_es": "El dedo gordo del pie es ancho.",
+   "example_ko": "엄지발가락은 넓어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 78,
+   "spanish": "el segundo dedo",
+   "korean": "두 번째 발가락",
+   "synonym": "",
+   "example_es": "El segundo dedo es el más largo.",
+   "example_ko": "두 번째 발가락이 가장 길어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 79,
+   "spanish": "el tercero dedo",
+   "korean": "세 번째 발가락",
+   "synonym": "",
+   "example_es": "El tercero dedo está en el medio.",
+   "example_ko": "세 번째 발가락은 중간에 있어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 80,
+   "spanish": "el cuarto dedo",
+   "korean": "네 번째 발가락",
+   "synonym": "",
+   "example_es": "El cuarto dedo es difícil de mover.",
+   "example_ko": "네 번째 발가락은 움직이기 힘들어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 81,
+   "spanish": "el meñique del pie",
+   "korean": "새끼발가락",
+   "synonym": "",
+   "example_es": "Me golpeé el meñique del pie.",
+   "example_ko": "새끼발가락을 부딪쳤어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 82,
+   "spanish": "la nuca",
+   "korean": "뒷목",
+   "synonym": "",
+   "example_es": "Sintió un escalofrío en la nuca.",
+   "example_ko": "뒷목에 소름이 돋았어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 83,
+   "spanish": "la sien",
+   "korean": "관자놀이",
+   "synonym": "",
+   "example_es": "Me pulsa la sien por el estrés.",
+   "example_ko": "스트레스 때문에 관자놀이가 지끈거려.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 84,
+   "spanish": "el pómulo",
+   "korean": "광대뼈",
+   "synonym": "",
+   "example_es": "Ella tiene los pómulos marcados.",
+   "example_ko": "그녀는 광대뼈가 뚜렷해.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 85,
+   "spanish": "el párpado",
+   "korean": "눈꺼풀",
+   "synonym": "",
+   "example_es": "Me pesan los párpados de sueño.",
+   "example_ko": "졸려서 눈꺼풀이 무거워.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 86,
+   "spanish": "el vello",
+   "korean": "체모, 솜털",
+   "synonym": "",
+   "example_es": "Tengo vello fino en los brazos.",
+   "example_ko": "팔에 가느다란 털이 있어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 87,
+   "spanish": "la uña",
+   "korean": "손톱, 발톱",
+   "synonym": "",
+   "example_es": "Se muerde las uñas por los nervios.",
+   "example_ko": "긴장해서 손톱을 깨물어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 88,
+   "spanish": "el nudillo",
+   "korean": "손가락 마디",
+   "synonym": "",
+   "example_es": "Me duelen los nudillos al cerrar el puño.",
+   "example_ko": "주먹 쥘 때 마디가 아파.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 89,
+   "spanish": "la yema",
+   "korean": "손가락 끝",
+   "synonym": "",
+   "example_es": "Toca la pantalla con la yema.",
+   "example_ko": "손가락 끝으로 화면을 터치해.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 90,
+   "spanish": "el páncreas",
+   "korean": "췌장",
+   "synonym": "",
+   "example_es": "El páncreas regula el azúcar.",
+   "example_ko": "췌장은 당을 조절해.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 91,
+   "spanish": "el bazo",
+   "korean": "비장",
+   "synonym": "",
+   "example_es": "El bazo ayuda al sistema inmune.",
+   "example_ko": "비장은 면역계를 도와.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 92,
+   "spanish": "la arteria",
+   "korean": "동맥",
+   "synonym": "",
+   "example_es": "La arteria lleva sangre oxigenada.",
+   "example_ko": "동맥은 산소가 풍부한 피를 운반해.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 93,
+   "spanish": "la vena",
+   "korean": "정맥",
+   "synonym": "",
+   "example_es": "Se le marcan las venas en el brazo.",
+   "example_ko": "팔에 정맥이 도드라져 보여.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 94,
+   "spanish": "la glándula",
+   "korean": "샘, 선",
+   "synonym": "",
+   "example_es": "La glándula tiroides está en el cuello.",
+   "example_ko": "갑상샘은 목에 있어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 95,
+   "spanish": "el cartílago",
+   "korean": "연골",
+   "synonym": "",
+   "example_es": "La oreja está hecha de cartílago.",
+   "example_ko": "귀는 연골로 이루어져 있어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 96,
+   "spanish": "la articulación",
+   "korean": "관절",
+   "synonym": "",
+   "example_es": "Me duelen las articulaciones por el frío.",
+   "example_ko": "추위 때문에 관절이 아파.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 97,
+   "spanish": "el tendón",
+   "korean": "힘줄",
+   "synonym": "",
+   "example_es": "El tendón conecta el músculo al hueso.",
+   "example_ko": "힘줄은 근육과 뼈를 연결해.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 98,
+   "spanish": "el ligamento",
+   "korean": "인대",
+   "synonym": "",
+   "example_es": "Se rompió el ligamento de la rodilla.",
+   "example_ko": "무릎 인대가 파열됐어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 99,
+   "spanish": "el abdomen",
+   "korean": "배, 복부",
+   "synonym": "la barriga",
+   "example_es": "Hago ejercicio para el abdomen.",
+   "example_ko": "복부 운동을 하고 있어.",
+   "tema": "cuerpo"
+ },
+ {
+   "id": 100,
+   "spanish": "el ombligo",
+   "korean": "배꼽",
+   "synonym": "",
+   "example_es": "El ombligo es la cicatriz del nacimiento.",
+   "example_ko": "배꼽은 태어날 때 생긴 흉터야.",
+   "tema": "cuerpo"
+ }
+]

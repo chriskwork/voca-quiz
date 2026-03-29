@@ -1,0 +1,533 @@
+[
+ {
+   "id": 1,
+   "spanish": "el papá",
+   "korean": "아빠",
+   "synonym": "",
+   "example_es": "Mi papá trabaja en la ciudad.",
+   "example_ko": "우리 아빠는 시내에서 일하셔.",
+   "tema": "familia"
+ },
+ {
+   "id": 2,
+   "spanish": "la mamá",
+   "korean": "엄마",
+   "synonym": "",
+   "example_es": "La mamá prepara la cena.",
+   "example_ko": "엄마가 저녁을 준비해.",
+   "tema": "familia"
+ },
+ {
+   "id": 3,
+   "spanish": "el padre",
+   "korean": "아버지",
+   "synonym": "",
+   "example_es": "El padre de Luis es médico.",
+   "example_ko": "루이스의 아버지는 의사야.",
+   "tema": "familia"
+ },
+ {
+   "id": 4,
+   "spanish": "la madre",
+   "korean": "어머니",
+   "synonym": "",
+   "example_es": "La madre cuida de los niños.",
+   "example_ko": "어머니가 아이들을 돌봐.",
+   "tema": "familia"
+ },
+ {
+   "id": 5,
+   "spanish": "los padres",
+   "korean": "부모님",
+   "synonym": "",
+   "example_es": "Mis padres viven en el campo.",
+   "example_ko": "우리 부모님은 시골에 사셔.",
+   "tema": "familia"
+ },
+ {
+   "id": 6,
+   "spanish": "el hijo",
+   "korean": "아들",
+   "synonym": "",
+   "example_es": "Su hijo estudia ingeniería.",
+   "example_ko": "그의 아들은 공학을 공부해.",
+   "tema": "familia"
+ },
+ {
+   "id": 7,
+   "spanish": "la hija",
+   "korean": "딸",
+   "synonym": "",
+   "example_es": "Mi hija tiene cinco años.",
+   "example_ko": "내 딸은 다섯 살이야.",
+   "tema": "familia"
+ },
+ {
+   "id": 8,
+   "spanish": "los hijos",
+   "korean": "자녀들",
+   "synonym": "",
+   "example_es": "Ellos tienen tres hijos varones.",
+   "example_ko": "그들은 아들만 셋인 자녀가 있어.",
+   "tema": "familia"
+ },
+ {
+   "id": 9,
+   "spanish": "el primogénito",
+   "korean": "장남, 장녀",
+   "synonym": "la primogénita",
+   "example_es": "El primogénito heredó la casa.",
+   "example_ko": "장남이 집을 상속받았어.",
+   "tema": "familia"
+ },
+ {
+   "id": 10,
+   "spanish": "el abuelo",
+   "korean": "할아버지",
+   "synonym": "",
+   "example_es": "Mi abuelo me cuenta historias.",
+   "example_ko": "우리 할아버지는 나에게 이야기를 해주셔.",
+   "tema": "familia"
+ },
+ {
+   "id": 11,
+   "spanish": "la abuela",
+   "korean": "할머니",
+   "synonym": "",
+   "example_es": "La abuela cocina delicioso.",
+   "example_ko": "할머니는 요리를 정말 잘하셔.",
+   "tema": "familia"
+ },
+ {
+   "id": 12,
+   "spanish": "el bisabuelo",
+   "korean": "증조할아버지",
+   "synonym": "",
+   "example_es": "El bisabuelo tiene cien años.",
+   "example_ko": "증조할아버지는 100세셔.",
+   "tema": "familia"
+ },
+ {
+   "id": 13,
+   "spanish": "la bisabuela",
+   "korean": "증조할머니",
+   "synonym": "",
+   "example_es": "La bisabuela es muy cariñosa.",
+   "example_ko": "증조할머니는 아주 다정하셔.",
+   "tema": "familia"
+ },
+ {
+   "id": 14,
+   "spanish": "el nieto",
+   "korean": "손자, 손녀",
+   "synonym": "la nieta",
+   "example_es": "El nieto juega con el abuelo.",
+   "example_ko": "손자가 할아버지와 놀고 있어.",
+   "tema": "familia"
+ },
+ {
+   "id": 15,
+   "spanish": "el primo",
+   "korean": "사촌",
+   "synonym": "la prima",
+   "example_es": "Mi primo vive en Madrid.",
+   "example_ko": "내 사촌은 마드리드에 살아.",
+   "tema": "familia"
+ },
+ {
+   "id": 16,
+   "spanish": "el sobrino",
+   "korean": "조카",
+   "synonym": "la sobrina",
+   "example_es": "Mi sobrina es muy inteligente.",
+   "example_ko": "내 조카는 아주 똑똑해.",
+   "tema": "familia"
+ },
+ {
+   "id": 17,
+   "spanish": "el tío",
+   "korean": "부모의 남형제 (삼촌/고모부/이모부)",
+   "synonym": "",
+   "example_es": "El tío Juan es muy divertido.",
+   "example_ko": "후안 삼촌은 정말 재밌어.",
+   "tema": "familia"
+ },
+ {
+   "id": 18,
+   "spanish": "la tía",
+   "korean": "부모의 여형제 (고모/이모/숙모)",
+   "synonym": "",
+   "example_es": "La tía Ana vive en París.",
+   "example_ko": "안나 고모는 파리에 살아.",
+   "tema": "familia"
+ },
+ {
+   "id": 19,
+   "spanish": "el hermano",
+   "korean": "남자 형제, 형, 남동생",
+   "synonym": "la hermana",
+   "example_es": "Mi hermano mayor es alto.",
+   "example_ko": "내 형은 키가 커.",
+   "tema": "familia"
+ },
+ {
+   "id": 20,
+   "spanish": "el hermano pequeño",
+   "korean": "남동생",
+   "synonym": "la hermana pequeña",
+   "example_es": "Cuido a mi hermano pequeño.",
+   "example_ko": "나는 내 남동생을 돌봐.",
+   "tema": "familia"
+ },
+ {
+   "id": 21,
+   "spanish": "el hermano mayor",
+   "korean": "형, 오빠",
+   "synonym": "la hermana mayor",
+   "example_es": "Mi hermana mayor es doctora.",
+   "example_ko": "내 누나는 의사야.",
+   "tema": "familia"
+ },
+ {
+   "id": 22,
+   "spanish": "el cuñado",
+   "korean": "처남, 매부, 형부",
+   "synonym": "la cuñada",
+   "example_es": "Mi cuñado compró un coche.",
+   "example_ko": "내 매부가 차를 한 대 샀어.",
+   "tema": "familia"
+ },
+ {
+   "id": 23,
+   "spanish": "el esposo",
+   "korean": "남편",
+   "synonym": "el marido",
+   "example_es": "Mi esposo es profesor.",
+   "example_ko": "내 남편은 선생님이야.",
+   "tema": "familia"
+ },
+ {
+   "id": 24,
+   "spanish": "el marido",
+   "korean": "남편",
+   "synonym": "el esposo",
+   "example_es": "Su marido viaja mucho.",
+   "example_ko": "그녀의 남편은 출장이 잦아.",
+   "tema": "familia"
+ },
+ {
+   "id": 25,
+   "spanish": "la esposa",
+   "korean": "아내",
+   "synonym": "la mujer",
+   "example_es": "Mi esposa es pintora.",
+   "example_ko": "내 아내는 화가야.",
+   "tema": "familia"
+ },
+ {
+   "id": 26,
+   "spanish": "la mujer",
+   "korean": "아내",
+   "synonym": "la esposa",
+   "example_es": "Su mujer es muy amable.",
+   "example_ko": "그의 아내는 아주 친절해.",
+   "tema": "familia"
+ },
+ {
+   "id": 27,
+   "spanish": "el suegro",
+   "korean": "시아버지, 장인",
+   "synonym": "",
+   "example_es": "El suegro me dio un consejo.",
+   "example_ko": "장인어른이 나에게 조언을 해주셨어.",
+   "tema": "familia"
+ },
+ {
+   "id": 28,
+   "spanish": "la suegra",
+   "korean": "시어머니, 장모",
+   "synonym": "",
+   "example_es": "Mi suegra cocina para todos.",
+   "example_ko": "시어머니가 모두를 위해 요리하셔.",
+   "tema": "familia"
+ },
+ {
+   "id": 29,
+   "spanish": "el hijo único",
+   "korean": "외동아들, 외동딸",
+   "synonym": "la hija única",
+   "example_es": "Él es hijo único de la familia.",
+   "example_ko": "그는 그 집안의 외동아들이야.",
+   "tema": "familia"
+ },
+ {
+   "id": 30,
+   "spanish": "el yerno",
+   "korean": "사위",
+   "synonym": "",
+   "example_es": "El yerno ayuda en la casa.",
+   "example_ko": "사위가 집안일을 도와.",
+   "tema": "familia"
+ },
+ {
+   "id": 31,
+   "spanish": "la nuera",
+   "korean": "며느리",
+   "synonym": "",
+   "example_es": "La nuera es muy trabajadora.",
+   "example_ko": "며느리는 아주 성실해.",
+   "tema": "familia"
+ },
+ {
+   "id": 32,
+   "spanish": "el padrino",
+   "korean": "대부",
+   "synonym": "",
+   "example_es": "El padrino asistió al bautizo.",
+   "example_ko": "대부가 세례식에 참석했어.",
+   "tema": "familia"
+ },
+ {
+   "id": 33,
+   "spanish": "la madrina",
+   "korean": "대모",
+   "synonym": "",
+   "example_es": "La madrina le dio un regalo.",
+   "example_ko": "대모가 그에게 선물을 줬어.",
+   "tema": "familia"
+ },
+ {
+   "id": 34,
+   "spanish": "el ahijado",
+   "korean": "양자, 대자",
+   "synonym": "la ahijada",
+   "example_es": "El ahijado visita al padrino.",
+   "example_ko": "대자가 대부를 방문해.",
+   "tema": "familia"
+ },
+ {
+   "id": 35,
+   "spanish": "el hijastro",
+   "korean": "의붓아들",
+   "synonym": "la hijastra",
+   "example_es": "Se lleva bien con su hijastro.",
+   "example_ko": "그는 의붓아들과 잘 지내.",
+   "tema": "familia"
+ },
+ {
+   "id": 36,
+   "spanish": "el padrastro",
+   "korean": "계부",
+   "synonym": "",
+   "example_es": "El padrastro es muy bueno.",
+   "example_ko": "계부는 아주 좋은 분이야.",
+   "tema": "familia"
+ },
+ {
+   "id": 37,
+   "spanish": "la madrastra",
+   "korean": "계모",
+   "synonym": "",
+   "example_es": "La madrastra cuida al niño.",
+   "example_ko": "계모가 아이를 돌봐.",
+   "tema": "familia"
+ },
+ {
+   "id": 38,
+   "spanish": "el huérfano",
+   "korean": "고아",
+   "synonym": "la huérfana",
+   "example_es": "El niño quedó huérfano pronto.",
+   "example_ko": "그 아이는 일찍 고아가 됐어.",
+   "tema": "familia"
+ },
+ {
+   "id": 39,
+   "spanish": "la familia",
+   "korean": "가족",
+   "synonym": "",
+   "example_es": "Tengo una familia muy grande.",
+   "example_ko": "나는 대가족이야.",
+   "tema": "familia"
+ },
+ {
+   "id": 40,
+   "spanish": "los parientes",
+   "korean": "친척들",
+   "synonym": "los familiares",
+   "example_es": "Todos los parientes se reunieron.",
+   "example_ko": "모든 친척이 모였어.",
+   "tema": "familia"
+ },
+ {
+   "id": 41,
+   "spanish": "el antepasado",
+   "korean": "조상, 선조",
+   "synonym": "",
+   "example_es": "Nuestros antepasados eran granjeros.",
+   "example_ko": "우리 조상님들은 농부셨어.",
+   "tema": "familia"
+ },
+ {
+   "id": 42,
+   "spanish": "el descendiente",
+   "korean": "후손, 자손",
+   "synonym": "",
+   "example_es": "Él es descendiente de reyes.",
+   "example_ko": "그는 왕의 후손이야.",
+   "tema": "familia"
+ },
+ {
+   "id": 43,
+   "spanish": "la pareja",
+   "korean": "커플, 배우자",
+   "synonym": "",
+   "example_es": "La pareja se casó en junio.",
+   "example_ko": "그 커플은 6월에 결혼했어.",
+   "tema": "familia"
+ },
+ {
+   "id": 44,
+   "spanish": "el pariente cercano",
+   "korean": "가까운 친척",
+   "synonym": "",
+   "example_es": "Es mi pariente más cercano.",
+   "example_ko": "그는 내 가장 가까운 친척이야.",
+   "tema": "familia"
+ },
+ {
+   "id": 45,
+   "spanish": "el pariente lejano",
+   "korean": "먼 친척",
+   "synonym": "",
+   "example_es": "Somos parientes lejanos.",
+   "example_ko": "우리는 먼 친척 사이야.",
+   "tema": "familia"
+ },
+ {
+   "id": 46,
+   "spanish": "casado",
+   "korean": "기혼의",
+   "synonym": "",
+   "example_es": "Estoy casado desde hace diez años.",
+   "example_ko": "나는 결혼한 지 10년 됐어.",
+   "tema": "familia"
+ },
+ {
+   "id": 47,
+   "spanish": "soltero",
+   "korean": "독신의, 미혼의",
+   "synonym": "",
+   "example_es": "Mi hermano sigue soltero.",
+   "example_ko": "내 형은 여전히 미혼이야.",
+   "tema": "familia"
+ },
+ {
+   "id": 48,
+   "spanish": "divorciado",
+   "korean": "이혼한",
+   "synonym": "",
+   "example_es": "Ellos están divorciados ahora.",
+   "example_ko": "그들은 지금 이혼한 상태야.",
+   "tema": "familia"
+ },
+ {
+   "id": 49,
+   "spanish": "viudo",
+   "korean": "홀아비의, 과부의",
+   "synonym": "la viuda",
+   "example_es": "La viuda vive sola ahora.",
+   "example_ko": "그 과부는 이제 혼자 살아.",
+   "tema": "familia"
+ },
+ {
+   "id": 50,
+   "spanish": "prometido",
+   "korean": "약혼한",
+   "synonym": "",
+   "example_es": "Él está prometido con su novia.",
+   "example_ko": "그는 그의 여자친구와 약혼했어.",
+   "tema": "familia"
+ },
+ {
+   "id": 51,
+   "spanish": "el gemelo",
+   "korean": "쌍둥이",
+   "synonym": "el mellizo",
+   "example_es": "Los gemelos son idénticos.",
+   "example_ko": "그 쌍둥이들은 똑같이 생겼어.",
+   "tema": "familia"
+ },
+ {
+   "id": 52,
+   "spanish": "la crianza",
+   "korean": "양육",
+   "synonym": "",
+   "example_es": "La crianza de los hijos es difícil.",
+   "example_ko": "자녀 양육은 힘들어.",
+   "tema": "familia"
+ },
+ {
+   "id": 53,
+   "spanish": "el hogar",
+   "korean": "가정, 집",
+   "synonym": "",
+   "example_es": "El hogar es donde está el corazón.",
+   "example_ko": "가정은 마음이 머무는 곳이야.",
+   "tema": "familia"
+ },
+ {
+   "id": 54,
+   "spanish": "la herencia",
+   "korean": "유산, 상속",
+   "synonym": "",
+   "example_es": "Recibió una gran herencia.",
+   "example_ko": "그는 큰 유산을 받았어.",
+   "tema": "familia"
+ },
+ {
+   "id": 55,
+   "spanish": "el bautizo",
+   "korean": "세례식",
+   "synonym": "",
+   "example_es": "Fuimos al bautizo del bebé.",
+   "example_ko": "우리는 아기 세례식에 갔어.",
+   "tema": "familia"
+ },
+ {
+   "id": 56,
+   "spanish": "la boda",
+   "korean": "결혼식",
+   "synonym": "",
+   "example_es": "La boda fue en la playa.",
+   "example_ko": "결혼식은 해변에서 열렸어.",
+   "tema": "familia"
+ },
+ {
+   "id": 57,
+   "spanish": "el aniversario",
+   "korean": "기념일",
+   "synonym": "",
+   "example_es": "Feliz aniversario de bodas.",
+   "example_ko": "결혼기념일 축하해.",
+   "tema": "familia"
+ },
+ {
+   "id": 58,
+   "spanish": "la generación",
+   "korean": "세대",
+   "synonym": "",
+   "example_es": "Hay un salto generacional.",
+   "example_ko": "세대 차이가 있어.",
+   "tema": "familia"
+ },
+ {
+   "id": 59,
+   "spanish": "independiente",
+   "korean": "독립적인",
+   "synonym": "",
+   "example_es": "Mi hijo ya es independiente.",
+   "example_ko": "내 아들은 이제 독립했어.",
+   "tema": "familia"
+ }
+]

@@ -1,0 +1,1001 @@
+[
+ {
+   "id": 1,
+   "spanish": "la cocina",
+   "korean": "주방, 부엌",
+   "synonym": "",
+   "example_es": "La cocina está limpia y ordenada.",
+   "example_ko": "주방이 깨끗하고 정돈되어 있어.",
+   "tema": "cocina"
+ },
+ {
+   "id": 2,
+   "spanish": "el cocinero",
+   "korean": "요리사",
+   "synonym": "la cocinera",
+   "example_es": "El cocinero prepara un plato especial.",
+   "example_ko": "요리사가 특별한 요리를 준비해.",
+   "tema": "cocina"
+ },
+ {
+   "id": 3,
+   "spanish": "la nevera",
+   "korean": "냉고",
+   "synonym": "el frigorífico",
+   "example_es": "Guarda la leche en la nevera.",
+   "example_ko": "우유를 냉장고에 보관하렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 4,
+   "spanish": "el congelador",
+   "korean": "냉동고",
+   "synonym": "",
+   "example_es": "El helado está en el congelador.",
+   "example_ko": "아이스크림은 냉동고에 있어.",
+   "tema": "cocina"
+ },
+ {
+   "id": 5,
+   "spanish": "la tetera",
+   "korean": "주전자",
+   "synonym": "",
+   "example_es": "La tetera está hirviendo.",
+   "example_ko": "주전자가 끓고 있어.",
+   "tema": "cocina"
+ },
+ {
+   "id": 6,
+   "spanish": "la cafetera",
+   "korean": "커피포트",
+   "synonym": "",
+   "example_es": "Pon la cafetera para el desayuno.",
+   "example_ko": "아침 식사를 위해 커피포트를 올리렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 7,
+   "spanish": "el colador",
+   "korean": "여과기, 필터",
+   "synonym": "",
+   "example_es": "Usa el colador para la pasta.",
+   "example_ko": "파스타를 건질 때 여과기를 쓰렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 8,
+   "spanish": "el horno",
+   "korean": "오븐",
+   "synonym": "",
+   "example_es": "El pollo está en el horno.",
+   "example_ko": "닭고기가 오븐 안에 있어.",
+   "tema": "cocina"
+ },
+ {
+   "id": 9,
+   "spanish": "el tostador",
+   "korean": "토스트기",
+   "synonym": "",
+   "example_es": "El tostador quema el pan.",
+   "example_ko": "토스트기가 빵을 태워.",
+   "tema": "cocina"
+ },
+ {
+   "id": 10,
+   "spanish": "la lavavajilla",
+   "korean": "식기세척기",
+   "synonym": "el lavaplatos",
+   "example_es": "Pon los platos en la lavavajilla.",
+   "example_ko": "접시들을 식기세척기에 넣으렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 11,
+   "spanish": "la tabla de cocina",
+   "korean": "도마",
+   "synonym": "",
+   "example_es": "Corta la verdura en la tabla de cocina.",
+   "example_ko": "도마 위에서 채소를 자르렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 12,
+   "spanish": "el abridor",
+   "korean": "병따개",
+   "synonym": "el abridor de botellas",
+   "example_es": "¿Dónde está el abridor de botellas?",
+   "example_ko": "병따개 어디 있어?",
+   "tema": "cocina"
+ },
+ {
+   "id": 13,
+   "spanish": "el sacacorchos",
+   "korean": "코르크 따개",
+   "synonym": "",
+   "example_es": "Necesito el sacacorchos para el vino.",
+   "example_ko": "와인을 따려면 코르크 따개가 필요해.",
+   "tema": "cocina"
+ },
+ {
+   "id": 14,
+   "spanish": "el abrelatas",
+   "korean": "깡통따개",
+   "synonym": "",
+   "example_es": "Usa el abrelatas para el atún.",
+   "example_ko": "참치 캔을 딸 때 깡통따개를 쓰렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 15,
+   "spanish": "el sartén",
+   "korean": "프라이팬",
+   "synonym": "",
+   "example_es": "El sartén está muy caliente.",
+   "example_ko": "프라이팬이 아주 뜨거워.",
+   "tema": "cocina"
+ },
+ {
+   "id": 16,
+   "spanish": "el rallador de queso",
+   "korean": "치즈 강판",
+   "synonym": "",
+   "example_es": "Pasa el queso por el rallador.",
+   "example_ko": "치즈를 강판에 가렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 17,
+   "spanish": "el exprimidor",
+   "korean": "즙 짜는 도구",
+   "synonym": "",
+   "example_es": "Usa el exprimidor para las naranjas.",
+   "example_ko": "오렌지 즙을 짤 때 도구를 쓰렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 18,
+   "spanish": "el papel de aluminio",
+   "korean": "알루미늄 호일",
+   "synonym": "",
+   "example_es": "Envuelve el bocadillo en papel de aluminio.",
+   "example_ko": "샌드위치를 알루미늄 호일에 싸렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 19,
+   "spanish": "la báscula",
+   "korean": "저울",
+   "synonym": "",
+   "example_es": "Pesa la harina en la báscula.",
+   "example_ko": "저울로 밀가루 무게를 재렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 20,
+   "spanish": "el cucharón",
+   "korean": "국자",
+   "synonym": "",
+   "example_es": "Sirve la sopa con el cucharón.",
+   "example_ko": "국자로 수프를 뜨렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 21,
+   "spanish": "las varillas para batir",
+   "korean": "거품내는 도구",
+   "synonym": "",
+   "example_es": "Usa las varillas para batir los huevos.",
+   "example_ko": "달걀을 저을 때 거품기를 쓰렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 22,
+   "spanish": "el cuenco",
+   "korean": "큰 볼, 사발",
+   "synonym": "el tazón",
+   "example_es": "Pon la ensalada en el cuenco.",
+   "example_ko": "샐러드를 볼에 담으렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 23,
+   "spanish": "la manopla para el horno",
+   "korean": "오븐 장갑",
+   "synonym": "",
+   "example_es": "Usa la manopla para no quemarte.",
+   "example_ko": "데이지 않게 오븐 장갑을 끼렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 24,
+   "spanish": "los guantes de cocina",
+   "korean": "요리용 장갑",
+   "synonym": "",
+   "example_es": "Me pongo los guantes de cocina.",
+   "example_ko": "나는 요리용 장갑을 껴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 25,
+   "spanish": "el rodillo de amasar",
+   "korean": "밀대",
+   "synonym": "",
+   "example_es": "Extiende la masa con el rodillo.",
+   "example_ko": "밀대로 반죽을 펴렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 26,
+   "spanish": "la cacerola",
+   "korean": "냄비 (손잡이 달린)",
+   "synonym": "",
+   "example_es": "La cacerola es de acero.",
+   "example_ko": "손잡이 달린 냄비는 스테인리스야.",
+   "tema": "cocina"
+ },
+ {
+   "id": 27,
+   "spanish": "la olla",
+   "korean": "냄비",
+   "synonym": "",
+   "example_es": "La olla es muy grande.",
+   "example_ko": "그 냄비는 아주 커.",
+   "tema": "cocina"
+ },
+ {
+   "id": 28,
+   "spanish": "el estropajo",
+   "korean": "수세미",
+   "synonym": "",
+   "example_es": "Limpia el sartén con el estropajo.",
+   "example_ko": "수세미로 프라이팬을 닦으렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 29,
+   "spanish": "la esponja",
+   "korean": "스펀지",
+   "synonym": "",
+   "example_es": "Usa la esponja para los vasos.",
+   "example_ko": "컵을 닦을 때 스펀지를 쓰렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 30,
+   "spanish": "las pinzas",
+   "korean": "집게",
+   "synonym": "",
+   "example_es": "Usa las pinzas para la carne.",
+   "example_ko": "고기를 집을 때 집게를 쓰렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 31,
+   "spanish": "la bandeja",
+   "korean": "쟁반",
+   "synonym": "",
+   "example_es": "Lleva las bebidas en la bandeja.",
+   "example_ko": "쟁반에 음료를 받쳐서 가져오렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 32,
+   "spanish": "la batidora",
+   "korean": "믹서기",
+   "synonym": "",
+   "example_es": "Haz el batido en la batidora.",
+   "example_ko": "믹서기로 쉐이크를 만드렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 33,
+   "spanish": "la cuchara de palo",
+   "korean": "나무 숟가락",
+   "synonym": "",
+   "example_es": "Remueve con la cuchara de palo.",
+   "example_ko": "나무 숟가락으로 저으렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 34,
+   "spanish": "la cuchara",
+   "korean": "숟가락",
+   "synonym": "",
+   "example_es": "Toma la sopa con la cuchara.",
+   "example_ko": "숟가락으로 수프를 먹으렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 35,
+   "spanish": "la cuchara de postre",
+   "korean": "후식용 숟가락",
+   "synonym": "",
+   "example_es": "Usa la cuchara de postre para el flan.",
+   "example_ko": "푸딩 먹을 때 후식용 숟가락을 쓰렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 36,
+   "spanish": "la cuchara sopera",
+   "korean": "수프용 숟가락",
+   "synonym": "",
+   "example_es": "La cuchara sopera es más grande.",
+   "example_ko": "수프용 숟가락은 더 커.",
+   "tema": "cocina"
+ },
+ {
+   "id": 37,
+   "spanish": "el cuchillo",
+   "korean": "칼",
+   "synonym": "",
+   "example_es": "Ten cuidado con el cuchillo.",
+   "example_ko": "칼 조심하렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 38,
+   "spanish": "el cuchillo de trinchar",
+   "korean": "식칼",
+   "synonym": "",
+   "example_es": "El cuchillo de trinchar está afilado.",
+   "example_ko": "식칼이 날카로워.",
+   "tema": "cocina"
+ },
+ {
+   "id": 39,
+   "spanish": "el tenedor",
+   "korean": "포크",
+   "synonym": "",
+   "example_es": "Pincha la carne con el tenedor.",
+   "example_ko": "포크로 고기를 찍으렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 40,
+   "spanish": "la cucharilla de té",
+   "korean": "티스푼",
+   "synonym": "",
+   "example_es": "Remueve el azúcar con la cucharilla.",
+   "example_ko": "티스푼으로 설탕을 저으렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 41,
+   "spanish": "los palillos",
+   "korean": "젓가락",
+   "synonym": "",
+   "example_es": "Como sushi con palillos.",
+   "example_ko": "나는 젓가락으로 초밥을 먹어.",
+   "tema": "cocina"
+ },
+ {
+   "id": 42,
+   "spanish": "poner la mesa",
+   "korean": "상을 차리다",
+   "synonym": "",
+   "example_es": "Ayúdame a poner la mesa.",
+   "example_ko": "상 차리는 것 좀 도와줘.",
+   "tema": "cocina"
+ },
+ {
+   "id": 43,
+   "spanish": "quitar la mesa",
+   "korean": "상을 치우다",
+   "synonym": "",
+   "example_es": "Es hora de quitar la mesa.",
+   "example_ko": "상 치울 시간이야.",
+   "tema": "cocina"
+ },
+ {
+   "id": 44,
+   "spanish": "el cubo de la basura",
+   "korean": "쓰레기통",
+   "synonym": "",
+   "example_es": "Tira los restos al cubo de la basura.",
+   "example_ko": "남은 음식을 쓰레기통에 버리렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 45,
+   "spanish": "el plástico",
+   "korean": "포장 랩",
+   "synonym": "para conservar alimentos",
+   "example_es": "Envuelve la fruta en el plástico.",
+   "example_ko": "과일을 랩으로 싸렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 46,
+   "spanish": "el libro de recetas",
+   "korean": "요리책",
+   "synonym": "de cocina",
+   "example_es": "Sigo los pasos del libro de recetas.",
+   "example_ko": "요리책의 단계를 따라가.",
+   "tema": "cocina"
+ },
+ {
+   "id": 47,
+   "spanish": "el paño de cocina",
+   "korean": "접시 닦는 천",
+   "synonym": "",
+   "example_es": "Seca los platos con el paño de cocina.",
+   "example_ko": "접시 닦는 천으로 접시를 말리렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 48,
+   "spanish": "el escurridero",
+   "korean": "체",
+   "synonym": "",
+   "example_es": "Deja la lechuga en el escurridero.",
+   "example_ko": "상추를 체에 밭쳐 두렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 49,
+   "spanish": "la parrilla",
+   "korean": "그릴, 철판",
+   "synonym": "",
+   "example_es": "Cocinamos la carne en la parrilla.",
+   "example_ko": "우리는 고기를 그릴에 구워.",
+   "tema": "cocina"
+ },
+ {
+   "id": 50,
+   "spanish": "el rollo de papel de cocina",
+   "korean": "키친타올",
+   "synonym": "",
+   "example_es": "Usa un poco de papel de cocina.",
+   "example_ko": "키친타올을 조금 쓰렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 51,
+   "spanish": "el estante",
+   "korean": "선반",
+   "synonym": "",
+   "example_es": "Pon los frascos en el estante.",
+   "example_ko": "병들을 선반에 올려두렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 52,
+   "spanish": "el fregadero",
+   "korean": "싱크대",
+   "synonym": "",
+   "example_es": "Deja los platos sucios en el fregadero.",
+   "example_ko": "더러운 접시들을 싱크대에 두렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 53,
+   "spanish": "el mantel",
+   "korean": "식탁보",
+   "synonym": "",
+   "example_es": "Extiende el mantel blanco.",
+   "example_ko": "하얀 식탁보를 펴렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 54,
+   "spanish": "líquido fregaplatos",
+   "korean": "주방세제",
+   "synonym": "el fairy",
+   "example_es": "Lava los platos con líquido fregaplatos.",
+   "example_ko": "주방세제로 설거지하렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 55,
+   "spanish": "la taza",
+   "korean": "컵",
+   "synonym": "",
+   "example_es": "Quiero una taza de café.",
+   "example_ko": "커피 한 잔 원해.",
+   "tema": "cocina"
+ },
+ {
+   "id": 56,
+   "spanish": "el tazón",
+   "korean": "머그컵, 큰 볼",
+   "synonym": "",
+   "example_es": "El tazón de cereales es azul.",
+   "example_ko": "시리얼용 큰 볼이 파란색이야.",
+   "tema": "cocina"
+ },
+ {
+   "id": 57,
+   "spanish": "el cuenco",
+   "korean": "볼",
+   "synonym": "",
+   "example_es": "Mezcla la salsa en el cuenco.",
+   "example_ko": "볼에 소스를 섞으렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 58,
+   "spanish": "la vajilla",
+   "korean": "접시들, 식기들",
+   "synonym": "",
+   "example_es": "La vajilla es de porcelana.",
+   "example_ko": "식기들이 자기로 되어 있어.",
+   "tema": "cocina"
+ },
+ {
+   "id": 59,
+   "spanish": "el vaso",
+   "korean": "물잔, 유리잔",
+   "synonym": "",
+   "example_es": "Bebe agua en el vaso.",
+   "example_ko": "유리잔으로 물을 마시렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 60,
+   "spanish": "el frasco",
+   "korean": "병",
+   "synonym": "tarro / bote",
+   "example_es": "El frasco de mermelada está abierto.",
+   "example_ko": "잼 병이 열려 있어.",
+   "tema": "cocina"
+ },
+ {
+   "id": 61,
+   "spanish": "la jarra",
+   "korean": "손잡이 달린 큰 병",
+   "synonym": "",
+   "example_es": "Sirve el agua de la jarra.",
+   "example_ko": "병에서 물을 따르렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 62,
+   "spanish": "el plato",
+   "korean": "접시",
+   "synonym": "",
+   "example_es": "Pon la comida en el plato.",
+   "example_ko": "접시에 음식을 담으렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 63,
+   "spanish": "el platillo",
+   "korean": "작은 접시",
+   "synonym": "",
+   "example_es": "El platillo va debajo de la taza.",
+   "example_ko": "작은 접시는 컵 아래에 있어.",
+   "tema": "cocina"
+ },
+ {
+   "id": 64,
+   "spanish": "la copa de vino",
+   "korean": "와인잔",
+   "synonym": "",
+   "example_es": "Sujeta la copa de vino por el tallo.",
+   "example_ko": "와인잔의 줄기 부분을 잡으렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 65,
+   "spanish": "el azúcar",
+   "korean": "설탕",
+   "synonym": "",
+   "example_es": "No pongas mucho azúcar.",
+   "example_ko": "설탕을 많이 넣지 마.",
+   "tema": "cocina"
+ },
+ {
+   "id": 66,
+   "spanish": "la sal",
+   "korean": "소금",
+   "synonym": "",
+   "example_es": "La sopa necesita un poco de sal.",
+   "example_ko": "수프에 소금이 좀 필요해.",
+   "tema": "cocina"
+ },
+ {
+   "id": 67,
+   "spanish": "la salsa de soja",
+   "korean": "간장",
+   "synonym": "",
+   "example_es": "La salsa de soja es salada.",
+   "example_ko": "간장은 짜.",
+   "tema": "cocina"
+ },
+ {
+   "id": 68,
+   "spanish": "la pimienta",
+   "korean": "후추",
+   "synonym": "",
+   "example_es": "Añade pimienta al gusto.",
+   "example_ko": "입맛에 맞게 후후를 추가하렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 69,
+   "spanish": "el perejil",
+   "korean": "파슬리",
+   "synonym": "",
+   "example_es": "Adorna el plato con perejil.",
+   "example_ko": "파슬리로 접시를 장식하렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 70,
+   "spanish": "la albahaca",
+   "korean": "바질",
+   "synonym": "",
+   "example_es": "La albahaca huele muy bien.",
+   "example_ko": "바질 향이 아주 좋아.",
+   "tema": "cocina"
+ },
+ {
+   "id": 71,
+   "spanish": "la canela",
+   "korean": "시나몬, 계피",
+   "synonym": "",
+   "example_es": "La canela le da buen sabor.",
+   "example_ko": "계피가 좋은 맛을 내줘.",
+   "tema": "cocina"
+ },
+ {
+   "id": 72,
+   "spanish": "el gengibre",
+   "korean": "생강",
+   "synonym": "",
+   "example_es": "El té de gengibre es sano.",
+   "example_ko": "생강차는 건강에 좋아.",
+   "tema": "cocina"
+ },
+ {
+   "id": 73,
+   "spanish": "el ajo",
+   "korean": "마늘",
+   "synonym": "",
+   "example_es": "Pica dos dientes de ajo.",
+   "example_ko": "마늘 두 쪽을 다지렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 74,
+   "spanish": "el aceite de oliva",
+   "korean": "올리브오일",
+   "synonym": "",
+   "example_es": "Usa aceite de oliva virgen.",
+   "example_ko": "버진 올리브오일을 사용하렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 75,
+   "spanish": "la mantequilla",
+   "korean": "버터",
+   "synonym": "",
+   "example_es": "Unta la mantequilla en el pan.",
+   "example_ko": "빵에 버터를 바르렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 76,
+   "spanish": "la margarina",
+   "korean": "마가린",
+   "synonym": "",
+   "example_es": "La margarina es vegetal.",
+   "example_ko": "마가린은 식물성이야.",
+   "tema": "cocina"
+ },
+ {
+   "id": 77,
+   "spanish": "cocinar",
+   "korean": "요리하다",
+   "synonym": "",
+   "example_es": "Me gusta cocinar para mis amigos.",
+   "example_ko": "친구들을 위해 요리하는 걸 좋아해.",
+   "tema": "cocina"
+ },
+ {
+   "id": 78,
+   "spanish": "cortar",
+   "korean": "자르다",
+   "synonym": "",
+   "example_es": "Corta el pan en rodajas.",
+   "example_ko": "빵을 조각으로 자르렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 79,
+   "spanish": "rallar",
+   "korean": "갈다",
+   "synonym": "",
+   "example_es": "Ralla el queso para la pasta.",
+   "example_ko": "파스타를 위해 치즈를 가렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 80,
+   "spanish": "pelar",
+   "korean": "껍질을 벗기다",
+   "synonym": "",
+   "example_es": "Pela las patatas antes de hervirlas.",
+   "example_ko": "삶기 전에 감자 껍질을 벗기렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 81,
+   "spanish": "picar",
+   "korean": "썰다, 다지다",
+   "synonym": "",
+   "example_es": "Pica la cebolla finamente.",
+   "example_ko": "양파를 잘게 다지렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 82,
+   "spanish": "hervir",
+   "korean": "끓이다",
+   "synonym": "",
+   "example_es": "Hierve el agua para el té.",
+   "example_ko": "차를 위해 물을 끓이렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 83,
+   "spanish": "freír",
+   "korean": "튀기다, 볶다",
+   "synonym": "",
+   "example_es": "Fríe los huevos con cuidado.",
+   "example_ko": "달걀을 조심해서 튀기렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 84,
+   "spanish": "sofreír",
+   "korean": "살짝 튀기다, 볶다",
+   "synonym": "",
+   "example_es": "Sofríe el ajo un minuto.",
+   "example_ko": "마늘을 1분간 살짝 볶으렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 85,
+   "spanish": "tajar",
+   "korean": "자르다",
+   "synonym": "to slice",
+   "example_es": "Taja el jamón en lonchas finas.",
+   "example_ko": "하몽을 얇게 썰어내렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 86,
+   "spanish": "hornear",
+   "korean": "오븐에 굽다",
+   "synonym": "",
+   "example_es": "Tengo que hornear el pastel.",
+   "example_ko": "케이크를 오븐에 구워야 해.",
+   "tema": "cocina"
+ },
+ {
+   "id": 87,
+   "spanish": "al vapor",
+   "korean": "찌다",
+   "synonym": "",
+   "example_es": "Cocina las verduras al vapor.",
+   "example_ko": "채소를 증기로 찌렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 88,
+   "spanish": "verter",
+   "korean": "(액체를) 넣다, 붓다",
+   "synonym": "",
+   "example_es": "Vierte la leche en el tazón.",
+   "example_ko": "그릇에 우유를 부으렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 89,
+   "spanish": "asar",
+   "korean": "굽다",
+   "synonym": "",
+   "example_es": "Vamos a asar carne hoy.",
+   "example_ko": "오늘 고기를 구울 거야.",
+   "tema": "cocina"
+ },
+ {
+   "id": 90,
+   "spanish": "batir",
+   "korean": "휘젓다",
+   "synonym": "",
+   "example_es": "Bate la crema hasta que espese.",
+   "example_ko": "크림이 걸쭉해질 때까지 휘저으렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 91,
+   "spanish": "mezclar",
+   "korean": "섞다",
+   "synonym": "",
+   "example_es": "Mezcla todos los ingredientes.",
+   "example_ko": "모든 재료를 섞으렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 92,
+   "spanish": "añadir",
+   "korean": "추가하다, 넣다",
+   "synonym": "echar",
+   "example_es": "Añade una pizca de sal.",
+   "example_ko": "소금 한 꼬집을 추가하렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 93,
+   "spanish": "calentar",
+   "korean": "데우다",
+   "synonym": "",
+   "example_es": "Calienta la sopa antes de comer.",
+   "example_ko": "먹기 전에 수프를 데우렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 94,
+   "spanish": "servir",
+   "korean": "대접하다, 차리다",
+   "synonym": "",
+   "example_es": "Sirve la comida caliente.",
+   "example_ko": "음식을 따뜻할 때 차려내렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 95,
+   "spanish": "congelar",
+   "korean": "얼리다",
+   "synonym": "",
+   "example_es": "Congela la carne sobrante.",
+   "example_ko": "남은 고기를 얼리렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 96,
+   "spanish": "descongelar",
+   "korean": "해동하다",
+   "synonym": "",
+   "example_es": "Descongela el pollo en la nevera.",
+   "example_ko": "냉장고에서 닭고기를 해동하렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 97,
+   "spanish": "la tapa",
+   "korean": "뚜껑",
+   "synonym": "",
+   "example_es": "Pon la tapa a la olla.",
+   "example_ko": "냄비에 뚜껑을 닫으렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 98,
+   "spanish": "el grifo",
+   "korean": "수도꼭지",
+   "synonym": "",
+   "example_es": "Cierra el grifo para ahorrar agua.",
+   "example_ko": "물을 아끼기 위해 수도꼭지를 잠그렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 99,
+   "spanish": "la encimera",
+   "korean": "주방 조리대, 싱크대 상판",
+   "synonym": "",
+   "example_es": "Limpia la encimera después de cocinar.",
+   "example_ko": "요리 후에 조리대를 닦으렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 100,
+   "spanish": "el microondas",
+   "korean": "전자레인지",
+   "synonym": "",
+   "example_es": "Calienta el plato en el microondas.",
+   "example_ko": "접시를 전자레인지에 데우렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 101,
+   "spanish": "el lavaplatos",
+   "korean": "식기세척기",
+   "synonym": "la lavavajilla",
+   "example_es": "El lavaplatos terminó el ciclo.",
+   "example_ko": "식기세척기가 작동을 마쳤어.",
+   "tema": "cocina"
+ },
+ {
+   "id": 102,
+   "spanish": "el extractor",
+   "korean": "환풍기, 후드",
+   "synonym": "",
+   "example_es": "Enciende el extractor para el humo.",
+   "example_ko": "연기 빠지게 환풍기를 켜렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 103,
+   "spanish": "el delantal",
+   "korean": "앞치마",
+   "synonym": "",
+   "example_es": "Ponte el delantal para 안 mancharte.",
+   "example_ko": "옷 버리지 않게 앞치마를 두르렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 104,
+   "spanish": "la despensa",
+   "korean": "식료품 저장실",
+   "synonym": "",
+   "example_es": "Hay pasta en la despensa.",
+   "example_ko": "저장실에 파스타가 있어.",
+   "tema": "cocina"
+ },
+ {
+   "id": 105,
+   "spanish": "el temporizador",
+   "korean": "타이머",
+   "synonym": "",
+   "example_es": "El temporizador sonará en diez minutos.",
+   "example_ko": "타이머가 10분 뒤에 울릴 거야.",
+   "tema": "cocina"
+ },
+ {
+   "id": 106,
+   "spanish": "la cáscara",
+   "korean": "껍질 (과일, 달걀 등)",
+   "synonym": "",
+   "example_es": "Tira la cáscara de huevo.",
+   "example_ko": "달걀 껍질을 버리렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 107,
+   "spanish": "la tajada",
+   "korean": "조각, 슬라이스",
+   "synonym": "",
+   "example_es": "Corta una tajada de sandía.",
+   "example_ko": "수박 한 조각을 자르렴.",
+   "tema": "cocina"
+ },
+ {
+   "id": 108,
+   "spanish": "crudo",
+   "korean": "생것의, 익히지 않은",
+   "synonym": "",
+   "example_es": "No comas la carne cruda.",
+   "example_ko": "고기를 날로 먹지 마.",
+   "tema": "cocina"
+ },
+ {
+   "id": 109,
+   "spanish": "poco hecho",
+   "korean": "레어, 살짝 익힌",
+   "synonym": "",
+   "example_es": "Quiero el filete poco hecho.",
+   "example_ko": "스테이크를 레어로 해줘.",
+   "tema": "cocina"
+ },
+ {
+   "id": 110,
+   "spanish": "al punto",
+   "korean": "미디엄, 적당히 익힌",
+   "synonym": "",
+   "example_es": "La carne está al punto.",
+   "example_ko": "고기가 적당히 잘 익었어.",
+   "tema": "cocina"
+ },
+ {
+   "id": 111,
+   "spanish": "muy hecho",
+   "korean": "웰던, 바짝 익힌",
+   "synonym": "",
+   "example_es": "Me gusta el pollo muy hecho.",
+   "example_ko": "나는 닭고기를 바짝 익힌 게 좋아.",
+   "tema": "cocina"
+ }
+]

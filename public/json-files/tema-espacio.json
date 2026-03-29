@@ -1,0 +1,623 @@
+[
+ {
+   "id": 1,
+   "spanish": "el espacio / el universo",
+   "korean": "우주",
+   "synonym": "el cosmos",
+   "example_es": "El universo es infinito.",
+   "example_ko": "우주는 무한해요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 2,
+   "spanish": "el astrónomo / la astrónoma",
+   "korean": "천문학자",
+   "synonym": "",
+   "example_es": "Él es astrónomo.",
+   "example_ko": "그는 천문학자예요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 3,
+   "spanish": "la astronomía",
+   "korean": "천문학",
+   "synonym": "",
+   "example_es": "Estudio astronomía.",
+   "example_ko": "천문학을 공부해요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 4,
+   "spanish": "la fuerza espacial",
+   "korean": "우주군",
+   "synonym": "",
+   "example_es": "La fuerza nos protege.",
+   "example_ko": "우주군이 우리를 보호해요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 5,
+   "spanish": "la atmósfera",
+   "korean": "대기",
+   "synonym": "",
+   "example_es": "La atmósfera es fina.",
+   "example_ko": "대기가 희박해요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 6,
+   "spanish": "el agujero negro",
+   "korean": "블랙홀",
+   "synonym": "",
+   "example_es": "Es un agujero negro.",
+   "example_ko": "그것은 블랙홀이에요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 7,
+   "spanish": "la materia oscura",
+   "korean": "암흑 물질",
+   "synonym": "",
+   "example_es": "La materia es invisible.",
+   "example_ko": "물질이 보이지 않아요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 8,
+   "spanish": "el cometa",
+   "korean": "혜성",
+   "synonym": "",
+   "example_es": "El cometa tiene cola.",
+   "example_ko": "혜성은 꼬리가 있어요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 9,
+   "spanish": "la constelación",
+   "korean": "별자리",
+   "synonym": "",
+   "example_es": "Mira la constelación.",
+   "example_ko": "별자리를 봐요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 10,
+   "spanish": "el zodíaco",
+   "korean": "12궁도",
+   "synonym": "",
+   "example_es": "Hay doce signos.",
+   "example_ko": "12개 성좌가 있어요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 11,
+   "spanish": "Aries",
+   "korean": "양자리",
+   "synonym": "",
+   "example_es": "Soy Aries.",
+   "example_ko": "전 양자리예요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 12,
+   "spanish": "Tauro",
+   "korean": "황소자리",
+   "synonym": "",
+   "example_es": "Él es Tauro.",
+   "example_ko": "그는 황소자리예요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 13,
+   "spanish": "Géminis",
+   "korean": "쌍둥이자리",
+   "synonym": "",
+   "example_es": "Somos Géminis.",
+   "example_ko": "우리는 쌍둥이자리예요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 14,
+   "spanish": "Cáncer",
+   "korean": "게자리",
+   "synonym": "",
+   "example_es": "Ella es Cáncer.",
+   "example_ko": "그녀는 게자리예요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 15,
+   "spanish": "Leo",
+   "korean": "사자자리",
+   "synonym": "",
+   "example_es": "Eres Leo.",
+   "example_ko": "너는 사자자리야.",
+   "tema": "espacio"
+ },
+ {
+   "id": 16,
+   "spanish": "Virgo",
+   "korean": "처녀자리",
+   "synonym": "",
+   "example_es": "Es Virgo.",
+   "example_ko": "처녀자리예요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 17,
+   "spanish": "Libra",
+   "korean": "천칭자리",
+   "synonym": "",
+   "example_es": "Busco a un Libra.",
+   "example_ko": "천칭자리 사람을 찾아요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 18,
+   "spanish": "Escorpio",
+   "korean": "전갈자리",
+   "synonym": "",
+   "example_es": "No soy Escorpio.",
+   "example_ko": "전 전갈자리가 아니에요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 19,
+   "spanish": "Sagitario",
+   "korean": "궁수자리",
+   "synonym": "",
+   "example_es": "Mi amigo es Sagitario.",
+   "example_ko": "내 친구는 궁수자리야.",
+   "tema": "espacio"
+ },
+ {
+   "id": 20,
+   "spanish": "Capricornio",
+   "korean": "염소자리",
+   "synonym": "",
+   "example_es": "¿Eres Capricornio?",
+   "example_ko": "너 염소자리니?",
+   "tema": "espacio"
+ },
+ {
+   "id": 21,
+   "spanish": "Acuario",
+   "korean": "물병자리",
+   "synonym": "",
+   "example_es": "Acuario es mi signo.",
+   "example_ko": "물병자리는 내 별자리야.",
+   "tema": "espacio"
+ },
+ {
+   "id": 22,
+   "spanish": "Piscis",
+   "korean": "물고기자리",
+   "synonym": "",
+   "example_es": "Piscis es el último.",
+   "example_ko": "물고기자리가 마지막이야.",
+   "tema": "espacio"
+ },
+ {
+   "id": 23,
+   "spanish": "la galaxia",
+   "korean": "은하",
+   "synonym": "",
+   "example_es": "La galaxia es enorme.",
+   "example_ko": "은하는 거대해요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 24,
+   "spanish": "el meteorito",
+   "korean": "운석",
+   "synonym": "",
+   "example_es": "Cayó un meteorito.",
+   "example_ko": "운석이 떨어졌어요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 25,
+   "spanish": "el meteoro / la estrella fugaz",
+   "korean": "유성 / 별똥별",
+   "synonym": "",
+   "example_es": "Vi una estrella fugaz.",
+   "example_ko": "별똥별을 봤어요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 26,
+   "spanish": "la Vía Láctea",
+   "korean": "은하수",
+   "synonym": "",
+   "example_es": "La Vía Láctea brilla.",
+   "example_ko": "은하수가 빛나요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 27,
+   "spanish": "el sistema solar",
+   "korean": "태양계",
+   "synonym": "",
+   "example_es": "El sistema tiene planetas.",
+   "example_ko": "태양계에는 행성이 있어요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 28,
+   "spanish": "el Sol",
+   "korean": "태양",
+   "synonym": "",
+   "example_es": "El Sol es una estrella.",
+   "example_ko": "태양은 별이에요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 29,
+   "spanish": "el planeta",
+   "korean": "행성",
+   "synonym": "",
+   "example_es": "La Tierra es un planeta.",
+   "example_ko": "지구는 행성이에요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 30,
+   "spanish": "Mercurio",
+   "korean": "수성",
+   "synonym": "",
+   "example_es": "Mercurio es pequeño.",
+   "example_ko": "수성은 작아요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 31,
+   "spanish": "Venus",
+   "korean": "금성",
+   "synonym": "",
+   "example_es": "Venus es brillante.",
+   "example_ko": "금성은 밝아요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 32,
+   "spanish": "la Tierra",
+   "korean": "지구",
+   "synonym": "",
+   "example_es": "La Tierra es azul.",
+   "example_ko": "지구는 파란색이에요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 33,
+   "spanish": "Marte",
+   "korean": "화성",
+   "synonym": "",
+   "example_es": "Marte es rojo.",
+   "example_ko": "화성은 빨간색이에요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 34,
+   "spanish": "Júpiter",
+   "korean": "목성",
+   "synonym": "",
+   "example_es": "Júpiter es gigante.",
+   "example_ko": "목성은 거대해요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 35,
+   "spanish": "Saturno",
+   "korean": "토성",
+   "synonym": "",
+   "example_es": "Saturno tiene anillos.",
+   "example_ko": "토성은 고리가 있어요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 36,
+   "spanish": "Urano",
+   "korean": "천왕성",
+   "synonym": "",
+   "example_es": "Urano está lejos.",
+   "example_ko": "천왕성은 멀리 있어요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 37,
+   "spanish": "Neptuno",
+   "korean": "해왕성",
+   "synonym": "",
+   "example_es": "Neptuno es frío.",
+   "example_ko": "해왕성은 추워요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 38,
+   "spanish": "Plutón",
+   "korean": "명왕성",
+   "synonym": "",
+   "example_es": "Plutón es pequeño.",
+   "example_ko": "명왕성은 작아요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 39,
+   "spanish": "el satélite",
+   "korean": "위성",
+   "synonym": "",
+   "example_es": "La Luna es un satélite.",
+   "example_ko": "달은 위성이에요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 40,
+   "spanish": "la Luna",
+   "korean": "달",
+   "synonym": "",
+   "example_es": "La Luna está llena.",
+   "example_ko": "보름달이 떴어요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 41,
+   "spanish": "la estrella",
+   "korean": "별",
+   "synonym": "",
+   "example_es": "Hay muchas estrellas.",
+   "example_ko": "별이 많아요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 42,
+   "spanish": "el cohete",
+   "korean": "로켓",
+   "synonym": "",
+   "example_es": "El cohete despega.",
+   "example_ko": "로켓이 이륙해요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 43,
+   "spanish": "el/la astronauta",
+   "korean": "우주비행사",
+   "synonym": "",
+   "example_es": "El astronauta flota.",
+   "example_ko": "우주비행사가 떠 있어요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 44,
+   "spanish": "la nave espacial",
+   "korean": "우주선",
+   "synonym": "",
+   "example_es": "La nave es rápida.",
+   "example_ko": "우주선은 빨라요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 45,
+   "spanish": "el telescopio",
+   "korean": "망원경",
+   "synonym": "",
+   "example_es": "Usa el telescopio.",
+   "example_ko": "망원경을 사용하세요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 46,
+   "spanish": "la órbita",
+   "korean": "궤도",
+   "synonym": "",
+   "example_es": "Está en órbita.",
+   "example_ko": "궤도에 있어요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 47,
+   "spanish": "la gravedad",
+   "korean": "중력",
+   "synonym": "",
+   "example_es": "No hay gravedad.",
+   "example_ko": "중력이 없어요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 48,
+   "spanish": "el eclipse",
+   "korean": "일식 / 월식",
+   "synonym": "",
+   "example_es": "Hay un eclipse hoy.",
+   "example_ko": "오늘 일식이 있어요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 49,
+   "spanish": "el rayo cósmico",
+   "korean": "우주선(방사선)",
+   "synonym": "",
+   "example_es": "Los rayos son fuertes.",
+   "example_ko": "우주선이 강해요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 50,
+   "spanish": "el extraterrestre",
+   "korean": "외계인",
+   "synonym": "el alienígena",
+   "example_es": "¿Hay extraterrestres?",
+   "example_ko": "외계인이 있나요?",
+   "tema": "espacio"
+ },
+ {
+   "id": 51,
+   "spanish": "la estación espacial",
+   "korean": "우주 정거장",
+   "synonym": "",
+   "example_es": "Viven en la estación.",
+   "example_ko": "정거장에 살아요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 52,
+   "spanish": "el Big Bang",
+   "korean": "빅뱅",
+   "synonym": "",
+   "example_es": "Fue el inicio.",
+   "example_ko": "그것이 시작이었어요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 53,
+   "spanish": "el año luz",
+   "korean": "광년",
+   "synonym": "",
+   "example_es": "Está a un año luz.",
+   "example_ko": "1광년 거리에 있어요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 54,
+   "spanish": "el vacío",
+   "korean": "진공",
+   "synonym": "",
+   "example_es": "El vacío es total.",
+   "example_ko": "진공 상태예요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 55,
+   "spanish": "la supernova",
+   "korean": "초신성",
+   "synonym": "",
+   "example_es": "La supernova explotó.",
+   "example_ko": "초신성이 폭발했어요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 56,
+   "spanish": "el asteroide",
+   "korean": "소행성",
+   "synonym": "",
+   "example_es": "El asteroide se acerca.",
+   "example_ko": "소행성이 다가와요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 57,
+   "spanish": "la onda de radio",
+   "korean": "전파",
+   "synonym": "",
+   "example_es": "Recibo ondas.",
+   "example_ko": "전파를 받아요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 58,
+   "spanish": "el polvo cósmico",
+   "korean": "우주 먼지",
+   "synonym": "",
+   "example_es": "Hay polvo cósmico.",
+   "example_ko": "우주 먼지가 있어요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 59,
+   "spanish": "el satélite artificial",
+   "korean": "인공위성",
+   "synonym": "",
+   "example_es": "El satélite transmite.",
+   "example_ko": "위성이 전송해요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 60,
+   "spanish": "el lanzamiento",
+   "korean": "발사",
+   "synonym": "",
+   "example_es": "El lanzamiento fue bien.",
+   "example_ko": "발사가 잘 되었어요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 61,
+   "spanish": "el aterrizaje",
+   "korean": "착륙",
+   "synonym": "el alunizaje (달 착륙)",
+   "example_es": "El aterrizaje fue suave.",
+   "example_ko": "착륙이 부드러웠어요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 62,
+   "spanish": "el telescopio espacial",
+   "korean": "우주 망원경",
+   "synonym": "",
+   "example_es": "Es un gran telescopio.",
+   "example_ko": "큰 망원경이에요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 63,
+   "spanish": "el universo observable",
+   "korean": "관측 가능한 우주",
+   "synonym": "",
+   "example_es": "Es muy vasto.",
+   "example_ko": "매우 광대해요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 64,
+   "spanish": "el agujero de gusano",
+   "korean": "웜홀",
+   "synonym": "",
+   "example_es": "Es un atajo.",
+   "example_ko": "지름길이에요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 65,
+   "spanish": "el traje espacial",
+   "korean": "우주복",
+   "synonym": "",
+   "example_es": "Ponte el traje.",
+   "example_ko": "우주복을 입으세요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 66,
+   "spanish": "el paseo espacial",
+   "korean": "우주 유영",
+   "synonym": "",
+   "example_es": "Hizo un paseo espacial.",
+   "example_ko": "우주 유영을 했어요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 67,
+   "spanish": "la gravedad cero",
+   "korean": "무중력",
+   "synonym": "",
+   "example_es": "Flotan en gravedad cero.",
+   "example_ko": "무중력에서 떠다녀요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 68,
+   "spanish": "la cuenta atrás",
+   "korean": "카운트다운",
+   "synonym": "la cuenta regresiva",
+   "example_es": "Empieza la cuenta atrás.",
+   "example_ko": "카운트다운이 시작돼요.",
+   "tema": "espacio"
+ },
+ {
+   "id": 69,
+   "spanish": "el transbordador",
+   "korean": "우주 왕복선",
+   "synonym": "",
+   "example_es": "El transbordador regresó.",
+   "example_ko": "왕복선이 돌아왔어요.",
+   "tema": "espacio"
+ }
+]

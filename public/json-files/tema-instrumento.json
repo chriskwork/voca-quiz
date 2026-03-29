@@ -1,0 +1,434 @@
+[
+ {
+   "id": 1,
+   "spanish": "el instrumento",
+   "korean": "악기",
+   "synonym": "",
+   "example_es": "Toca un instrumento.",
+   "example_ko": "악기를 연주하세요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 2,
+   "spanish": "el piano",
+   "korean": "피아노",
+   "synonym": "",
+   "example_es": "El piano suena bien.",
+   "example_ko": "피아노 소리가 좋아요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 3,
+   "spanish": "el violín",
+   "korean": "바이올린",
+   "synonym": "",
+   "example_es": "Ella toca el violín.",
+   "example_ko": "그녀는 바이올린을 켜요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 4,
+   "spanish": "la guitarra",
+   "korean": "기타",
+   "synonym": "",
+   "example_es": "Toco la guitarra.",
+   "example_ko": "나는 기타를 쳐요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 5,
+   "spanish": "la flauta",
+   "korean": "플루트",
+   "synonym": "",
+   "example_es": "La flauta es dulce.",
+   "example_ko": "플루트 소리가 달콤해요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 6,
+   "spanish": "el violonchelo",
+   "korean": "첼로",
+   "synonym": "",
+   "example_es": "El violonchelo es grande.",
+   "example_ko": "첼로는 커요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 7,
+   "spanish": "la trompeta",
+   "korean": "트럼펫",
+   "synonym": "",
+   "example_es": "Suena la trompeta.",
+   "example_ko": "트럼펫 소리가 나요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 8,
+   "spanish": "el clarinete",
+   "korean": "클라리넷",
+   "synonym": "",
+   "example_es": "Usa el clarinete.",
+   "example_ko": "클라리넷을 사용하세요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 9,
+   "spanish": "el saxofón",
+   "korean": "색소폰",
+   "synonym": "",
+   "example_es": "El saxofón es dorado.",
+   "example_ko": "색소폰은 금색이에요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 10,
+   "spanish": "la batería",
+   "korean": "드럼",
+   "synonym": "",
+   "example_es": "Él toca la batería.",
+   "example_ko": "그는 드럼을 쳐요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 11,
+   "spanish": "el arpa",
+   "korean": "하프",
+   "synonym": "",
+   "example_es": "El arpa es bella.",
+   "example_ko": "하프는 아름다워요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 12,
+   "spanish": "el contrabajo",
+   "korean": "더블베이스",
+   "synonym": "",
+   "example_es": "Es un contrabajo.",
+   "example_ko": "더블베이스예요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 13,
+   "spanish": "el trombón",
+   "korean": "트롬본",
+   "synonym": "",
+   "example_es": "Toca el trombón.",
+   "example_ko": "트롬본을 연주하세요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 14,
+   "spanish": "el oboe",
+   "korean": "오보에",
+   "synonym": "",
+   "example_es": "El oboe es difícil.",
+   "example_ko": "오보에는 어려워요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 15,
+   "spanish": "el fagot",
+   "korean": "바순",
+   "synonym": "",
+   "example_es": "El fagot es largo.",
+   "example_ko": "바순은 길어요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 16,
+   "spanish": "la viola",
+   "korean": "비올라",
+   "synonym": "",
+   "example_es": "La viola es elegante.",
+   "example_ko": "비올라는 우아해요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 17,
+   "spanish": "el xilófono",
+   "korean": "실로폰",
+   "synonym": "",
+   "example_es": "Usa el xilófono.",
+   "example_ko": "실로폰을 사용하세요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 18,
+   "spanish": "el acordeón",
+   "korean": "아코디언",
+   "synonym": "",
+   "example_es": "Toca el acordeón.",
+   "example_ko": "아코디언을 연주하세요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 19,
+   "spanish": "la armónica",
+   "korean": "하모니카",
+   "synonym": "",
+   "example_es": "Lleva la armónica.",
+   "example_ko": "하모니카를 가져가세요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 20,
+   "spanish": "el ukelele",
+   "korean": "우쿨렐레",
+   "synonym": "",
+   "example_es": "El ukelele es pequeño.",
+   "example_ko": "우쿨렐레는 작아요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 21,
+   "spanish": "la pandereta",
+   "korean": "탬버린",
+   "synonym": "",
+   "example_es": "Mueve la pandereta.",
+   "example_ko": "탬버린을 흔드세요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 22,
+   "spanish": "el triángulo",
+   "korean": "트라이앵글",
+   "synonym": "",
+   "example_es": "Golpea el triángulo.",
+   "example_ko": "트라이앵글을 치세요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 23,
+   "spanish": "los platillos",
+   "korean": "심벌즈",
+   "synonym": "",
+   "example_es": "Suenan los platillos.",
+   "example_ko": "심벌즈 소리가 나요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 24,
+   "spanish": "el órgano",
+   "korean": "오르간",
+   "synonym": "",
+   "example_es": "El órgano es antiguo.",
+   "example_ko": "오르간은 오래되었어요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 25,
+   "spanish": "el sintetizador",
+   "korean": "신시사이저",
+   "synonym": "",
+   "example_es": "Usa el sintetizador.",
+   "example_ko": "신시사이저를 쓰세요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 26,
+   "spanish": "la flauta dulce",
+   "korean": "리코더",
+   "synonym": "",
+   "example_es": "Toca la flauta dulce.",
+   "example_ko": "리코더를 연주하세요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 27,
+   "spanish": "el laúd",
+   "korean": "류트",
+   "synonym": "",
+   "example_es": "El laúd es viejo.",
+   "example_ko": "류트는 오래된 악기예요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 28,
+   "spanish": "la mandolina",
+   "korean": "만돌린",
+   "synonym": "",
+   "example_es": "Toca la mandolina.",
+   "example_ko": "만돌린을 연주하세요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 29,
+   "spanish": "el banyo",
+   "korean": "밴조",
+   "synonym": "",
+   "example_es": "Suena el banyo.",
+   "example_ko": "밴조 소리가 나요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 30,
+   "spanish": "la gaita",
+   "korean": "백파이프",
+   "synonym": "",
+   "example_es": "La gaita es escocesa.",
+   "example_ko": "백파이프는 스코틀랜드 거예요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 31,
+   "spanish": "el timbal",
+   "korean": "팀파니",
+   "synonym": "",
+   "example_es": "Retumba el timbal.",
+   "example_ko": "팀파니가 울려요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 32,
+   "spanish": "el pandero",
+   "korean": "핸드드럼",
+   "synonym": "el tamboril",
+   "example_es": "Usa el pandero.",
+   "example_ko": "핸드드럼을 사용하세요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 33,
+   "spanish": "la castañuela",
+   "korean": "캐스터네츠",
+   "synonym": "",
+   "example_es": "Usa las castañuelas.",
+   "example_ko": "캐스터네츠를 쓰세요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 34,
+   "spanish": "el diapasón",
+   "korean": "소리굽쇠",
+   "synonym": "",
+   "example_es": "Usa el diapasón.",
+   "example_ko": "소리굽쇠를 사용하세요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 35,
+   "spanish": "la batuta",
+   "korean": "지휘봉",
+   "synonym": "",
+   "example_es": "Mira la batuta.",
+   "example_ko": "지휘봉을 보세요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 36,
+   "spanish": "el atril",
+   "korean": "악보대",
+   "synonym": "",
+   "example_es": "Ponlo en el atril.",
+   "example_ko": "악보대에 두세요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 37,
+   "spanish": "la partitura",
+   "korean": "악보",
+   "synonym": "",
+   "example_es": "Lee la partitura.",
+   "example_ko": "악보를 읽으세요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 38,
+   "spanish": "la cuerda",
+   "korean": "현 (줄)",
+   "synonym": "",
+   "example_es": "Limpia la cuerda.",
+   "example_ko": "줄을 닦으세요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 39,
+   "spanish": "el arco",
+   "korean": "활",
+   "synonym": "",
+   "example_es": "Coge el arco.",
+   "example_ko": "활을 잡으세요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 40,
+   "spanish": "la tecla",
+   "korean": "건반",
+   "synonym": "",
+   "example_es": "Pulsa la tecla.",
+   "example_ko": "건반을 누르세요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 41,
+   "spanish": "el metrónomo",
+   "korean": "메트로놈",
+   "synonym": "",
+   "example_es": "Usa el metrónomo.",
+   "example_ko": "메트로놈을 사용하세요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 42,
+   "spanish": "el gong",
+   "korean": "징 (공)",
+   "synonym": "",
+   "example_es": "Golpea el gong.",
+   "example_ko": "공을 치세요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 43,
+   "spanish": "la baqueta",
+   "korean": "드럼채",
+   "synonym": "",
+   "example_es": "Tengo la baqueta.",
+   "example_ko": "드럼채를 가지고 있어요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 44,
+   "spanish": "el pedal",
+   "korean": "페달",
+   "synonym": "",
+   "example_es": "Pisa el pedal.",
+   "example_ko": "페달을 밟으세요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 45,
+   "spanish": "la boquilla",
+   "korean": "마우스피스",
+   "synonym": "",
+   "example_es": "Limpia la boquilla.",
+   "example_ko": "마우스피스를 닦으세요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 46,
+   "spanish": "el estuche",
+   "korean": "악기 케이스",
+   "synonym": "",
+   "example_es": "Guárdalo en el estuche.",
+   "example_ko": "케이스에 넣으세요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 47,
+   "spanish": "el sintonizador",
+   "korean": "튜너 (조율기)",
+   "synonym": "",
+   "example_es": "Usa el sintonizador.",
+   "example_ko": "조율기를 사용하세요.",
+   "tema": "instrumento"
+ },
+ {
+   "id": 48,
+   "spanish": "la armadura",
+   "korean": "조표",
+   "synonym": "",
+   "example_es": "Mira la armadura.",
+   "example_ko": "조표를 보세요.",
+   "tema": "instrumento"
+ }
+]

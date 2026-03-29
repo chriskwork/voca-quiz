@@ -1,0 +1,461 @@
+[
+ {
+   "id": 1,
+   "spanish": "la playa",
+   "korean": "해변",
+   "synonym": "",
+   "example_es": "Vamos a la playa a tomar el sol.",
+   "example_ko": "해변에 햇볕을 쬐러 가자.",
+   "tema": "playa"
+ },
+ {
+   "id": 2,
+   "spanish": "los bañistas",
+   "korean": "해수욕객",
+   "synonym": "",
+   "example_es": "La playa está llena de bañistas hoy.",
+   "example_ko": "오늘 해변에 해수욕객들이 가득해.",
+   "tema": "playa"
+ },
+ {
+   "id": 3,
+   "spanish": "la bahía",
+   "korean": "만",
+   "synonym": "",
+   "example_es": "El barco está anclado en la bahía.",
+   "example_ko": "배가 만에 정박해 있어.",
+   "tema": "playa"
+ },
+ {
+   "id": 4,
+   "spanish": "la pelota de playa",
+   "korean": "비치볼",
+   "synonym": "",
+   "example_es": "Jugamos con la pelota de playa en el agua.",
+   "example_ko": "우리는 물속에서 비치볼을 가지고 놀아.",
+   "tema": "playa"
+ },
+ {
+   "id": 5,
+   "spanish": "la ola grande",
+   "korean": "큰 파도",
+   "synonym": "el olón",
+   "example_es": "Viene una ola grande, ¡ten cuidado!",
+   "example_ko": "큰 파도가 오고 있어, 조심해!",
+   "tema": "playa"
+ },
+ {
+   "id": 6,
+   "spanish": "la tabla de surf",
+   "korean": "서핑보드",
+   "synonym": "",
+   "example_es": "Necesito encerar mi tabla de surf.",
+   "example_ko": "내 서핑보드에 왁스칠을 해야 해.",
+   "tema": "playa"
+ },
+ {
+   "id": 7,
+   "spanish": "el surfista / la surfista",
+   "korean": "서퍼",
+   "synonym": "",
+   "example_es": "El surfista espera la ola perfecta.",
+   "example_ko": "서퍼가 완벽한 파도를 기다리고 있어.",
+   "tema": "playa"
+ },
+ {
+   "id": 8,
+   "spanish": "el nadador / la nadadora",
+   "korean": "수영하는 사람",
+   "synonym": "",
+   "example_es": "El nadador cruzó el estrecho a nado.",
+   "example_ko": "수영 선수가 해협을 헤엄쳐서 건넜어.",
+   "tema": "playa"
+ },
+ {
+   "id": 9,
+   "spanish": "la costa",
+   "korean": "해안",
+   "synonym": "",
+   "example_es": "Vivir en la costa es muy relajante.",
+   "example_ko": "해안가에 사는 건 정말 여유로워.",
+   "tema": "playa"
+ },
+ {
+   "id": 10,
+   "spanish": "el coral",
+   "korean": "산호",
+   "synonym": "",
+   "example_es": "El arrecife de coral es precioso.",
+   "example_ko": "산호초가 정말 아름다워.",
+   "tema": "playa"
+ },
+ {
+   "id": 11,
+   "spanish": "el cangrejo",
+   "korean": "게",
+   "synonym": "",
+   "example_es": "El cangrejo camina de lado por la arena.",
+   "example_ko": "게가 모래 위를 옆으로 걸어가.",
+   "tema": "playa"
+ },
+ {
+   "id": 12,
+   "spanish": "la almeja",
+   "korean": "조개, 바지락",
+   "synonym": "",
+   "example_es": "Recogimos muchas almejas en la orilla.",
+   "example_ko": "우리는 해변가에서 조개를 많이 주웠어.",
+   "tema": "playa"
+ },
+ {
+   "id": 13,
+   "spanish": "la concha",
+   "korean": "조개껍데기",
+   "synonym": "el caracol",
+   "example_es": "Encontré una concha muy bonita.",
+   "example_ko": "아주 예쁜 조개껍데기를 찾았어.",
+   "tema": "playa"
+ },
+ {
+   "id": 14,
+   "spanish": "el horizonte",
+   "korean": "수평선",
+   "synonym": "",
+   "example_es": "El sol desaparece por el horizonte.",
+   "example_ko": "태양이 수평선 너머로 사라져.",
+   "tema": "playa"
+ },
+ {
+   "id": 15,
+   "spanish": "la isla",
+   "korean": "섬",
+   "synonym": "",
+   "example_es": "Fuimos en barco a una isla desierta.",
+   "example_ko": "우리는 배를 타고 무인도에 갔어.",
+   "tema": "playa"
+ },
+ {
+   "id": 16,
+   "spanish": "el acantilado",
+   "korean": "절벽, 낭떠러지",
+   "synonym": "",
+   "example_es": "Las vistas desde el acantilado son increíbles.",
+   "example_ko": "절벽에서 보는 풍경이 끝내줘.",
+   "tema": "playa"
+ },
+ {
+   "id": 17,
+   "spanish": "la silla plegable",
+   "korean": "접이식 의자",
+   "synonym": "la silla de playa",
+   "example_es": "Trae la silla plegable para sentarnos.",
+   "example_ko": "우리가 앉을 접이식 의자를 가져와.",
+   "tema": "playa"
+ },
+ {
+   "id": 18,
+   "spanish": "el socorrista",
+   "korean": "구조요원",
+   "synonym": "el salvavidas",
+   "example_es": "El socorrista vigila a los bañistas.",
+   "example_ko": "구조요원이 해수욕객들을 감시하고 있어.",
+   "tema": "playa"
+ },
+ {
+   "id": 19,
+   "spanish": "el chaleco salvavidas",
+   "korean": "구명조끼",
+   "synonym": "",
+   "example_es": "Es obligatorio llevar el chaleco salvavidas.",
+   "example_ko": "구명조끼 착용은 의무야.",
+   "tema": "playa"
+ },
+ {
+   "id": 20,
+   "spanish": "los prismáticos",
+   "korean": "망원경, 쌍안경",
+   "synonym": "los binoculares",
+   "example_es": "Miro los barcos con los prismáticos.",
+   "example_ko": "나는 망원경으로 배들을 봐.",
+   "tema": "playa"
+ },
+ {
+   "id": 21,
+   "spanish": "la lancha",
+   "korean": "모터보트",
+   "synonym": "",
+   "example_es": "Alquilamos una lancha para dar un paseo.",
+   "example_ko": "우리는 산책하러 모터보트를 한 대 빌렸어.",
+   "tema": "playa"
+ },
+ {
+   "id": 22,
+   "spanish": "el velero",
+   "korean": "돛단배",
+   "synonym": "",
+   "example_es": "El velero navega con el viento.",
+   "example_ko": "돛단배가 바람을 타고 항해해.",
+   "tema": "playa"
+ },
+ {
+   "id": 23,
+   "spanish": "el océano",
+   "korean": "대양",
+   "synonym": "",
+   "example_es": "El océano es más profundo que el mar.",
+   "example_ko": "대양은 바다보다 훨씬 깊어.",
+   "tema": "playa"
+ },
+ {
+   "id": 24,
+   "spanish": "las sandalias",
+   "korean": "샌들",
+   "synonym": "las chanclas",
+   "example_es": "No camines descalzo, ponte las sandalias.",
+   "example_ko": "맨발로 걷지 말고 샌들 신으렴.",
+   "tema": "playa"
+ },
+ {
+   "id": 25,
+   "spanish": "el castillo de arena",
+   "korean": "모래성",
+   "synonym": "",
+   "example_es": "Los niños hicieron un castillo de arena.",
+   "example_ko": "아이들이 모래성을 쌓았어.",
+   "tema": "playa"
+ },
+ {
+   "id": 26,
+   "spanish": "la arena",
+   "korean": "모래",
+   "synonym": "",
+   "example_es": "La arena de esta playa es muy blanca.",
+   "example_ko": "이 해변의 모래는 아주 하얘.",
+   "tema": "playa"
+ },
+ {
+   "id": 27,
+   "spanish": "la orilla",
+   "korean": "해변가, 바닷가",
+   "synonym": "",
+   "example_es": "Me gusta caminar por la orilla del mar.",
+   "example_ko": "나는 바닷가를 따라 걷는 걸 좋아해.",
+   "tema": "playa"
+ },
+ {
+   "id": 28,
+   "spanish": "la pala",
+   "korean": "삽",
+   "synonym": "",
+   "example_es": "Usa la pala para cavar un hoyo.",
+   "example_ko": "구멍을 파려면 삽을 써.",
+   "tema": "playa"
+ },
+ {
+   "id": 29,
+   "spanish": "el mar",
+   "korean": "바다",
+   "synonym": "",
+   "example_es": "El agua del mar está muy clara.",
+   "example_ko": "바닷물이 아주 맑아.",
+   "tema": "playa"
+ },
+ {
+   "id": 30,
+   "spanish": "el alga",
+   "korean": "김, 해초",
+   "synonym": "",
+   "example_es": "Hay muchas algas en la orilla hoy.",
+   "example_ko": "오늘 해변가에 해초가 많이 있네.",
+   "tema": "playa"
+ },
+ {
+   "id": 31,
+   "spanish": "el tiburón",
+   "korean": "상어",
+   "synonym": "",
+   "example_es": "Los tiburones viven en aguas profundas.",
+   "example_ko": "상어들은 깊은 바다에 살아.",
+   "tema": "playa"
+ },
+ {
+   "id": 32,
+   "spanish": "el caracol",
+   "korean": "달팽이(소라)",
+   "synonym": "la caracola",
+   "example_es": "Escuché el mar dentro del caracol.",
+   "example_ko": "소라 껍데기 안에서 바다 소리를 들었어.",
+   "tema": "playa"
+ },
+ {
+   "id": 33,
+   "spanish": "la estrella de mar",
+   "korean": "불가사리",
+   "synonym": "",
+   "example_es": "No toques la estrella de mar, es delicada.",
+   "example_ko": "불가사리를 만지지 마, 연약하단다.",
+   "tema": "playa"
+ },
+ {
+   "id": 34,
+   "spanish": "la quemadura de sol",
+   "korean": "햇빛에 탄 자국",
+   "synonym": "la insolación",
+   "example_es": "Tengo una quemadura de sol en la espalda.",
+   "example_ko": "등에 햇빛에 탄 자국이 있어.",
+   "tema": "playa"
+ },
+ {
+   "id": 35,
+   "spanish": "las gafas de sol",
+   "korean": "선글라스",
+   "synonym": "los lentes de sol",
+   "example_es": "Necesito mis gafas de sol, hace mucho brillo.",
+   "example_ko": "눈이 부셔서 선글라스가 필요해.",
+   "tema": "playa"
+ },
+ {
+   "id": 36,
+   "spanish": "el protector solar",
+   "korean": "선크림",
+   "synonym": "el bloqueador",
+   "example_es": "Ponte protector solar cada dos horas.",
+   "example_ko": "두 시간마다 선크림을 바르렴.",
+   "tema": "playa"
+ },
+ {
+   "id": 37,
+   "spanish": "la loción bronceadora",
+   "korean": "선탠로션",
+   "synonym": "el aceite de coco",
+   "example_es": "Ella usa loción bronceadora para estar morena.",
+   "example_ko": "그녀는 피부를 태우려고 선탠로션을 써.",
+   "tema": "playa"
+ },
+ {
+   "id": 38,
+   "spanish": "la piscina",
+   "korean": "수영장",
+   "synonym": "la alberca / la pileta",
+   "example_es": "La piscina del hotel es muy grande.",
+   "example_ko": "호텔 수영장이 아주 커.",
+   "tema": "playa"
+ },
+ {
+   "id": 39,
+   "spanish": "el bañador",
+   "korean": "수영복(트렁크)",
+   "synonym": "la trusa / el short",
+   "example_es": "Mi bañador todavía está mojado.",
+   "example_ko": "내 수영복이 아직 젖어 있어.",
+   "tema": "playa"
+ },
+ {
+   "id": 40,
+   "spanish": "el traje de baño",
+   "korean": "수영복",
+   "synonym": "la malla",
+   "example_es": "Me compré un traje de baño nuevo.",
+   "example_ko": "새 수영복을 하나 샀어.",
+   "tema": "playa"
+ },
+ {
+   "id": 41,
+   "spanish": "la marea",
+   "korean": "조수",
+   "synonym": "",
+   "example_es": "La marea cambia cada pocas horas.",
+   "example_ko": "조수는 몇 시간마다 바뀌어.",
+   "tema": "playa"
+ },
+ {
+   "id": 42,
+   "spanish": "la marea baja",
+   "korean": "썰물",
+   "synonym": "bajamar",
+   "example_es": "Con la marea baja podemos buscar conchas.",
+   "example_ko": "썰물 때 우리는 조개껍데기를 찾을 수 있어.",
+   "tema": "playa"
+ },
+ {
+   "id": 43,
+   "spanish": "la marea alta",
+   "korean": "밀물",
+   "synonym": "pleamar",
+   "example_es": "La marea alta cubrió toda la arena.",
+   "example_ko": "밀물이 모래사장을 다 덮었어.",
+   "tema": "playa"
+ },
+ {
+   "id": 44,
+   "spanish": "la toalla",
+   "korean": "수건",
+   "synonym": "",
+   "example_es": "Seca tu cuerpo con la toalla seca.",
+   "example_ko": "마른 수건으로 몸을 닦으렴.",
+   "tema": "playa"
+ },
+ {
+   "id": 45,
+   "spanish": "la sombrilla",
+   "korean": "파라솔, 양산",
+   "synonym": "el parasol",
+   "example_es": "Pon la sombrilla para tener un poco de sombra.",
+   "example_ko": "그늘을 좀 만들게 파라솔을 설치하자.",
+   "tema": "playa"
+ },
+ {
+   "id": 46,
+   "spanish": "la ola",
+   "korean": "파도",
+   "synonym": "",
+   "example_es": "Me gusta saltar las olas del mar.",
+   "example_ko": "나는 바다 파도를 뛰어넘는 걸 좋아해.",
+   "tema": "playa"
+ },
+ {
+   "id": 47,
+   "spanish": "la moto de agua",
+   "korean": "제트스키",
+   "synonym": "",
+   "example_es": "Alquilamos una moto de agua por una hora.",
+   "example_ko": "우리는 한 시간 동안 제트스키를 빌렸어.",
+   "tema": "playa"
+ },
+ {
+   "id": 48,
+   "spanish": "el faro",
+   "korean": "등대",
+   "synonym": "",
+   "example_es": "El faro guía a los barcos por la noche.",
+   "example_ko": "등대는 밤에 배들을 안내해 줘.",
+   "tema": "playa"
+ },
+ {
+   "id": 49,
+   "spanish": "la tumbona",
+   "korean": "선베드",
+   "synonym": "la reposera",
+   "example_es": "Me quedé dormido en la tumbona.",
+   "example_ko": "나는 선베드에서 잠들었어.",
+   "tema": "playa"
+ },
+ {
+   "id": 50,
+   "spanish": "el paseo marítimo",
+   "korean": "해안 산책로",
+   "synonym": "",
+   "example_es": "Paseamos por el paseo marítimo al atardecer.",
+   "example_ko": "우리는 해 질 녘에 해안 산책로를 걸었어.",
+   "tema": "playa"
+ },
+ {
+   "id": 51,
+   "spanish": "la medusa",
+   "korean": "해파리",
+   "synonym": "la malagua",
+   "example_es": "Cuidado, hay medusas en el agua hoy.",
+   "example_ko": "조심해, 오늘 물속에 해파리가 있어.",
+   "tema": "playa"
+ }
+]

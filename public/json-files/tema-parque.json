@@ -1,0 +1,398 @@
+[
+ {
+   "id": 1,
+   "spanish": "el parque de atracciones",
+   "korean": "놀이공원",
+   "synonym": "el parque de diversiones",
+   "example_es": "Vamos al parque de atracciones el sábado.",
+   "example_ko": "토요일에 놀이공원에 가자.",
+   "tema": "parque"
+ },
+ {
+   "id": 2,
+   "spanish": "la entrada",
+   "korean": "입장권, 티켓",
+   "synonym": "el boleto / el ticket",
+   "example_es": "Compré las entradas por internet.",
+   "example_ko": "인터넷으로 입장권을 샀어.",
+   "tema": "parque"
+ },
+ {
+   "id": 3,
+   "spanish": "la taquilla",
+   "korean": "매표소",
+   "synonym": "la boletería",
+   "example_es": "Hay mucha cola en la taquilla.",
+   "example_ko": "매표소에 줄이 아주 길어.",
+   "tema": "parque"
+ },
+ {
+   "id": 4,
+   "spanish": "la atracción",
+   "korean": "놀이기구",
+   "synonym": "el juego",
+   "example_es": "¿Cuál es tu atracción favorita?",
+   "example_ko": "네가 제일 좋아하는 놀이기구가 뭐야?",
+   "tema": "parque"
+ },
+ {
+   "id": 5,
+   "spanish": "la montaña rusa",
+   "korean": "롤러코스터",
+   "synonym": "",
+   "example_es": "La montaña rusa es muy emocionante.",
+   "example_ko": "롤러코스터는 정말 스릴 있어.",
+   "tema": "parque"
+ },
+ {
+   "id": 6,
+   "spanish": "la noria",
+   "korean": "관람차",
+   "synonym": "la rueda de la fortuna",
+   "example_es": "Las vistas desde la noria son increíbles.",
+   "example_ko": "관람차에서 보는 풍경이 끝내줘.",
+   "tema": "parque"
+ },
+ {
+   "id": 7,
+   "spanish": "el carrusel",
+   "korean": "회전목마",
+   "synonym": "el tiovivo",
+   "example_es": "Los niños montan en el carrusel.",
+   "example_ko": "아이들이 회전목마를 타.",
+   "tema": "parque"
+ },
+ {
+   "id": 8,
+   "spanish": "los coches de choque",
+   "korean": "범퍼카",
+   "synonym": "los carros chocones",
+   "example_es": "Me gusta chocar con los coches de choque.",
+   "example_ko": "나는 범퍼카로 부딪히는 걸 좋아해.",
+   "tema": "parque"
+ },
+ {
+   "id": 9,
+   "spanish": "la casa del terror",
+   "korean": "공포의 집",
+   "synonym": "la casa embrujada",
+   "example_es": "Me da miedo entrar en la casa del terror.",
+   "example_ko": "공포의 집에 들어가는 건 무서워.",
+   "tema": "parque"
+ },
+ {
+   "id": 10,
+   "spanish": "el tobogán",
+   "korean": "미끄럼틀",
+   "synonym": "",
+   "example_es": "El tobogán de agua es muy alto.",
+   "example_ko": "워터 슬라이드(미끄럼틀)가 아주 높아.",
+   "tema": "parque"
+ },
+ {
+   "id": 11,
+   "spanish": "la caída libre",
+   "korean": "자이로드롭, 자유낙하",
+   "synonym": "",
+   "example_es": "La caída libre te deja sin aliento.",
+   "example_ko": "자유낙하는 숨이 턱 막히게 해.",
+   "tema": "parque"
+ },
+ {
+   "id": 12,
+   "spanish": "el barco pirata",
+   "korean": "바이킹, 해적선",
+   "synonym": "",
+   "example_es": "El barco pirata marea un poco.",
+   "example_ko": "바이킹은 약간 멀미가 나.",
+   "tema": "parque"
+ },
+ {
+   "id": 13,
+   "spanish": "el desfile",
+   "korean": "퍼레이드",
+   "synonym": "",
+   "example_es": "El desfile empieza a las ocho.",
+   "example_ko": "퍼레이드는 8시에 시작해.",
+   "tema": "parque"
+ },
+ {
+   "id": 14,
+   "spanish": "los fuegos artificiales",
+   "korean": "불꽃놀이",
+   "synonym": "",
+   "example_es": "Los fuegos artificiales son preciosos.",
+   "example_ko": "불꽃놀이가 정말 아름다워.",
+   "tema": "parque"
+ },
+ {
+   "id": 15,
+   "spanish": "el espectáculo",
+   "korean": "공연, 쇼",
+   "synonym": "",
+   "example_es": "Hay un espectáculo de magia ahora.",
+   "example_ko": "지금 마술 공연이 있어.",
+   "tema": "parque"
+ },
+ {
+   "id": 16,
+   "spanish": "la mascota",
+   "korean": "마스코트",
+   "synonym": "",
+   "example_es": "Hazte una foto con la mascota.",
+   "example_ko": "마스코트와 사진을 찍으렴.",
+   "tema": "parque"
+ },
+ {
+   "id": 17,
+   "spanish": "el algodón de azúcar",
+   "korean": "솜사탕",
+   "synonym": "",
+   "example_es": "El algodón de azúcar es muy dulce.",
+   "example_ko": "솜사탕은 아주 달콤해.",
+   "tema": "parque"
+ },
+ {
+   "id": 18,
+   "spanish": "las palomitas",
+   "korean": "팝콘",
+   "synonym": "el pochoclo / el cotufas",
+   "example_es": "Huele a palomitas recién hechas.",
+   "example_ko": "갓 튀긴 팝콘 냄새가 나.",
+   "tema": "parque"
+ },
+ {
+   "id": 19,
+   "spanish": "el perrito caliente",
+   "korean": "핫도그",
+   "synonym": "el pancho / el hot dog",
+   "example_es": "Quiero un perrito caliente con mostaza.",
+   "example_ko": "머스타드를 곁들인 핫도그 하나 주세요.",
+   "tema": "parque"
+ },
+ {
+   "id": 20,
+   "spanish": "el helado",
+   "korean": "아이스크림",
+   "synonym": "",
+   "example_es": "Me apetece un helado de fresa.",
+   "example_ko": "딸기 아이스크림이 먹고 싶어.",
+   "tema": "parque"
+ },
+ {
+   "id": 21,
+   "spanish": "la manzana caramelizada",
+   "korean": "사과 사탕",
+   "synonym": "",
+   "example_es": "La manzana caramelizada está pegajosa.",
+   "example_ko": "사과 사탕이 끈적거려.",
+   "tema": "parque"
+ },
+ {
+   "id": 22,
+   "spanish": "el refresco",
+   "korean": "탄산음료",
+   "synonym": "la gaseosa / la soda",
+   "example_es": "Pide un refresco con mucho hielo.",
+   "example_ko": "얼음 많이 넣은 탄산음료 하나 주문해 줘.",
+   "tema": "parque"
+ },
+ {
+   "id": 23,
+   "spanish": "la fuente",
+   "korean": "분수",
+   "synonym": "",
+   "example_es": "Nos vemos al lado de la fuente.",
+   "example_ko": "분수대 옆에서 만나자.",
+   "tema": "parque"
+ },
+ {
+   "id": 24,
+   "spanish": "el banco",
+   "korean": "벤치",
+   "synonym": "",
+   "example_es": "Siéntate en el banco a descansar.",
+   "example_ko": "벤치에 앉아서 좀 쉬렴.",
+   "tema": "parque"
+ },
+ {
+   "id": 25,
+   "spanish": "la papelera",
+   "korean": "쓰레기통",
+   "synonym": "el basurero",
+   "example_es": "Tira el papel en la papelera.",
+   "example_ko": "종이를 쓰레기통에 버리렴.",
+   "tema": "parque"
+ },
+ {
+   "id": 26,
+   "spanish": "el aseo",
+   "korean": "화장실",
+   "synonym": "el baño",
+   "example_es": "¿Dónde están los aseos más cercanos?",
+   "example_ko": "가장 가까운 화장실이 어디예요?",
+   "tema": "parque"
+ },
+ {
+   "id": 27,
+   "spanish": "el mapa",
+   "korean": "지도",
+   "synonym": "",
+   "example_es": "Mira el mapa para encontrar la salida.",
+   "example_ko": "출구를 찾으려면 지도를 봐.",
+   "tema": "parque"
+ },
+ {
+   "id": 28,
+   "spanish": "la salida",
+   "korean": "출구",
+   "synonym": "",
+   "example_es": "La salida está detrás de la tienda.",
+   "example_ko": "출구는 상점 뒤에 있어.",
+   "tema": "parque"
+ },
+ {
+   "id": 29,
+   "spanish": "la fila",
+   "korean": "줄",
+   "synonym": "la cola",
+   "example_es": "La fila para el carrusel es corta.",
+   "example_ko": "회전목마 줄은 짧아.",
+   "tema": "parque"
+ },
+ {
+   "id": 30,
+   "spanish": "el tiempo de espera",
+   "korean": "대기 시간",
+   "synonym": "",
+   "example_es": "El tiempo de espera es de una hora.",
+   "example_ko": "대기 시간은 한 시간이야.",
+   "tema": "parque"
+ },
+ {
+   "id": 31,
+   "spanish": "la estatura mínima",
+   "korean": "최소 신장",
+   "synonym": "",
+   "example_es": "Hay una estatura mínima para subir.",
+   "example_ko": "탑승을 위한 최소 키 제한이 있어.",
+   "tema": "parque"
+ },
+ {
+   "id": 32,
+   "spanish": "el cinturón de seguridad",
+   "korean": "안전벨트",
+   "synonym": "",
+   "example_es": "Abróchate el cinturón de seguridad.",
+   "example_ko": "안전벨트를 매렴.",
+   "tema": "parque"
+ },
+ {
+   "id": 33,
+   "spanish": "la barrera de seguridad",
+   "korean": "안전 바",
+   "synonym": "",
+   "example_es": "Baja la barrera de seguridad, por favor.",
+   "example_ko": "안전 바를 내려 주세요.",
+   "tema": "parque"
+ },
+ {
+   "id": 34,
+   "spanish": "el mareo",
+   "korean": "멀미",
+   "synonym": "",
+   "example_es": "Tengo un poco de mareo tras la noria.",
+   "example_ko": "관람차를 타고 나서 약간 멀미가 나.",
+   "tema": "parque"
+ },
+ {
+   "id": 35,
+   "spanish": "el grito",
+   "korean": "비명",
+   "synonym": "",
+   "example_es": "Se oyen gritos desde la montaña rusa.",
+   "example_ko": "롤러코스터에서 비명 소리가 들려.",
+   "tema": "parque"
+ },
+ {
+   "id": 36,
+   "spanish": "la adrenalina",
+   "korean": "아드레날린",
+   "synonym": "",
+   "example_es": "Siento mucha adrenalina al bajar.",
+   "example_ko": "내려올 때 아드레날린이 솟구쳐.",
+   "tema": "parque"
+ },
+ {
+   "id": 37,
+   "spanish": "la risa",
+   "korean": "웃음",
+   "synonym": "",
+   "example_es": "El parque está lleno de risas.",
+   "example_ko": "공원이 웃음소리로 가득해.",
+   "tema": "parque"
+ },
+ {
+   "id": 38,
+   "spanish": "la diversión",
+   "korean": "즐거움, 재미",
+   "synonym": "",
+   "example_es": "La diversión está garantizada aquí.",
+   "example_ko": "여기서는 즐거움이 보장돼 있어.",
+   "tema": "parque"
+ },
+ {
+   "id": 39,
+   "spanish": "el recuerdo",
+   "korean": "기념품, 추억",
+   "synonym": "el souvenir",
+   "example_es": "Compré un recuerdo en la tienda.",
+   "example_ko": "상점에서 기념품을 하나 샀어.",
+   "tema": "parque"
+ },
+ {
+   "id": 40,
+   "spanish": "la pulsera",
+   "korean": "팔찌 (자유이용권 등)",
+   "synonym": "",
+   "example_es": "No te quites la pulsera del parque.",
+   "example_ko": "공원 팔찌를 빼지 마렴.",
+   "tema": "parque"
+ },
+ {
+   "id": 41,
+   "spanish": "el pase VIP",
+   "korean": "VIP 패스",
+   "synonym": "",
+   "example_es": "Con el pase VIP no hay colas.",
+   "example_ko": "VIP 패스가 있으면 줄을 안 서도 돼.",
+   "tema": "parque"
+ },
+ {
+   "id": 42,
+   "spanish": "el quiosco",
+   "korean": "가판대",
+   "synonym": "",
+   "example_es": "Hay un quiosco de prensa a la entrada.",
+   "example_ko": "입구에 신문 가판대가 있어.",
+   "tema": "parque"
+ },
+ {
+   "id": 43,
+   "spanish": "el puesto de comida",
+   "korean": "음식 가판대",
+   "synonym": "",
+   "example_es": "El puesto de comida vende nachos.",
+   "example_ko": "음식 가판대에서 나초를 팔아.",
+   "tema": "parque"
+ },
+ {
+   "id": 44,
+   "spanish": "la zona infantil",
+   "korean": "어린이 구역",
+   "synonym": "",
+   "example_es": "La zona infantil está a la derecha.",
+   "example_ko": "어린이 구역은 오른쪽에 있어.",
+   "tema": "parque"
+ }
+]

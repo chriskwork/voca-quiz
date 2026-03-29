@@ -1,0 +1,362 @@
+[
+ {
+   "id": 1,
+   "spanish": "la verdura",
+   "korean": "채소",
+   "synonym": "el vegetal",
+   "example_es": "Comer mucha verdura es sano.",
+   "example_ko": "채소를 많이 먹는 것은 건강에 좋아.",
+   "tema": "verdura"
+ },
+ {
+   "id": 2,
+   "spanish": "la hortaliza",
+   "korean": "원예 채소",
+   "synonym": "",
+   "example_es": "Las hortalizas frescas son mejores.",
+   "example_ko": "신선한 원예 채소들이 더 좋아.",
+   "tema": "verdura"
+ },
+ {
+   "id": 3,
+   "spanish": "la berenjena",
+   "korean": "가지",
+   "synonym": "",
+   "example_es": "Me gusta la berenjena asada.",
+   "example_ko": "나는 구운 가지를 좋아해.",
+   "tema": "verdura"
+ },
+ {
+   "id": 4,
+   "spanish": "el calabacín",
+   "korean": "애호박",
+   "synonym": "el zapallito",
+   "example_es": "El calabacín está muy tierno.",
+   "example_ko": "애호박이 아주 연해.",
+   "tema": "verdura"
+ },
+ {
+   "id": 5,
+   "spanish": "la calabaza",
+   "korean": "호박",
+   "synonym": "el zapallo",
+   "example_es": "Hice una crema de calabaza.",
+   "example_ko": "호박 스프를 만들었어.",
+   "tema": "verdura"
+ },
+ {
+   "id": 6,
+   "spanish": "el pepino",
+   "korean": "오이",
+   "synonym": "",
+   "example_es": "El pepino es muy refrescante.",
+   "example_ko": "오이는 아주 시원해.",
+   "tema": "verdura"
+ },
+ {
+   "id": 7,
+   "spanish": "el pimiento",
+   "korean": "피망, 고추",
+   "synonym": "",
+   "example_es": "El pimiento rojo es dulce.",
+   "example_ko": "빨간 피망은 달콤해.",
+   "tema": "verdura"
+ },
+ {
+   "id": 8,
+   "spanish": "el chile",
+   "korean": "고추 (매운)",
+   "synonym": "el ají",
+   "example_es": "Este chile pica mucho.",
+   "example_ko": "이 고추는 아주 매워.",
+   "tema": "verdura"
+ },
+ {
+   "id": 9,
+   "spanish": "el tomate",
+   "korean": "토마토",
+   "synonym": "",
+   "example_es": "El tomate es ingrediente básico.",
+   "example_ko": "토마토는 기본 식재료야.",
+   "tema": "verdura"
+ },
+ {
+   "id": 10,
+   "spanish": "la zanahoria",
+   "korean": "당근",
+   "synonym": "",
+   "example_es": "La zanahoria es buena para la vista.",
+   "example_ko": "당근은 시력에 좋아.",
+   "tema": "verdura"
+ },
+ {
+   "id": 11,
+   "spanish": "la patata",
+   "korean": "감자",
+   "synonym": "la papa",
+   "example_es": "Quiero patatas fritas, por favor.",
+   "example_ko": "감자튀김 주세요.",
+   "tema": "verdura"
+ },
+ {
+   "id": 12,
+   "spanish": "la batata",
+   "korean": "고구마",
+   "synonym": "el camote / el boniato",
+   "example_es": "La batata asada es dulce.",
+   "example_ko": "구운 고구마는 달콤해.",
+   "tema": "verdura"
+ },
+ {
+   "id": 13,
+   "spanish": "la cebolla",
+   "korean": "양파",
+   "synonym": "",
+   "example_es": "Pica la cebolla finamente.",
+   "example_ko": "양파를 잘게 다지렴.",
+   "tema": "verdura"
+ },
+ {
+   "id": 14,
+   "spanish": "el ajo",
+   "korean": "마늘",
+   "synonym": "",
+   "example_es": "El ajo da mucho sabor.",
+   "example_ko": "마늘은 풍미를 많이 줘.",
+   "tema": "verdura"
+ },
+ {
+   "id": 15,
+   "spanish": "el puerro",
+   "korean": "대파, 리크",
+   "synonym": "",
+   "example_es": "El puerro es bueno para el caldo.",
+   "example_ko": "대파는 육수 내기에 좋아.",
+   "tema": "verdura"
+ },
+ {
+   "id": 16,
+   "spanish": "el cebollino",
+   "korean": "쪽파, 부추",
+   "synonym": "",
+   "example_es": "Decora el plato con cebollino.",
+   "example_ko": "쪽파로 요리를 장식해.",
+   "tema": "verdura"
+ },
+ {
+   "id": 17,
+   "spanish": "el rábano",
+   "korean": "무, 빨간무",
+   "synonym": "",
+   "example_es": "El rábano es un poco picante.",
+   "example_ko": "무는 약간 매콤해.",
+   "tema": "verdura"
+ },
+ {
+   "id": 18,
+   "spanish": "la lechuga",
+   "korean": "상추",
+   "synonym": "",
+   "example_es": "Lava bien la lechuga.",
+   "example_ko": "상추를 잘 씻으렴.",
+   "tema": "verdura"
+ },
+ {
+   "id": 19,
+   "spanish": "la col",
+   "korean": "양배추",
+   "synonym": "el repollo",
+   "example_es": "La col es buena para la ensalada.",
+   "example_ko": "양배추는 샐러드에 좋아.",
+   "tema": "verdura"
+ },
+ {
+   "id": 20,
+   "spanish": "la coliflor",
+   "korean": "콜리플라워",
+   "synonym": "",
+   "example_es": "La coliflor parece una nube.",
+   "example_ko": "콜리플라워는 구름처럼 생겼어.",
+   "tema": "verdura"
+ },
+ {
+   "id": 21,
+   "spanish": "el brócoli",
+   "korean": "브로콜리",
+   "synonym": "",
+   "example_es": "El brócoli tiene mucha vitamina.",
+   "example_ko": "브로콜리는 비타민이 많아.",
+   "tema": "verdura"
+ },
+ {
+   "id": 22,
+   "spanish": "la espinaca",
+   "korean": "시금치",
+   "synonym": "",
+   "example_es": "Come espinaca como Popeye.",
+   "example_ko": "뽀빠이처럼 시금치를 먹으렴.",
+   "tema": "verdura"
+ },
+ {
+   "id": 23,
+   "spanish": "el espárrago",
+   "korean": "아스파라거스",
+   "synonym": "",
+   "example_es": "El espárrago a la plancha es rico.",
+   "example_ko": "구운 아스파라거스는 맛있어.",
+   "tema": "verdura"
+ },
+ {
+   "id": 24,
+   "spanish": "el apio",
+   "korean": "셀러리",
+   "synonym": "",
+   "example_es": "El apio es muy diurético.",
+   "example_ko": "셀러리는 이뇨 작용에 좋아.",
+   "tema": "verdura"
+ },
+ {
+   "id": 25,
+   "spanish": "la alcachofa",
+   "korean": "아티초크",
+   "synonym": "",
+   "example_es": "La alcachofa es difícil de pelar.",
+   "example_ko": "아티초크는 껍질 까기가 힘들어.",
+   "tema": "verdura"
+ },
+ {
+   "id": 26,
+   "spanish": "el champiñón",
+   "korean": "양송이 버섯",
+   "synonym": "el hongo",
+   "example_es": "Me encantan los champiñones.",
+   "example_ko": "나는 양송이 버섯을 정말 좋아해.",
+   "tema": "verdura"
+ },
+ {
+   "id": 27,
+   "spanish": "la seta",
+   "korean": "버섯 (야생/식용)",
+   "synonym": "",
+   "example_es": "Fuimos al bosque a buscar setas.",
+   "example_ko": "우리는 버섯을 찾으러 숲에 갔어.",
+   "tema": "verdura"
+ },
+ {
+   "id": 28,
+   "spanish": "el maíz",
+   "korean": "옥수수",
+   "synonym": "el choclo / el elote",
+   "example_es": "El maíz dulce está riquísimo.",
+   "example_ko": "단옥수수는 정말 맛있어.",
+   "tema": "verdura"
+ },
+ {
+   "id": 29,
+   "spanish": "el guisante",
+   "korean": "완두콩",
+   "synonym": "la arveja / el chícharo",
+   "example_es": "Añade unos guisantes al arroz.",
+   "example_ko": "밥에 완두콩을 좀 넣으렴.",
+   "tema": "verdura"
+ },
+ {
+   "id": 30,
+   "spanish": "la judía verde",
+   "korean": "그린빈, 꼬투리콩",
+   "synonym": "el ejote / la chaucha",
+   "example_es": "La judía verde es muy nutritiva.",
+   "example_ko": "그린빈은 영양가가 높아.",
+   "tema": "verdura"
+ },
+ {
+   "id": 31,
+   "spanish": "la haba",
+   "korean": "잠두, 넓적콩",
+   "synonym": "",
+   "example_es": "Las habas fritas son un aperitivo.",
+   "example_ko": "튀긴 잠두콩은 안주야.",
+   "tema": "verdura"
+ },
+ {
+   "id": 32,
+   "spanish": "la lenteja",
+   "korean": "렌틸콩",
+   "synonym": "",
+   "example_es": "La sopa de lentejas alimenta mucho.",
+   "example_ko": "렌틸콩 수프는 든든해.",
+   "tema": "verdura"
+ },
+ {
+   "id": 33,
+   "spanish": "el garbanzo",
+   "korean": "병아리콩",
+   "synonym": "",
+   "example_es": "El garbanzo es la base del humus.",
+   "example_ko": "병아리콩은 후무스의 기본이야.",
+   "tema": "verdura"
+ },
+ {
+   "id": 34,
+   "spanish": "la alubia",
+   "korean": "강낭콩, 흰콩",
+   "synonym": "el frijol / la poroto",
+   "example_es": "La alubia blanca es para el guiso.",
+   "example_ko": "흰 강낭콩은 찜 요리용이야.",
+   "tema": "verdura"
+ },
+ {
+   "id": 35,
+   "spanish": "el jengibre",
+   "korean": "생강",
+   "synonym": "",
+   "example_es": "El té de jengibre es bueno para el resfriado.",
+   "example_ko": "생강차는 감기에 좋아.",
+   "tema": "verdura"
+ },
+ {
+   "id": 36,
+   "spanish": "la rúcula",
+   "korean": "루콜라",
+   "synonym": "",
+   "example_es": "La rúcula da un toque amargo.",
+   "example_ko": "루콜라는 쌉싸름한 맛을 줘.",
+   "tema": "verdura"
+ },
+ {
+   "id": 37,
+   "spanish": "la remolacha",
+   "korean": "비트",
+   "synonym": "",
+   "example_es": "La remolacha tiñe todo de rojo.",
+   "example_ko": "비트는 모든 걸 빨갛게 물들여.",
+   "tema": "verdura"
+ },
+ {
+   "id": 38,
+   "spanish": "el nabo",
+   "korean": "순무",
+   "synonym": "",
+   "example_es": "El nabo se usa en el cocido.",
+   "example_ko": "순무는 고기 삶는 요리에 쓰여.",
+   "tema": "verdura"
+ },
+ {
+   "id": 39,
+   "spanish": "el perejil",
+   "korean": "파슬리",
+   "synonym": "",
+   "example_es": "Esparce perejil por encima.",
+   "example_ko": "위에 파슬리를 뿌리렴.",
+   "tema": "verdura"
+ },
+ {
+   "id": 40,
+   "spanish": "el cilantro",
+   "korean": "고수",
+   "synonym": "",
+   "example_es": "El cilantro es esencial en el taco.",
+   "example_ko": "고수는 타코에 필수야.",
+   "tema": "verdura"
+ }
+]

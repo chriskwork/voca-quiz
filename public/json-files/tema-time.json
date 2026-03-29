@@ -1,0 +1,407 @@
+[
+ {
+   "id": 1,
+   "spanish": "el tiempo",
+   "korean": "시간, 날씨",
+   "synonym": "",
+   "example_es": "El tiempo pasa volando.",
+   "example_ko": "시간이 화살같이 지나가.",
+   "tema": "time"
+ },
+ {
+   "id": 2,
+   "spanish": "el segundo",
+   "korean": "초",
+   "synonym": "",
+   "example_es": "Espera un segundo, por favor.",
+   "example_ko": "잠시만 기다려 주세요.",
+   "tema": "time"
+ },
+ {
+   "id": 3,
+   "spanish": "el minuto",
+   "korean": "분",
+   "synonym": "",
+   "example_es": "Tengo una reunión en diez minutos.",
+   "example_ko": "10분 후에 회의가 있어.",
+   "tema": "time"
+ },
+ {
+   "id": 4,
+   "spanish": "la hora",
+   "korean": "시간, 시",
+   "synonym": "",
+   "example_es": "¿Qué hora es ahora mismo?",
+   "example_ko": "지금 몇 시야?",
+   "tema": "time"
+ },
+ {
+   "id": 5,
+   "spanish": "el día",
+   "korean": "일, 낮",
+   "synonym": "",
+   "example_es": "Hoy es un día muy caluroso.",
+   "example_ko": "오늘은 아주 더운 날이야.",
+   "tema": "time"
+ },
+ {
+   "id": 6,
+   "spanish": "la semana",
+   "korean": "주",
+   "synonym": "",
+   "example_es": "Nos vemos la semana que viene.",
+   "example_ko": "다음 주에 만나자.",
+   "tema": "time"
+ },
+ {
+   "id": 7,
+   "spanish": "el mes",
+   "korean": "달, 월",
+   "synonym": "",
+   "example_es": "Febrero es el mes más corto.",
+   "example_ko": "2월은 가장 짧은 달이야.",
+   "tema": "time"
+ },
+ {
+   "id": 8,
+   "spanish": "el año",
+   "korean": "해, 년",
+   "synonym": "",
+   "example_es": "Este año voy a aprender español.",
+   "example_ko": "올해는 스페인어를 배울 거야.",
+   "tema": "time"
+ },
+ {
+   "id": 9,
+   "spanish": "la década",
+   "korean": "십 년",
+   "synonym": "",
+   "example_es": "La tecnología cambió mucho en una década.",
+   "example_ko": "10년 동안 기술이 많이 변했어.",
+   "tema": "time"
+ },
+ {
+   "id": 10,
+   "spanish": "el siglo",
+   "korean": "세기",
+   "synonym": "",
+   "example_es": "Estamos en el siglo veintiuno.",
+   "example_ko": "우리는 21세기에 살고 있어.",
+   "tema": "time"
+ },
+ {
+   "id": 11,
+   "spanish": "el milenio",
+   "korean": "천 년",
+   "synonym": "",
+   "example_es": "El nuevo milenio empezó en el año 2000.",
+   "example_ko": "새로운 밀레니엄은 2000년에 시작됐어.",
+   "tema": "time"
+ },
+ {
+   "id": 12,
+   "spanish": "la mañana",
+   "korean": "아침",
+   "synonym": "",
+   "example_es": "Me levanto temprano por la mañana.",
+   "example_ko": "나는 아침에 일찍 일어나.",
+   "tema": "time"
+ },
+ {
+   "id": 13,
+   "spanish": "el mediodía",
+   "korean": "정오",
+   "synonym": "",
+   "example_es": "Almorzamos siempre al mediodía.",
+   "example_ko": "우리는 항상 정오에 점심을 먹어.",
+   "tema": "time"
+ },
+ {
+   "id": 14,
+   "spanish": "la tarde",
+   "korean": "오후",
+   "synonym": "",
+   "example_es": "¿Qué vas a hacer esta tarde?",
+   "example_ko": "오늘 오후에 뭐 할 거야?",
+   "tema": "time"
+ },
+ {
+   "id": 15,
+   "spanish": "la noche",
+   "korean": "밤",
+   "synonym": "",
+   "example_es": "Buenas noches, que descanses.",
+   "example_ko": "안녕히 주무세요, 잘 쉬어.",
+   "tema": "time"
+ },
+ {
+   "id": 16,
+   "spanish": "la medianoche",
+   "korean": "자정",
+   "synonym": "",
+   "example_es": "El tren sale a la medianoche.",
+   "example_ko": "기차는 자정에 출발해.",
+   "tema": "time"
+ },
+ {
+   "id": 17,
+   "spanish": "el amanecer",
+   "korean": "새벽, 일출",
+   "synonym": "el alba",
+   "example_es": "El amanecer en la playa es precioso.",
+   "example_ko": "해변의 일출은 정말 아름다워.",
+   "tema": "time"
+ },
+ {
+   "id": 18,
+   "spanish": "el atardecer",
+   "korean": "해 질 녘, 일몰",
+   "synonym": "el ocaso",
+   "example_es": "Me gusta pasear al atardecer.",
+   "example_ko": "나는 해 질 녘에 산책하는 걸 좋아해.",
+   "tema": "time"
+ },
+ {
+   "id": 19,
+   "spanish": "la primavera",
+   "korean": "봄",
+   "synonym": "",
+   "example_es": "La primavera la sangre altera.",
+   "example_ko": "봄이 오면 마음이 설레.",
+   "tema": "time"
+ },
+ {
+   "id": 20,
+   "spanish": "el verano",
+   "korean": "여름",
+   "synonym": "",
+   "example_es": "En verano hace mucho calor.",
+   "example_ko": "여름에는 아주 더워.",
+   "tema": "time"
+ },
+ {
+   "id": 21,
+   "spanish": "el otoño",
+   "korean": "가을",
+   "synonym": "",
+   "example_es": "Las hojas caen en otoño.",
+   "example_ko": "가을에는 잎들이 떨어져.",
+   "tema": "time"
+ },
+ {
+   "id": 22,
+   "spanish": "el invierno",
+   "korean": "겨울",
+   "synonym": "",
+   "example_es": "Me gusta esquiar en invierno.",
+   "example_ko": "나는 겨울에 스키 타는 걸 좋아해.",
+   "tema": "time"
+ },
+ {
+   "id": 23,
+   "spanish": "lunes",
+   "korean": "월요일",
+   "synonym": "",
+   "example_es": "El lunes empiezo la dieta.",
+   "example_ko": "월요일에 다이어트를 시작할 거야.",
+   "tema": "time"
+ },
+ {
+   "id": 24,
+   "spanish": "martes",
+   "korean": "화요일",
+   "synonym": "",
+   "example_es": "El martes tengo clase de piano.",
+   "example_ko": "화요일에 피아노 수업이 있어.",
+   "tema": "time"
+ },
+ {
+   "id": 25,
+   "spanish": "miércoles",
+   "korean": "수요일",
+   "synonym": "",
+   "example_es": "El miércoles es el mitad de semana.",
+   "example_ko": "수요일은 주의 중간이야.",
+   "tema": "time"
+ },
+ {
+   "id": 26,
+   "spanish": "jueves",
+   "korean": "목요일",
+   "synonym": "",
+   "example_es": "Los jueves salgo a correr.",
+   "example_ko": "목요일마다 나는 달리기하러 나가.",
+   "tema": "time"
+ },
+ {
+   "id": 27,
+   "spanish": "viernes",
+   "korean": "금요일",
+   "synonym": "",
+   "example_es": "¡Por fin es viernes!",
+   "example_ko": "드디어 금요일이다!",
+   "tema": "time"
+ },
+ {
+   "id": 28,
+   "spanish": "sábado",
+   "korean": "토요일",
+   "synonym": "",
+   "example_es": "El sábado voy al cine.",
+   "example_ko": "토요일에 영화관에 갈 거야.",
+   "tema": "time"
+ },
+ {
+   "id": 29,
+   "spanish": "domingo",
+   "korean": "일요일",
+   "synonym": "",
+   "example_es": "El domingo es para descansar.",
+   "example_ko": "일요일은 쉬는 날이야.",
+   "tema": "time"
+ },
+ {
+   "id": 30,
+   "spanish": "el fin de semana",
+   "korean": "주말",
+   "synonym": "el finde",
+   "example_es": "¿Qué planes tienes para el fin de semana?",
+   "example_ko": "주말에 무슨 계획 있어?",
+   "tema": "time"
+ },
+ {
+   "id": 31,
+   "spanish": "ayer",
+   "korean": "어제",
+   "synonym": "",
+   "example_es": "Ayer estuve muy cansado.",
+   "example_ko": "어제 나는 아주 피곤했어.",
+   "tema": "time"
+ },
+ {
+   "id": 32,
+   "spanish": "hoy",
+   "korean": "오늘",
+   "synonym": "",
+   "example_es": "Hoy es un buen día para empezar.",
+   "example_ko": "오늘은 시작하기 좋은 날이야.",
+   "tema": "time"
+ },
+ {
+   "id": 33,
+   "spanish": "mañana",
+   "korean": "내일",
+   "synonym": "",
+   "example_es": "Mañana será otro día.",
+   "example_ko": "내일은 내일의 태양이 뜰 거야.",
+   "tema": "time"
+ },
+ {
+   "id": 34,
+   "spanish": "pasado mañana",
+   "korean": "모레",
+   "synonym": "",
+   "example_es": "Te veo pasado mañana.",
+   "example_ko": "모레 보자.",
+   "tema": "time"
+ },
+ {
+   "id": 35,
+   "spanish": "anteayer",
+   "korean": "그저께",
+   "synonym": "",
+   "example_es": "Anteayer fuimos al museo.",
+   "example_ko": "그저께 우리는 박물관에 갔어.",
+   "tema": "time"
+ },
+ {
+   "id": 36,
+   "spanish": "la fecha",
+   "korean": "날짜",
+   "synonym": "",
+   "example_es": "¿Cuál es la fecha de tu cumpleaños?",
+   "example_ko": "네 생일 날짜가 언제니?",
+   "tema": "time"
+ },
+ {
+   "id": 37,
+   "spanish": "el calendario",
+   "korean": "달력",
+   "synonym": "",
+   "example_es": "Apunta la cita en el calendario.",
+   "example_ko": "달력에 약속을 적어두렴.",
+   "tema": "time"
+ },
+ {
+   "id": 38,
+   "spanish": "el reloj",
+   "korean": "시계",
+   "synonym": "",
+   "example_es": "Mi reloj se ha parado.",
+   "example_ko": "내 시계가 멈췄어.",
+   "tema": "time"
+ },
+ {
+   "id": 39,
+   "spanish": "el horario",
+   "korean": "시간표",
+   "synonym": "",
+   "example_es": "El horario de trabajo es flexible.",
+   "example_ko": "업무 시간표가 유동적이야.",
+   "tema": "time"
+ },
+ {
+   "id": 40,
+   "spanish": "la época",
+   "korean": "시기, 시대",
+   "synonym": "",
+   "example_es": "En aquella época no había internet.",
+   "example_ko": "그 시기에는 인터넷이 없었어.",
+   "tema": "time"
+ },
+ {
+   "id": 41,
+   "spanish": "la puntualidad",
+   "korean": "시간 엄수",
+   "synonym": "",
+   "example_es": "La puntualidad es muy importante aquí.",
+   "example_ko": "시간 엄수는 여기서 아주 중요해.",
+   "tema": "time"
+ },
+ {
+   "id": 42,
+   "spanish": "el retraso",
+   "korean": "지연, 늦음",
+   "synonym": "la demora",
+   "example_es": "El vuelo tiene dos horas de retraso.",
+   "example_ko": "비행기가 2시간 지연됐어.",
+   "tema": "time"
+ },
+ {
+   "id": 43,
+   "spanish": "temprano",
+   "korean": "일찍",
+   "synonym": "",
+   "example_es": "Hoy me desperté muy temprano.",
+   "example_ko": "오늘 나는 아주 일찍 일어났어.",
+   "tema": "time"
+ },
+ {
+   "id": 44,
+   "spanish": "tarde",
+   "korean": "늦게",
+   "synonym": "",
+   "example_es": "Llegaste tarde a la cita.",
+   "example_ko": "너 약속에 늦었어.",
+   "tema": "time"
+ },
+ {
+   "id": 45,
+   "spanish": "en punto",
+   "korean": "정각에",
+   "synonym": "",
+   "example_es": "La clase empieza a las nueve en punto.",
+   "example_ko": "수업은 9시 정각에 시작해.",
+   "tema": "time"
+ }
+]

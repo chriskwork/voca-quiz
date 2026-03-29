@@ -1,0 +1,722 @@
+[
+ {
+   "id": 1,
+   "spanish": "el hospital",
+   "korean": "병원",
+   "synonym": "",
+   "example_es": "El hospital más cercano está a dos manzanas.",
+   "example_ko": "가장 가까운 병원은 두 블록 거리에 있어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 2,
+   "spanish": "la clínica",
+   "korean": "클리닉, 개인 병원",
+   "synonym": "",
+   "example_es": "Fui a la clínica para un chequeo.",
+   "example_ko": "검진을 받으러 클리닉에 갔어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 3,
+   "spanish": "el centro de salud",
+   "korean": "보건소",
+   "synonym": "",
+   "example_es": "El centro de salud abre a las ocho.",
+   "example_ko": "보건소는 8시에 문을 열어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 4,
+   "spanish": "el médico / la médica",
+   "korean": "의사",
+   "synonym": "el doctor",
+   "example_es": "El médico me recetó un jarabe.",
+   "example_ko": "의사가 시럽(물약)을 처방해 줬어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 5,
+   "spanish": "el enfermero / la enfermera",
+   "korean": "간호사",
+   "synonym": "",
+   "example_es": "La enfermera me tomó la tensión.",
+   "example_ko": "간호사가 내 혈압을 쟀어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 6,
+   "spanish": "el cirujano / la cirujana",
+   "korean": "외과의사",
+   "synonym": "",
+   "example_es": "El cirujano realizó la operación con éxito.",
+   "example_ko": "외과의사가 수술을 성공적으로 마쳤어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 7,
+   "spanish": "el dentista / la dentista",
+   "korean": "치과의사",
+   "synonym": "el odontólogo",
+   "example_es": "Tengo cita con el dentista mañana.",
+   "example_ko": "내일 치과 예약이 있어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 8,
+   "spanish": "el farmacéutico / la farmacéutica",
+   "korean": "약사",
+   "synonym": "",
+   "example_es": "Pregúntale al farmacéutico sobre este medicamento.",
+   "example_ko": "이 약에 대해서 약사에게 물어보렴.",
+   "tema": "hospital"
+ },
+ {
+   "id": 9,
+   "spanish": "el paciente / la paciente",
+   "korean": "환자",
+   "synonym": "",
+   "example_es": "El paciente está esperando en la sala.",
+   "example_ko": "환자가 대기실에서 기다리고 있어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 10,
+   "spanish": "la sala de espera",
+   "korean": "대기실",
+   "synonym": "",
+   "example_es": "La sala de espera está llena de gente.",
+   "example_ko": "대기실에 사람들이 가득해.",
+   "tema": "hospital"
+ },
+ {
+   "id": 11,
+   "spanish": "la consulta",
+   "korean": "진찰실, 진료",
+   "synonym": "el consultorio",
+   "example_es": "Entra en la consulta cuando te llamen.",
+   "example_ko": "이름을 부르면 진찰실로 들어가렴.",
+   "tema": "hospital"
+ },
+ {
+   "id": 12,
+   "spanish": "la receta",
+   "korean": "처방전",
+   "synonym": "",
+   "example_es": "Lleva la receta a la farmacia.",
+   "example_ko": "처방전을 약국에 가져가렴.",
+   "tema": "hospital"
+ },
+ {
+   "id": 13,
+   "spanish": "el medicamento",
+   "korean": "약",
+   "synonym": "la medicina",
+   "example_es": "Tómate el medicamento después de comer.",
+   "example_ko": "식후에 약을 복용하렴.",
+   "tema": "hospital"
+ },
+ {
+   "id": 14,
+   "spanish": "la pastilla",
+   "korean": "알약",
+   "synonym": "el comprimido",
+   "example_es": "Me cuesta tragar la pastilla.",
+   "example_ko": "알약을 삼키기가 힘들어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 15,
+   "spanish": "el jarabe",
+   "korean": "시럽, 물약",
+   "synonym": "",
+   "example_es": "El jarabe para la tos es dulce.",
+   "example_ko": "기침 시럽은 달콤해.",
+   "tema": "hospital"
+ },
+ {
+   "id": 16,
+   "spanish": "la inyección",
+   "korean": "주사",
+   "synonym": "el pinchazo",
+   "example_es": "La inyección no me dolió nada.",
+   "example_ko": "주사는 하나도 아프지 않았어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 17,
+   "spanish": "la vacuna",
+   "korean": "백신",
+   "synonym": "",
+   "example_es": "La vacuna es importante para la salud.",
+   "example_ko": "백신은 건강에 중요해.",
+   "tema": "hospital"
+ },
+ {
+   "id": 18,
+   "spanish": "el análisis de sangre",
+   "korean": "혈액 검사",
+   "synonym": "",
+   "example_es": "Mañana tengo un análisis de sangre.",
+   "example_ko": "내일 혈액 검사가 있어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 19,
+   "spanish": "la radiografía",
+   "korean": "엑스레이",
+   "synonym": "el rayos X",
+   "example_es": "Me hicieron una radiografía del pie.",
+   "example_ko": "발 엑스레이를 찍었어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 20,
+   "spanish": "la ecografía",
+   "korean": "초음파 검사",
+   "synonym": "el ultrasonido",
+   "example_es": "La ecografía mostró que todo está bien.",
+   "example_ko": "초음파 검사 결과 모든 게 정상이었어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 21,
+   "spanish": "la operación",
+   "korean": "수술",
+   "synonym": "la cirugía",
+   "example_es": "La operación duró tres horas.",
+   "example_ko": "수술은 세 시간 동안 계속됐어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 22,
+   "spanish": "la herida",
+   "korean": "상처",
+   "synonym": "",
+   "example_es": "Limpia la herida con alcohol.",
+   "example_ko": "상처를 알코올로 소독하렴.",
+   "tema": "hospital"
+ },
+ {
+   "id": 23,
+   "spanish": "la cicatriz",
+   "korean": "흉터",
+   "synonym": "",
+   "example_es": "La cicatriz se borró con el tiempo.",
+   "example_ko": "흉터는 시간이 지나면서 사라졌어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 24,
+   "spanish": "la venda",
+   "korean": "붕대",
+   "synonym": "",
+   "example_es": "Me pusieron una venda en el brazo.",
+   "example_ko": "팔에 붕대를 감아 주었어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 25,
+   "spanish": "la tirita",
+   "korean": "반창고",
+   "synonym": "el curita",
+   "example_es": "Ponte una tirita en el corte.",
+   "example_ko": "베인 곳에 반창고를 붙이렴.",
+   "tema": "hospital"
+ },
+ {
+   "id": 26,
+   "spanish": "el yeso",
+   "korean": "석고, 깁스",
+   "synonym": "la escayola",
+   "example_es": "Llevo el brazo enyesado.",
+   "example_ko": "나는 팔에 깁스를 하고 있어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 27,
+   "spanish": "la fiebre",
+   "korean": "열",
+   "synonym": "",
+   "example_es": "Tengo mucha fiebre hoy.",
+   "example_ko": "오늘 열이 많이 나네.",
+   "tema": "hospital"
+ },
+ {
+   "id": 28,
+   "spanish": "la tos",
+   "korean": "기침",
+   "synonym": "",
+   "example_es": "La tos no me deja dormir.",
+   "example_ko": "기침 때문에 잠을 잘 수가 없어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 29,
+   "spanish": "el resfriado",
+   "korean": "감기",
+   "synonym": "la gripe",
+   "example_es": "Tengo un resfriado muy fuerte.",
+   "example_ko": "감기가 아주 심하게 걸렸어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 30,
+   "spanish": "el dolor",
+   "korean": "통증, 아픔",
+   "synonym": "",
+   "example_es": "Siento un dolor agudo aquí.",
+   "example_ko": "여기에 날카로운 통증이 느껴져.",
+   "tema": "hospital"
+ },
+ {
+   "id": 31,
+   "spanish": "el mareo",
+   "korean": "어지러움",
+   "synonym": "",
+   "example_es": "Siento un poco de mareo al levantarme.",
+   "example_ko": "일어날 때 약간 어지러움을 느껴.",
+   "tema": "hospital"
+ },
+ {
+   "id": 32,
+   "spanish": "la náusea",
+   "korean": "메스꺼움",
+   "synonym": "",
+   "example_es": "Tengo náuseas después de comer.",
+   "example_ko": "먹고 나서 속이 메스꺼워.",
+   "tema": "hospital"
+ },
+ {
+   "id": 33,
+   "spanish": "el vómito",
+   "korean": "구토",
+   "synonym": "",
+   "example_es": "El vómito es un síntoma de intoxicación.",
+   "example_ko": "구토는 중독 증상 중 하나야.",
+   "tema": "hospital"
+ },
+ {
+   "id": 34,
+   "spanish": "la alergia",
+   "korean": "알레르기",
+   "synonym": "",
+   "example_es": "Tengo alergia al polen.",
+   "example_ko": "나는 꽃가루 알레르기가 있어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 35,
+   "spanish": "la presión arterial",
+   "korean": "혈압",
+   "synonym": "la tensión",
+   "example_es": "Mi presión arterial está normal.",
+   "example_ko": "내 혈압은 정상이야.",
+   "tema": "hospital"
+ },
+ {
+   "id": 36,
+   "spanish": "el termómetro",
+   "korean": "체온계",
+   "synonym": "",
+   "example_es": "Usa el termómetro para ver si tienes fiebre.",
+   "example_ko": "열이 있는지 체온계로 확인해 봐.",
+   "tema": "hospital"
+ },
+ {
+   "id": 37,
+   "spanish": "la camilla",
+   "korean": "들것, 이동식 침대",
+   "synonym": "",
+   "example_es": "Pusieron al herido en la camilla.",
+   "example_ko": "부상자를 들것에 눕혔어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 38,
+   "spanish": "la ambulancia",
+   "korean": "구급차",
+   "synonym": "",
+   "example_es": "La ambulancia llegó muy rápido.",
+   "example_ko": "구급차가 아주 빨리 도착했어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 39,
+   "spanish": "urgencias",
+   "korean": "응급실",
+   "synonym": "la emergencia",
+   "example_es": "Fuimos a urgencias por la noche.",
+   "example_ko": "우리는 밤에 응급실에 갔어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 40,
+   "spanish": "el seguro médico",
+   "korean": "의료 보험",
+   "synonym": "",
+   "example_es": "¿Tienes seguro médico privado?",
+   "example_ko": "개인 의료 보험이 있니?",
+   "tema": "hospital"
+ },
+ {
+   "id": 41,
+   "spanish": "el síntoma",
+   "korean": "증상",
+   "synonym": "",
+   "example_es": "¿Cuáles son sus síntomas?",
+   "example_ko": "증상이 어떻게 되시나요?",
+   "tema": "hospital"
+ },
+ {
+   "id": 42,
+   "spanish": "el diagnóstico",
+   "korean": "진단",
+   "synonym": "",
+   "example_es": "El médico me dio el diagnóstico hoy.",
+   "example_ko": "의사가 오늘 나에게 진단 결과를 주었어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 43,
+   "spanish": "el tratamiento",
+   "korean": "치료, 처치",
+   "synonym": "",
+   "example_es": "El tratamiento dura dos semanas.",
+   "example_ko": "치료는 2주 동안 계속돼.",
+   "tema": "hospital"
+ },
+ {
+   "id": 44,
+   "spanish": "la infección",
+   "korean": "감염, 염증",
+   "synonym": "",
+   "example_es": "Tienes una pequeña infección en el oído.",
+   "example_ko": "귀에 가벼운 염증이 있어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 45,
+   "spanish": "la inflamación",
+   "korean": "부기, 염증",
+   "synonym": "el hinchazón",
+   "example_es": "La inflamación bajó con el hielo.",
+   "example_ko": "얼음찜질로 부기가 가라앉았어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 46,
+   "spanish": "la fractura",
+   "korean": "골절",
+   "synonym": "",
+   "example_es": "La radiografía confirmó la fractura.",
+   "example_ko": "엑스레이로 골절을 확인했어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 47,
+   "spanish": "el esguince",
+   "korean": "염좌, 삐끗함",
+   "synonym": "",
+   "example_es": "Tengo un esguince en el tobillo.",
+   "example_ko": "발목을 삐었어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 48,
+   "spanish": "la quemadura",
+   "korean": "화상",
+   "synonym": "",
+   "example_es": "La quemadura es de primer grado.",
+   "example_ko": "화상은 1도 화상이야.",
+   "tema": "hospital"
+ },
+ {
+   "id": 49,
+   "spanish": "la picadura",
+   "korean": "물린 상처 (곤충 등)",
+   "synonym": "",
+   "example_es": "La picadura de mosquito me pica.",
+   "example_ko": "모기 물린 곳이 가려워.",
+   "tema": "hospital"
+ },
+ {
+   "id": 50,
+   "spanish": "el mareo",
+   "korean": "멀미, 어지러움",
+   "synonym": "",
+   "example_es": "Tomo pastillas para el mareo.",
+   "example_ko": "멀미약을 먹어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 51,
+   "spanish": "el desmayo",
+   "korean": "기절, 실신",
+   "synonym": "",
+   "example_es": "El calor causó el desmayo.",
+   "example_ko": "더위 때문에 기절했어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 52,
+   "spanish": "la insolación",
+   "korean": "일사병",
+   "synonym": "",
+   "example_es": "Bebe agua para evitar la insolación.",
+   "example_ko": "일사병을 피하려면 물을 마시렴.",
+   "tema": "hospital"
+ },
+ {
+   "id": 53,
+   "spanish": "la intoxicación",
+   "korean": "중독 (음식 등)",
+   "synonym": "",
+   "example_es": "La intoxicación fue por marisco.",
+   "example_ko": "해산물 때문에 식중독에 걸렸어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 54,
+   "spanish": "el asma",
+   "korean": "천식",
+   "synonym": "",
+   "example_es": "El asma me dificulta respirar.",
+   "example_ko": "천식 때문에 숨쉬기가 힘들어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 55,
+   "spanish": "la diabetes",
+   "korean": "당뇨병",
+   "synonym": "",
+   "example_es": "Ella controla su diabetes con dieta.",
+   "example_ko": "그녀는 식단으로 당뇨를 조절해.",
+   "tema": "hospital"
+ },
+ {
+   "id": 56,
+   "spanish": "la gripe",
+   "korean": "독감",
+   "synonym": "el gripazo",
+   "example_es": "La gripe me tuvo en cama tres días.",
+   "example_ko": "독감 때문에 사흘 동안 누워 있었어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 57,
+   "spanish": "el insomnio",
+   "korean": "불면증",
+   "synonym": "",
+   "example_es": "El estrés me causa insomnio.",
+   "example_ko": "스트레스가 불면증을 유발해.",
+   "tema": "hospital"
+ },
+ {
+   "id": 58,
+   "spanish": "la receta médica",
+   "korean": "의료 처방전",
+   "synonym": "la orden médica",
+   "example_es": "Necesito la receta médica para el antibiótico.",
+   "example_ko": "항생제를 사려면 처방전이 필요해.",
+   "tema": "hospital"
+ },
+ {
+   "id": 59,
+   "spanish": "el antibiótico",
+   "korean": "항생제",
+   "synonym": "",
+   "example_es": "Termina todo el ciclo de antibióticos.",
+   "example_ko": "항생제를 끝까지 다 복용하렴.",
+   "tema": "hospital"
+ },
+ {
+   "id": 60,
+   "spanish": "el analgésico",
+   "korean": "진통제",
+   "synonym": "",
+   "example_es": "Tómate un analgésico para el dolor.",
+   "example_ko": "통증을 위해 진통제를 먹으렴.",
+   "tema": "hospital"
+ },
+ {
+   "id": 61,
+   "spanish": "el antiinflamatorio",
+   "korean": "소염제",
+   "synonym": "",
+   "example_es": "El antiinflamatorio ayuda con la hinchazón.",
+   "example_ko": "소염제가 부기를 가라앉히는 데 도움을 줘.",
+   "tema": "hospital"
+ },
+ {
+   "id": 62,
+   "spanish": "la vitamina",
+   "korean": "비타민",
+   "synonym": "",
+   "example_es": "Las vitaminas son buenas para las defensas.",
+   "example_ko": "비타민은 면역력에 좋아.",
+   "tema": "hospital"
+ },
+ {
+   "id": 63,
+   "spanish": "el oculista",
+   "korean": "안과 의사",
+   "synonym": "el oftalmólogo",
+   "example_es": "Tengo que ir al oculista mañana.",
+   "example_ko": "내일 안과에 가야 해.",
+   "tema": "hospital"
+ },
+ {
+   "id": 64,
+   "spanish": "el cardiólogo",
+   "korean": "심장병 전문의",
+   "synonym": "",
+   "example_es": "El cardiólogo revisó mi corazón.",
+   "example_ko": "심장병 전문의가 내 심장을 검사했어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 65,
+   "spanish": "el dermatólogo",
+   "korean": "피부과 의사",
+   "synonym": "",
+   "example_es": "El dermatólogo me recetó una crema.",
+   "example_ko": "피부과 의사가 크림을 처방해 줬어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 66,
+   "spanish": "el pediatra",
+   "korean": "소아과 의사",
+   "synonym": "",
+   "example_es": "Llevé al niño al pediatra.",
+   "example_ko": "아이를 소아과에 데려갔어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 67,
+   "spanish": "el ginecólogo",
+   "korean": "산부인과 의사",
+   "synonym": "",
+   "example_es": "La revisión con el ginecólogo es anual.",
+   "example_ko": "산부인과 검진은 매년 받아야 해.",
+   "tema": "hospital"
+ },
+ {
+   "id": 68,
+   "spanish": "el psicólogo",
+   "korean": "심리학자, 상담사",
+   "synonym": "",
+   "example_es": "El psicólogo me ayudó mucho.",
+   "example_ko": "심리학자가 나에게 큰 도움이 됐어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 69,
+   "spanish": "el psiquiatra",
+   "korean": "정신과 의사",
+   "synonym": "",
+   "example_es": "El psiquiatra trata enfermedades mentales.",
+   "example_ko": "정신과 의사는 정신 질환을 치료해.",
+   "tema": "hospital"
+ },
+ {
+   "id": 70,
+   "spanish": "la fisioterapia",
+   "korean": "물리치료",
+   "synonym": "",
+   "example_es": "Hago fisioterapia dos veces por semana.",
+   "example_ko": "일주일에 두 번 물리치료를 받아.",
+   "tema": "hospital"
+ },
+ {
+   "id": 71,
+   "spanish": "la rehabilitación",
+   "korean": "재활",
+   "synonym": "",
+   "example_es": "La rehabilitación después de la cirugía es lenta.",
+   "example_ko": "수술 후 재활은 천천히 진행돼.",
+   "tema": "hospital"
+ },
+ {
+   "id": 72,
+   "spanish": "el alta médica",
+   "korean": "퇴원, 완치 판정",
+   "synonym": "",
+   "example_es": "Me dieron el alta médica ayer.",
+   "example_ko": "어제 퇴원 허가를 받았어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 73,
+   "spanish": "la baja médica",
+   "korean": "병가",
+   "synonym": "",
+   "example_es": "Estoy de baja médica por el resfriado.",
+   "example_ko": "감기 때문에 병가 중이야.",
+   "tema": "hospital"
+ },
+ {
+   "id": 74,
+   "spanish": "el síntoma",
+   "korean": "증상",
+   "synonym": "",
+   "example_es": "Dígame qué síntomas tiene.",
+   "example_ko": "어떤 증상이 있는지 말씀해 주세요.",
+   "tema": "hospital"
+ },
+ {
+   "id": 75,
+   "spanish": "el análisis",
+   "korean": "검사, 분석",
+   "synonym": "",
+   "example_es": "El análisis de orina salió bien.",
+   "example_ko": "소변 검사 결과가 좋게 나왔어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 76,
+   "spanish": "la tensión arterial",
+   "korean": "혈압",
+   "synonym": "la presión",
+   "example_es": "Tengo la tensión un poco alta.",
+   "example_ko": "혈압이 조금 높네.",
+   "tema": "hospital"
+ },
+ {
+   "id": 77,
+   "spanish": "el pulso",
+   "korean": "맥박",
+   "synonym": "",
+   "example_es": "El enfermero me tomó el pulso.",
+   "example_ko": "간호사가 내 맥박을 쟀어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 78,
+   "spanish": "el expediente médico",
+   "korean": "의료 기록",
+   "synonym": "la historia clínica",
+   "example_es": "El médico revisó mi expediente médico.",
+   "example_ko": "의사가 내 의료 기록을 검토했어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 79,
+   "spanish": "la cita",
+   "korean": "예약",
+   "synonym": "",
+   "example_es": "Pedí una cita con el especialista.",
+   "example_ko": "전문의와 예약했어.",
+   "tema": "hospital"
+ },
+ {
+   "id": 80,
+   "spanish": "el seguro de salud",
+   "korean": "의료 보험",
+   "synonym": "la prepaga / la obra social",
+   "example_es": "Mi seguro de salud cubre la operación.",
+   "example_ko": "내 의료 보험이 수술비를 보장해 줘.",
+   "tema": "hospital"
+ }
+]

@@ -1,0 +1,443 @@
+[
+ {
+   "id": 1,
+   "spanish": "el ave",
+   "korean": "새",
+   "synonym": "el pájaro",
+   "example_es": "Las aves migratorias viajan mucho.",
+   "example_ko": "철새들은 멀리 여행해.",
+   "tema": "ave"
+ },
+ {
+   "id": 2,
+   "spanish": "el pájaro",
+   "korean": "새 (일반적/작은)",
+   "synonym": "",
+   "example_es": "El pájaro canta por la mañana.",
+   "example_ko": "새가 아침에 노래해.",
+   "tema": "ave"
+ },
+ {
+   "id": 3,
+   "spanish": "el águila",
+   "korean": "독수리",
+   "synonym": "",
+   "example_es": "El águila vuela muy alto.",
+   "example_ko": "독수리는 아주 높이 날아.",
+   "tema": "ave"
+ },
+ {
+   "id": 4,
+   "spanish": "el halcón",
+   "korean": "매",
+   "synonym": "",
+   "example_es": "El halcón tiene una vista excelente.",
+   "example_ko": "매는 시력이 아주 좋아.",
+   "tema": "ave"
+ },
+ {
+   "id": 5,
+   "spanish": "el búho",
+   "korean": "부엉이, 올빼미",
+   "synonym": "la lechuza",
+   "example_es": "El búho caza por la noche.",
+   "example_ko": "부엉이는 밤에 사냥해.",
+   "tema": "ave"
+ },
+ {
+   "id": 6,
+   "spanish": "el loro",
+   "korean": "앵무새",
+   "synonym": "la cotorra",
+   "example_es": "El loro repite lo que digo.",
+   "example_ko": "앵무새는 내 말을 따라 해.",
+   "tema": "ave"
+ },
+ {
+   "id": 7,
+   "spanish": "el canario",
+   "korean": "카나리아",
+   "synonym": "",
+   "example_es": "El canario es amarillo y pequeño.",
+   "example_ko": "카나리아는 노랗고 작아.",
+   "tema": "ave"
+ },
+ {
+   "id": 8,
+   "spanish": "el cisne",
+   "korean": "백조",
+   "synonym": "",
+   "example_es": "El cisne nada con mucha elegancia.",
+   "example_ko": "백조는 아주 우아하게 헤엄쳐.",
+   "tema": "ave"
+ },
+ {
+   "id": 9,
+   "spanish": "el pato",
+   "korean": "오리",
+   "synonym": "",
+   "example_es": "El pato hace cuac en el estanque.",
+   "example_ko": "오리가 연못에서 꽥꽥거려.",
+   "tema": "ave"
+ },
+ {
+   "id": 10,
+   "spanish": "el ganso",
+   "korean": "거위",
+   "synonym": "",
+   "example_es": "El ganso protege bien su nido.",
+   "example_ko": "거위는 자기 둥지를 잘 지켜.",
+   "tema": "ave"
+ },
+ {
+   "id": 11,
+   "spanish": "el pavo",
+   "korean": "칠면조",
+   "synonym": "",
+   "example_es": "Comemos pavo en Navidad.",
+   "example_ko": "우리는 크리스마스에 칠면조를 먹어.",
+   "tema": "ave"
+ },
+ {
+   "id": 12,
+   "spanish": "el pavo real",
+   "korean": "공작",
+   "synonym": "",
+   "example_es": "El pavo real abre su cola.",
+   "example_ko": "공작이 꼬리를 펼쳐.",
+   "tema": "ave"
+ },
+ {
+   "id": 13,
+   "spanish": "el gallo",
+   "korean": "수탉",
+   "synonym": "",
+   "example_es": "El gallo canta al amanecer.",
+   "example_ko": "수탉이 새벽에 울어.",
+   "tema": "ave"
+ },
+ {
+   "id": 14,
+   "spanish": "la gallina",
+   "korean": "암탉",
+   "synonym": "",
+   "example_es": "La gallina pone huevos frescos.",
+   "example_ko": "암탉이 신선한 알을 낳아.",
+   "tema": "ave"
+ },
+ {
+   "id": 15,
+   "spanish": "el pollito",
+   "korean": "병아리",
+   "synonym": "",
+   "example_es": "El pollito es suave y amarillo.",
+   "example_ko": "병아리는 부드럽고 노래.",
+   "tema": "ave"
+ },
+ {
+   "id": 16,
+   "spanish": "la paloma",
+   "korean": "비둘기",
+   "synonym": "",
+   "example_es": "La paloma es el símbolo de la paz.",
+   "example_ko": "비둘기는 평화의 상징이야.",
+   "tema": "ave"
+ },
+ {
+   "id": 17,
+   "spanish": "el cuervo",
+   "korean": "까마귀",
+   "synonym": "",
+   "example_es": "El cuervo es un pájaro muy listo.",
+   "example_ko": "까마귀는 아주 똑똑한 새야.",
+   "tema": "ave"
+ },
+ {
+   "id": 18,
+   "spanish": "el gorrión",
+   "korean": "참새",
+   "synonym": "",
+   "example_es": "Hay muchos gorriones en el parque.",
+   "example_ko": "공원에 참새가 아주 많아.",
+   "tema": "ave"
+ },
+ {
+   "id": 19,
+   "spanish": "la golondrina",
+   "korean": "제비",
+   "synonym": "",
+   "example_es": "La golondrina vuelve en primavera.",
+   "example_ko": "제비는 봄에 돌아와.",
+   "tema": "ave"
+ },
+ {
+   "id": 20,
+   "spanish": "el colibrí",
+   "korean": "벌새",
+   "synonym": "el picaflor",
+   "example_es": "El colibrí mueve las alas rápido.",
+   "example_ko": "벌새는 날개를 아주 빨리 움직여.",
+   "tema": "ave"
+ },
+ {
+   "id": 21,
+   "spanish": "el carpintero",
+   "korean": "딱따구리",
+   "synonym": "",
+   "example_es": "El carpintero pica la madera.",
+   "example_ko": "딱따구리가 나무를 쪼아.",
+   "tema": "ave"
+ },
+ {
+   "id": 22,
+   "spanish": "el flamenco",
+   "korean": "홍학",
+   "synonym": "",
+   "example_es": "El flamenco es de color rosa.",
+   "example_ko": "홍학은 분홍색이야.",
+   "tema": "ave"
+ },
+ {
+   "id": 23,
+   "spanish": "la cigüeña",
+   "korean": "황새",
+   "synonym": "",
+   "example_es": "La cigüeña trae a los bebés.",
+   "example_ko": "황새가 아기를 데려다준대.",
+   "tema": "ave"
+ },
+ {
+   "id": 24,
+   "spanish": "el pelícano",
+   "korean": "펠리컨",
+   "synonym": "",
+   "example_es": "El pelícano guarda peces en el pico.",
+   "example_ko": "펠리컨은 부리에 물고기를 저장해.",
+   "tema": "ave"
+ },
+ {
+   "id": 25,
+   "spanish": "el pingüino",
+   "korean": "펭귄",
+   "synonym": "",
+   "example_es": "El pingüino vive en el hielo.",
+   "example_ko": "펭귄은 얼음 위에 살아.",
+   "tema": "ave"
+ },
+ {
+   "id": 26,
+   "spanish": "el avestruz",
+   "korean": "타조",
+   "synonym": "",
+   "example_es": "El avestruz corre muy rápido.",
+   "example_ko": "타조는 아주 빨리 달려.",
+   "tema": "ave"
+ },
+ {
+   "id": 27,
+   "spanish": "el buitre",
+   "korean": "독수리 (시체 먹는)",
+   "synonym": "el zopilote",
+   "example_es": "El buitre vuela en círculos.",
+   "example_ko": "독수리가 원을 그리며 날아.",
+   "tema": "ave"
+ },
+ {
+   "id": 28,
+   "spanish": "la gaviota",
+   "korean": "갈매기",
+   "synonym": "",
+   "example_es": "Las gaviotas gritan en el muelle.",
+   "example_ko": "갈매기들이 부두에서 울어.",
+   "tema": "ave"
+ },
+ {
+   "id": 29,
+   "spanish": "el faisán",
+   "korean": "꿩, 페잔트",
+   "synonym": "",
+   "example_es": "El faisán tiene plumas de colores.",
+   "example_ko": "꿩은 알록달록한 깃털을 가졌어.",
+   "tema": "ave"
+ },
+ {
+   "id": 30,
+   "spanish": "la perdiz",
+   "korean": "메추라기, 자고새",
+   "synonym": "",
+   "example_es": "Cazamos una perdiz en el monte.",
+   "example_ko": "우리는 산에서 자고새 한 마리를 잡았어.",
+   "tema": "ave"
+ },
+ {
+   "id": 31,
+   "spanish": "la codorniz",
+   "korean": "메추라기",
+   "synonym": "",
+   "example_es": "La codorniz pone huevos moteados.",
+   "example_ko": "메추라기는 점박이 알을 낳아.",
+   "tema": "ave"
+ },
+ {
+   "id": 32,
+   "spanish": "el mirlo",
+   "korean": "지빠귀, 블랙버드",
+   "synonym": "",
+   "example_es": "El mirlo tiene un canto muy melódico.",
+   "example_ko": "지빠귀는 아주 멜로디컬한 노랫소리를 가졌어.",
+   "tema": "ave"
+ },
+ {
+   "id": 33,
+   "spanish": "el petirrojo",
+   "korean": "울새, 로빈",
+   "synonym": "",
+   "example_es": "El petirrojo tiene el pecho naranja.",
+   "example_ko": "울새는 가슴이 주황색이야.",
+   "tema": "ave"
+ },
+ {
+   "id": 34,
+   "spanish": "la urraca",
+   "korean": "까치",
+   "synonym": "",
+   "example_es": "La urraca brilla con el sol.",
+   "example_ko": "까치는 햇빛에 반짝거려.",
+   "tema": "ave"
+ },
+ {
+   "id": 35,
+   "spanish": "el albatros",
+   "korean": "알바트로스",
+   "synonym": "",
+   "example_es": "El albatros vuela largas distancias.",
+   "example_ko": "알바트로스는 먼 거리를 날아.",
+   "tema": "ave"
+ },
+ {
+   "id": 36,
+   "spanish": "el tucán",
+   "korean": "투칸",
+   "synonym": "",
+   "example_es": "El tucán tiene un pico muy grande.",
+   "example_ko": "투칸은 부리가 아주 커.",
+   "tema": "ave"
+ },
+ {
+   "id": 37,
+   "spanish": "el buho nival",
+   "korean": "흰올빼미",
+   "synonym": "",
+   "example_es": "El buho nival es blanco como la nieve.",
+   "example_ko": "흰올빼미는 눈처럼 하얘.",
+   "tema": "ave"
+ },
+ {
+   "id": 38,
+   "spanish": "el cóndor",
+   "korean": "콘도르",
+   "synonym": "",
+   "example_es": "El cóndor vive en los Andes.",
+   "example_ko": "콘도르는 안데스 산맥에 살아.",
+   "tema": "ave"
+ },
+ {
+   "id": 39,
+   "spanish": "el pico",
+   "korean": "부리",
+   "synonym": "",
+   "example_es": "El pájaro tiene comida en el pico.",
+   "example_ko": "새가 부리에 먹이를 물고 있어.",
+   "tema": "ave"
+ },
+ {
+   "id": 40,
+   "spanish": "el ala",
+   "korean": "날개",
+   "synonym": "",
+   "example_es": "El ave extendió sus alas.",
+   "example_ko": "새가 날개를 펼쳤어.",
+   "tema": "ave"
+ },
+ {
+   "id": 41,
+   "spanish": "la pluma",
+   "korean": "깃털",
+   "synonym": "",
+   "example_es": "Encontré una pluma azul en el suelo.",
+   "example_ko": "바닥에서 파란 깃털을 하나 찾았어.",
+   "tema": "ave"
+ },
+ {
+   "id": 42,
+   "spanish": "el nido",
+   "korean": "둥지",
+   "synonym": "",
+   "example_es": "Hay tres huevos en el nido.",
+   "example_ko": "둥지에 알이 세 개 있어.",
+   "tema": "ave"
+ },
+ {
+   "id": 43,
+   "spanish": "el huevo",
+   "korean": "알",
+   "synonym": "",
+   "example_es": "El huevo está a punto de eclosionar.",
+   "example_ko": "알이 곧 부화하려고 해.",
+   "tema": "ave"
+ },
+ {
+   "id": 44,
+   "spanish": "la bandada",
+   "korean": "새 떼",
+   "synonym": "",
+   "example_es": "Una bandada de pájaros vuela hacia el sur.",
+   "example_ko": "새 떼가 남쪽으로 날아가고 있어.",
+   "tema": "ave"
+ },
+ {
+   "id": 45,
+   "spanish": "el vuelo",
+   "korean": "비행",
+   "synonym": "",
+   "example_es": "El vuelo del águila es majestuoso.",
+   "example_ko": "독수리의 비행은 위엄 있어.",
+   "tema": "ave"
+ },
+ {
+   "id": 46,
+   "spanish": "una bandada",
+   "korean": "(새) 무리, 떼",
+   "synonym": "",
+   "example_es": "Una bandada vuela al sur.",
+   "example_ko": "새 떼가 남쪽으로 날아가.",
+   "tema": ""
+ },
+ {
+   "id": 47,
+   "spanish": "una bandada de patos",
+   "korean": "오리 떼",
+   "synonym": "",
+   "example_es": "La bandada de patos nadó.",
+   "example_ko": "오리 떼가 헤엄쳤어.",
+   "tema": ""
+ },
+ {
+   "id": 48,
+   "spanish": "una bandada de palomas",
+   "korean": "비둘기 떼",
+   "synonym": "",
+   "example_es": "La bandada de palomas voló.",
+   "example_ko": "비둘기 떼가 날아갔어.",
+   "tema": ""
+ },
+ {
+   "id": 49,
+   "spanish": "una nidada",
+   "korean": "(한 배의) 새끼 새들",
+   "synonym": "",
+   "example_es": "La nidada tiene mucha hambre.",
+   "example_ko": "새끼 새들이 아주 배고파해.",
+   "tema": ""
+ }
+]

@@ -1,0 +1,1064 @@
+[
+ {
+   "id": 1,
+   "spanish": "el hidrógeno",
+   "korean": "수소",
+   "synonym": "",
+   "example_es": "El hidrógeno es ligero.",
+   "example_ko": "수소는 가벼워요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 2,
+   "spanish": "el helio",
+   "korean": "헬륨",
+   "synonym": "",
+   "example_es": "El helio flota.",
+   "example_ko": "헬륨은 떠올라요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 3,
+   "spanish": "el litio",
+   "korean": "리튬",
+   "synonym": "",
+   "example_es": "Usa baterías de litio.",
+   "example_ko": "리튬 배터리를 사용하세요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 4,
+   "spanish": "el berilio",
+   "korean": "베릴륨",
+   "synonym": "",
+   "example_es": "El berilio es duro.",
+   "example_ko": "베릴륨은 단단해요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 5,
+   "spanish": "el boro",
+   "korean": "붕소",
+   "synonym": "",
+   "example_es": "El boro crea vidrio.",
+   "example_ko": "붕소로 유리를 만들어요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 6,
+   "spanish": "el carbono",
+   "korean": "탄소",
+   "synonym": "",
+   "example_es": "El diamante es carbono.",
+   "example_ko": "다이아몬드는 탄소예요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 7,
+   "spanish": "el nitrógeno",
+   "korean": "질소",
+   "synonym": "",
+   "example_es": "El aire tiene nitrógeno.",
+   "example_ko": "공기 중에 질소가 있어요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 8,
+   "spanish": "el oxígeno",
+   "korean": "산소",
+   "synonym": "",
+   "example_es": "Necesitamos oxígeno.",
+   "example_ko": "산소가 필요해요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 9,
+   "spanish": "el flúor",
+   "korean": "플루오린 (불소)",
+   "synonym": "",
+   "example_es": "El flúor protege los dientes.",
+   "example_ko": "불소는 치아를 보호해요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 10,
+   "spanish": "el neón",
+   "korean": "네온",
+   "synonym": "",
+   "example_es": "El neón brilla mucho.",
+   "example_ko": "네온은 밝게 빛나요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 11,
+   "spanish": "el sodio",
+   "korean": "소듐 (나트륨)",
+   "synonym": "",
+   "example_es": "El sodio está en la sal.",
+   "example_ko": "소듐은 소금에 들어있어요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 12,
+   "spanish": "el magnesio",
+   "korean": "마그네슘",
+   "synonym": "",
+   "example_es": "El magnesio es saludable.",
+   "example_ko": "마그네슘은 건강에 좋아요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 13,
+   "spanish": "el aluminio",
+   "korean": "알루미늄",
+   "synonym": "",
+   "example_es": "Usa papel de aluminio.",
+   "example_ko": "알루미늄 호일을 쓰세요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 14,
+   "spanish": "el silicio",
+   "korean": "규소",
+   "synonym": "",
+   "example_es": "El silicio es para chips.",
+   "example_ko": "규소는 칩 제작용이에요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 15,
+   "spanish": "el fósforo",
+   "korean": "인",
+   "synonym": "",
+   "example_es": "El fósforo es vital.",
+   "example_ko": "인은 필수적이에요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 16,
+   "spanish": "el azufre",
+   "korean": "황",
+   "synonym": "",
+   "example_es": "El azufre huele mal.",
+   "example_ko": "황은 냄새가 나요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 17,
+   "spanish": "el cloro",
+   "korean": "염소",
+   "synonym": "",
+   "example_es": "El cloro limpia el agua.",
+   "example_ko": "염소는 물을 소독해요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 18,
+   "spanish": "el argón",
+   "korean": "아르곤",
+   "synonym": "",
+   "example_es": "El argón es un gas.",
+   "example_ko": "아르곤은 기체예요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 19,
+   "spanish": "el potasio",
+   "korean": "포타슘 (칼륨)",
+   "synonym": "",
+   "example_es": "El plátano tiene potasio.",
+   "example_ko": "바나나에 포타슘이 많아요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 20,
+   "spanish": "el calcio",
+   "korean": "칼슘",
+   "synonym": "",
+   "example_es": "El calcio fortalece huesos.",
+   "example_ko": "칼슘은 뼈를 튼튼하게 해요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 21,
+   "spanish": "el escandio",
+   "korean": "스칸듐",
+   "synonym": "",
+   "example_es": "El escandio es raro.",
+   "example_ko": "스칸듐은 희귀해요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 22,
+   "spanish": "el titanio",
+   "korean": "티타늄",
+   "synonym": "",
+   "example_es": "El titanio es resistente.",
+   "example_ko": "티타늄은 튼튼해요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 23,
+   "spanish": "el vanadio",
+   "korean": "바나듐",
+   "synonym": "",
+   "example_es": "Usa vanadio en acero.",
+   "example_ko": "강철에 바나듐을 써요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 24,
+   "spanish": "el cromo",
+   "korean": "크롬",
+   "synonym": "",
+   "example_es": "El cromo da brillo.",
+   "example_ko": "크롬은 광택을 내요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 25,
+   "spanish": "el manganeso",
+   "korean": "망가니즈",
+   "synonym": "",
+   "example_es": "Es un metal gris.",
+   "example_ko": "회색 금속이에요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 26,
+   "spanish": "el hierro",
+   "korean": "철",
+   "synonym": "",
+   "example_es": "El hierro es esencial.",
+   "example_ko": "철은 필수적이에요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 27,
+   "spanish": "el cobalto",
+   "korean": "코발트",
+   "synonym": "",
+   "example_es": "El cobalto es azulado.",
+   "example_ko": "코발트는 푸르스름해요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 28,
+   "spanish": "el níquel",
+   "korean": "니켈",
+   "synonym": "",
+   "example_es": "Las monedas tienen níquel.",
+   "example_ko": "동전에는 니켈이 있어요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 29,
+   "spanish": "el cobre",
+   "korean": "구리",
+   "synonym": "",
+   "example_es": "El cobre conduce bien.",
+   "example_ko": "구리는 전기가 잘 통해요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 30,
+   "spanish": "el zinc",
+   "korean": "아연",
+   "synonym": "",
+   "example_es": "El zinc evita la corrosión.",
+   "example_ko": "아연은 부식을 방지해요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 31,
+   "spanish": "el galio",
+   "korean": "갈륨",
+   "synonym": "",
+   "example_es": "El galio se derrite.",
+   "example_ko": "갈륨은 녹아요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 32,
+   "spanish": "el germanio",
+   "korean": "저마늄",
+   "synonym": "",
+   "example_es": "Es un semiconductor.",
+   "example_ko": "반도체예요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 33,
+   "spanish": "el arsénico",
+   "korean": "비소",
+   "synonym": "",
+   "example_es": "El arsénico es tóxico.",
+   "example_ko": "비소는 독성이 있어요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 34,
+   "spanish": "el selenio",
+   "korean": "셀레늄",
+   "synonym": "",
+   "example_es": "El selenio es bueno.",
+   "example_ko": "셀레늄은 좋아요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 35,
+   "spanish": "el bromo",
+   "korean": "브롬",
+   "synonym": "",
+   "example_es": "El bromo es líquido.",
+   "example_ko": "브롬은 액체예요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 36,
+   "spanish": "el kriptón",
+   "korean": "크립톤",
+   "synonym": "",
+   "example_es": "Usa luces de kriptón.",
+   "example_ko": "크립톤 조명을 사용해요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 37,
+   "spanish": "el rubidio",
+   "korean": "루비듐",
+   "synonym": "",
+   "example_es": "Es muy reactivo.",
+   "example_ko": "반응성이 커요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 38,
+   "spanish": "el estroncio",
+   "korean": "스트론튬",
+   "synonym": "",
+   "example_es": "Usa estroncio en fuegos.",
+   "example_ko": "불꽃놀이에 스트론튬을 써요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 39,
+   "spanish": "el itrio",
+   "korean": "이트륨",
+   "synonym": "",
+   "example_es": "Está en las pantallas.",
+   "example_ko": "화면에 들어있어요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 40,
+   "spanish": "el zirconio",
+   "korean": "지르코늄",
+   "synonym": "",
+   "example_es": "Resiste mucho el calor.",
+   "example_ko": "열에 아주 잘 견뎌요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 41,
+   "spanish": "el niobio",
+   "korean": "나이오븀",
+   "synonym": "",
+   "example_es": "Se usa en imanes.",
+   "example_ko": "자석에 사용돼요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 42,
+   "spanish": "el molibdeno",
+   "korean": "몰리브데넘",
+   "synonym": "",
+   "example_es": "Es un metal duro.",
+   "example_ko": "단단한 금속이에요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 43,
+   "spanish": "el tecnecio",
+   "korean": "테크네튬",
+   "synonym": "",
+   "example_es": "Es un elemento radiactivo.",
+   "example_ko": "방사성 원소예요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 44,
+   "spanish": "el rutenio",
+   "korean": "루테늄",
+   "synonym": "",
+   "example_es": "Es un metal raro.",
+   "example_ko": "희귀한 금속이에요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 45,
+   "spanish": "el rodio",
+   "korean": "로듐",
+   "synonym": "",
+   "example_es": "Se usa en joyería.",
+   "example_ko": "보석류에 쓰여요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 46,
+   "spanish": "el paladio",
+   "korean": "팔라듐",
+   "synonym": "",
+   "example_es": "Es un metal blanco.",
+   "example_ko": "흰색 금속이에요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 47,
+   "spanish": "la plata",
+   "korean": "은",
+   "synonym": "",
+   "example_es": "La plata es preciosa.",
+   "example_ko": "은은 귀해요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 48,
+   "spanish": "el cadmio",
+   "korean": "카드뮴",
+   "synonym": "",
+   "example_es": "Está en las baterías.",
+   "example_ko": "배터리에 들어있어요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 49,
+   "spanish": "el indio",
+   "korean": "인듐",
+   "synonym": "",
+   "example_es": "Es un metal blando.",
+   "example_ko": "부드러운 금속이에요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 50,
+   "spanish": "el estaño",
+   "korean": "주석",
+   "synonym": "",
+   "example_es": "Se usa para soldar.",
+   "example_ko": "납땜에 쓰여요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 51,
+   "spanish": "el antimonio",
+   "korean": "안티모니",
+   "synonym": "",
+   "example_es": "Usa antimonio en aleaciones.",
+   "example_ko": "합금에 안티모니를 써요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 52,
+   "spanish": "el telurio",
+   "korean": "텔루륨",
+   "synonym": "",
+   "example_es": "Parece un metal.",
+   "example_ko": "금속처럼 보여요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 53,
+   "spanish": "el yodo",
+   "korean": "아이오딘 (요오드)",
+   "synonym": "",
+   "example_es": "El yodo es necesario.",
+   "example_ko": "아이오딘이 필요해요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 54,
+   "spanish": "el xenón",
+   "korean": "제논",
+   "synonym": "",
+   "example_es": "Es un gas noble.",
+   "example_ko": "비활성 기체예요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 55,
+   "spanish": "el cesio",
+   "korean": "세슘",
+   "synonym": "",
+   "example_es": "El cesio es inestable.",
+   "example_ko": "세슘은 불안정해요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 56,
+   "spanish": "el bario",
+   "korean": "바륨",
+   "synonym": "",
+   "example_es": "Se usa en medicina.",
+   "example_ko": "의학에서 쓰여요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 57,
+   "spanish": "el lantano",
+   "korean": "란타넘",
+   "synonym": "",
+   "example_es": "Es una tierra rara.",
+   "example_ko": "희토류예요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 58,
+   "spanish": "el cerio",
+   "korean": "세륨",
+   "synonym": "",
+   "example_es": "Es el más abundante.",
+   "example_ko": "가장 풍부해요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 59,
+   "spanish": "el praseodimio",
+   "korean": "프라세오디뮴",
+   "synonym": "",
+   "example_es": "Es un metal suave.",
+   "example_ko": "부드러운 금속이에요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 60,
+   "spanish": "el neodimio",
+   "korean": "네오디뮴",
+   "synonym": "",
+   "example_es": "Crea imanes fuertes.",
+   "example_ko": "강한 자석을 만들어요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 61,
+   "spanish": "el prometio",
+   "korean": "프로메튬",
+   "synonym": "",
+   "example_es": "Es radiactivo.",
+   "example_ko": "방사성이 있어요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 62,
+   "spanish": "el samario",
+   "korean": "사마륨",
+   "synonym": "",
+   "example_es": "Usa samario en imanes.",
+   "example_ko": "자석에 사마륨을 써요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 63,
+   "spanish": "el europio",
+   "korean": "유로퓸",
+   "synonym": "",
+   "example_es": "Brilla en las pantallas.",
+   "example_ko": "화면에서 빛나요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 64,
+   "spanish": "el gadolinio",
+   "korean": "가돌리늄",
+   "synonym": "",
+   "example_es": "Se usa en medicina.",
+   "example_ko": "의학에 사용돼요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 65,
+   "spanish": "el terbio",
+   "korean": "터븀",
+   "synonym": "",
+   "example_es": "Es muy escaso.",
+   "example_ko": "매우 드물어요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 66,
+   "spanish": "el disprosio",
+   "korean": "디스프로슘",
+   "synonym": "",
+   "example_es": "Resiste altas temperaturas.",
+   "example_ko": "고온을 견뎌요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 67,
+   "spanish": "el holmio",
+   "korean": "홀뮴",
+   "synonym": "",
+   "example_es": "Tiene fuerza magnética.",
+   "example_ko": "자기력이 있어요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 68,
+   "spanish": "el erbio",
+   "korean": "어븀",
+   "synonym": "",
+   "example_es": "Se usa en láseres.",
+   "example_ko": "레이저에 쓰여요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 69,
+   "spanish": "el tulio",
+   "korean": "툴륨",
+   "synonym": "",
+   "example_es": "Es muy difícil de hallar.",
+   "example_ko": "찾기 매우 힘들어요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 70,
+   "spanish": "el iterbio",
+   "korean": "이터븀",
+   "synonym": "",
+   "example_es": "Es un metal blando.",
+   "example_ko": "부드러운 금속이에요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 71,
+   "spanish": "el lutecio",
+   "korean": "루테튬",
+   "synonym": "",
+   "example_es": "Es muy denso.",
+   "example_ko": "밀도가 높아요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 72,
+   "spanish": "el hafnio",
+   "korean": "하프늄",
+   "synonym": "",
+   "example_es": "Resiste la corrosión.",
+   "example_ko": "부식에 강해요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 73,
+   "spanish": "el tantalio",
+   "korean": "탄탈럼",
+   "synonym": "",
+   "example_es": "Se usa en móviles.",
+   "example_ko": "휴대폰에 쓰여요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 74,
+   "spanish": "el wolframio",
+   "korean": "텅스텐",
+   "synonym": "el tungsteno",
+   "example_es": "Tiene el mayor punto.",
+   "example_ko": "녹는점이 가장 높아요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 75,
+   "spanish": "el renio",
+   "korean": "레늄",
+   "synonym": "",
+   "example_es": "El renio es caro.",
+   "example_ko": "레늄은 비싸요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 76,
+   "spanish": "el osmio",
+   "korean": "오스뮴",
+   "synonym": "",
+   "example_es": "Es el más denso.",
+   "example_ko": "가장 밀도가 높아요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 77,
+   "spanish": "el iridio",
+   "korean": "이리듐",
+   "synonym": "",
+   "example_es": "Es muy resistente.",
+   "example_ko": "매우 튼튼해요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 78,
+   "spanish": "el platino",
+   "korean": "백금",
+   "synonym": "",
+   "example_es": "El platino es valioso.",
+   "example_ko": "백금은 가치가 커요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 79,
+   "spanish": "el oro",
+   "korean": "금",
+   "synonym": "",
+   "example_es": "El oro no se oxida.",
+   "example_ko": "금은 녹슬지 않아요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 80,
+   "spanish": "el mercurio",
+   "korean": "수은",
+   "synonym": "",
+   "example_es": "Se usa en termómetros.",
+   "example_ko": "온도계에 쓰여요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 81,
+   "spanish": "el talio",
+   "korean": "탈륨",
+   "synonym": "",
+   "example_es": "Es muy venenoso.",
+   "example_ko": "매우 독성이 강해요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 82,
+   "spanish": "el plomo",
+   "korean": "납",
+   "synonym": "",
+   "example_es": "Está en las baterías.",
+   "example_ko": "배터리에 들어있어요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 83,
+   "spanish": "el bismuto",
+   "korean": "비스무트",
+   "synonym": "",
+   "example_es": "Se usa en cosméticos.",
+   "example_ko": "화장품에 쓰여요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 84,
+   "spanish": "el polonio",
+   "korean": "폴로늄",
+   "synonym": "",
+   "example_es": "Es muy radiactivo.",
+   "example_ko": "방사성이 강해요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 85,
+   "spanish": "el astato",
+   "korean": "아스타틴",
+   "synonym": "",
+   "example_es": "Es un elemento raro.",
+   "example_ko": "희귀한 원소예요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 86,
+   "spanish": "el radón",
+   "korean": "라돈",
+   "synonym": "",
+   "example_es": "Es un gas peligroso.",
+   "example_ko": "위험한 기체예요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 87,
+   "spanish": "el francio",
+   "korean": "프랑슘",
+   "synonym": "",
+   "example_es": "Es muy inestable.",
+   "example_ko": "매우 불안정해요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 88,
+   "spanish": "el radio",
+   "korean": "라듐",
+   "synonym": "",
+   "example_es": "Marie Curie lo halló.",
+   "example_ko": "마리 퀴리가 발견했어요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 89,
+   "spanish": "el actinio",
+   "korean": "악티늄",
+   "synonym": "",
+   "example_es": "Brilla en la oscuridad.",
+   "example_ko": "어둠 속에서 빛나요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 90,
+   "spanish": "el torio",
+   "korean": "토륨",
+   "synonym": "",
+   "example_es": "Es una fuente de energía.",
+   "example_ko": "에너지원이에요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 91,
+   "spanish": "el protactinio",
+   "korean": "프로트악티늄",
+   "synonym": "",
+   "example_es": "Es un metal pesado.",
+   "example_ko": "중금속이에요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 92,
+   "spanish": "el uranio",
+   "korean": "우라늄",
+   "synonym": "",
+   "example_es": "Se usa en reactores.",
+   "example_ko": "원자로에 쓰여요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 93,
+   "spanish": "el neptunio",
+   "korean": "넵투늄",
+   "synonym": "",
+   "example_es": "Es un elemento sintético.",
+   "example_ko": "합성 원소예요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 94,
+   "spanish": "el plutonio",
+   "korean": "플루토늄",
+   "synonym": "",
+   "example_es": "Se usa en satélites.",
+   "example_ko": "위성에 사용돼요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 95,
+   "spanish": "el americio",
+   "korean": "아메리슘",
+   "synonym": "",
+   "example_es": "Está en detectores.",
+   "example_ko": "감지기에 들어있어요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 96,
+   "spanish": "el curio",
+   "korean": "퀴륨",
+   "synonym": "",
+   "example_es": "Lleva el nombre de Curie.",
+   "example_ko": "퀴리의 이름을 땄어요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 97,
+   "spanish": "el berkelio",
+   "korean": "버클륨",
+   "synonym": "",
+   "example_es": "Se hizo en laboratorio.",
+   "example_ko": "실험실에서 만들었어요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 98,
+   "spanish": "el californio",
+   "korean": "캘리포늄",
+   "synonym": "",
+   "example_es": "Es muy valioso.",
+   "example_ko": "매우 가치 있어요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 99,
+   "spanish": "el einstenio",
+   "korean": "아인슈타이늄",
+   "synonym": "",
+   "example_es": "Lleva el nombre de Einstein.",
+   "example_ko": "아인슈타인의 이름을 땄어요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 100,
+   "spanish": "el fermio",
+   "korean": "페르뮴",
+   "synonym": "",
+   "example_es": "Es el elemento cien.",
+   "example_ko": "백 번째 원소예요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 101,
+   "spanish": "el mendelevio",
+   "korean": "멘델레븀",
+   "synonym": "",
+   "example_es": "Honra a Mendeléiev.",
+   "example_ko": "멘델레예프를 기려요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 102,
+   "spanish": "el nobelio",
+   "korean": "노벨륨",
+   "synonym": "",
+   "example_es": "Lleva el nombre de Nobel.",
+   "example_ko": "노벨의 이름을 땄어요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 103,
+   "spanish": "el laurencio",
+   "korean": "로렌슘",
+   "synonym": "",
+   "example_es": "Se creó en ciclotrón.",
+   "example_ko": "사이클로트론에서 만들었어요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 104,
+   "spanish": "el rutherfordio",
+   "korean": "러더포듐",
+   "synonym": "",
+   "example_es": "Es muy efímero.",
+   "example_ko": "수명이 아주 짧아요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 105,
+   "spanish": "el dubnio",
+   "korean": "두브늄",
+   "synonym": "",
+   "example_es": "Es un elemento pesado.",
+   "example_ko": "무거운 원소예요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 106,
+   "spanish": "el seaborgio",
+   "korean": "시보귬",
+   "synonym": "",
+   "example_es": "El seaborgio es radiactivo.",
+   "example_ko": "방사성이 있어요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 107,
+   "spanish": "el bohrio",
+   "korean": "보륨",
+   "synonym": "",
+   "example_es": "Lleva el nombre de Bohr.",
+   "example_ko": "보어의 이름을 땄어요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 108,
+   "spanish": "el hassio",
+   "korean": "하슘",
+   "synonym": "",
+   "example_es": "Se crea en laboratorios.",
+   "example_ko": "실험실에서 생성돼요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 109,
+   "spanish": "el meitnerio",
+   "korean": "마이트너륨",
+   "synonym": "",
+   "example_es": "Es muy inestable.",
+   "example_ko": "매우 불안정해요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 110,
+   "spanish": "el darmstadtio",
+   "korean": "다름슈타튬",
+   "synonym": "",
+   "example_es": "Es un elemento artificial.",
+   "example_ko": "인공 원소예요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 111,
+   "spanish": "el roentgenio",
+   "korean": "뢴트게늄",
+   "synonym": "",
+   "example_es": "Honra a Roentgen.",
+   "example_ko": "뢴트겐을 기려요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 112,
+   "spanish": "el copernicio",
+   "korean": "코페르니슘",
+   "synonym": "",
+   "example_es": "Lleva el nombre de Copérnico.",
+   "example_ko": "코페르니쿠스의 이름을 땄어요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 113,
+   "spanish": "el nihonio",
+   "korean": "니호늄",
+   "synonym": "",
+   "example_es": "Se halló en Japón.",
+   "example_ko": "일본에서 발견됐어요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 114,
+   "spanish": "el flerovio",
+   "korean": "플레로븀",
+   "synonym": "",
+   "example_es": "Es un elemento pesado.",
+   "example_ko": "무거운 원소예요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 115,
+   "spanish": "el moscovio",
+   "korean": "모스코븀",
+   "synonym": "",
+   "example_es": "Lleva el nombre de Moscú.",
+   "example_ko": "모스크바의 이름을 땄어요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 116,
+   "spanish": "el livermorio",
+   "korean": "리버모륨",
+   "synonym": "",
+   "example_es": "Se creó en California.",
+   "example_ko": "캘리포니아에서 생성됐어요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 117,
+   "spanish": "el teneso",
+   "korean": "테네신",
+   "synonym": "",
+   "example_es": "Es un halógeno sintético.",
+   "example_ko": "합성 할로젠이에요.",
+   "tema": "elemento"
+ },
+ {
+   "id": 118,
+   "spanish": "el oganesón",
+   "korean": "오가네손",
+   "synonym": "",
+   "example_es": "Completa la tabla.",
+   "example_ko": "주기율표를 완성해요.",
+   "tema": "elemento"
+ }
+]

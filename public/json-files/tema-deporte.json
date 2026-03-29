@@ -1,0 +1,569 @@
+[
+ {
+   "id": 1,
+   "spanish": "el deporte",
+   "korean": "스포츠",
+   "synonym": "",
+   "example_es": "Me gusta el deporte.",
+   "example_ko": "나는 스포츠를 좋아해요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 2,
+   "spanish": "el/la deportista",
+   "korean": "운동선수",
+   "synonym": "",
+   "example_es": "Es un buen deportista.",
+   "example_ko": "그는 좋은 운동선수예요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 3,
+   "spanish": "los Juegos Olímpicos",
+   "korean": "올림픽",
+   "synonym": "las Olimpíadas",
+   "example_es": "Vemos los Juegos Olímpicos.",
+   "example_ko": "우리는 올림픽을 봐요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 4,
+   "spanish": "el estadio",
+   "korean": "스타디움",
+   "synonym": "",
+   "example_es": "El estadio está lleno.",
+   "example_ko": "경기장이 꽉 찼어요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 5,
+   "spanish": "el fútbol",
+   "korean": "축구",
+   "synonym": "",
+   "example_es": "Juego al fútbol.",
+   "example_ko": "나는 축구를 해요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 6,
+   "spanish": "el baloncesto",
+   "korean": "농구",
+   "synonym": "el básquetbol",
+   "example_es": "Tira el balón.",
+   "example_ko": "공을 던지세요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 7,
+   "spanish": "la equitación",
+   "korean": "승마",
+   "synonym": "",
+   "example_es": "Practica la equitación.",
+   "example_ko": "그녀는 승마를 연습해요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 8,
+   "spanish": "el tenis",
+   "korean": "테니스",
+   "synonym": "",
+   "example_es": "Jugamos al tenis.",
+   "example_ko": "우리는 테니스를 쳐요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 9,
+   "spanish": "el voleibol",
+   "korean": "배구",
+   "synonym": "el vóleibol",
+   "example_es": "Pasa el balón.",
+   "example_ko": "공을 넘기세요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 10,
+   "spanish": "el béisbol",
+   "korean": "야구",
+   "synonym": "",
+   "example_es": "Él batea bien.",
+   "example_ko": "그는 배팅을 잘해요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 11,
+   "spanish": "el hockey",
+   "korean": "하키",
+   "synonym": "",
+   "example_es": "Es un partido de hockey.",
+   "example_ko": "하키 경기예요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 12,
+   "spanish": "el golf",
+   "korean": "골프",
+   "synonym": "",
+   "example_es": "El golf es relajante.",
+   "example_ko": "골프는 편안해요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 13,
+   "spanish": "el rugby",
+   "korean": "럭비",
+   "synonym": "",
+   "example_es": "El rugby es físico.",
+   "example_ko": "럭비는 신체 접촉이 많아요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 14,
+   "spanish": "el tenis de mesa",
+   "korean": "탁구",
+   "synonym": "el pimpón",
+   "example_es": "Usa la pala.",
+   "example_ko": "탁구채를 사용하세요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 15,
+   "spanish": "el atletismo",
+   "korean": "육상 (달리기)",
+   "synonym": "",
+   "example_es": "Corre en atletismo.",
+   "example_ko": "육상 경기를 뛰어요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 16,
+   "spanish": "el boxeo",
+   "korean": "복싱",
+   "synonym": "",
+   "example_es": "El boxeo es duro.",
+   "example_ko": "복싱은 힘들어요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 17,
+   "spanish": "el hockey sobre hielo",
+   "korean": "아이스하키",
+   "synonym": "",
+   "example_es": "Patinan en el hielo.",
+   "example_ko": "빙판 위에서 스케이트를 타요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 18,
+   "spanish": "el esquí",
+   "korean": "스키",
+   "synonym": "",
+   "example_es": "Vamos a hacer esquí.",
+   "example_ko": "스키 타러 가요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 19,
+   "spanish": "la natación",
+   "korean": "수영",
+   "synonym": "",
+   "example_es": "La natación es sana.",
+   "example_ko": "수영은 건강에 좋아요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 20,
+   "spanish": "el motociclismo",
+   "korean": "모터사이클",
+   "synonym": "",
+   "example_es": "La carrera es rápida.",
+   "example_ko": "경주가 빨라요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 21,
+   "spanish": "la esgrima",
+   "korean": "펜싱",
+   "synonym": "",
+   "example_es": "Usa el florete.",
+   "example_ko": "펜싱 검을 사용하세요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 22,
+   "spanish": "el bádminton",
+   "korean": "배드민턴",
+   "synonym": "",
+   "example_es": "Juega al bádminton.",
+   "example_ko": "배드민턴을 쳐요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 23,
+   "spanish": "el volante",
+   "korean": "배드민턴 공",
+   "synonym": "",
+   "example_es": "Golpea el volante.",
+   "example_ko": "셔틀콕을 치세요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 24,
+   "spanish": "la raqueta",
+   "korean": "테니스 라켓",
+   "synonym": "",
+   "example_es": "Coge la raqueta.",
+   "example_ko": "라켓을 잡으세요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 25,
+   "spanish": "el bate",
+   "korean": "야구 배트",
+   "synonym": "",
+   "example_es": "Limpia el bate.",
+   "example_ko": "배트를 닦으세요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 26,
+   "spanish": "la pala",
+   "korean": "탁구 라켓",
+   "synonym": "la raqueta",
+   "example_es": "Busca la pala.",
+   "example_ko": "탁구채를 찾으세요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 27,
+   "spanish": "el palo de hockey",
+   "korean": "하키채",
+   "synonym": "",
+   "example_es": "Usa el palo.",
+   "example_ko": "하키채를 사용하세요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 28,
+   "spanish": "los palos de golf",
+   "korean": "골프채",
+   "synonym": "",
+   "example_es": "Trae los palos.",
+   "example_ko": "골프채를 가져오세요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 29,
+   "spanish": "la espada",
+   "korean": "펜싱 검",
+   "synonym": "",
+   "example_es": "La espada es fina.",
+   "example_ko": "검이 가늘어요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 30,
+   "spanish": "el casco",
+   "korean": "보호 헬멧",
+   "synonym": "",
+   "example_es": "Ponte el casco.",
+   "example_ko": "헬멧을 쓰세요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 31,
+   "spanish": "la red",
+   "korean": "네트",
+   "synonym": "",
+   "example_es": "La pelota tocó la red.",
+   "example_ko": "공이 네트에 닿았어요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 32,
+   "spanish": "los patines",
+   "korean": "스케이트",
+   "synonym": "",
+   "example_es": "Ponte los patines.",
+   "example_ko": "스케이트를 신으세요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 33,
+   "spanish": "el disco de hockey",
+   "korean": "하키 퍽",
+   "synonym": "el puck",
+   "example_es": "Golpea el disco.",
+   "example_ko": "퍽을 치세요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 34,
+   "spanish": "los guantes",
+   "korean": "장갑",
+   "synonym": "",
+   "example_es": "Usa los guantes.",
+   "example_ko": "장갑을 끼세요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 35,
+   "spanish": "la pista",
+   "korean": "경기 코트 (트랙)",
+   "synonym": "",
+   "example_es": "La pista está seca.",
+   "example_ko": "코트가 말라 있어요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 36,
+   "spanish": "la piscina",
+   "korean": "수영장 (풀)",
+   "synonym": "la alberca",
+   "example_es": "La piscina es honda.",
+   "example_ko": "수영장이 깊어요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 37,
+   "spanish": "ganar",
+   "korean": "이기다",
+   "synonym": "",
+   "example_es": "Queremos ganar.",
+   "example_ko": "우리는 이기고 싶어요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 38,
+   "spanish": "el ganador / la ganadora",
+   "korean": "승자",
+   "synonym": "",
+   "example_es": "Él es el ganador.",
+   "example_ko": "그가 승자예요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 39,
+   "spanish": "perder",
+   "korean": "지다",
+   "synonym": "",
+   "example_es": "No quiero perder.",
+   "example_ko": "지고 싶지 않아요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 40,
+   "spanish": "el perdedor / la perdedora",
+   "korean": "패배자",
+   "synonym": "",
+   "example_es": "Acepta la derrota.",
+   "example_ko": "패배를 받아들이세요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 41,
+   "spanish": "vencer",
+   "korean": "격파하다 (무찌르다)",
+   "synonym": "",
+   "example_es": "Vence al rival.",
+   "example_ko": "상대를 물리치세요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 42,
+   "spanish": "empatar",
+   "korean": "비기다",
+   "synonym": "",
+   "example_es": "Van a empatar.",
+   "example_ko": "비길 것 같아요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 43,
+   "spanish": "animar",
+   "korean": "응원하다 (박수치다)",
+   "synonym": "aplaudir",
+   "example_es": "Anima a tu equipo.",
+   "example_ko": "팀을 응원하세요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 44,
+   "spanish": "el árbitro / la árbitra",
+   "korean": "심판",
+   "synonym": "",
+   "example_es": "El árbitro pita.",
+   "example_ko": "심판이 휘슬을 불어요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 45,
+   "spanish": "prohibir",
+   "korean": "금지하다",
+   "synonym": "",
+   "example_es": "Está prohibido.",
+   "example_ko": "금지되어 있어요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 46,
+   "spanish": "el marcador",
+   "korean": "스코어보드",
+   "synonym": "",
+   "example_es": "Mira el marcador.",
+   "example_ko": "점수판을 보세요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 47,
+   "spanish": "la vuelta",
+   "korean": "바퀴 (LAP)",
+   "synonym": "",
+   "example_es": "Falta una vuelta.",
+   "example_ko": "한 바퀴 남았어요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 48,
+   "spanish": "el espectador / la espectadora",
+   "korean": "관객",
+   "synonym": "",
+   "example_es": "El espectador grita.",
+   "example_ko": "관객이 소리쳐요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 49,
+   "spanish": "la multitud",
+   "korean": "관중 (군중)",
+   "synonym": "",
+   "example_es": "La multitud aplaude.",
+   "example_ko": "관중이 박수쳐요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 50,
+   "spanish": "el trofeo",
+   "korean": "트로피",
+   "synonym": "",
+   "example_es": "Levanta el trofeo.",
+   "example_ko": "트로피를 들어 올리세요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 51,
+   "spanish": "el silbato",
+   "korean": "휘슬",
+   "synonym": "",
+   "example_es": "Suena el silbato.",
+   "example_ko": "휘슬 소리가 나요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 52,
+   "spanish": "retirarse",
+   "korean": "은퇴하다",
+   "synonym": "",
+   "example_es": "Se va a retirar.",
+   "example_ko": "그는 은퇴할 거예요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 53,
+   "spanish": "la cima",
+   "korean": "피크 (정상)",
+   "synonym": "",
+   "example_es": "Llegó a la cima.",
+   "example_ko": "정상에 도착했어요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 54,
+   "spanish": "el riesgo",
+   "korean": "위험",
+   "synonym": "",
+   "example_es": "Es un gran riesgo.",
+   "example_ko": "큰 위험이에요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 55,
+   "spanish": "superarse",
+   "korean": "극복하다",
+   "synonym": "",
+   "example_es": "Intenta superarte.",
+   "example_ko": "자신을 넘어서 보세요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 56,
+   "spanish": "comenzar",
+   "korean": "시작하다",
+   "synonym": "empezar",
+   "example_es": "El partido comienza.",
+   "example_ko": "경기가 시작돼요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 57,
+   "spanish": "abandonar",
+   "korean": "포기하다 (떠나다)",
+   "synonym": "dejar",
+   "example_es": "Nunca abandones.",
+   "example_ko": "절대 포기하지 마세요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 58,
+   "spanish": "apoyar",
+   "korean": "지원하다 (서포트하다)",
+   "synonym": "",
+   "example_es": "Te voy a apoyar.",
+   "example_ko": "너를 지원할게.",
+   "tema": "deporte"
+ },
+ {
+   "id": 59,
+   "spanish": "calentar",
+   "korean": "워밍업하다",
+   "synonym": "",
+   "example_es": "Debes calentar.",
+   "example_ko": "준비운동을 해야 해요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 60,
+   "spanish": "el equipamiento",
+   "korean": "장비",
+   "synonym": "el equipo",
+   "example_es": "Trae el equipamiento.",
+   "example_ko": "장비를 가져오세요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 61,
+   "spanish": "el senderismo",
+   "korean": "하이킹",
+   "synonym": "",
+   "example_es": "Hago senderismo.",
+   "example_ko": "나는 하이킹을 해요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 62,
+   "spanish": "la escalada",
+   "korean": "등반",
+   "synonym": "",
+   "example_es": "Amo la escalada.",
+   "example_ko": "나는 등반을 사랑해요.",
+   "tema": "deporte"
+ },
+ {
+   "id": 63,
+   "spanish": "el footing",
+   "korean": "조깅",
+   "synonym": "el trote",
+   "example_es": "Hago footing.",
+   "example_ko": "나는 조깅을 해요.",
+   "tema": "deporte"
+ }
+]

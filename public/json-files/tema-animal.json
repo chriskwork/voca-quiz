@@ -1,0 +1,839 @@
+[
+ {
+   "id": 1,
+   "spanish": "el animal",
+   "korean": "동물",
+   "synonym": "",
+   "example_es": "El animal corre por el bosque.",
+   "example_ko": "동물이 숲속을 달려가.",
+   "tema": "animal"
+ },
+ {
+   "id": 2,
+   "spanish": "el mamífero",
+   "korean": "포유류",
+   "synonym": "",
+   "example_es": "La ballena es un mamífero marino.",
+   "example_ko": "고래는 해양 포유류야.",
+   "tema": "animal"
+ },
+ {
+   "id": 3,
+   "spanish": "el perro",
+   "korean": "개",
+   "synonym": "el chucho",
+   "example_es": "El perro es el mejor amigo del hombre.",
+   "example_ko": "개는 인간의 가장 친한 친구야.",
+   "tema": "animal"
+ },
+ {
+   "id": 4,
+   "spanish": "el gato",
+   "korean": "고양이",
+   "synonym": "el minino",
+   "example_es": "El gato duerme en el sofá.",
+   "example_ko": "고양이가 소파 위에서 자고 있어.",
+   "tema": "animal"
+ },
+ {
+   "id": 5,
+   "spanish": "el cachorro",
+   "korean": "강아지, 새끼 동물",
+   "synonym": "",
+   "example_es": "El cachorro es muy juguetón.",
+   "example_ko": "강아지는 아주 장난이 심해.",
+   "tema": "animal"
+ },
+ {
+   "id": 6,
+   "spanish": "el hámster",
+   "korean": "햄스터",
+   "synonym": "",
+   "example_es": "El hámster corre en su rueda.",
+   "example_ko": "햄스터가 쳇바퀴를 돌려.",
+   "tema": "animal"
+ },
+ {
+   "id": 7,
+   "spanish": "el conejo",
+   "korean": "토끼",
+   "synonym": "",
+   "example_es": "El conejo come zanahorias.",
+   "example_ko": "토끼는 당근을 먹어.",
+   "tema": "animal"
+ },
+ {
+   "id": 8,
+   "spanish": "el ratón",
+   "korean": "쥐",
+   "synonym": "",
+   "example_es": "El ratón se escapó por el agujero.",
+   "example_ko": "쥐가 구멍으로 도망쳤어.",
+   "tema": "animal"
+ },
+ {
+   "id": 9,
+   "spanish": "la rata",
+   "korean": "쥐 (큰 쥐)",
+   "synonym": "",
+   "example_es": "La rata vive en el alcantarillado.",
+   "example_ko": "쥐는 하수구에 살아.",
+   "tema": "animal"
+ },
+ {
+   "id": 10,
+   "spanish": "el caballo",
+   "korean": "말",
+   "synonym": "",
+   "example_es": "El caballo galopa por el campo.",
+   "example_ko": "말이 들판을 질주해.",
+   "tema": "animal"
+ },
+ {
+   "id": 11,
+   "spanish": "la yegua",
+   "korean": "암말",
+   "synonym": "",
+   "example_es": "La yegua cuida a su potrillo.",
+   "example_ko": "암말이 망아지를 돌봐.",
+   "tema": "animal"
+ },
+ {
+   "id": 12,
+   "spanish": "el burro",
+   "korean": "나귀, 당나귀",
+   "synonym": "el asno",
+   "example_es": "El burro lleva la carga.",
+   "example_ko": "당나귀가 짐을 운반해.",
+   "tema": "animal"
+ },
+ {
+   "id": 13,
+   "spanish": "la vaca",
+   "korean": "암소",
+   "synonym": "",
+   "example_es": "La vaca da mucha leche.",
+   "example_ko": "암소는 우유를 많이 줘.",
+   "tema": "animal"
+ },
+ {
+   "id": 14,
+   "spanish": "el toro",
+   "korean": "황소",
+   "synonym": "",
+   "example_es": "El toro es el símbolo de España.",
+   "example_ko": "황소는 스페인의 상징이야.",
+   "tema": "animal"
+ },
+ {
+   "id": 15,
+   "spanish": "el ternero",
+   "korean": "송아지",
+   "synonym": "el becerro",
+   "example_es": "El ternero sigue a su madre.",
+   "example_ko": "송아지가 엄마를 따라가.",
+   "tema": "animal"
+ },
+ {
+   "id": 16,
+   "spanish": "el cerdo",
+   "korean": "돼지",
+   "synonym": "el puerco / el chancho",
+   "example_es": "El cerdo vive en la granja.",
+   "example_ko": "돼지는 농장에 살아.",
+   "tema": "animal"
+ },
+ {
+   "id": 17,
+   "spanish": "el jabalí",
+   "korean": "멧돼지",
+   "synonym": "",
+   "example_es": "El jabalí busca comida en el monte.",
+   "example_ko": "멧돼지가 산에서 먹이를 찾아.",
+   "tema": "animal"
+ },
+ {
+   "id": 18,
+   "spanish": "la oveja",
+   "korean": "양",
+   "synonym": "",
+   "example_es": "La oveja tiene lana blanca.",
+   "example_ko": "양은 하얀 양털을 가졌어.",
+   "tema": "animal"
+ },
+ {
+   "id": 19,
+   "spanish": "el cordero",
+   "korean": "어린 양",
+   "synonym": "",
+   "example_es": "El cordero bala suavemente.",
+   "example_ko": "어린 양이 부드럽게 울어.",
+   "tema": "animal"
+ },
+ {
+   "id": 20,
+   "spanish": "la cabra",
+   "korean": "염소",
+   "synonym": "",
+   "example_es": "La cabra sube por las rocas.",
+   "example_ko": "염소가 바위 위를 올라가.",
+   "tema": "animal"
+ },
+ {
+   "id": 21,
+   "spanish": "el ciervo",
+   "korean": "사슴",
+   "synonym": "el venado",
+   "example_es": "El ciervo tiene astas grandes.",
+   "example_ko": "사슴은 큰 뿔을 가졌어.",
+   "tema": "animal"
+ },
+ {
+   "id": 22,
+   "spanish": "el alce",
+   "korean": "엘크, 무스",
+   "synonym": "",
+   "example_es": "El alce vive en climas fríos.",
+   "example_ko": "엘크는 추운 기후에 살아.",
+   "tema": "animal"
+ },
+ {
+   "id": 23,
+   "spanish": "el elefante",
+   "korean": "코끼리",
+   "synonym": "",
+   "example_es": "El elefante tiene una trompa larga.",
+   "example_ko": "코끼리는 긴 코를 가졌어.",
+   "tema": "animal"
+ },
+ {
+   "id": 24,
+   "spanish": "el león",
+   "korean": "사자",
+   "synonym": "",
+   "example_es": "El león es el rey de la selva.",
+   "example_ko": "사자는 밀림의 왕이야.",
+   "tema": "animal"
+ },
+ {
+   "id": 25,
+   "spanish": "el tigre",
+   "korean": "호랑이",
+   "synonym": "",
+   "example_es": "El tigre tiene rayas negras.",
+   "example_ko": "호랑이는 검은 줄무늬를 가졌어.",
+   "tema": "animal"
+ },
+ {
+   "id": 26,
+   "spanish": "el leopardo",
+   "korean": "표범",
+   "synonym": "",
+   "example_es": "El leopardo corre muy rápido.",
+   "example_ko": "표범은 아주 빨리 달려.",
+   "tema": "animal"
+ },
+ {
+   "id": 27,
+   "spanish": "la pantera",
+   "korean": "팬더, 흑표범",
+   "synonym": "",
+   "example_es": "La pantera negra es muy elegante.",
+   "example_ko": "흑표범은 아주 우아해.",
+   "tema": "animal"
+ },
+ {
+   "id": 28,
+   "spanish": "el guepardo",
+   "korean": "치타",
+   "synonym": "",
+   "example_es": "El guepardo es el animal más veloz.",
+   "example_ko": "치타는 가장 빠른 동물이야.",
+   "tema": "animal"
+ },
+ {
+   "id": 29,
+   "spanish": "la hiena",
+   "korean": "하이에나",
+   "synonym": "",
+   "example_es": "La hiena tiene una risa extraña.",
+   "example_ko": "하이에나는 이상한 웃음소리를 내.",
+   "tema": "animal"
+ },
+ {
+   "id": 30,
+   "spanish": "el lobo",
+   "korean": "늑대",
+   "synonym": "",
+   "example_es": "El lobo aúlla a la luna.",
+   "example_ko": "늑대가 달을 향해 울부짖어.",
+   "tema": "animal"
+ },
+ {
+   "id": 31,
+   "spanish": "el zorro",
+   "korean": "여우",
+   "synonym": "",
+   "example_es": "El zorro es muy astuto.",
+   "example_ko": "여우는 아주 영리해.",
+   "tema": "animal"
+ },
+ {
+   "id": 32,
+   "spanish": "el oso",
+   "korean": "곰",
+   "synonym": "",
+   "example_es": "El oso duerme en invierno.",
+   "example_ko": "곰은 겨울에 잠을 자.",
+   "tema": "animal"
+ },
+ {
+   "id": 33,
+   "spanish": "el oso panda",
+   "korean": "판다",
+   "synonym": "",
+   "example_es": "El oso panda come bambú.",
+   "example_ko": "판다는 대나무를 먹어.",
+   "tema": "animal"
+ },
+ {
+   "id": 34,
+   "spanish": "el oso polar",
+   "korean": "북극곰",
+   "synonym": "",
+   "example_es": "El oso polar vive en el Ártico.",
+   "example_ko": "북극곰은 북극에 살아.",
+   "tema": "animal"
+ },
+ {
+   "id": 35,
+   "spanish": "el mono",
+   "korean": "원숭이",
+   "synonym": "el mico / el chango",
+   "example_es": "El mono salta entre los árboles.",
+   "example_ko": "원숭이가 나무 사이를 뛰어다녀.",
+   "tema": "animal"
+ },
+ {
+   "id": 36,
+   "spanish": "el gorila",
+   "korean": "고릴라",
+   "synonym": "",
+   "example_es": "El gorila es muy fuerte.",
+   "example_ko": "고릴라는 아주 힘이 세.",
+   "tema": "animal"
+ },
+ {
+   "id": 37,
+   "spanish": "el chimpancé",
+   "korean": "침팬지",
+   "synonym": "",
+   "example_es": "El chimpancé usa herramientas.",
+   "example_ko": "침팬지는 도구를 사용해.",
+   "tema": "animal"
+ },
+ {
+   "id": 38,
+   "spanish": "la cebra",
+   "korean": "얼룩말",
+   "synonym": "",
+   "example_es": "La cebra tiene rayas blancas y negras.",
+   "example_ko": "얼룩말은 흰색과 검은색 줄무늬가 있어.",
+   "tema": "animal"
+ },
+ {
+   "id": 39,
+   "spanish": "la jirafa",
+   "korean": "기린",
+   "synonym": "",
+   "example_es": "La jirafa tiene el cuello largo.",
+   "example_ko": "기린은 목이 길어.",
+   "tema": "animal"
+ },
+ {
+   "id": 40,
+   "spanish": "el hipopótamo",
+   "korean": "하마",
+   "synonym": "",
+   "example_es": "El hipopótamo vive en el río.",
+   "example_ko": "하마는 강에 살아.",
+   "tema": "animal"
+ },
+ {
+   "id": 41,
+   "spanish": "el rinoceronte",
+   "korean": "코뿔소",
+   "synonym": "",
+   "example_es": "El rinoceronte tiene un cuerno duro.",
+   "example_ko": "코뿔소는 딱딱한 뿔을 가졌어.",
+   "tema": "animal"
+ },
+ {
+   "id": 42,
+   "spanish": "el camello",
+   "korean": "낙타",
+   "synonym": "",
+   "example_es": "El camello vive en el desierto.",
+   "example_ko": "낙타는 사막에 살아.",
+   "tema": "animal"
+ },
+ {
+   "id": 43,
+   "spanish": "el canguro",
+   "korean": "캥거루",
+   "synonym": "",
+   "example_es": "El canguro salta muy alto.",
+   "example_ko": "캥거루는 아주 높이 뛰어.",
+   "tema": "animal"
+ },
+ {
+   "id": 44,
+   "spanish": "el koala",
+   "korean": "코알라",
+   "synonym": "",
+   "example_es": "El koala duerme en el eucalipto.",
+   "example_ko": "코알라는 유칼립투스 나무에서 자.",
+   "tema": "animal"
+ },
+ {
+   "id": 45,
+   "spanish": "el murciélago",
+   "korean": "박쥐",
+   "synonym": "",
+   "example_es": "El murciélago vuela de noche.",
+   "example_ko": "박쥐는 밤에 날아다녀.",
+   "tema": "animal"
+ },
+ {
+   "id": 46,
+   "spanish": "el erizo",
+   "korean": "고슴도치",
+   "synonym": "",
+   "example_es": "El erizo tiene muchas púas.",
+   "example_ko": "고슴도치는 가시가 많아.",
+   "tema": "animal"
+ },
+ {
+   "id": 47,
+   "spanish": "la ardilla",
+   "korean": "다람쥐",
+   "synonym": "",
+   "example_es": "La ardilla guarda nueces.",
+   "example_ko": "다람쥐는 견과류를 저장해.",
+   "tema": "animal"
+ },
+ {
+   "id": 48,
+   "spanish": "el zorrillo",
+   "korean": "스컹크",
+   "synonym": "la mofeta",
+   "example_es": "El zorrillo huele muy mal.",
+   "example_ko": "스컹크는 냄새가 아주 고약해.",
+   "tema": "animal"
+ },
+ {
+   "id": 49,
+   "spanish": "el mapache",
+   "korean": "너구리",
+   "synonym": "",
+   "example_es": "El mapache tiene una máscara negra.",
+   "example_ko": "너구리는 검은 마스크를 쓴 것 같아.",
+   "tema": "animal"
+ },
+ {
+   "id": 50,
+   "spanish": "el castor",
+   "korean": "비버",
+   "synonym": "",
+   "example_es": "El castor construye presas.",
+   "example_ko": "비버는 댐을 건설해.",
+   "tema": "animal"
+ },
+ {
+   "id": 51,
+   "spanish": "el dromedario",
+   "korean": "단봉낙타",
+   "synonym": "",
+   "example_es": "El dromedario solo tiene una joroba.",
+   "example_ko": "단봉낙타는 혹이 하나뿐이야.",
+   "tema": "animal"
+ },
+ {
+   "id": 52,
+   "spanish": "el topo",
+   "korean": "두더지",
+   "synonym": "",
+   "example_es": "El topo vive en túneles bajo tierra.",
+   "example_ko": "두더지는 땅속 터널에 살아.",
+   "tema": "animal"
+ },
+ {
+   "id": 53,
+   "spanish": "el buey",
+   "korean": "황소, 소 (일하는)",
+   "synonym": "",
+   "example_es": "El buey ayuda a arar el campo.",
+   "example_ko": "황소가 밭을 가는 것을 도와.",
+   "tema": "animal"
+ },
+ {
+   "id": 54,
+   "spanish": "el búfalo",
+   "korean": "버팔로, 물소",
+   "synonym": "",
+   "example_es": "El búfalo vive en grandes manadas.",
+   "example_ko": "버팔로는 큰 무리를 지어 살아.",
+   "tema": "animal"
+ },
+ {
+   "id": 55,
+   "spanish": "el reno",
+   "korean": "순록",
+   "synonym": "",
+   "example_es": "El reno vive en regiones muy frías.",
+   "example_ko": "순록은 아주 추운 지역에 살아.",
+   "tema": "animal"
+ },
+ {
+   "id": 56,
+   "spanish": "el bisonte",
+   "korean": "비송",
+   "synonym": "",
+   "example_es": "El bisonte americano es muy grande.",
+   "example_ko": "아메리카 비송은 아주 거대해.",
+   "tema": "animal"
+ },
+ {
+   "id": 57,
+   "spanish": "el antílope",
+   "korean": "영양",
+   "synonym": "",
+   "example_es": "El antílope corre por la sabana.",
+   "example_ko": "영양은 사바나를 가로질러 달려.",
+   "tema": "animal"
+ },
+ {
+   "id": 58,
+   "spanish": "la gacela",
+   "korean": "가젤",
+   "synonym": "",
+   "example_es": "La gacela es muy ágil y rápida.",
+   "example_ko": "가젤은 아주 민첩하고 빨라.",
+   "tema": "animal"
+ },
+ {
+   "id": 59,
+   "spanish": "el ñu",
+   "korean": "누",
+   "synonym": "",
+   "example_es": "El ñu migra en busca de pasto.",
+   "example_ko": "누는 풀을 찾아 이동해.",
+   "tema": "animal"
+ },
+ {
+   "id": 60,
+   "spanish": "el puercoespín",
+   "korean": "호저, 가시돼지",
+   "synonym": "",
+   "example_es": "El puercoespín se defiende con sus púas.",
+   "example_ko": "호저는 가시로 자신을 방어해.",
+   "tema": "animal"
+ },
+ {
+   "id": 61,
+   "spanish": "el armadillo",
+   "korean": "아르마딜로",
+   "synonym": "",
+   "example_es": "El armadillo tiene un caparazón rígido.",
+   "example_ko": "아르마딜로는 딱딱한 등껍질을 가졌어.",
+   "tema": "animal"
+ },
+ {
+   "id": 62,
+   "spanish": "el oso hormiguero",
+   "korean": "개미핥기",
+   "synonym": "",
+   "example_es": "El oso hormiguero tiene una lengua larga.",
+   "example_ko": "개미핥기는 긴 혀를 가졌어.",
+   "tema": "animal"
+ },
+ {
+   "id": 63,
+   "spanish": "el perezoso",
+   "korean": "나무늘보",
+   "synonym": "",
+   "example_es": "El perezoso se mueve muy despacio.",
+   "example_ko": "나무늘보는 아주 천천히 움직여.",
+   "tema": "animal"
+ },
+ {
+   "id": 64,
+   "spanish": "el ornitorrinco",
+   "korean": "오리너구리",
+   "synonym": "",
+   "example_es": "El ornitorrinco es un animal extraño.",
+   "example_ko": "오리너구리는 희귀한 동물이야.",
+   "tema": "animal"
+ },
+ {
+   "id": 65,
+   "spanish": "el lince",
+   "korean": "스라소니",
+   "synonym": "",
+   "example_es": "El lince tiene orejas con pinceles.",
+   "example_ko": "스라소니는 귀에 털뭉치가 있어.",
+   "tema": "animal"
+ },
+ {
+   "id": 66,
+   "spanish": "el puma",
+   "korean": "퓨마",
+   "synonym": "",
+   "example_es": "El puma vive en las montañas.",
+   "example_ko": "퓨마는 산악 지대에 살아.",
+   "tema": "animal"
+ },
+ {
+   "id": 67,
+   "spanish": "el jaguar",
+   "korean": "재규어",
+   "synonym": "",
+   "example_es": "El jaguar es un felino muy potente.",
+   "example_ko": "재규어는 아주 강력한 고양이과 동물이야.",
+   "tema": "animal"
+ },
+ {
+   "id": 68,
+   "spanish": "el coyote",
+   "korean": "코요테",
+   "synonym": "",
+   "example_es": "El coyote vive en América del Norte.",
+   "example_ko": "코요테는 북미에 살아.",
+   "tema": "animal"
+ },
+ {
+   "id": 69,
+   "spanish": "el chacal",
+   "korean": "자칼",
+   "synonym": "",
+   "example_es": "El chacal es un pariente del lobo.",
+   "example_ko": "자칼은 늑대의 친척이야.",
+   "tema": "animal"
+ },
+ {
+   "id": 70,
+   "spanish": "el suricato",
+   "korean": "미어캣",
+   "synonym": "",
+   "example_es": "El suricato vigila de pie.",
+   "example_ko": "미어캣은 서서 감시를 해.",
+   "tema": "animal"
+ },
+ {
+   "id": 71,
+   "spanish": "la nutria",
+   "korean": "수달",
+   "synonym": "",
+   "example_es": "La nutria es una excelente nadadora.",
+   "example_ko": "수달은 수영을 아주 잘해.",
+   "tema": "animal"
+ },
+ {
+   "id": 72,
+   "spanish": "el tejón",
+   "korean": "오소리",
+   "synonym": "",
+   "example_es": "El tejón vive en madrigueras.",
+   "example_ko": "오소리는 굴속에 살아.",
+   "tema": "animal"
+ },
+ {
+   "id": 73,
+   "spanish": "el conejillo de indias",
+   "korean": "기니피그",
+   "synonym": "el cobayo / la cobaya",
+   "example_es": "El conejillo de indias es una mascota común.",
+   "example_ko": "기니피그는 흔한 반려동물이야.",
+   "tema": "animal"
+ },
+ {
+   "id": 74,
+   "spanish": "el hurón",
+   "korean": "페럿",
+   "synonym": "",
+   "example_es": "El hurón es muy curioso y juguetón.",
+   "example_ko": "페럿은 호기심이 많고 장난을 좋아해.",
+   "tema": "animal"
+ },
+ {
+   "id": 75,
+   "spanish": "el orangután",
+   "korean": "오랑우탄",
+   "synonym": "",
+   "example_es": "El orangután vive en las copas de los árboles.",
+   "example_ko": "오랑우탄은 나무 꼭대기에 살아.",
+   "tema": "animal"
+ },
+ {
+   "id": 76,
+   "spanish": "el mandril",
+   "korean": "맨드릴",
+   "synonym": "",
+   "example_es": "El mandril tiene la cara de colores.",
+   "example_ko": "맨드릴은 얼굴색이 화려해.",
+   "tema": "animal"
+ },
+ {
+   "id": 77,
+   "spanish": "el lémur",
+   "korean": "여우원숭이",
+   "synonym": "",
+   "example_es": "El lémur tiene una cola anillada.",
+   "example_ko": "여우원숭이는 줄무늬 꼬리를 가졌어.",
+   "tema": "animal"
+ },
+ {
+   "id": 78,
+   "spanish": "el mandril",
+   "korean": "개원숭이, 비비",
+   "synonym": "el babuino",
+   "example_es": "El babuino vive en grupos sociales.",
+   "example_ko": "비비는 사회적 그룹을 지어 살아.",
+   "tema": "animal"
+ },
+ {
+   "id": 79,
+   "spanish": "la cría",
+   "korean": "새끼 동물",
+   "synonym": "el cachorro",
+   "example_es": "La cría de oso se llama osezno.",
+   "example_ko": "곰의 새끼는 'osezno'라고 불러.",
+   "tema": "animal"
+ },
+ {
+   "id": 80,
+   "spanish": "el pelaje",
+   "korean": "털, 가죽",
+   "synonym": "",
+   "example_es": "El tigre tiene un pelaje rayado.",
+   "example_ko": "호랑이는 줄무늬 털을 가졌어.",
+   "tema": "animal"
+ },
+ {
+   "id": 81,
+   "spanish": "la manada",
+   "korean": "무리, 떼",
+   "synonym": "",
+   "example_es": "La manada de lobos caza junta.",
+   "example_ko": "늑대 무리는 함께 사냥해.",
+   "tema": "animal"
+ },
+ {
+   "id": 82,
+   "spanish": "el depredador",
+   "korean": "포식자",
+   "synonym": "",
+   "example_es": "El león es el depredador alfa.",
+   "example_ko": "사자는 최상위 포식자야.",
+   "tema": "animal"
+ },
+ {
+   "id": 83,
+   "spanish": "la presa",
+   "korean": "먹잇감",
+   "synonym": "",
+   "example_es": "La cebra es la presa del león.",
+   "example_ko": "얼룩말은 사자의 먹잇감이야.",
+   "tema": "animal"
+ },
+ {
+   "id": 84,
+   "spanish": "el hábitat",
+   "korean": "서식지",
+   "synonym": "",
+   "example_es": "Debemos proteger el hábitat animal.",
+   "example_ko": "동물 서식지를 보호해야 해.",
+   "tema": "animal"
+ },
+ {
+   "id": 85,
+   "spanish": "una manada",
+   "korean": "(포유류) 무리, 떼",
+   "synonym": "",
+   "example_es": "Una manada de lobos corrió.",
+   "example_ko": "늑대 한 무리가 달렸어.",
+   "tema": "animal"
+ },
+ {
+   "id": 86,
+   "spanish": "un rebaño",
+   "korean": "(양, 염소 등 가축) 무리",
+   "synonym": "",
+   "example_es": "El rebaño pace en el campo.",
+   "example_ko": "양 떼가 들판에서 풀을 뜯어.",
+   "tema": "animal"
+ },
+ {
+   "id": 87,
+   "spanish": "una jauría",
+   "korean": "(개, 늑대 사냥) 무리",
+   "synonym": "",
+   "example_es": "La jauría persigue al ciervo.",
+   "example_ko": "사냥개 무리가 사슴을 쫓아.",
+   "tema": "animal"
+ },
+ {
+   "id": 88,
+   "spanish": "una piara",
+   "korean": "(돼지) 무리",
+   "synonym": "",
+   "example_es": "La piara busca comida ahora.",
+   "example_ko": "돼지 떼가 지금 먹이를 찾아.",
+   "tema": "animal"
+ },
+ {
+   "id": 89,
+   "spanish": "una yeguada",
+   "korean": "(말) 무리",
+   "synonym": "",
+   "example_es": "La yeguada saltó la valla.",
+   "example_ko": "말 무리가 울타리를 넘었어.",
+   "tema": "animal"
+ },
+ {
+   "id": 90,
+   "spanish": "una manada de elefantes",
+   "korean": "코끼리 무리",
+   "synonym": "",
+   "example_es": "La manada de elefantes caminó.",
+   "example_ko": "코끼리 무리가 걸어갔어.",
+   "tema": "animal"
+ },
+ {
+   "id": 91,
+   "spanish": "un grupo de leones",
+   "korean": "사자 무리",
+   "synonym": "",
+   "example_es": "Vimos un grupo de leones.",
+   "example_ko": "우리는 사자 무리를 봤어.",
+   "tema": "animal"
+ },
+ {
+   "id": 92,
+   "spanish": "una madriguera",
+   "korean": "(토끼, 여우 등) 굴",
+   "synonym": "",
+   "example_es": "El conejo salió de la madriguera.",
+   "example_ko": "토끼가 굴에서 나왔어.",
+   "tema": "animal"
+ },
+ {
+   "id": 93,
+   "spanish": "la fauna",
+   "korean": "야생 동물, 동물군",
+   "synonym": "",
+   "example_es": "La fauna silvestre es hermosa.",
+   "example_ko": "야생 동물군은 아름다워.",
+   "tema": "animal"
+ }
+]

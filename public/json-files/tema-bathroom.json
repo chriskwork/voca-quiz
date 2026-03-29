@@ -1,0 +1,560 @@
+[
+ {
+   "id": 1,
+   "spanish": "el (cuarto de) baño",
+   "korean": "욕실, 화장실",
+   "synonym": "el sanitario",
+   "example_es": "El baño está al fondo a la derecha.",
+   "example_ko": "화장실은 복도 끝 오른쪽에 있어요.",
+   "tema": "bano"
+ },
+ {
+   "id": 2,
+   "spanish": "la alfombra de baño",
+   "korean": "바닥 깔개",
+   "synonym": "",
+   "example_es": "Ten cuidado, la alfombra está mojada.",
+   "example_ko": "조심해, 매트가 젖어 있어.",
+   "tema": "bano"
+ },
+ {
+   "id": 3,
+   "spanish": "el cesto de la ropa",
+   "korean": "빨래바구니",
+   "synonym": "",
+   "example_es": "Pon tu camisa en el cesto de la ropa.",
+   "example_ko": "셔츠를 빨래바구니에 넣어줘.",
+   "tema": "bano"
+ },
+ {
+   "id": 4,
+   "spanish": "el grifo",
+   "korean": "수도꼭지",
+   "synonym": "la llave / la canilla",
+   "example_es": "Cierra bien el grifo para ahorrar agua.",
+   "example_ko": "물을 아끼려면 수도꼭지를 잘 잠그렴.",
+   "tema": "bano"
+ },
+ {
+   "id": 5,
+   "spanish": "la burbuja",
+   "korean": "버블",
+   "synonym": "",
+   "example_es": "Me gusta bañarme con muchas burbujas.",
+   "example_ko": "나는 거품(버블)을 많이 내서 목욕하는 걸 좋아해.",
+   "tema": "bano"
+ },
+ {
+   "id": 6,
+   "spanish": "la espuma",
+   "korean": "거품",
+   "synonym": "",
+   "example_es": "Esta crema de afeitar hace mucha espuma.",
+   "example_ko": "이 면도 크림은 거품이 아주 잘 나네.",
+   "tema": "bano"
+ },
+ {
+   "id": 7,
+   "spanish": "el jabón",
+   "korean": "비누",
+   "synonym": "",
+   "example_es": "Lávate las manos con jabón, por favor.",
+   "example_ko": "비누로 손을 씻으세요.",
+   "tema": "bano"
+ },
+ {
+   "id": 8,
+   "spanish": "la jabonera",
+   "korean": "비누받침대",
+   "synonym": "",
+   "example_es": "Deja el jabón en la jabonera.",
+   "example_ko": "비누를 비누받침대에 둬.",
+   "tema": "bano"
+ },
+ {
+   "id": 9,
+   "spanish": "el tapón",
+   "korean": "배수구 덮개",
+   "synonym": "",
+   "example_es": "El tapón de la bañera no cierra bien.",
+   "example_ko": "욕조 마개가 잘 안 닫혀.",
+   "tema": "bano"
+ },
+ {
+   "id": 10,
+   "spanish": "la baldosa",
+   "korean": "타일",
+   "synonym": "el azulejo",
+   "example_es": "Las baldosas del baño son blancas.",
+   "example_ko": "욕실 타일이 하얀색이야.",
+   "tema": "bano"
+ },
+ {
+   "id": 11,
+   "spanish": "la toalla",
+   "korean": "타월, 수건",
+   "synonym": "",
+   "example_es": "¿Me traes una toalla limpia, por favor?",
+   "example_ko": "깨끗한 수건 하나만 가져다줄래?",
+   "tema": "bano"
+ },
+ {
+   "id": 12,
+   "spanish": "el toallero",
+   "korean": "수건걸이",
+   "synonym": "",
+   "example_es": "Cuelga la toalla en el toallero.",
+   "example_ko": "수건을 수건걸이에 걸어둬.",
+   "tema": "bano"
+ },
+ {
+   "id": 13,
+   "spanish": "la toallita de baño",
+   "korean": "샤워타월",
+   "synonym": "",
+   "example_es": "Uso una toallita para exfoliar la piel.",
+   "example_ko": "나는 피부 각질 제거를 위해 샤워타월을 써.",
+   "tema": "bano"
+ },
+ {
+   "id": 14,
+   "spanish": "la toalla de mano",
+   "korean": "핸드타월",
+   "synonym": "",
+   "example_es": "Hay una toalla de mano junto al lavabo.",
+   "example_ko": "세면대 옆에 핸드타월이 있어.",
+   "tema": "bano"
+ },
+ {
+   "id": 15,
+   "spanish": "la bañera",
+   "korean": "욕조",
+   "synonym": "la tina",
+   "example_es": "Voy a llenar la bañera con agua tibia.",
+   "example_ko": "미지근한 물로 욕조를 채울게.",
+   "tema": "bano"
+ },
+ {
+   "id": 16,
+   "spanish": "la ducha",
+   "korean": "샤워(시설)",
+   "synonym": "",
+   "example_es": "Prefiero una ducha rápida por la mañana.",
+   "example_ko": "나는 아침에 빠르게 샤워하는 걸 선호해.",
+   "tema": "bano"
+ },
+ {
+   "id": 17,
+   "spanish": "la alcachofa de la ducha",
+   "korean": "샤워기 헤드",
+   "synonym": "el regador / la flor",
+   "example_es": "Hay que limpiar la alcachofa de la ducha.",
+   "example_ko": "샤워기 헤드를 청소해야겠어.",
+   "tema": "bano"
+ },
+ {
+   "id": 18,
+   "spanish": "el lavabo",
+   "korean": "세면대",
+   "synonym": "el lavamanos / la pileta",
+   "example_es": "Cepíllate los dientes en el lavabo.",
+   "example_ko": "세면대에서 양치질하렴.",
+   "tema": "bano"
+ },
+ {
+   "id": 19,
+   "spanish": "el espejo",
+   "korean": "거울",
+   "synonym": "",
+   "example_es": "Mírate en el espejo antes de salir.",
+   "example_ko": "나가기 전에 거울을 좀 봐.",
+   "tema": "bano"
+ },
+ {
+   "id": 20,
+   "spanish": "el váter / el inodoro",
+   "korean": "변기",
+   "synonym": "el poceta / el excusado",
+   "example_es": "El inodoro está perdiendo agua.",
+   "example_ko": "변기에서 물이 새고 있어.",
+   "tema": "bano"
+ },
+ {
+   "id": 21,
+   "spanish": "el papel higiénico",
+   "korean": "화장지",
+   "synonym": "el papel tualé",
+   "example_es": "No queda papel higiénico en el baño.",
+   "example_ko": "화장실에 화장지가 남지 않았어.",
+   "tema": "bano"
+ },
+ {
+   "id": 22,
+   "spanish": "el portarrollos",
+   "korean": "화장지 걸이",
+   "synonym": "",
+   "example_es": "El portarrollos está flojo.",
+   "example_ko": "화장지 걸이가 헐거워졌어.",
+   "tema": "bano"
+ },
+ {
+   "id": 23,
+   "spanish": "la pasta de dientes",
+   "korean": "치약",
+   "synonym": "el dentífrico",
+   "example_es": "¿Qué marca de pasta de dientes usas?",
+   "example_ko": "어떤 브랜드 치약을 쓰니?",
+   "tema": "bano"
+ },
+ {
+   "id": 24,
+   "spanish": "el cepillo de dientes",
+   "korean": "칫솔",
+   "synonym": "",
+   "example_es": "Hay que cambiar el cepillo de dientes cada tres meses.",
+   "example_ko": "칫솔은 3개월마다 바꿔야 해.",
+   "tema": "bano"
+ },
+ {
+   "id": 25,
+   "spanish": "el hilo dental",
+   "korean": "치실",
+   "synonym": "la seda dental",
+   "example_es": "El dentista dice que use el hilo dental.",
+   "example_ko": "치과 의사가 치실을 쓰라고 했어.",
+   "tema": "bano"
+ },
+ {
+   "id": 26,
+   "spanish": "el enjuague bucal",
+   "korean": "구강 청결제",
+   "synonym": "",
+   "example_es": "El enjuague bucal refresca el aliento.",
+   "example_ko": "구강 청결제는 숨결을 상쾌하게 해줘.",
+   "tema": "bano"
+ },
+ {
+   "id": 27,
+   "spanish": "el champú",
+   "korean": "샴푸",
+   "synonym": "",
+   "example_es": "Este champú es para pelo seco.",
+   "example_ko": "이 샴푸는 건성 모발용이야.",
+   "tema": "bano"
+ },
+ {
+   "id": 28,
+   "spanish": "el acondicionador",
+   "korean": "컨디셔너, 린스",
+   "synonym": "la crema de enjuague",
+   "example_es": "Aplica el acondicionador después del champú.",
+   "example_ko": "샴푸 후에 컨디셔너를 바르렴.",
+   "tema": "bano"
+ },
+ {
+   "id": 29,
+   "spanish": "el gel de ducha",
+   "korean": "샤워 젤",
+   "synonym": "el jabón líquido",
+   "example_es": "El gel de ducha huele a coco.",
+   "example_ko": "샤워 젤에서 코코넛 향이 나.",
+   "tema": "bano"
+ },
+ {
+   "id": 30,
+   "spanish": "la esponja",
+   "korean": "스펀지, 샤워볼",
+   "synonym": "",
+   "example_es": "Frota la piel suavemente con la esponja.",
+   "example_ko": "스펀지로 피부를 부드럽게 문질러.",
+   "tema": "bano"
+ },
+ {
+   "id": 31,
+   "spanish": "la piedra pómez",
+   "korean": "각질 제거 돌",
+   "synonym": "",
+   "example_es": "Uso la piedra pómez para los talones.",
+   "example_ko": "나는 뒤꿈치에 각질 제거 돌을 써.",
+   "tema": "bano"
+ },
+ {
+   "id": 32,
+   "spanish": "la manopla",
+   "korean": "세안용 장갑",
+   "synonym": "",
+   "example_es": "La manopla ayuda a limpiar la cara.",
+   "example_ko": "세안용 장갑은 얼굴 세안을 도와줘.",
+   "tema": "bano"
+ },
+ {
+   "id": 33,
+   "spanish": "el albornoz",
+   "korean": "목욕 가운",
+   "synonym": "la bata de baño",
+   "example_es": "Ponte el albornoz al salir de la ducha.",
+   "example_ko": "샤워하고 나올 때 목욕 가운을 입으렴.",
+   "tema": "bano"
+ },
+ {
+   "id": 34,
+   "spanish": "el pijama",
+   "korean": "잠옷",
+   "synonym": "la pijama",
+   "example_es": "Me puse el pijama para dormir.",
+   "example_ko": "나는 자려고 잠옷을 입었어.",
+   "tema": "bano"
+ },
+ {
+   "id": 35,
+   "spanish": "las zapatillas",
+   "korean": "슬리퍼",
+   "synonym": "las chanclas / las pantuflas",
+   "example_es": "Deja las zapatillas fuera del baño.",
+   "example_ko": "슬리퍼는 화장실 밖에 두렴.",
+   "tema": "bano"
+ },
+ {
+   "id": 36,
+   "spanish": "el peine",
+   "korean": "빗 (일반)",
+   "synonym": "",
+   "example_es": "El peine de madera es mejor para el pelo.",
+   "example_ko": "나무 빗이 머리카락에 더 좋아.",
+   "tema": "bano"
+ },
+ {
+   "id": 37,
+   "spanish": "el cepillo (de pelo)",
+   "korean": "빗 (브러시)",
+   "synonym": "",
+   "example_es": "Ella se desenreda el pelo con un cepillo.",
+   "example_ko": "그녀는 브러시로 머리를 빗어.",
+   "tema": "bano"
+ },
+ {
+   "id": 38,
+   "spanish": "el secador de pelo",
+   "korean": "헤어드라이어",
+   "synonym": "",
+   "example_es": "No encuentro el secador de pelo.",
+   "example_ko": "헤어드라이어를 못 찾겠어.",
+   "tema": "bano"
+ },
+ {
+   "id": 39,
+   "spanish": "las tenacillas",
+   "korean": "고데기",
+   "synonym": "la rizadora",
+   "example_es": "Ten cuidado, las tenacillas están calientes.",
+   "example_ko": "조심해, 고데기가 뜨거워.",
+   "tema": "bano"
+ },
+ {
+   "id": 40,
+   "spanish": "la laca",
+   "korean": "헤어스프레이",
+   "synonym": "el fijador",
+   "example_es": "Usa un poco de laca para fijar el peinado.",
+   "example_ko": "머리 모양을 고정하려면 헤어스프레이를 조금 써.",
+   "tema": "bano"
+ },
+ {
+   "id": 41,
+   "spanish": "la espuma de afeitar",
+   "korean": "면도 크림",
+   "synonym": "la crema de afeitar",
+   "example_es": "La espuma de afeitar protege la piel.",
+   "example_ko": "면도 크림은 피부를 보호해 줘.",
+   "tema": "bano"
+ },
+ {
+   "id": 42,
+   "spanish": "la cuchilla de afeitar",
+   "korean": "면도칼, 면도기",
+   "synonym": "la rasuradora / la máquina",
+   "example_es": "Compré una cuchilla de afeitar nueva.",
+   "example_ko": "새 면도기를 샀어.",
+   "tema": "bano"
+ },
+ {
+   "id": 43,
+   "spanish": "la depiladora",
+   "korean": "제모기",
+   "synonym": "",
+   "example_es": "Mi hermana usa una depiladora eléctrica.",
+   "example_ko": "내 여동생은 전기 제모기를 써.",
+   "tema": "bano"
+ },
+ {
+   "id": 44,
+   "spanish": "las pinzas",
+   "korean": "핀셋, 집게",
+   "synonym": "",
+   "example_es": "Usa las pinzas para quitarse un pelo.",
+   "example_ko": "털을 뽑으려고 핀셋을 써.",
+   "tema": "bano"
+ },
+ {
+   "id": 45,
+   "spanish": "el maquillaje",
+   "korean": "메이크업, 화장",
+   "synonym": "",
+   "example_es": "Ella se pone mucho maquillaje.",
+   "example_ko": "그녀는 화장을 많이 해.",
+   "tema": "bano"
+ },
+ {
+   "id": 46,
+   "spanish": "el rímel",
+   "korean": "마스카라",
+   "synonym": "la máscara de pestañas",
+   "example_es": "El rímel alarga las pestañas.",
+   "example_ko": "마스카라는 속눈썹을 길게 해 줘.",
+   "tema": "bano"
+ },
+ {
+   "id": 47,
+   "spanish": "la sombra de ojos",
+   "korean": "아이섀도",
+   "synonym": "",
+   "example_es": "¿Qué color de sombra de ojos prefieres?",
+   "example_ko": "어떤 색 아이섀도를 좋아하니?",
+   "tema": "bano"
+ },
+ {
+   "id": 48,
+   "spanish": "el pintalabios",
+   "korean": "립스틱",
+   "synonym": "el labial",
+   "example_es": "Este pintalabios es mate.",
+   "example_ko": "이 립스틱은 매트해.",
+   "tema": "bano"
+ },
+ {
+   "id": 49,
+   "spanish": "el colorete",
+   "korean": "볼터치, 블러셔",
+   "synonym": "el rubor",
+   "example_es": "Ponte un poco de colorete en las mejillas.",
+   "example_ko": "볼에 볼터치를 조금 하렴.",
+   "tema": "bano"
+ },
+ {
+   "id": 50,
+   "spanish": "el esmalte de uñas",
+   "korean": "매니큐어",
+   "synonym": "la pintura de uñas",
+   "example_es": "El esmalte de uñas tarda en secarse.",
+   "example_ko": "매니큐어는 마르는 데 시간이 걸려.",
+   "tema": "bano"
+ },
+ {
+   "id": 51,
+   "spanish": "el quitaesmalte",
+   "korean": "아세톤, 리무버",
+   "synonym": "",
+   "example_es": "Necesito quitaesmalte para limpiar mis uñas.",
+   "example_ko": "손톱을 지우려면 리무버가 필요해.",
+   "tema": "bano"
+ },
+ {
+   "id": 52,
+   "spanish": "la crema",
+   "korean": "크림",
+   "synonym": "",
+   "example_es": "Aplícate crema hidratante después del baño.",
+   "example_ko": "샤워 후에 보습 크림을 바르렴.",
+   "tema": "bano"
+ },
+ {
+   "id": 53,
+   "spanish": "el desodorante",
+   "korean": "데오도란트",
+   "synonym": "",
+   "example_es": "El desodorante huele muy bien.",
+   "example_ko": "데오도란트 향기가 참 좋네.",
+   "tema": "bano"
+ },
+ {
+   "id": 54,
+   "spanish": "el perfume",
+   "korean": "향수",
+   "synonym": "la colonia",
+   "example_es": "Este perfume es muy caro.",
+   "example_ko": "이 향수는 아주 비싸.",
+   "tema": "bano"
+ },
+ {
+   "id": 55,
+   "spanish": "la báscula",
+   "korean": "체중계",
+   "synonym": "la pesa",
+   "example_es": "Me pesé en la báscula esta mañana.",
+   "example_ko": "오늘 아침에 체중계로 몸무게를 쟀어.",
+   "tema": "bano"
+ },
+ {
+   "id": 56,
+   "spanish": "el botiquín",
+   "korean": "구급상자",
+   "synonym": "",
+   "example_es": "El botiquín está detrás del espejo.",
+   "example_ko": "구급상자는 거울 뒤에 있어.",
+   "tema": "bano"
+ },
+ {
+   "id": 57,
+   "spanish": "la tirita",
+   "korean": "대역반창고",
+   "synonym": "el curita",
+   "example_es": "Ponte una tirita en el dedo.",
+   "example_ko": "손가락에 반창고를 붙이렴.",
+   "tema": "bano"
+ },
+ {
+   "id": 58,
+   "spanish": "el bastoncillo",
+   "korean": "면봉",
+   "synonym": "el hisopo / el cotonete",
+   "example_es": "Limpia tus oídos con un bastoncillo.",
+   "example_ko": "면봉으로 귀를 청소해.",
+   "tema": "bano"
+ },
+ {
+   "id": 59,
+   "spanish": "el algodón",
+   "korean": "솜",
+   "synonym": "",
+   "example_es": "Uso algodón para quitarme el maquillaje.",
+   "example_ko": "나는 화장을 지우기 위해 솜을 써.",
+   "tema": "bano"
+ },
+ {
+   "id": 60,
+   "spanish": "el pañuelo",
+   "korean": "손수건, 티슈",
+   "synonym": "el clínex",
+   "example_es": "Pásame un pañuelo de papel, por favor.",
+   "example_ko": "종이 티슈 한 장만 건네줘.",
+   "tema": "bano"
+ },
+ {
+   "id": 61,
+   "spanish": "el bidé",
+   "korean": "비데",
+   "synonym": "",
+   "example_es": "El bidé no es común en todos los países.",
+   "example_ko": "비데는 모든 나라에서 흔한 건 아니야.",
+   "tema": "bano"
+ },
+ {
+   "id": 62,
+   "spanish": "la rejilla",
+   "korean": "배수구 그릴",
+   "synonym": "el colador",
+   "example_es": "Limpia la rejilla de la ducha, por favor.",
+   "example_ko": "샤워실 배수구 거름망 좀 청소해 줘.",
+   "tema": "bano"
+ }
+]

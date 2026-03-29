@@ -1,0 +1,461 @@
+[
+ {
+   "id": 1,
+   "spanish": "el desastre",
+   "korean": "재난, 재앙",
+   "synonym": "",
+   "example_es": "El desastre natural afectó la zona.",
+   "example_ko": "자연재해가 지역에 영향을 줬어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 2,
+   "spanish": "la catástrofe",
+   "korean": "참사, 대재앙",
+   "synonym": "",
+   "example_es": "La catástrofe fue inevitable.",
+   "example_ko": "참사는 피할 수 없었어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 3,
+   "spanish": "el terremoto",
+   "korean": "지진",
+   "synonym": "el sismo",
+   "example_es": "El terremoto sacudió la ciudad.",
+   "example_ko": "지진이 도시를 흔들었어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 4,
+   "spanish": "el maremoto",
+   "korean": "해저 지진, 쓰나미",
+   "synonym": "",
+   "example_es": "Hubo un maremoto en el Pacífico.",
+   "example_ko": "태평양에 해저 지진이 있었어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 5,
+   "spanish": "el tsunami",
+   "korean": "쓰나미",
+   "synonym": "",
+   "example_es": "El tsunami inundó las costas.",
+   "example_ko": "쓰나미가 해안을 침수시켰어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 6,
+   "spanish": "la inundación",
+   "korean": "홍수, 침수",
+   "synonym": "",
+   "example_es": "La inundación cortó las calles.",
+   "example_ko": "홍수로 도로가 차단됐어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 7,
+   "spanish": "la sequía",
+   "korean": "가뭄",
+   "synonym": "",
+   "example_es": "La sequía arruinó la cosecha.",
+   "example_ko": "가뭄이 수확을 망쳤어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 8,
+   "spanish": "el incendio",
+   "korean": "화재, 불",
+   "synonym": "",
+   "example_es": "El incendio destruyó el bosque.",
+   "example_ko": "화재가 숲을 파괴했어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 9,
+   "spanish": "la erupción",
+   "korean": "분화, 폭발",
+   "synonym": "",
+   "example_es": "La erupción volcánica fue violenta.",
+   "example_ko": "화산 분화가 격렬했어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 10,
+   "spanish": "el volcán",
+   "korean": "화산",
+   "synonym": "",
+   "example_es": "El volcán lanzó mucha ceniza.",
+   "example_ko": "화산이 많은 재를 뿜었어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 11,
+   "spanish": "el huracán",
+   "korean": "허리케인",
+   "synonym": "",
+   "example_es": "El huracán tiene vientos fuertes.",
+   "example_ko": "허리케인의 바람이 강해.",
+   "tema": "desastre"
+ },
+ {
+   "id": 12,
+   "spanish": "el tifón",
+   "korean": "태풍",
+   "synonym": "",
+   "example_es": "El tifón se acerca a la isla.",
+   "example_ko": "태풍이 섬으로 다가오고 있어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 13,
+   "spanish": "la tormenta",
+   "korean": "폭풍우, 폭풍",
+   "synonym": "",
+   "example_es": "La tormenta causó un apagón.",
+   "example_ko": "폭풍우로 정전이 됐어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 14,
+   "spanish": "el rayo",
+   "korean": "번개, 낙뢰",
+   "synonym": "",
+   "example_es": "El rayo cayó sobre un árbol.",
+   "example_ko": "번개가 나무에 떨어졌어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 15,
+   "spanish": "el trueno",
+   "korean": "천둥",
+   "synonym": "",
+   "example_es": "El trueno sonó muy fuerte.",
+   "example_ko": "천둥소리가 아주 크게 들렸어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 16,
+   "spanish": "el granizo",
+   "korean": "우박",
+   "synonym": "",
+   "example_es": "El granizo rompió los cristales.",
+   "example_ko": "우박이 유리창을 깨뜨렸어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 17,
+   "spanish": "la avalancha",
+   "korean": "눈사태",
+   "synonym": "el alud",
+   "example_es": "La avalancha bloqueó el camino.",
+   "example_ko": "눈사태가 길을 막았어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 18,
+   "spanish": "el deslizamiento",
+   "korean": "산사태",
+   "synonym": "el deslave",
+   "example_es": "El deslizamiento de tierra es peligroso.",
+   "example_ko": "산사태는 위험해.",
+   "tema": "desastre"
+ },
+ {
+   "id": 19,
+   "spanish": "el tornado",
+   "korean": "토네이도",
+   "synonym": "",
+   "example_es": "El tornado destruyó la granja.",
+   "example_ko": "토네이도가 농장을 파괴했어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 20,
+   "spanish": "la ventisca",
+   "korean": "눈보라",
+   "synonym": "",
+   "example_es": "La ventisca redujo la visibilidad.",
+   "example_ko": "눈보라로 시야가 좁아졌어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 21,
+   "spanish": "la ola de calor",
+   "korean": "폭염",
+   "synonym": "",
+   "example_es": "La ola de calor es insoportable.",
+   "example_ko": "폭염을 견디기 힘들어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 22,
+   "spanish": "la helada",
+   "korean": "결빙, 서리",
+   "synonym": "",
+   "example_es": "La helada dañó las plantas.",
+   "example_ko": "서리가 식물을 상하게 했어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 23,
+   "spanish": "la hambruna",
+   "korean": "기아, 배고픔",
+   "synonym": "el hambre",
+   "example_es": "La hambruna afecta a la región.",
+   "example_ko": "기아가 지역에 영향을 줘.",
+   "tema": "desastre"
+ },
+ {
+   "id": 24,
+   "spanish": "la epidemia",
+   "korean": "유행병",
+   "synonym": "",
+   "example_es": "La epidemia se extendió rápido.",
+   "example_ko": "유행병이 빠르게 퍼졌어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 25,
+   "spanish": "la pandemia",
+   "korean": "팬데믹, 세계적 유행",
+   "synonym": "",
+   "example_es": "La pandemia cambió el mundo.",
+   "example_ko": "팬데믹이 세상을 바꿨어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 26,
+   "spanish": "el accidente",
+   "korean": "사고",
+   "synonym": "",
+   "example_es": "El accidente de coche fue grave.",
+   "example_ko": "자동차 사고가 심각했어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 27,
+   "spanish": "el choque",
+   "korean": "충돌",
+   "synonym": "",
+   "example_es": "Hubo un choque en la autopista.",
+   "example_ko": "고속도로에서 충돌이 있었어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 28,
+   "spanish": "la explosión",
+   "korean": "폭발",
+   "synonym": "",
+   "example_es": "La explosión rompió las ventanas.",
+   "example_ko": "폭발로 유리창이 깨졌어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 29,
+   "spanish": "el derrumbe",
+   "korean": "붕괴",
+   "synonym": "",
+   "example_es": "El derrumbe del edificio fue súbito.",
+   "example_ko": "건물 붕괴가 갑작스러웠어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 30,
+   "spanish": "el naufragio",
+   "korean": "난파, 침몰",
+   "synonym": "",
+   "example_es": "El naufragio del barco fue trágico.",
+   "example_ko": "배의 침몰은 비극적이었어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 31,
+   "spanish": "la evacuación",
+   "korean": "대피, 피난",
+   "synonym": "",
+   "example_es": "La evacuación fue ordenada.",
+   "example_ko": "대피가 질서 있게 이뤄졌어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 32,
+   "spanish": "el refugio",
+   "korean": "대피소, 피난처",
+   "synonym": "",
+   "example_es": "Buscamos refugio en el sótano.",
+   "example_ko": "우리는 지하실에서 대피소를 찾았어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 33,
+   "spanish": "el rescate",
+   "korean": "구조",
+   "synonym": "",
+   "example_es": "El rescate duró toda la noche.",
+   "example_ko": "구조 작업이 밤새 계속됐어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 34,
+   "spanish": "la víctima",
+   "korean": "희생자, 피해자",
+   "synonym": "",
+   "example_es": "Hay muchas víctimas del desastre.",
+   "example_ko": "재난 희생자가 많아.",
+   "tema": "desastre"
+ },
+ {
+   "id": 35,
+   "spanish": "el superviviente",
+   "korean": "생존자",
+   "synonym": "",
+   "example_es": "El superviviente está en el hospital.",
+   "example_ko": "생존자는 병원에 있어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 36,
+   "spanish": "la ayuda humanitaria",
+   "korean": "구호 물자, 인도적 지원",
+   "synonym": "",
+   "example_es": "Llegó la ayuda humanitaria.",
+   "example_ko": "구호 물자가 도착했어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 37,
+   "spanish": "el aviso",
+   "korean": "경보, 공고",
+   "synonym": "la alerta",
+   "example_es": "Hay un aviso de tormenta.",
+   "example_ko": "폭풍 경보가 있어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 38,
+   "spanish": "el simulacro",
+   "korean": "대피 훈련",
+   "synonym": "",
+   "example_es": "Hicimos un simulacro de incendio.",
+   "example_ko": "화재 대피 훈련을 했어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 39,
+   "spanish": "el botiquín",
+   "korean": "구급 상자",
+   "synonym": "",
+   "example_es": "Trae el botiquín de primeros auxilios.",
+   "example_ko": "구급 상자를 가져오렴.",
+   "tema": "desastre"
+ },
+ {
+   "id": 40,
+   "spanish": "la linterna",
+   "korean": "손전등",
+   "synonym": "",
+   "example_es": "Necesito una linterna para ver.",
+   "example_ko": "보려면 손전등이 필요해.",
+   "tema": "desastre"
+ },
+ {
+   "id": 41,
+   "spanish": "la manta",
+   "korean": "담요",
+   "synonym": "",
+   "example_es": "Envuélvete en una manta.",
+   "example_ko": "담요를 두르렴.",
+   "tema": "desastre"
+ },
+ {
+   "id": 42,
+   "spanish": "el agua potable",
+   "korean": "식수",
+   "synonym": "",
+   "example_es": "Necesitamos agua potable limpia.",
+   "example_ko": "깨끗한 식수가 필요해.",
+   "tema": "desastre"
+ },
+ {
+   "id": 43,
+   "spanish": "el generador",
+   "korean": "발전기",
+   "synonym": "",
+   "example_es": "El generador nos da luz.",
+   "example_ko": "발전기가 전기를 줘.",
+   "tema": "desastre"
+ },
+ {
+   "id": 44,
+   "spanish": "la radio",
+   "korean": "라디오",
+   "synonym": "",
+   "example_es": "Escucha las noticias por la radio.",
+   "example_ko": "라디오로 뉴스를 들으렴.",
+   "tema": "desastre"
+ },
+ {
+   "id": 45,
+   "spanish": "el peligro",
+   "korean": "위험",
+   "synonym": "",
+   "example_es": "Hay peligro de derrumbe.",
+   "example_ko": "붕괴 위험이 있어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 46,
+   "spanish": "el daño",
+   "korean": "피해, 손상",
+   "synonym": "",
+   "example_es": "El daño es irreparable.",
+   "example_ko": "피해 복구가 불가능해.",
+   "tema": "desastre"
+ },
+ {
+   "id": 47,
+   "spanish": "la emergencia",
+   "korean": "비상사태",
+   "synonym": "",
+   "example_es": "Estado de emergencia declarado.",
+   "example_ko": "비상사태가 선포됐어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 48,
+   "spanish": "el bombero",
+   "korean": "소방관",
+   "synonym": "",
+   "example_es": "Los bomberos apagan el fuego.",
+   "example_ko": "소방관들이 불을 꺼.",
+   "tema": "desastre"
+ },
+ {
+   "id": 49,
+   "spanish": "el socorrista",
+   "korean": "구조대원",
+   "synonym": "",
+   "example_es": "El socorrista salvó al niño.",
+   "example_ko": "구조대원이 아이를 구했어.",
+   "tema": "desastre"
+ },
+ {
+   "id": 50,
+   "spanish": "la esperanza",
+   "korean": "희망",
+   "synonym": "",
+   "example_es": "No pierdas la esperanza.",
+   "example_ko": "희망을 잃지 마.",
+   "tema": "desastre"
+ },
+ {
+   "id": 51,
+   "spanish": "el helicóptero",
+   "korean": "헬리콥터",
+   "synonym": "",
+   "example_es": "El helicóptero llegará pronto.",
+   "example_ko": "헬리콥터가 곧 도착할 거야.",
+   "tema": "desastre"
+ }
+]

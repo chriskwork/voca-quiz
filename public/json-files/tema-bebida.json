@@ -1,0 +1,317 @@
+[
+ {
+   "id": 1,
+   "spanish": "el agua",
+   "korean": "물",
+   "synonym": "",
+   "example_es": "¿Me das un vaso de agua?",
+   "example_ko": "물 한 잔 줄 수 있어?",
+   "tema": "bebida"
+ },
+ {
+   "id": 2,
+   "spanish": "el zumo",
+   "korean": "주스",
+   "synonym": "el jugo(남미)",
+   "example_es": "El zumo de naranja es natural.",
+   "example_ko": "오렌지 주스가 생과일이야.",
+   "tema": "bebida"
+ },
+ {
+   "id": 3,
+   "spanish": "el batido",
+   "korean": "쉐이크",
+   "synonym": "",
+   "example_es": "Me gusta el batido de fresa.",
+   "example_ko": "나는 딸기 쉐이크를 좋아해.",
+   "tema": "bebida"
+ },
+ {
+   "id": 4,
+   "spanish": "la leche",
+   "korean": "우유",
+   "synonym": "",
+   "example_es": "La leche está en la nevera.",
+   "example_ko": "우유는 냉장고에 있어.",
+   "tema": "bebida"
+ },
+ {
+   "id": 5,
+   "spanish": "el té",
+   "korean": "차",
+   "synonym": "",
+   "example_es": "¿Prefieres té verde o negro?",
+   "example_ko": "녹차를 원해, 홍차를 원해?",
+   "tema": "bebida"
+ },
+ {
+   "id": 6,
+   "spanish": "el café",
+   "korean": "커피",
+   "synonym": "",
+   "example_es": "Un café con leche, por favor.",
+   "example_ko": "카페라떼 한 잔 주세요.",
+   "tema": "bebida"
+ },
+ {
+   "id": 7,
+   "spanish": "el chocolate caliente",
+   "korean": "핫초코",
+   "synonym": "",
+   "example_es": "El chocolate caliente es muy dulce.",
+   "example_ko": "핫초코가 아주 달아.",
+   "tema": "bebida"
+ },
+ {
+   "id": 8,
+   "spanish": "la limonada",
+   "korean": "레모네이드",
+   "synonym": "",
+   "example_es": "La limonada es muy refrescante.",
+   "example_ko": "레모네이드가 아주 상큼해.",
+   "tema": "bebida"
+ },
+ {
+   "id": 9,
+   "spanish": "la gaseosa",
+   "korean": "탄산음료",
+   "synonym": "",
+   "example_es": "No bebas mucha gaseosa.",
+   "example_ko": "탄산음료 너무 많이 마시지 마.",
+   "tema": "bebida"
+ },
+ {
+   "id": 10,
+   "spanish": "la cola",
+   "korean": "콜라",
+   "synonym": "",
+   "example_es": "Una cola con mucho hielo, por favor.",
+   "example_ko": "콜라에 얼음 많이 넣어서 주세요.",
+   "tema": "bebida"
+ },
+ {
+   "id": 11,
+   "spanish": "el vino tinto",
+   "korean": "레드 와인",
+   "synonym": "",
+   "example_es": "El vino tinto acompaña bien la carne.",
+   "example_ko": "레드 와인은 고기와 잘 어울려.",
+   "tema": "bebida"
+ },
+ {
+   "id": 12,
+   "spanish": "el vino blanco",
+   "korean": "화이트 와인",
+   "synonym": "",
+   "example_es": "Este vino blanco es muy suave.",
+   "example_ko": "이 화이트 와인은 아주 부드러워.",
+   "tema": "bebida"
+ },
+ {
+   "id": 13,
+   "spanish": "el vino rosado",
+   "korean": "로제 와인",
+   "synonym": "",
+   "example_es": "Me encanta el vino rosado frío.",
+   "example_ko": "나는 차가운 로제 와인을 정말 좋아해.",
+   "tema": "bebida"
+ },
+ {
+   "id": 14,
+   "spanish": "el cava",
+   "korean": "스페인 샴페인",
+   "synonym": "",
+   "example_es": "Brindamos con una copa de cava.",
+   "example_ko": "까바 한 잔으로 건배하자.",
+   "tema": "bebida"
+ },
+ {
+   "id": 15,
+   "spanish": "la sangría",
+   "korean": "상그리아",
+   "synonym": "",
+   "example_es": "La sangría tiene mucha fruta.",
+   "example_ko": "상그리아에 과일이 많이 들어있네.",
+   "tema": "bebida"
+ },
+ {
+   "id": 16,
+   "spanish": "el tinto de verano",
+   "korean": "띤또 데 베라노",
+   "synonym": "",
+   "example_es": "El tinto de verano es típico de aquí.",
+   "example_ko": "띤또 데 베라노는 여기 전형적인 술이야.",
+   "tema": "bebida"
+ },
+ {
+   "id": 17,
+   "spanish": "la cerveza",
+   "korean": "맥주",
+   "synonym": "",
+   "example_es": "Ponme una caña de cerveza.",
+   "example_ko": "맥주 작은 잔(caña) 하나 줘.",
+   "tema": "bebida"
+ },
+ {
+   "id": 18,
+   "spanish": "la clara",
+   "korean": "끌라라",
+   "synonym": "",
+   "example_es": "La clara es cerveza con limón.",
+   "example_ko": "끌라라는 맥주에 레몬을 섞은 거야.",
+   "tema": "bebida"
+ },
+ {
+   "id": 19,
+   "spanish": "el cóctel",
+   "korean": "칵테일",
+   "synonym": "",
+   "example_es": "Este cóctel no tiene alcohol.",
+   "example_ko": "이 칵테일은 알코올이 없어.",
+   "tema": "bebida"
+ },
+ {
+   "id": 20,
+   "spanish": "el licor",
+   "korean": "독주",
+   "synonym": "",
+   "example_es": "El licor de hierbas es digestivo.",
+   "example_ko": "허브 리큐어는 소화에 좋아.",
+   "tema": "bebida"
+ },
+ {
+   "id": 21,
+   "spanish": "el ron",
+   "korean": "럼",
+   "synonym": "",
+   "example_es": "El ron con cola se llama cubata.",
+   "example_ko": "럼과 콜라를 섞은 걸 쿠바따라고 해.",
+   "tema": "bebida"
+ },
+ {
+   "id": 22,
+   "spanish": "el champán",
+   "korean": "샴페인",
+   "synonym": "",
+   "example_es": "Abrimos el champán para celebrar.",
+   "example_ko": "축하하기 위해 샴페인을 터뜨리자.",
+   "tema": "bebida"
+ },
+ {
+   "id": 23,
+   "spanish": "la ginebra",
+   "korean": "진",
+   "synonym": "",
+   "example_es": "La ginebra es la base del Gin Tonic.",
+   "example_ko": "진은 진토닉의 베이스야.",
+   "tema": "bebida"
+ },
+ {
+   "id": 24,
+   "spanish": "el vodka",
+   "korean": "보드카",
+   "synonym": "",
+   "example_es": "El vodka es una bebida fuerte.",
+   "example_ko": "보드카는 독한 술이야.",
+   "tema": "bebida"
+ },
+ {
+   "id": 25,
+   "spanish": "el whisky",
+   "korean": "위스키",
+   "synonym": "",
+   "example_es": "Él toma el whisky con hielo.",
+   "example_ko": "그는 위스키를 얼음과 함께 마셔.",
+   "tema": "bebida"
+ },
+ {
+   "id": 26,
+   "spanish": "el brandy",
+   "korean": "브랜디",
+   "synonym": "",
+   "example_es": "El brandy tiene un aroma fuerte.",
+   "example_ko": "브랜디는 향이 강해.",
+   "tema": "bebida"
+ },
+ {
+   "id": 27,
+   "spanish": "el agua fría",
+   "korean": "차가운 물",
+   "synonym": "",
+   "example_es": "El agua está muy fría.",
+   "example_ko": "물이 아주 차가워.",
+   "tema": "bebida"
+ },
+ {
+   "id": 28,
+   "spanish": "el agua del tiempo",
+   "korean": "상온 물",
+   "synonym": "",
+   "example_es": "Prefiero el agua del tiempo.",
+   "example_ko": "나는 미지근한(상온) 물이 좋아.",
+   "tema": "bebida"
+ },
+ {
+   "id": 29,
+   "spanish": "el agua con gas",
+   "korean": "탄산수",
+   "synonym": "",
+   "example_es": "¿Tienen agua con gas?",
+   "example_ko": "탄산수 있나요?",
+   "tema": "bebida"
+ },
+ {
+   "id": 30,
+   "spanish": "el agua mineral",
+   "korean": "생수",
+   "synonym": "",
+   "example_es": "Un botellín de agua mineral.",
+   "example_ko": "미네랄 워터 한 병.",
+   "tema": "bebida"
+ },
+ {
+   "id": 31,
+   "spanish": "el agua de grifo",
+   "korean": "수돗물",
+   "synonym": "",
+   "example_es": "El agua de grifo es potable aquí.",
+   "example_ko": "여기 수돗물은 마실 수 있어.",
+   "tema": "bebida"
+ },
+ {
+   "id": 32,
+   "spanish": "el agua caliente",
+   "korean": "뜨거운 물",
+   "synonym": "",
+   "example_es": "Cuidado, el agua está caliente.",
+   "example_ko": "조심해, 물이 뜨거워.",
+   "tema": "bebida"
+ },
+ {
+   "id": 33,
+   "spanish": "el granizado",
+   "korean": "그라니사도",
+   "synonym": "",
+   "example_es": "El granizado de limón es rico.",
+   "example_ko": "레몬 그라니사도는 맛있어.",
+   "tema": "bebida"
+ },
+ {
+   "id": 34,
+   "spanish": "el tequila",
+   "korean": "데킬라",
+   "synonym": "",
+   "example_es": "El tequila es de México.",
+   "example_ko": "데킬라는 멕시코 거야.",
+   "tema": "bebida"
+ },
+ {
+   "id": 35,
+   "spanish": "el mojito",
+   "korean": "모히또",
+   "synonym": "",
+   "example_es": "¿Cómo se hace un buen mojito?",
+   "example_ko": "맛있는 모히또는 어떻게 만들어?",
+   "tema": "bebida"
+ }
+]

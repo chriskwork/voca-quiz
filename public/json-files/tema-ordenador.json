@@ -1,0 +1,668 @@
+[
+ {
+   "id": 1,
+   "spanish": "el componente",
+   "korean": "구성 요소, 부품",
+   "synonym": "",
+   "example_es": "El componente es compatible.",
+   "example_ko": "부품이 호환 가능해.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 2,
+   "spanish": "el ordenador",
+   "korean": "컴퓨터, 데스크탑",
+   "synonym": "el ordenador de mesa",
+   "example_es": "El ordenador de mesa es potente.",
+   "example_ko": "데스크탑 컴퓨터는 성능이 좋아.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 3,
+   "spanish": "el portátil",
+   "korean": "랩탑, 노트북",
+   "synonym": "el ordenador portátil",
+   "example_es": "Llevo el portátil a clase.",
+   "example_ko": "노트북을 수업에 가져가.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 4,
+   "spanish": "la mochila de portátil",
+   "korean": "랩탑 가방",
+   "synonym": "",
+   "example_es": "Guarda el equipo en la mochila de portátil.",
+   "example_ko": "장비를 노트북 가방에 넣으렴.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 5,
+   "spanish": "la tableta",
+   "korean": "태블릿",
+   "synonym": "",
+   "example_es": "Uso la tableta para dibujar.",
+   "example_ko": "나는 그림 그릴 때 태블릿을 써.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 6,
+   "spanish": "la placa base",
+   "korean": "메인보드",
+   "synonym": "",
+   "example_es": "La placa base conecta los componentes.",
+   "example_ko": "메인보드가 부품들을 연결해.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 7,
+   "spanish": "el procesador",
+   "korean": "프로세서, CPU",
+   "synonym": "",
+   "example_es": "El procesador es el cerebro.",
+   "example_ko": "프로세서는 뇌와 같아.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 8,
+   "spanish": "el disco duro",
+   "korean": "하드디스크",
+   "synonym": "",
+   "example_es": "El disco duro está casi lleno.",
+   "example_ko": "하드디스크가 거의 찼어.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 9,
+   "spanish": "la tarjeta gráfica",
+   "korean": "그래픽 카드",
+   "synonym": "",
+   "example_es": "La tarjeta gráfica es de última generación.",
+   "example_ko": "그래픽 카드가 최신형이야.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 10,
+   "spanish": "la memoria RAM",
+   "korean": "램",
+   "synonym": "",
+   "example_es": "Necesito ampliar la memoria RAM.",
+   "example_ko": "램을 증설해야겠어.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 11,
+   "spanish": "la grabadora DVD",
+   "korean": "DVD 롬",
+   "synonym": "",
+   "example_es": "La grabadora DVD ya no se usa tanto.",
+   "example_ko": "DVD 롬은 이제 많이 안 써.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 12,
+   "spanish": "el multilector",
+   "korean": "멀티슬롯",
+   "synonym": "",
+   "example_es": "El multilector lee tarjetas SD.",
+   "example_ko": "멀티슬롯이 SD 카드를 읽어.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 13,
+   "spanish": "la tarjeta de sonido",
+   "korean": "사운드 카드",
+   "synonym": "",
+   "example_es": "La tarjeta de sonido es profesional.",
+   "example_ko": "사운드 카드가 전문가용이야.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 14,
+   "spanish": "la caja",
+   "korean": "케이스",
+   "synonym": "el torre",
+   "example_es": "La caja del ordenador es de aluminio.",
+   "example_ko": "컴퓨터 케이스(타워)가 알루미늄이야.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 15,
+   "spanish": "el ventilador",
+   "korean": "냉각팬",
+   "synonym": "",
+   "example_es": "El ventilador hace mucho ruido.",
+   "example_ko": "냉각팬 소리가 너무 커.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 16,
+   "spanish": "la fuente de alimentación",
+   "korean": "파워, 전원 공급 장치",
+   "synonym": "",
+   "example_es": "La fuente de alimentación se quemó.",
+   "example_ko": "파워가 타버렸어.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 17,
+   "spanish": "el monitor",
+   "korean": "모니터",
+   "synonym": "",
+   "example_es": "El monitor es de 27 pulgadas.",
+   "example_ko": "모니터가 27인치야.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 18,
+   "spanish": "la pantalla",
+   "korean": "화면",
+   "synonym": "",
+   "example_es": "La pantalla tiene un píxel muerto.",
+   "example_ko": "화면에 데드 픽셀이 하나 있어.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 19,
+   "spanish": "el ratón",
+   "korean": "마우스",
+   "synonym": "",
+   "example_es": "El ratón óptico es muy preciso.",
+   "example_ko": "광마우스는 아주 정확해.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 20,
+   "spanish": "el botón izquierdo",
+   "korean": "왼쪽 버튼",
+   "synonym": "",
+   "example_es": "Haz clic con el botón izquierdo.",
+   "example_ko": "왼쪽 버튼으로 클릭해.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 21,
+   "spanish": "el botón derecho",
+   "korean": "오른쪽 버튼",
+   "synonym": "",
+   "example_es": "Usa el botón derecho para el menú.",
+   "example_ko": "메뉴를 보려면 오른쪽 버튼을 써.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 22,
+   "spanish": "la alfombrilla",
+   "korean": "마우스 패드",
+   "synonym": "la alfombrilla de ratón",
+   "example_es": "La alfombrilla es antideslizante.",
+   "example_ko": "마우스 패드가 미끄럼 방지용이야.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 23,
+   "spanish": "el teclado",
+   "korean": "키보드",
+   "synonym": "",
+   "example_es": "El teclado tiene luces LED.",
+   "example_ko": "키보드에 LED 불빛이 있어.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 24,
+   "spanish": "el teclado inalámbrico",
+   "korean": "무선 키보드",
+   "synonym": "",
+   "example_es": "El teclado inalámbrico no tiene pilas.",
+   "example_ko": "무선 키보드에 건전지가 없어.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 25,
+   "spanish": "el ratón inalámbrico",
+   "korean": "무선 마우스",
+   "synonym": "",
+   "example_es": "El ratón inalámbrico es cómodo.",
+   "example_ko": "무선 마우스는 편리해.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 26,
+   "spanish": "el cable",
+   "korean": "케이블",
+   "synonym": "",
+   "example_es": "Conecta el cable de red.",
+   "example_ko": "네트워크 케이블을 연결해.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 27,
+   "spanish": "la impresora",
+   "korean": "프린터",
+   "synonym": "",
+   "example_es": "La impresora no tiene tinta.",
+   "example_ko": "프린터에 잉크가 없어.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 28,
+   "spanish": "el escáner",
+   "korean": "스캐너",
+   "synonym": "",
+   "example_es": "Pon el papel en el escáner.",
+   "example_ko": "스캐너에 종이를 올리렴.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 29,
+   "spanish": "los altavoces",
+   "korean": "스피커",
+   "synonym": "",
+   "example_es": "Los altavoces suenan muy bien.",
+   "example_ko": "스피커 음질이 아주 좋아.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 30,
+   "spanish": "el programa",
+   "korean": "프로그램",
+   "synonym": "",
+   "example_es": "Instalé un programa de edición.",
+   "example_ko": "편집 프로그램을 설치했어.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 31,
+   "spanish": "la aplicación",
+   "korean": "응용 프로그램, 앱",
+   "synonym": "la app",
+   "example_es": "Descarga la aplicación oficial.",
+   "example_ko": "공식 앱을 다운로드해.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 32,
+   "spanish": "el archivo",
+   "korean": "파일",
+   "synonym": "",
+   "example_es": "No borres ese archivo importante.",
+   "example_ko": "그 중요한 파일을 지우지 마.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 33,
+   "spanish": "la carpeta",
+   "korean": "폴더",
+   "synonym": "",
+   "example_es": "Organiza los archivos en la carpeta.",
+   "example_ko": "파일들을 폴더에 정리하렴.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 34,
+   "spanish": "el documento",
+   "korean": "문서",
+   "synonym": "",
+   "example_es": "El documento está en formato PDF.",
+   "example_ko": "문서가 PDF 형식이야.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 35,
+   "spanish": "la base de datos",
+   "korean": "데이터베이스",
+   "synonym": "",
+   "example_es": "La base de datos se actualiza diario.",
+   "example_ko": "데이터베이스는 매일 업데이트돼.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 36,
+   "spanish": "el virus",
+   "korean": "바이러스",
+   "synonym": "",
+   "example_es": "El virus infectó todo el sistema.",
+   "example_ko": "바이러스가 시스템 전체를 감염시켰어.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 37,
+   "spanish": "en minúscula",
+   "korean": "소문자로",
+   "synonym": "",
+   "example_es": "Escribe tu nombre en minúscula.",
+   "example_ko": "이름을 소문자로 쓰렴.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 38,
+   "spanish": "en mayúscula",
+   "korean": "대문자로",
+   "synonym": "",
+   "example_es": "La contraseña debe ir en mayúscula.",
+   "example_ko": "비밀번호는 대문자로 써야 해.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 39,
+   "spanish": "el icono",
+   "korean": "아이콘",
+   "synonym": "",
+   "example_es": "Haz clic en el icono de inicio.",
+   "example_ko": "시작 아이콘을 클릭해.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 40,
+   "spanish": "el usuario",
+   "korean": "사용자",
+   "synonym": "",
+   "example_es": "El usuario no tiene permisos.",
+   "example_ko": "사용자 권한이 없습니다.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 41,
+   "spanish": "la contraseña",
+   "korean": "비밀번호",
+   "synonym": "",
+   "example_es": "Cambia tu contraseña cada mes.",
+   "example_ko": "비밀번호를 매달 바꾸렴.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 42,
+   "spanish": "el internet",
+   "korean": "인터넷",
+   "synonym": "",
+   "example_es": "No hay señal de internet aquí.",
+   "example_ko": "여기는 인터넷 신호가 없어.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 43,
+   "spanish": "la red",
+   "korean": "네트워크",
+   "synonym": "",
+   "example_es": "La red local funciona bien.",
+   "example_ko": "로컬 네트워크는 잘 작동해.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 44,
+   "spanish": "la página web",
+   "korean": "웹페이지",
+   "synonym": "el sitio web",
+   "example_es": "La página web está caída.",
+   "example_ko": "웹페이지 서버가 내려갔어.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 45,
+   "spanish": "el enlace",
+   "korean": "링크, 연결",
+   "synonym": "",
+   "example_es": "El enlace te lleva al video.",
+   "example_ko": "링크를 누르면 영상으로 연결돼.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 46,
+   "spanish": "las redes sociales",
+   "korean": "소셜 미디어, SNS",
+   "synonym": "",
+   "example_es": "Uso las redes sociales a diario.",
+   "example_ko": "나는 매일 SNS를 사용해.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 47,
+   "spanish": "el correo electrónico",
+   "korean": "이메일",
+   "synonym": "",
+   "example_es": "Recibí tu correo electrónico.",
+   "example_ko": "네 이메일 잘 받았어.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 48,
+   "spanish": "suscribir",
+   "korean": "구독하다",
+   "synonym": "",
+   "example_es": "No olvides suscribirte al canal.",
+   "example_ko": "채널 구독 잊지 마세요.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 49,
+   "spanish": "compartir",
+   "korean": "공유하다",
+   "synonym": "",
+   "example_es": "Comparte este archivo con el grupo.",
+   "example_ko": "이 파일을 그룹과 공유해.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 50,
+   "spanish": "guardar",
+   "korean": "저장하다",
+   "synonym": "",
+   "example_es": "Acuérdate de guardar los cambios.",
+   "example_ko": "변경 사항 저장하는 거 기억해.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 51,
+   "spanish": "borrar",
+   "korean": "삭제하다",
+   "synonym": "eliminar / suprimir",
+   "example_es": "Borra los archivos temporales.",
+   "example_ko": "임시 파일들을 삭제하렴.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 52,
+   "spanish": "imprimir",
+   "korean": "프린트하다, 인쇄하다",
+   "synonym": "",
+   "example_es": "¿Puedes imprimir este informe?",
+   "example_ko": "이 보고서 좀 인쇄해 줄래?",
+   "tema": "ordenador"
+ },
+ {
+   "id": 53,
+   "spanish": "escanear",
+   "korean": "스캔하다",
+   "synonym": "",
+   "example_es": "Tengo que escanear mi DNI.",
+   "example_ko": "내 신분증을 스캔해야 해.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 54,
+   "spanish": "copiar",
+   "korean": "복사하다",
+   "synonym": "",
+   "example_es": "Copia el texto en el portapapeles.",
+   "example_ko": "텍스트를 클립보드에 복사해.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 55,
+   "spanish": "cortar",
+   "korean": "오리다, 잘라내기",
+   "synonym": "",
+   "example_es": "Corta la imagen y pégala aquí.",
+   "example_ko": "이미지를 잘라내서 여기 붙여.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 56,
+   "spanish": "pegar",
+   "korean": "붙여넣다",
+   "synonym": "",
+   "example_es": "Pega el enlace en el navegador.",
+   "example_ko": "브라우저에 링크를 붙여넣으렴.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 57,
+   "spanish": "descargar",
+   "korean": "다운로드하다",
+   "synonym": "",
+   "example_es": "La descarga tardará un minuto.",
+   "example_ko": "다운로드에 1분 정도 걸릴 거야.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 58,
+   "spanish": "cargar",
+   "korean": "불러오다, 로딩하다",
+   "synonym": "cargando",
+   "example_es": "El juego se está cargando.",
+   "example_ko": "게임이 로딩 중이야.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 59,
+   "spanish": "subir",
+   "korean": "업로드하다, 올리다",
+   "synonym": "",
+   "example_es": "Subí las fotos a la nube.",
+   "example_ko": "사진을 클라우드에 올렸어.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 60,
+   "spanish": "responder",
+   "korean": "답장하다, 응답하다",
+   "synonym": "",
+   "example_es": "Responde al mensaje lo antes posible.",
+   "example_ko": "최대한 빨리 메시지에 답장해.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 61,
+   "spanish": "reiniciar",
+   "korean": "재시작하다, 재부팅하다",
+   "synonym": "",
+   "example_es": "Reinicia el equipo tras la instalación.",
+   "example_ko": "설치 후 장치를 재부팅하렴.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 62,
+   "spanish": "el puerto USB",
+   "korean": "USB 포트",
+   "synonym": "",
+   "example_es": "Conecta el pendrive al puerto USB.",
+   "example_ko": "펜드라이브를 USB 포트에 연결해.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 63,
+   "spanish": "el disco duro externo",
+   "korean": "외장 하드",
+   "synonym": "",
+   "example_es": "Hice una copia en el disco duro externo.",
+   "example_ko": "외장 하드에 복사본을 만들었어.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 64,
+   "spanish": "el altavoz",
+   "korean": "스피커 (단수형)",
+   "synonym": "",
+   "example_es": "El altavoz izquierdo no suena.",
+   "example_ko": "왼쪽 스피커가 안 나와.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 65,
+   "spanish": "el auricular",
+   "korean": "이어폰, 헤드셋",
+   "synonym": "los cascos",
+   "example_es": "Uso auriculares para las videollamadas.",
+   "example_ko": "화상 회의 때 헤드셋을 써.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 66,
+   "spanish": "el micrófono",
+   "korean": "마이크",
+   "synonym": "",
+   "example_es": "Silencia el micrófono, por favor.",
+   "example_ko": "마이크 음소거 좀 해줘.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 67,
+   "spanish": "el cortafuegos",
+   "korean": "방화벽",
+   "synonym": "",
+   "example_es": "El cortafuegos bloqueó la conexión.",
+   "example_ko": "방화벽이 연결을 차단했어.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 68,
+   "spanish": "el servidor",
+   "korean": "서버",
+   "synonym": "",
+   "example_es": "El servidor está en mantenimiento.",
+   "example_ko": "서버 점검 중이야.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 69,
+   "spanish": "la nube",
+   "korean": "클라우드",
+   "synonym": "",
+   "example_es": "Todo está guardado en la nube.",
+   "example_ko": "모든 게 클라우드에 저장돼 있어.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 70,
+   "spanish": "el enlace roto",
+   "korean": "깨진 링크",
+   "synonym": "",
+   "example_es": "Este es un enlace roto, no abre.",
+   "example_ko": "이건 깨진 링크라 안 열려.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 71,
+   "spanish": "el nombre de usuario",
+   "korean": "사용자 이름",
+   "synonym": "",
+   "example_es": "Introduce tu nombre de usuario.",
+   "example_ko": "사용자 이름을 입력해.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 72,
+   "spanish": "la arroba",
+   "korean": "@ (골뱅이)",
+   "synonym": "",
+   "example_es": "Mi correo lleva una arroba.",
+   "example_ko": "내 이메일에는 골뱅이가 들어가.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 73,
+   "spanish": "el buscador",
+   "korean": "검색 엔진",
+   "synonym": "",
+   "example_es": "Google es el buscador más usado.",
+   "example_ko": "구글은 가장 많이 쓰이는 검색 엔진이야.",
+   "tema": "ordenador"
+ },
+ {
+   "id": 74,
+   "spanish": "la inteligencia artificial",
+   "korean": "인공지능, AI",
+   "synonym": "",
+   "example_es": "La IA facilita el trabajo.",
+   "example_ko": "AI가 업무를 수월하게 해 줘.",
+   "tema": "ordenador"
+ }
+]

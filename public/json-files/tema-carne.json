@@ -1,0 +1,452 @@
+[
+ {
+   "id": 1,
+   "spanish": "la carne",
+   "korean": "고기, 육류",
+   "synonym": "",
+   "example_es": "La carne está muy tierna.",
+   "example_ko": "고기가 아주 부드러워.",
+   "tema": "carne"
+ },
+ {
+   "id": 2,
+   "spanish": "el carnicero / la carnicera",
+   "korean": "정육점 주인",
+   "synonym": "",
+   "example_es": "El carnicero cortó el filete.",
+   "example_ko": "정육점 주인이 스테이크 고기를 썰었어.",
+   "tema": "carne"
+ },
+ {
+   "id": 3,
+   "spanish": "la carnicería",
+   "korean": "정육점",
+   "synonym": "",
+   "example_es": "Compro la carne en la carnicería.",
+   "example_ko": "나는 정육점에서 고기를 사.",
+   "tema": "carne"
+ },
+ {
+   "id": 4,
+   "spanish": "la ternera",
+   "korean": "소고기",
+   "synonym": "la carne de res",
+   "example_es": "La ternera es de buena calidad.",
+   "example_ko": "이 소고기는 품질이 좋아.",
+   "tema": "carne"
+ },
+ {
+   "id": 5,
+   "spanish": "el buey",
+   "korean": "황소고기",
+   "synonym": "",
+   "example_es": "El chuletón de buey es famoso.",
+   "example_ko": "황소 갈비 스테이크는 유명해.",
+   "tema": "carne"
+ },
+ {
+   "id": 6,
+   "spanish": "el cerdo",
+   "korean": "돼지고기",
+   "synonym": "el puerco / el chancho",
+   "example_es": "El cerdo asado está muy rico.",
+   "example_ko": "돼지구이가 정말 맛있어.",
+   "tema": "carne"
+ },
+ {
+   "id": 7,
+   "spanish": "el pollo",
+   "korean": "닭고기",
+   "synonym": "",
+   "example_es": "Quiero pollo frito para cenar.",
+   "example_ko": "저녁으로 치킨(닭튀김)이 먹고 싶어.",
+   "tema": "carne"
+ },
+ {
+   "id": 8,
+   "spanish": "el cordero",
+   "korean": "양고기",
+   "synonym": "",
+   "example_es": "El cordero lechal es muy suave.",
+   "example_ko": "어린 양고기는 맛이 아주 연해.",
+   "tema": "carne"
+ },
+ {
+   "id": 9,
+   "spanish": "el pavo",
+   "korean": "칠면조 고기",
+   "synonym": "",
+   "example_es": "Comemos pavo en Navidad.",
+   "example_ko": "우리는 크리스마스에 칠면조를 먹어.",
+   "tema": "carne"
+ },
+ {
+   "id": 10,
+   "spanish": "el pato",
+   "korean": "오리 고기",
+   "synonym": "",
+   "example_es": "El pato a la naranja es delicioso.",
+   "example_ko": "오렌지 소스를 곁들인 오리 요리는 맛있어.",
+   "tema": "carne"
+ },
+ {
+   "id": 11,
+   "spanish": "el conejo",
+   "korean": "토끼 고기",
+   "synonym": "",
+   "example_es": "La paella valenciana lleva conejo.",
+   "example_ko": "발렌시아 식 파에야에는 토끼 고기가 들어가.",
+   "tema": "carne"
+ },
+ {
+   "id": 12,
+   "spanish": "el tocino",
+   "korean": "베이컨",
+   "synonym": "el beicon / la panceta",
+   "example_es": "Me gusta el tocino crujiente.",
+   "example_ko": "나는 바삭한 베이컨을 좋아해.",
+   "tema": "carne"
+ },
+ {
+   "id": 13,
+   "spanish": "el jamón",
+   "korean": "하몬, 햄",
+   "synonym": "",
+   "example_es": "El jamón ibérico es muy caro.",
+   "example_ko": "이베리코 하몬은 아주 비싸.",
+   "tema": "carne"
+ },
+ {
+   "id": 14,
+   "spanish": "el chorizo",
+   "korean": "초리조 (스페인식 소시지)",
+   "synonym": "",
+   "example_es": "El chorizo tiene un toque picante.",
+   "example_ko": "초리조는 약간 매콤한 맛이 있어.",
+   "tema": "carne"
+ },
+ {
+   "id": 15,
+   "spanish": "la salchicha",
+   "korean": "소시지",
+   "synonym": "",
+   "example_es": "A los niños les gustan las salchichas.",
+   "example_ko": "아이들은 소시지를 좋아해.",
+   "tema": "carne"
+ },
+ {
+   "id": 16,
+   "spanish": "el filete",
+   "korean": "스테이크, 살코기",
+   "synonym": "el bistec",
+   "example_es": "El filete está en su punto.",
+   "example_ko": "스테이크가 딱 적당히 익었어.",
+   "tema": "carne"
+ },
+ {
+   "id": 17,
+   "spanish": "la chuleta",
+   "korean": "갈비,  chops",
+   "synonym": "",
+   "example_es": "La chuleta de cerdo a la brasa.",
+   "example_ko": "숯불에 구운 돼지갈비.",
+   "tema": "carne"
+ },
+ {
+   "id": 18,
+   "spanish": "el lomo",
+   "korean": "등심",
+   "synonym": "",
+   "example_es": "El lomo embuchado es un embutido.",
+   "example_ko": "로모 엠부차도는 소시지의 일종이야.",
+   "tema": "carne"
+ },
+ {
+   "id": 19,
+   "spanish": "el solomillo",
+   "korean": "안심",
+   "synonym": "",
+   "example_es": "El solomillo es la parte más tierna.",
+   "example_ko": "안심은 가장 부드러운 부위야.",
+   "tema": "carne"
+ },
+ {
+   "id": 20,
+   "spanish": "la costilla",
+   "korean": "갈비뼈, 등갈비",
+   "synonym": "",
+   "example_es": "Las costillas con barbacoa.",
+   "example_ko": "바비큐 소스를 바른 등갈비.",
+   "tema": "carne"
+ },
+ {
+   "id": 21,
+   "spanish": "la pechuga",
+   "korean": "가슴살 (닭 등)",
+   "synonym": "",
+   "example_es": "La pechuga de pollo a la plancha.",
+   "example_ko": "그릴에 구운 닭가슴살.",
+   "tema": "carne"
+ },
+ {
+   "id": 22,
+   "spanish": "el muslo",
+   "korean": "다리살",
+   "synonym": "",
+   "example_es": "El muslo de pollo es jugoso.",
+   "example_ko": "닭다리 살은 즙이 많아.",
+   "tema": "carne"
+ },
+ {
+   "id": 23,
+   "spanish": "ala",
+   "korean": "날개",
+   "synonym": "",
+   "example_es": "Me encantan las alitas picantes.",
+   "example_ko": "나는 매운 닭날개를 정말 좋아해.",
+   "tema": "carne"
+ },
+ {
+   "id": 24,
+   "spanish": "la carne picada",
+   "korean": "다진 고기",
+   "synonym": "la carne molida",
+   "example_es": "Usa carne picada para la boloñesa.",
+   "example_ko": "볼로네제 소스에 다진 고기를 사용해.",
+   "tema": "carne"
+ },
+ {
+   "id": 25,
+   "spanish": "el embutido",
+   "korean": "소시지류, 가공육",
+   "synonym": "",
+   "example_es": "España tiene muchos tipos de embutido.",
+   "example_ko": "스페인에는 다양한 종류의 가공육이 있어.",
+   "tema": "carne"
+ },
+ {
+   "id": 26,
+   "spanish": "la morcilla",
+   "korean": "선지 소시지, 순대 느낌",
+   "synonym": "",
+   "example_es": "La morcilla de Burgos tiene arroz.",
+   "example_ko": "부르고스식 모르시야에는 쌀이 들어가.",
+   "tema": "carne"
+ },
+ {
+   "id": 27,
+   "spanish": "el salchichón",
+   "korean": "살치촌 (말린 소시지)",
+   "synonym": "",
+   "example_es": "El salchichón se come con pan.",
+   "example_ko": "살치촌은 빵과 함께 먹어.",
+   "tema": "carne"
+ },
+ {
+   "id": 28,
+   "spanish": "la albóndiga",
+   "korean": "고기 완자, 미트볼",
+   "synonym": "",
+   "example_es": "Las albóndigas de mi abuela.",
+   "example_ko": "우리 할머니표 미트볼.",
+   "tema": "carne"
+ },
+ {
+   "id": 29,
+   "spanish": "el asado",
+   "korean": "구이, 바비큐",
+   "synonym": "",
+   "example_es": "Hicimos un asado el domingo.",
+   "example_ko": "일요일에 바비큐를 했어.",
+   "tema": "carne"
+ },
+ {
+   "id": 30,
+   "spanish": "a la plancha",
+   "korean": "그릴에 구운",
+   "synonym": "",
+   "example_es": "Pide el pollo a la plancha.",
+   "example_ko": "닭고기를 그릴 구이로 주문해.",
+   "tema": "carne"
+ },
+ {
+   "id": 31,
+   "spanish": "al horno",
+   "korean": "오븐에 구운",
+   "synonym": "",
+   "example_es": "El cordero al horno está listo.",
+   "example_ko": "오븐에 구운 양고기가 준비됐어.",
+   "tema": "carne"
+ },
+ {
+   "id": 32,
+   "spanish": "guisado",
+   "korean": "스튜로 만든, 찐",
+   "synonym": "",
+   "example_es": "Me gusta la ternera guisada.",
+   "example_ko": "나는 소고기 찜(스튜)을 좋아해.",
+   "tema": "carne"
+ },
+ {
+   "id": 33,
+   "spanish": "frito",
+   "korean": "튀긴",
+   "synonym": "",
+   "example_es": "El pollo frito es muy popular.",
+   "example_ko": "치킨은 아주 인기가 많아.",
+   "tema": "carne"
+ },
+ {
+   "id": 34,
+   "spanish": "crudo",
+   "korean": "생것의, 익히지 않은",
+   "synonym": "",
+   "example_es": "No comas la carne cruda.",
+   "example_ko": "고기를 생으로 먹지 마.",
+   "tema": "carne"
+ },
+ {
+   "id": 35,
+   "spanish": "poco hecho",
+   "korean": "레어 (살짝 익힌)",
+   "synonym": "",
+   "example_es": "Prefiero el filete poco hecho.",
+   "example_ko": "나는 스테이크를 레어로 선호해.",
+   "tema": "carne"
+ },
+ {
+   "id": 36,
+   "spanish": "al punto",
+   "korean": "미디엄 (적당히 익힌)",
+   "synonym": "",
+   "example_es": "La carne está al punto.",
+   "example_ko": "고기가 적당히 잘 익었어.",
+   "tema": "carne"
+ },
+ {
+   "id": 37,
+   "spanish": "muy hecho",
+   "korean": "웰던 (바짝 익힌)",
+   "synonym": "",
+   "example_es": "Ella siempre pide la carne muy hecha.",
+   "example_ko": "그녀는 항상 고기를 바짝 익혀 달라고 해.",
+   "tema": "carne"
+ },
+ {
+   "id": 38,
+   "spanish": "la grasa",
+   "korean": "지방, 비계",
+   "synonym": "",
+   "example_es": "Quita la grasa antes de cocinar.",
+   "example_ko": "요리하기 전에 비계(지방)를 제거해.",
+   "tema": "carne"
+ },
+ {
+   "id": 39,
+   "spanish": "el hueso",
+   "korean": "뼈",
+   "synonym": "",
+   "example_es": "El perro muerde el hueso.",
+   "example_ko": "개가 뼈를 갉아먹어.",
+   "tema": "carne"
+ },
+ {
+   "id": 40,
+   "spanish": "la piel",
+   "korean": "껍질",
+   "synonym": "",
+   "example_es": "La piel del pollo está crujiente.",
+   "example_ko": "닭 껍질이 아주 바삭해.",
+   "tema": "carne"
+ },
+ {
+   "id": 41,
+   "spanish": "el hígado",
+   "korean": "간",
+   "synonym": "",
+   "example_es": "El hígado tiene mucho hierro.",
+   "example_ko": "간에는 철분이 많이 들어있어.",
+   "tema": "carne"
+ },
+ {
+   "id": 42,
+   "spanish": "la lengua",
+   "korean": "우설, 혀",
+   "synonym": "",
+   "example_es": "La lengua de vaca es un manjar.",
+   "example_ko": "우설은 별미야.",
+   "tema": "carne"
+ },
+ {
+   "id": 43,
+   "spanish": "el rabo de toro",
+   "korean": "소꼬리",
+   "synonym": "",
+   "example_es": "El rabo de toro es un guiso típico.",
+   "example_ko": "소꼬리찜은 전형적인 요리야.",
+   "tema": "carne"
+ },
+ {
+   "id": 44,
+   "spanish": "la casquería",
+   "korean": "부속 고기, 내장류",
+   "synonym": "",
+   "example_es": "En Madrid se come mucha casquería.",
+   "example_ko": "마드리드에서는 내장 요리를 많이 먹어.",
+   "tema": "carne"
+ },
+ {
+   "id": 45,
+   "spanish": "el caldo",
+   "korean": "육수, 국물",
+   "synonym": "",
+   "example_es": "El caldo de pollo es reconfortante.",
+   "example_ko": "닭 육수는 몸을 따뜻하게 해 줘.",
+   "tema": "carne"
+ },
+ {
+   "id": 46,
+   "spanish": "la hamburguesa",
+   "korean": "햄버거, 패티",
+   "synonym": "",
+   "example_es": "La hamburguesa es de ternera pura.",
+   "example_ko": "이 패티는 순수 소고기로 만들었어.",
+   "tema": "carne"
+ },
+ {
+   "id": 47,
+   "spanish": "el solomillo",
+   "korean": "티본 스테이크 느낌 부위",
+   "synonym": "",
+   "example_es": "El solomillo de ternera es excelente.",
+   "example_ko": "소고기 안심 스테이크는 훌륭해.",
+   "tema": "carne"
+ },
+ {
+   "id": 48,
+   "spanish": "la panceta",
+   "korean": "삼겹살 부위",
+   "synonym": "",
+   "example_es": "La panceta a la parrilla es deliciosa.",
+   "example_ko": "석쇠에 구운 삼겹살(판세타)은 맛있어.",
+   "tema": "carne"
+ },
+ {
+   "id": 49,
+   "spanish": "el chicharrón",
+   "korean": "돼지껍데기 튀김",
+   "synonym": "",
+   "example_es": "El chicharrón es un snack típico.",
+   "example_ko": "치차론은 전형적인 간식이야.",
+   "tema": "carne"
+ },
+ {
+   "id": 50,
+   "spanish": "el carpaccio",
+   "korean": "카르파초 (얇게 썬 생고기)",
+   "synonym": "",
+   "example_es": "El carpaccio de buey con parmesano.",
+   "example_ko": "파마산 치즈를 곁들인 소고기 카르파초.",
+   "tema": "carne"
+ }
+]

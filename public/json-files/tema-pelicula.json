@@ -1,0 +1,317 @@
+[
+ {
+   "id": 1,
+   "spanish": "la película",
+   "korean": "영화",
+   "synonym": "el filme",
+   "example_es": "Vemos una película.",
+   "example_ko": "우리는 영화를 봐요.",
+   "tema": "pelicula"
+ },
+ {
+   "id": 2,
+   "spanish": "el cine",
+   "korean": "영화관",
+   "synonym": "",
+   "example_es": "Voy al cine.",
+   "example_ko": "영화관에 가요.",
+   "tema": "pelicula"
+ },
+ {
+   "id": 3,
+   "spanish": "el actor / la actriz",
+   "korean": "배우",
+   "synonym": "",
+   "example_es": "Él es un gran actor.",
+   "example_ko": "그는 훌륭한 배우예요.",
+   "tema": "pelicula"
+ },
+ {
+   "id": 4,
+   "spanish": "el director / la directora",
+   "korean": "감독",
+   "synonym": "",
+   "example_es": "La directora es famosa.",
+   "example_ko": "감독이 유명해요.",
+   "tema": "pelicula"
+ },
+ {
+   "id": 5,
+   "spanish": "el guion",
+   "korean": "대본 (시나리오)",
+   "synonym": "",
+   "example_es": "Lee el guion.",
+   "example_ko": "대본을 읽으세요.",
+   "tema": "pelicula"
+ },
+ {
+   "id": 6,
+   "spanish": "el estreno",
+   "korean": "개봉 (시사)",
+   "synonym": "",
+   "example_es": "Hoy es el estreno.",
+   "example_ko": "오늘이 개봉일이에요.",
+   "tema": "pelicula"
+ },
+ {
+   "id": 7,
+   "spanish": "la entrada",
+   "korean": "티켓 (입장권)",
+   "synonym": "el boleto",
+   "example_es": "Compré la entrada.",
+   "example_ko": "티켓을 샀어요.",
+   "tema": "pelicula"
+ },
+ {
+   "id": 8,
+   "spanish": "el género",
+   "korean": "장르",
+   "synonym": "",
+   "example_es": "¿Qué género te gusta?",
+   "example_ko": "어떤 장르를 좋아해요?",
+   "tema": "pelicula"
+ },
+ {
+   "id": 9,
+   "spanish": "la comedia",
+   "korean": "코미디",
+   "synonym": "",
+   "example_es": "La comedia es divertido.",
+   "example_ko": "코미디는 재미있어요.",
+   "tema": "pelicula"
+ },
+ {
+   "id": 10,
+   "spanish": "el drama",
+   "korean": "드라마",
+   "synonym": "",
+   "example_es": "Es un drama triste.",
+   "example_ko": "슬픈 드라마예요.",
+   "tema": "pelicula"
+ },
+ {
+   "id": 11,
+   "spanish": "el terror",
+   "korean": "공포 (호러)",
+   "synonym": "",
+   "example_es": "No veo el terror.",
+   "example_ko": "공포 영화는 안 봐요.",
+   "tema": "pelicula"
+ },
+ {
+   "id": 12,
+   "spanish": "la acción",
+   "korean": "액션",
+   "synonym": "",
+   "example_es": "Me gusta la acción.",
+   "example_ko": "액션을 좋아해요.",
+   "tema": "pelicula"
+ },
+ {
+   "id": 13,
+   "spanish": "la ciencia ficción",
+   "korean": "공상 과학 (SF)",
+   "synonym": "",
+   "example_es": "La ciencia ficción es genial.",
+   "example_ko": "SF는 멋져요.",
+   "tema": "pelicula"
+ },
+ {
+   "id": 14,
+   "spanish": "los subtítulos",
+   "korean": "자막",
+   "synonym": "",
+   "example_es": "Pon los subtítulos.",
+   "example_ko": "자막을 켜세요.",
+   "tema": "pelicula"
+ },
+ {
+   "id": 15,
+   "spanish": "el doblaje",
+   "korean": "더빙",
+   "synonym": "",
+   "example_es": "Prefiero el doblaje.",
+   "example_ko": "더빙을 선호해요.",
+   "tema": "pelicula"
+ },
+ {
+   "id": 16,
+   "spanish": "la pantalla",
+   "korean": "스크린 (화면)",
+   "synonym": "",
+   "example_es": "La pantalla es enorme.",
+   "example_ko": "스크린이 거대해요.",
+   "tema": "pelicula"
+ },
+ {
+   "id": 17,
+   "spanish": "la butaca",
+   "korean": "좌석",
+   "synonym": "el asiento",
+   "example_es": "Busca tu butaca.",
+   "example_ko": "자리를 찾으세요.",
+   "tema": "pelicula"
+ },
+ {
+   "id": 18,
+   "spanish": "las palomitas",
+   "korean": "팝콘",
+   "synonym": "el pochoclo / las cotufas",
+   "example_es": "Quiero palomitas.",
+   "example_ko": "팝콘을 원해요.",
+   "tema": "pelicula"
+ },
+ {
+   "id": 19,
+   "spanish": "la banda sonora",
+   "korean": "OST (배경음악)",
+   "synonym": "",
+   "example_es": "La banda sonora es bella.",
+   "example_ko": "배경음악이 아름다워요.",
+   "tema": "pelicula"
+ },
+ {
+   "id": 20,
+   "spanish": "el tráiler",
+   "korean": "예고편",
+   "synonym": "el avance",
+   "example_es": "Mira el tráiler.",
+   "example_ko": "예고편을 보세요.",
+   "tema": "pelicula"
+ },
+ {
+   "id": 21,
+   "spanish": "el cortometraje",
+   "korean": "단편 영화",
+   "synonym": "",
+   "example_es": "Es un cortometraje.",
+   "example_ko": "단편 영화예요.",
+   "tema": "pelicula"
+ },
+ {
+   "id": 22,
+   "spanish": "el largometraje",
+   "korean": "장편 영화",
+   "synonym": "",
+   "example_es": "Dura dos horas.",
+   "example_ko": "2시간짜리 장편이에요.",
+   "tema": "pelicula"
+ },
+ {
+   "id": 23,
+   "spanish": "el papel",
+   "korean": "역할",
+   "synonym": "el rol",
+   "example_es": "Tiene un papel corto.",
+   "example_ko": "짧은 역할을 맡았어요.",
+   "tema": "pelicula"
+ },
+ {
+   "id": 24,
+   "spanish": "el protagonista / la protagonista",
+   "korean": "주인공",
+   "synonym": "",
+   "example_es": "Ella es la protagonista.",
+   "example_ko": "그녀가 주인공이에요.",
+   "tema": "pelicula"
+ },
+ {
+   "id": 25,
+   "spanish": "el villano / la villana",
+   "korean": "악당",
+   "synonym": "",
+   "example_es": "El villano es cruel.",
+   "example_ko": "악당이 잔인해요.",
+   "tema": "pelicula"
+ },
+ {
+   "id": 26,
+   "spanish": "la escena",
+   "korean": "장면",
+   "synonym": "",
+   "example_es": "Esta escena es linda.",
+   "example_ko": "이 장면은 예뻐요.",
+   "tema": "pelicula"
+ },
+ {
+   "id": 27,
+   "spanish": "el rodaje",
+   "korean": "촬영",
+   "synonym": "la filmación",
+   "example_es": "El rodaje terminó.",
+   "example_ko": "촬영이 끝났어요.",
+   "tema": "pelicula"
+ },
+ {
+   "id": 28,
+   "spanish": "el premio",
+   "korean": "상",
+   "synonym": "",
+   "example_es": "Ganó un premio.",
+   "example_ko": "상을 받았어요.",
+   "tema": "pelicula"
+ },
+ {
+   "id": 29,
+   "spanish": "la alfombra roja",
+   "korean": "레드카펫",
+   "synonym": "",
+   "example_es": "Caminan por la alfombra.",
+   "example_ko": "카펫 위를 걸어요.",
+   "tema": "pelicula"
+ },
+ {
+   "id": 30,
+   "spanish": "la crítica",
+   "korean": "비평 (리뷰)",
+   "synonym": "",
+   "example_es": "La crítica es buena.",
+   "example_ko": "비평이 좋아요.",
+   "tema": "pelicula"
+ },
+ {
+   "id": 31,
+   "spanish": "el espectador / la espectadora",
+   "korean": "관객",
+   "synonym": "",
+   "example_es": "Hay muchos espectadores.",
+   "example_ko": "관객이 많아요.",
+   "tema": "pelicula"
+ },
+ {
+   "id": 32,
+   "spanish": "la taquilla",
+   "korean": "매표소 (박스오피스)",
+   "synonym": "",
+   "example_es": "Ve a la taquilla.",
+   "example_ko": "매표소로 가세요.",
+   "tema": "pelicula"
+ },
+ {
+   "id": 33,
+   "spanish": "la cámara",
+   "korean": "카메라",
+   "synonym": "",
+   "example_es": "Limpia la cámara.",
+   "example_ko": "카메라를 닦으세요.",
+   "tema": "pelicula"
+ },
+ {
+   "id": 34,
+   "spanish": "el efecto especial",
+   "korean": "특수 효과",
+   "synonym": "",
+   "example_es": "Los efectos son reales.",
+   "example_ko": "효과가 실감 나요.",
+   "tema": "pelicula"
+ },
+ {
+   "id": 35,
+   "spanish": "la producción",
+   "korean": "제작",
+   "synonym": "",
+   "example_es": "La producción es cara.",
+   "example_ko": "제작비가 비싸요.",
+   "tema": "pelicula"
+ }
+]
