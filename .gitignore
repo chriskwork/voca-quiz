@@ -45,9 +45,8 @@ next-env.d.ts
 /guide
 /design_inspiration
 
-# JSON files
+# JSON original files 
 /csv
-/public/json-files
 
 # ETC
 CLAUDE.md

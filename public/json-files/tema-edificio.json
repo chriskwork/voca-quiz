@@ -1,0 +1,983 @@
+[
+ {
+   "id": 1,
+   "spanish": "el edificio",
+   "korean": "건물, 빌딩",
+   "synonym": "",
+   "example_es": "El edificio tiene veinte plantas.",
+   "example_ko": "그 건물은 20층이야.",
+   "tema": "edificio"
+ },
+ {
+   "id": 2,
+   "spanish": "la casa",
+   "korean": "집, 주택",
+   "synonym": "",
+   "example_es": "Mi casa es pequeña pero acogedora.",
+   "example_ko": "내 집은 작지만 아늑해.",
+   "tema": "edificio"
+ },
+ {
+   "id": 3,
+   "spanish": "el apartamento",
+   "korean": "아파트",
+   "synonym": "el departamento / el piso",
+   "example_es": "Alquilé un apartamento en el centro.",
+   "example_ko": "시내에 아파트를 하나 임대했어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 4,
+   "spanish": "el rascacielos",
+   "korean": "마천루, 초고층 빌딩",
+   "synonym": "",
+   "example_es": "El rascacielos domina la ciudad.",
+   "example_ko": "마천루가 도시를 압도하고 있어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 5,
+   "spanish": "el ayuntamiento",
+   "korean": "시청",
+   "synonym": "",
+   "example_es": "Tengo que ir al ayuntamiento por un trámite.",
+   "example_ko": "서류 절차 때문에 시청에 가야 해.",
+   "tema": "edificio"
+ },
+ {
+   "id": 6,
+   "spanish": "la biblioteca",
+   "korean": "도서관",
+   "synonym": "",
+   "example_es": "Estudio en la biblioteca por la tarde.",
+   "example_ko": "오후에 도서관에서 공부해.",
+   "tema": "edificio"
+ },
+ {
+   "id": 7,
+   "spanish": "el museo",
+   "korean": "박물관",
+   "synonym": "",
+   "example_es": "El museo abre gratis los domingos.",
+   "example_ko": "그 박물관은 일요일에 무료로 개관해.",
+   "tema": "edificio"
+ },
+ {
+   "id": 8,
+   "spanish": "la escuela",
+   "korean": "학교",
+   "synonym": "el colegio",
+   "example_es": "La escuela está cerca del parque.",
+   "example_ko": "학교는 공원 근처에 있어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 9,
+   "spanish": "la universidad",
+   "korean": "대학교",
+   "synonym": "",
+   "example_es": "La universidad tiene un campus enorme.",
+   "example_ko": "대학교 캠퍼스가 아주 거대해.",
+   "tema": "edificio"
+ },
+ {
+   "id": 10,
+   "spanish": "el hospital",
+   "korean": "병원",
+   "synonym": "",
+   "example_es": "El hospital tiene urgencias las 24 horas.",
+   "example_ko": "병원은 24시간 응급실을 운영해.",
+   "tema": "edificio"
+ },
+ {
+   "id": 11,
+   "spanish": "la iglesia",
+   "korean": "교회",
+   "synonym": "",
+   "example_es": "La iglesia tiene campanas antiguas.",
+   "example_ko": "그 교회에는 오래된 종들이 있어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 12,
+   "spanish": "la catedral",
+   "korean": "성당, 대성당",
+   "synonym": "",
+   "example_es": "La catedral es una joya del gótico.",
+   "example_ko": "그 대성당은 고딕 양식의 보석이야.",
+   "tema": "edificio"
+ },
+ {
+   "id": 13,
+   "spanish": "la mezquita",
+   "korean": "모스크",
+   "synonym": "",
+   "example_es": "La mezquita tiene una arquitectura bella.",
+   "example_ko": "모스크의 건축 양식이 아름다워.",
+   "tema": "edificio"
+ },
+ {
+   "id": 14,
+   "spanish": "el templo",
+   "korean": "사원, 성전",
+   "synonym": "",
+   "example_es": "El templo es un lugar de paz.",
+   "example_ko": "사원은 평화로운 곳이야.",
+   "tema": "edificio"
+ },
+ {
+   "id": 15,
+   "spanish": "el rascacielos",
+   "korean": "고층 빌딩",
+   "synonym": "",
+   "example_es": "Ese rascacielos es el más alto del país.",
+   "example_ko": "저 고층 빌딩은 나라에서 가장 높아.",
+   "tema": "edificio"
+ },
+ {
+   "id": 16,
+   "spanish": "el castillo",
+   "korean": "성",
+   "synonym": "",
+   "example_es": "El castillo está en lo alto de la colina.",
+   "example_ko": "그 성은 언덕 꼭대기에 있어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 17,
+   "spanish": "el palacio",
+   "korean": "궁전",
+   "synonym": "",
+   "example_es": "El palacio real es impresionante.",
+   "example_ko": "왕궁이 아주 인상적이야.",
+   "tema": "edificio"
+ },
+ {
+   "id": 18,
+   "spanish": "la fábrica",
+   "korean": "공장",
+   "synonym": "",
+   "example_es": "La fábrica produce coches eléctricos.",
+   "example_ko": "그 공장은 전기차를 생산해.",
+   "tema": "edificio"
+ },
+ {
+   "id": 19,
+   "spanish": "el almacén",
+   "korean": "창고",
+   "synonym": "",
+   "example_es": "El almacén está lleno de cajas.",
+   "example_ko": "창고에 상자가 가득해.",
+   "tema": "edificio"
+ },
+ {
+   "id": 20,
+   "spanish": "el centro comercial",
+   "korean": "쇼핑몰",
+   "synonym": "",
+   "example_es": "Vamos al centro comercial a comprar ropa.",
+   "example_ko": "옷 사러 쇼핑몰에 가자.",
+   "tema": "edificio"
+ },
+ {
+   "id": 21,
+   "spanish": "el mercado",
+   "korean": "시장",
+   "synonym": "",
+   "example_es": "Compro fruta fresca en el mercado.",
+   "example_ko": "시장에서 신선한 과일을 사.",
+   "tema": "edificio"
+ },
+ {
+   "id": 22,
+   "spanish": "el supermercado",
+   "korean": "슈퍼마켓",
+   "synonym": "",
+   "example_es": "El supermercado está cerrado hoy.",
+   "example_ko": "슈퍼마켓은 오늘 문을 닫았어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 23,
+   "spanish": "la tienda",
+   "korean": "상점, 가게",
+   "synonym": "",
+   "example_es": "La tienda de la esquina vende pan.",
+   "example_ko": "모퉁이 가게에서 빵을 팔아.",
+   "tema": "edificio"
+ },
+ {
+   "id": 24,
+   "spanish": "el hotel",
+   "korean": "호텔",
+   "synonym": "",
+   "example_es": "Reservé una habitación en el hotel.",
+   "example_ko": "호텔 방을 하나 예약했어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 25,
+   "spanish": "el restaurante",
+   "korean": "식당",
+   "synonym": "",
+   "example_es": "El restaurante sirve comida típica.",
+   "example_ko": "그 식당은 전통 요리를 내놓아.",
+   "tema": "edificio"
+ },
+ {
+   "id": 26,
+   "spanish": "el banco",
+   "korean": "은행",
+   "synonym": "",
+   "example_es": "El banco está al lado de la farmacia.",
+   "example_ko": "은행은 약국 옆에 있어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 27,
+   "spanish": "la oficina",
+   "korean": "사무실",
+   "synonym": "",
+   "example_es": "Mi oficina está en la quinta planta.",
+   "example_ko": "내 사무실은 5층에 있어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 28,
+   "spanish": "el teatro",
+   "korean": "극장",
+   "synonym": "",
+   "example_es": "Fuimos al teatro a ver una obra.",
+   "example_ko": "연극을 보러 극장에 갔어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 29,
+   "spanish": "el cine",
+   "korean": "영화관",
+   "synonym": "",
+   "example_es": "El cine tiene una pantalla gigante.",
+   "example_ko": "영화관에 거대한 스크린이 있어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 30,
+   "spanish": "el estadio",
+   "korean": "경기장",
+   "synonym": "",
+   "example_es": "El estadio se llenó para el partido.",
+   "example_ko": "경기를 위해 경기장이 가득 찼어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 31,
+   "spanish": "la estación",
+   "korean": "역",
+   "synonym": "",
+   "example_es": "La estación de tren está lejos.",
+   "example_ko": "기차역은 멀리 있어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 32,
+   "spanish": "el aeropuerto",
+   "korean": "공항",
+   "synonym": "",
+   "example_es": "El aeropuerto tiene mucho tráfico hoy.",
+   "example_ko": "오늘 공항에 물동량이 많아.",
+   "tema": "edificio"
+ },
+ {
+   "id": 33,
+   "spanish": "el puerto",
+   "korean": "항구",
+   "synonym": "",
+   "example_es": "El barco llegó al puerto al amanecer.",
+   "example_ko": "배가 새벽에 항구에 도착했어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 34,
+   "spanish": "la gasolinera",
+   "korean": "주유소",
+   "synonym": "",
+   "example_es": "Tengo que parar en la gasolinera.",
+   "example_ko": "주유소에 들러야 해.",
+   "tema": "edificio"
+ },
+ {
+   "id": 35,
+   "spanish": "el faro",
+   "korean": "등대",
+   "synonym": "",
+   "example_es": "El faro guía a los barcos de noche.",
+   "example_ko": "등대는 밤에 배들을 인도해.",
+   "tema": "edificio"
+ },
+ {
+   "id": 36,
+   "spanish": "el puente",
+   "korean": "다리",
+   "synonym": "",
+   "example_es": "El puente cruza el río Ebro.",
+   "example_ko": "다리가 에브로 강을 가로질러.",
+   "tema": "edificio"
+ },
+ {
+   "id": 37,
+   "spanish": "la torre",
+   "korean": "탑",
+   "synonym": "",
+   "example_es": "La torre tiene un reloj antiguo.",
+   "example_ko": "그 탑에는 오래된 시계가 있어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 38,
+   "spanish": "el monumento",
+   "korean": "기념비",
+   "synonym": "",
+   "example_es": "El monumento recuerda a los héroes.",
+   "example_ko": "그 기념비는 영웅들을 기려.",
+   "tema": "edificio"
+ },
+ {
+   "id": 39,
+   "spanish": "la estatua",
+   "korean": "조각상, 동상",
+   "synonym": "",
+   "example_es": "La estatua es de bronce.",
+   "example_ko": "동상은 청동으로 만들어졌어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 40,
+   "spanish": "la fachada",
+   "korean": "정면, 파사드",
+   "synonym": "",
+   "example_es": "La fachada del edificio es de piedra.",
+   "example_ko": "건물 정면은 돌로 되어 있어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 41,
+   "spanish": "el tejado",
+   "korean": "지붕",
+   "synonym": "el techo",
+   "example_es": "El tejado necesita una reparación.",
+   "example_ko": "지붕은 수리가 필요해.",
+   "tema": "edificio"
+ },
+ {
+   "id": 42,
+   "spanish": "la chimenea",
+   "korean": "굴뚝",
+   "synonym": "",
+   "example_es": "Sale humo de la chimenea.",
+   "example_ko": "굴뚝에서 연기가 나.",
+   "tema": "edificio"
+ },
+ {
+   "id": 43,
+   "spanish": "la ventana",
+   "korean": "창문",
+   "synonym": "",
+   "example_es": "Abre la ventana para que entre aire.",
+   "example_ko": "공기가 들어오게 창문을 열렴.",
+   "tema": "edificio"
+ },
+ {
+   "id": 44,
+   "spanish": "la puerta",
+   "korean": "문",
+   "synonym": "",
+   "example_es": "Cierra la puerta al salir, por favor.",
+   "example_ko": "나갈 때 문을 닫아 주세요.",
+   "tema": "edificio"
+ },
+ {
+   "id": 45,
+   "spanish": "el balcón",
+   "korean": "발코니",
+   "synonym": "",
+   "example_es": "El balcón tiene vistas al mar.",
+   "example_ko": "발코니에서 바다가 보여.",
+   "tema": "edificio"
+ },
+ {
+   "id": 46,
+   "spanish": "la terraza",
+   "korean": "테라스",
+   "synonym": "",
+   "example_es": "Cenamos en la terraza anoche.",
+   "example_ko": "어젯밤에 테라스에서 저녁을 먹었어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 47,
+   "spanish": "la escalera",
+   "korean": "계단",
+   "synonym": "",
+   "example_es": "Sube por la escalera de caracol.",
+   "example_ko": "나선형 계단으로 올라가렴.",
+   "tema": "edificio"
+ },
+ {
+   "id": 48,
+   "spanish": "el ascensor",
+   "korean": "엘리베이터",
+   "synonym": "el elevador",
+   "example_es": "El ascensor no funciona hoy.",
+   "example_ko": "엘리베이터가 오늘 작동하지 않아.",
+   "tema": "edificio"
+ },
+ {
+   "id": 49,
+   "spanish": "el pasillo",
+   "korean": "복도",
+   "synonym": "",
+   "example_es": "El pasillo es largo y oscuro.",
+   "example_ko": "복도가 길고 어두워.",
+   "tema": "edificio"
+ },
+ {
+   "id": 50,
+   "spanish": "la planta",
+   "korean": "층",
+   "synonym": "el piso",
+   "example_es": "Mi piso está en la tercera planta.",
+   "example_ko": "내 집은 3층에 있어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 51,
+   "spanish": "el sótano",
+   "korean": "지하층",
+   "synonym": "",
+   "example_es": "Guardamos las herramientas en el sótano.",
+   "example_ko": "우리는 공구들을 지하에 보관해.",
+   "tema": "edificio"
+ },
+ {
+   "id": 52,
+   "spanish": "el ático",
+   "korean": "펜트하우스, 다락방",
+   "synonym": "",
+   "example_es": "El ático tiene mucha luz natural.",
+   "example_ko": "다락방(펜트하우스)은 채광이 좋아.",
+   "tema": "edificio"
+ },
+ {
+   "id": 53,
+   "spanish": "la columna",
+   "korean": "기둥",
+   "synonym": "",
+   "example_es": "La columna sostiene el techo.",
+   "example_ko": "기둥이 천장을 지탱해.",
+   "tema": "edificio"
+ },
+ {
+   "id": 54,
+   "spanish": "el muro",
+   "korean": "벽, 담",
+   "synonym": "",
+   "example_es": "El muro separa las dos casas.",
+   "example_ko": "담이 두 집을 나누고 있어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 55,
+   "spanish": "la pared",
+   "korean": "벽 (내벽)",
+   "synonym": "",
+   "example_es": "Colgué un cuadro en la pared.",
+   "example_ko": "벽에 그림을 하나 걸었어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 56,
+   "spanish": "el suelo",
+   "korean": "바닥",
+   "synonym": "",
+   "example_es": "El suelo es de madera de roble.",
+   "example_ko": "바닥은 오크 나무로 되어 있어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 57,
+   "spanish": "el techo",
+   "korean": "천장",
+   "synonym": "",
+   "example_es": "El techo está pintado de blanco.",
+   "example_ko": "천장은 흰색으로 칠해져 있어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 58,
+   "spanish": "el cimiento",
+   "korean": "기초, 토대",
+   "synonym": "",
+   "example_es": "Los cimientos del edificio son sólidos.",
+   "example_ko": "건물의 기초가 튼튼해.",
+   "tema": "edificio"
+ },
+ {
+   "id": 59,
+   "spanish": "el andamio",
+   "korean": "비계 (공사장 발판)",
+   "synonym": "",
+   "example_es": "Los obreros están en el andamio.",
+   "example_ko": "인부들이 비계 위에 있어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 60,
+   "spanish": "la obra",
+   "korean": "공사, 공사장",
+   "synonym": "",
+   "example_es": "La calle está cortada por una obra.",
+   "example_ko": "공사 때문에 도로가 차단됐어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 61,
+   "spanish": "el ladrillo",
+   "korean": "벽돌",
+   "synonym": "",
+   "example_es": "La casa está hecha de ladrillo rojo.",
+   "example_ko": "그 집은 빨간 벽돌로 지어졌어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 62,
+   "spanish": "el cemento",
+   "korean": "시멘트",
+   "synonym": "",
+   "example_es": "El cemento todavía está húmedo.",
+   "example_ko": "시멘트가 아직 젖어 있어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 63,
+   "spanish": "el hormigón",
+   "korean": "콘크리트",
+   "synonym": "",
+   "example_es": "El hormigón armado es muy resistente.",
+   "example_ko": "철근 콘크리트는 매우 튼튼해.",
+   "tema": "edificio"
+ },
+ {
+   "id": 64,
+   "spanish": "la grúa",
+   "korean": "기중기, 크레인",
+   "synonym": "",
+   "example_es": "La grúa levanta materiales pesados.",
+   "example_ko": "크레인이 무거운 자재를 들어 올려.",
+   "tema": "edificio"
+ },
+ {
+   "id": 65,
+   "spanish": "el refugio",
+   "korean": "대피소, 피난처",
+   "synonym": "",
+   "example_es": "Buscamos refugio durante la tormenta.",
+   "example_ko": "폭풍 동안 대피소를 찾았어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 66,
+   "spanish": "la cabaña",
+   "korean": "오두막",
+   "synonym": "",
+   "example_es": "Vivimos en una cabaña en el bosque.",
+   "example_ko": "우리는 숲속 오두막에 살아.",
+   "tema": "edificio"
+ },
+ {
+   "id": 67,
+   "spanish": "el granero",
+   "korean": "곡간, 헛간",
+   "synonym": "",
+   "example_es": "El granero guarda el trigo.",
+   "example_ko": "헛간에 밀을 보관해.",
+   "tema": "edificio"
+ },
+ {
+   "id": 68,
+   "spanish": "el establo",
+   "korean": "마구간",
+   "synonym": "",
+   "example_es": "El caballo duerme en el establo.",
+   "example_ko": "말이 마구간에서 자.",
+   "tema": "edificio"
+ },
+ {
+   "id": 69,
+   "spanish": "el invernadero",
+   "korean": "온실",
+   "synonym": "",
+   "example_es": "Cultivamos tomates en el invernadero.",
+   "example_ko": "온실에서 토마토를 재배해.",
+   "tema": "edificio"
+ },
+ {
+   "id": 70,
+   "spanish": "el quiosco",
+   "korean": "가판대, 키오스크",
+   "synonym": "",
+   "example_es": "Compré una revista en el quiosco.",
+   "example_ko": "가판대에서 잡지를 한 권 샀어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 71,
+   "spanish": "la fuente",
+   "korean": "분수대",
+   "synonym": "",
+   "example_es": "Los niños juegan cerca de la fuente.",
+   "example_ko": "아이들이 분수대 근처에서 놀아.",
+   "tema": "edificio"
+ },
+ {
+   "id": 72,
+   "spanish": "el garaje",
+   "korean": "차고",
+   "synonym": "",
+   "example_es": "El garaje tiene espacio para dos coches.",
+   "example_ko": "차고에는 차 두 대를 세울 공간이 있어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 73,
+   "spanish": "la valla",
+   "korean": "울타리",
+   "synonym": "",
+   "example_es": "La valla es de madera pintada.",
+   "example_ko": "울타리는 칠해진 나무로 되어 있어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 74,
+   "spanish": "el jardín",
+   "korean": "정원",
+   "synonym": "",
+   "example_es": "El jardín tiene muchas flores.",
+   "example_ko": "정원에 꽃이 많이 있어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 75,
+   "spanish": "el patio",
+   "korean": "마당, 중정",
+   "synonym": "",
+   "example_es": "Jugamos al fútbol en el patio.",
+   "example_ko": "우리는 마당에서 축구를 해.",
+   "tema": "edificio"
+ },
+ {
+   "id": 76,
+   "spanish": "el portal",
+   "korean": "현관, 입구",
+   "synonym": "",
+   "example_es": "Nos vemos en el portal a las ocho.",
+   "example_ko": "8시에 현관(입구)에서 만나자.",
+   "tema": "edificio"
+ },
+ {
+   "id": 77,
+   "spanish": "la entrada",
+   "korean": "입구",
+   "synonym": "",
+   "example_es": "La entrada principal está cerrada.",
+   "example_ko": "정문(입구)이 닫혀 있어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 78,
+   "spanish": "la salida de emergencia",
+   "korean": "비상구",
+   "synonym": "",
+   "example_es": "Busca siempre la salida de emergencia.",
+   "example_ko": "항상 비상구를 확인하렴.",
+   "tema": "edificio"
+ },
+ {
+   "id": 79,
+   "spanish": "la azotea",
+   "korean": "옥상",
+   "synonym": "",
+   "example_es": "Subimos a la azotea a ver las estrellas.",
+   "example_ko": "별을 보러 옥상에 올라갔어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 80,
+   "spanish": "el barrio rojo",
+   "korean": "집창촌, 홍등가",
+   "synonym": "la zona de tolerancia",
+   "example_es": "El barrio rojo de Ámsterdam es famoso.",
+   "example_ko": "암스테르담의 홍등가는 유명해.",
+   "tema": "edificio"
+ },
+ {
+   "id": 81,
+   "spanish": "el burdel",
+   "korean": "사창가, 매음굴",
+   "synonym": "el lupanar",
+   "example_es": "El burdel cerró hace muchos años.",
+   "example_ko": "그 사창가는 수년 전에 문을 닫았어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 82,
+   "spanish": "la zona marginal",
+   "korean": "빈민가, 소외 지역",
+   "synonym": "",
+   "example_es": "La zona marginal necesita más ayuda.",
+   "example_ko": "소외 지역은 더 많은 도움이 필요해.",
+   "tema": "edificio"
+ },
+ {
+   "id": 83,
+   "spanish": "el callejón",
+   "korean": "골목길",
+   "synonym": "",
+   "example_es": "El callejón está oscuro y estrecho.",
+   "example_ko": "그 골목길은 어둡고 좁아.",
+   "tema": "edificio"
+ },
+ {
+   "id": 84,
+   "spanish": "el solar",
+   "korean": "공터, 대지",
+   "synonym": "",
+   "example_es": "Construirán un parque en el solar.",
+   "example_ko": "그 공터에 공원을 지을 거야.",
+   "tema": "edificio"
+ },
+ {
+   "id": 85,
+   "spanish": "la ruina",
+   "korean": "폐허, 유적",
+   "synonym": "",
+   "example_es": "El edificio antiguo está en ruinas.",
+   "example_ko": "그 오래된 건물은 폐허가 됐어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 86,
+   "spanish": "el rastro",
+   "korean": "벼룩시장, 노점",
+   "synonym": "",
+   "example_es": "Compré ropa de segunda mano en el rastro.",
+   "example_ko": "벼룩시장에서 구제 옷을 샀어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 87,
+   "spanish": "el suburbio",
+   "korean": "교외, 변두리",
+   "synonym": "la periferia",
+   "example_es": "Vivimos en un suburbio tranquilo.",
+   "example_ko": "우리는 조용한 교외에 살아.",
+   "tema": "edificio"
+ },
+ {
+   "id": 88,
+   "spanish": "el gueto",
+   "korean": "게토, 고립 거주 구역",
+   "synonym": "",
+   "example_es": "El gueto se formó por la exclusión.",
+   "example_ko": "그 게토는 배제에 의해 형성됐어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 89,
+   "spanish": "la chabola",
+   "korean": "판잣집",
+   "synonym": "",
+   "example_es": "Mucha gente vive en chabolas allí.",
+   "example_ko": "그곳의 많은 사람들이 판잣집에 살아.",
+   "tema": "edificio"
+ },
+ {
+   "id": 90,
+   "spanish": "la tubería",
+   "korean": "배관, 파이프",
+   "synonym": "",
+   "example_es": "Hay una fuga en la tubería.",
+   "example_ko": "배관에 누수가 있어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 91,
+   "spanish": "el cableado",
+   "korean": "배선",
+   "synonym": "",
+   "example_es": "El cableado eléctrico은 es viejo.",
+   "example_ko": "전기 배선이 오래됐어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 92,
+   "spanish": "el desagüe",
+   "korean": "하수구, 배수구",
+   "synonym": "",
+   "example_es": "El desagüe está atascado.",
+   "example_ko": "하수구가 막혔어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 93,
+   "spanish": "el dormitorio",
+   "korean": "침실",
+   "synonym": "",
+   "example_es": "El dormitorio principal tiene baño.",
+   "example_ko": "안방(침실)에는 화장실이 있어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 94,
+   "spanish": "la cocina",
+   "korean": "주방, 부엌",
+   "synonym": "",
+   "example_es": "La cocina es moderna y amplia.",
+   "example_ko": "주방이 현대적이고 넓어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 95,
+   "spanish": "el salón",
+   "korean": "거실",
+   "synonym": "",
+   "example_es": "Nos reunimos en el salón a ver la tele.",
+   "example_ko": "우리는 거실에 모여 TV를 봐.",
+   "tema": "edificio"
+ },
+ {
+   "id": 96,
+   "spanish": "el cuarto de baño",
+   "korean": "욕실, 화장실",
+   "synonym": "el aseo",
+   "example_es": "El cuarto de baño tiene bañera.",
+   "example_ko": "욕실에 욕조가 있어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 97,
+   "spanish": "el comedor",
+   "korean": "식당 (공간)",
+   "synonym": "",
+   "example_es": "Cenamos en el comedor formal.",
+   "example_ko": "우리는 정식 식당에서 저녁을 먹어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 98,
+   "spanish": "la despensa",
+   "korean": "팬트리, 식료품 저장실",
+   "synonym": "",
+   "example_es": "Guarda las conservas en la despensa.",
+   "example_ko": "통조림을 저장실에 보관해.",
+   "tema": "edificio"
+ },
+ {
+   "id": 99,
+   "spanish": "el arco",
+   "korean": "아치",
+   "synonym": "",
+   "example_es": "El arco romano es muy fuerte.",
+   "example_ko": "로마식 아치는 아주 튼튼해.",
+   "tema": "edificio"
+ },
+ {
+   "id": 100,
+   "spanish": "la bóveda",
+   "korean": "돔, 궁륭",
+   "synonym": "",
+   "example_es": "La bóveda de la iglesia es alta.",
+   "example_ko": "교회의 돔이 아주 높아.",
+   "tema": "edificio"
+ },
+ {
+   "id": 101,
+   "spanish": "el porche",
+   "korean": "포치, 현관 테라스",
+   "synonym": "",
+   "example_es": "Sentémonos en el porche a descansar.",
+   "example_ko": "포치에 앉아서 좀 쉬자.",
+   "tema": "edificio"
+ },
+ {
+   "id": 102,
+   "spanish": "el muelle",
+   "korean": "부두, 선착장",
+   "synonym": "",
+   "example_es": "El barco está atracado en el muelle.",
+   "example_ko": "배가 부두에 정박해 있어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 103,
+   "spanish": "la viga",
+   "korean": "대들보, 보",
+   "synonym": "",
+   "example_es": "La viga de madera sostiene el techo.",
+   "example_ko": "나무 보가 천장을 지탱해.",
+   "tema": "edificio"
+ },
+ {
+   "id": 104,
+   "spanish": "el mármol",
+   "korean": "대리석",
+   "synonym": "",
+   "example_es": "El suelo del portal es de mármol.",
+   "example_ko": "현관 바닥이 대리석이야.",
+   "tema": "edificio"
+ },
+ {
+   "id": 105,
+   "spanish": "el azulejo",
+   "korean": "타일",
+   "synonym": "",
+   "example_es": "Pusimos azulejos nuevos en el baño.",
+   "example_ko": "욕실에 새 타일을 깔았어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 106,
+   "spanish": "la cerradura",
+   "korean": "자물쇠",
+   "synonym": "",
+   "example_es": "Cambia la cerradura por seguridad.",
+   "example_ko": "보안을 위해 자물쇠를 바꿔.",
+   "tema": "edificio"
+ },
+ {
+   "id": 107,
+   "spanish": "el timbre",
+   "korean": "초인종",
+   "synonym": "",
+   "example_es": "Alguien está tocando el timbre.",
+   "example_ko": "누군가 초인종을 누르고 있어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 108,
+   "spanish": "el interruptor",
+   "korean": "스위치",
+   "synonym": "",
+   "example_es": "El interruptor de la luz está ahí.",
+   "example_ko": "전등 스위치가 저기에 있어.",
+   "tema": "edificio"
+ },
+ {
+   "id": 109,
+   "spanish": "el enchufe",
+   "korean": "콘센트",
+   "synonym": "",
+   "example_es": "Necesito un enchufe para el portátil.",
+   "example_ko": "노트북용 콘센트가 필요해.",
+   "tema": "edificio"
+ }
+]

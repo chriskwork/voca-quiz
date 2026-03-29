@@ -1,0 +1,1181 @@
+[
+ {
+   "id": 1,
+   "spanish": "el profesor",
+   "korean": "선생님, 교수",
+   "synonym": "la profesora",
+   "example_es": "El profesor explica la lección.",
+   "example_ko": "선생님이 공과를 설명하셔.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 2,
+   "spanish": "la profesión",
+   "korean": "직업",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "trabajo"
+ },
+ {
+   "id": 3,
+   "spanish": "el médico",
+   "korean": "의사",
+   "synonym": "la médica / la doctora",
+   "example_es": "El médico me recetó medicina.",
+   "example_ko": "의사가 나에게 약을 처방했어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 4,
+   "spanish": "el enfermero",
+   "korean": "간호사",
+   "synonym": "la enfermera",
+   "example_es": "La enfermera me tomó la tensión.",
+   "example_ko": "간호사가 내 혈압을 쟀어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 5,
+   "spanish": "el dentista",
+   "korean": "치과 의사",
+   "synonym": "la dentista",
+   "example_es": "Tengo cita con el dentista.",
+   "example_ko": "치과 의사와 예약이 있어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 6,
+   "spanish": "el veterinario",
+   "korean": "수의사",
+   "synonym": "la veterinaria",
+   "example_es": "El veterinario cura a mi perro.",
+   "example_ko": "수의사가 내 개를 치료해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 7,
+   "spanish": "el farmacéutico",
+   "korean": "약사",
+   "synonym": "la farmacéutica",
+   "example_es": "La farmacéutica me dio el jarabe.",
+   "example_ko": "약사가 나에게 시럽을 줬어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 8,
+   "spanish": "el ingeniero",
+   "korean": "엔지니어, 기사",
+   "synonym": "la ingeniera",
+   "example_es": "El ingeniero diseña el puente.",
+   "example_ko": "엔지니어가 다리를 설계해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 9,
+   "spanish": "el arquitecto",
+   "korean": "건축가",
+   "synonym": "la arquitecta",
+   "example_es": "El arquitecto dibujó los planos.",
+   "example_ko": "건축가가 도면을 그렸어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 10,
+   "spanish": "el abogado",
+   "korean": "변호사",
+   "synonym": "la abogada",
+   "example_es": "El abogado defiende al cliente.",
+   "example_ko": "변호사가 고객을 변호해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 11,
+   "spanish": "el juez",
+   "korean": "판사",
+   "synonym": "la jueza",
+   "example_es": "El juez dictó la sentencia.",
+   "example_ko": "판사가 판결을 내렸어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 12,
+   "spanish": "el policía",
+   "korean": "경찰관",
+   "synonym": "la mujer policía",
+   "example_es": "El policía patrulla la calle.",
+   "example_ko": "경찰이 거리를 순찰해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 13,
+   "spanish": "el bombero",
+   "korean": "소방관",
+   "synonym": "la bombera",
+   "example_es": "El bombero apagó el incendio.",
+   "example_ko": "소방관이 화재를 진압했어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 14,
+   "spanish": "el cartero",
+   "korean": "우체부",
+   "synonym": "la cartera",
+   "example_es": "El cartero trajo un paquete.",
+   "example_ko": "우체부가 택배를 가져왔어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 15,
+   "spanish": "el cocinero",
+   "korean": "요리사",
+   "synonym": "la cocinera",
+   "example_es": "El cocinero prepara la cena.",
+   "example_ko": "요리사가 저녁을 준비해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 16,
+   "spanish": "el camarero",
+   "korean": "웨이터, 웨이트리스",
+   "synonym": "la camarera",
+   "example_es": "El camarero nos sirvió café.",
+   "example_ko": "웨이터가 우리에게 커피를 줬어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 17,
+   "spanish": "el panadero",
+   "korean": "제빵사",
+   "synonym": "la panadera",
+   "example_es": "El panadero hace pan fresco.",
+   "example_ko": "제빵사가 신선한 빵을 만들어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 18,
+   "spanish": "el carnicero",
+   "korean": "정육점 주인",
+   "synonym": "la carnicera",
+   "example_es": "El carnicero corta la carne.",
+   "example_ko": "정육점 주인이 고기를 썰어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 19,
+   "spanish": "el frutero",
+   "korean": "과일 장수",
+   "synonym": "la frutera",
+   "example_es": "El frutero vende manzanas.",
+   "example_ko": "과일 장수가 사과를 팔아.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 20,
+   "spanish": "el dependiente",
+   "korean": "점원, 판매원",
+   "synonym": "la dependienta",
+   "example_es": "La dependienta me ayudó mucho.",
+   "example_ko": "점원이 나를 많이 도와줬어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 21,
+   "spanish": "el cajero",
+   "korean": "계산원",
+   "synonym": "la cajera",
+   "example_es": "La cajera me dio el tique.",
+   "example_ko": "계산원이 나에게 영수증을 줬어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 22,
+   "spanish": "el peluquero",
+   "korean": "미용사",
+   "synonym": "la peluquera",
+   "example_es": "La peluquera me cortó el pelo.",
+   "example_ko": "미용사가 내 머리를 잘랐어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 23,
+   "spanish": "el sastre",
+   "korean": "재단사, 양복점 주인",
+   "synonym": "la sastra",
+   "example_es": "El sastre me hizo un traje.",
+   "example_ko": "재단사가 나에게 양복을 해줬어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 24,
+   "spanish": "el zapatero",
+   "korean": "구두 수선공",
+   "synonym": "la zapatera",
+   "example_es": "El zapatero arregló mi bota.",
+   "example_ko": "구두 수선공이 내 부츠를 고쳤어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 25,
+   "spanish": "el mecánico",
+   "korean": "정비공",
+   "synonym": "la mecánica",
+   "example_es": "El mecánico revisó el motor.",
+   "example_ko": "정비공이 엔진을 점검했어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 26,
+   "spanish": "el fontanero",
+   "korean": "배관공",
+   "synonym": "la fontanera",
+   "example_es": "El fontanero arregló el grifo.",
+   "example_ko": "배관공이 수도꼭지를 고쳤어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 27,
+   "spanish": "el electricista",
+   "korean": "전기 기사",
+   "synonym": "la electricista",
+   "example_es": "El electricista instaló la luz.",
+   "example_ko": "전기 기사가 조명을 설치했어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 28,
+   "spanish": "el carpintero",
+   "korean": "목수",
+   "synonym": "la carpintera",
+   "example_es": "El carpintero hizo una silla.",
+   "example_ko": "목수가 의자를 만들었어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 29,
+   "spanish": "el albañil",
+   "korean": "벽돌공, 건설 노동자",
+   "synonym": "la albañila",
+   "example_es": "El albañil construye el muro.",
+   "example_ko": "벽돌공이 담을 쌓고 있어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 30,
+   "spanish": "el pintor",
+   "korean": "화가, 도장공",
+   "synonym": "la pintora",
+   "example_es": "El pintor pintó la fachada.",
+   "example_ko": "도장공이 건물 정면을 칠했어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 31,
+   "spanish": "el jardinero",
+   "korean": "정원사",
+   "synonym": "la jardinera",
+   "example_es": "El jardinero riega las flores.",
+   "example_ko": "정원사가 꽃에 물을 줘.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 32,
+   "spanish": "el agricultor",
+   "korean": "농부",
+   "synonym": "la agricultora",
+   "example_es": "El agricultor cosecha el trigo.",
+   "example_ko": "농부가 밀을 수확해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 33,
+   "spanish": "el pescador",
+   "korean": "어부",
+   "synonym": "la pescadora",
+   "example_es": "El pescador atrapó un atún.",
+   "example_ko": "어부가 참치를 잡았어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 34,
+   "spanish": "el conductor",
+   "korean": "운전기사",
+   "synonym": "la conductora",
+   "example_es": "El conductor conduce el autobús.",
+   "example_ko": "운전기사가 버스를 운전해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 35,
+   "spanish": "el taxista",
+   "korean": "택시 기사",
+   "synonym": "la taxista",
+   "example_es": "El taxista conoce la ciudad.",
+   "example_ko": "택시 기사는 도시를 잘 알아.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 36,
+   "spanish": "el piloto",
+   "korean": "조종사, 파일럿",
+   "synonym": "la piloto",
+   "example_es": "El piloto aterriza el avión.",
+   "example_ko": "조종사가 비행기를 착륙시켜.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 37,
+   "spanish": "el azafato",
+   "korean": "승무원",
+   "synonym": "la azafata",
+   "example_es": "La azafata sirve la comida.",
+   "example_ko": "승무원이 음식을 서빙해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 38,
+   "spanish": "el marinero",
+   "korean": "선원",
+   "synonym": "la marinera",
+   "example_es": "El marinero limpia la cubierta.",
+   "example_ko": "선원이 갑판을 청소해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 39,
+   "spanish": "el soldado",
+   "korean": "군인",
+   "synonym": "la soldado",
+   "example_es": "El soldado sirve a su país.",
+   "example_ko": "군인은 나라에 봉사해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 40,
+   "spanish": "el periodista",
+   "korean": "기자",
+   "synonym": "la periodista",
+   "example_es": "El periodista escribe la noticia.",
+   "example_ko": "기자가 뉴스를 써.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 41,
+   "spanish": "el fotógrafo",
+   "korean": "사진작가",
+   "synonym": "la fotógrafa",
+   "example_es": "El fotógrafo hizo un retrato.",
+   "example_ko": "사진작가가 초상화를 찍었어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 42,
+   "spanish": "el escritor",
+   "korean": "작가",
+   "synonym": "la escritora",
+   "example_es": "El escritor publicó un libro.",
+   "example_ko": "작가가 책을 출판했어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 43,
+   "spanish": "el poeta",
+   "korean": "시인",
+   "synonym": "la poetisa",
+   "example_es": "El poeta recitó un poema.",
+   "example_ko": "시인이 시를 낭송했어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 44,
+   "spanish": "el músico",
+   "korean": "음악가",
+   "synonym": "la música",
+   "example_es": "El músico toca la guitarra.",
+   "example_ko": "음악가가 기타를 연주해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 45,
+   "spanish": "el cantante",
+   "korean": "가수",
+   "synonym": "la cantante",
+   "example_es": "La cantante tiene buena voz.",
+   "example_ko": "가수는 목소리가 좋아.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 46,
+   "spanish": "el actor",
+   "korean": "배우",
+   "synonym": "la actriz",
+   "example_es": "El actor ensaya el guion.",
+   "example_ko": "배우가 대본을 연습해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 47,
+   "spanish": "el bailarín",
+   "korean": "무용수, 발레리나",
+   "synonym": "la bailarina",
+   "example_es": "La bailarina baila con gracia.",
+   "example_ko": "무용수가 우아하게 춤을 춰.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 48,
+   "spanish": "el director",
+   "korean": "감독, 지배인",
+   "synonym": "la directora",
+   "example_es": "El director dirige la empresa.",
+   "example_ko": "지배인이 회사를 운영해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 49,
+   "spanish": "el secretario",
+   "korean": "비서",
+   "synonym": "la secretaria",
+   "example_es": "La secretaria organiza la agenda.",
+   "example_ko": "비서가 일정을 정리해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 50,
+   "spanish": "el administrativo",
+   "korean": "행정 사무원",
+   "synonym": "la administrativa",
+   "example_es": "El administrativo archiva papeles.",
+   "example_ko": "사무원이 서류를 보관해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 51,
+   "spanish": "el contable",
+   "korean": "회계사",
+   "synonym": "la contable",
+   "example_es": "El contable revisa las cuentas.",
+   "example_ko": "회계사가 장부를 검토해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 52,
+   "spanish": "el economista",
+   "korean": "경제학자",
+   "synonym": "la economista",
+   "example_es": "El economista analiza el mercado.",
+   "example_ko": "경제학자가 시장을 분석해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 53,
+   "spanish": "el banquero",
+   "korean": "은행가",
+   "synonym": "la banquera",
+   "example_es": "El banquero gestiona el dinero.",
+   "example_ko": "은행가가 돈을 관리해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 54,
+   "spanish": "el empresario",
+   "korean": "사업가",
+   "synonym": "la empresaria",
+   "example_es": "El empresario fundó la firma.",
+   "example_ko": "사업가가 회사를 설립했어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 55,
+   "spanish": "el político",
+   "korean": "정치인",
+   "synonym": "la política",
+   "example_es": "El político dio un discurso.",
+   "example_ko": "정치인이 연설을 했어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 56,
+   "spanish": "el diplomático",
+   "korean": "외교관",
+   "synonym": "la diplomática",
+   "example_es": "El diplomático viaja mucho.",
+   "example_ko": "외교관은 여행을 많이 해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 57,
+   "spanish": "el científico",
+   "korean": "과학자",
+   "synonym": "la científica",
+   "example_es": "El científico investiga el ADN.",
+   "example_ko": "과학자가 DNA를 연구해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 58,
+   "spanish": "el biólogo",
+   "korean": "생물학자",
+   "synonym": "la bióloga",
+   "example_es": "La bióloga estudia las plantas.",
+   "example_ko": "생물학자가 식물을 연구해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 59,
+   "spanish": "el químico",
+   "korean": "화학자",
+   "synonym": "la química",
+   "example_es": "El químico mezcla sustancias.",
+   "example_ko": "화학자가 물질을 섞어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 60,
+   "spanish": "el físico",
+   "korean": "물리학자",
+   "synonym": "la física",
+   "example_es": "El físico estudia la energía.",
+   "example_ko": "물리학자가 에너지를 연구해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 61,
+   "spanish": "el astrónomo",
+   "korean": "천문학자",
+   "synonym": "la astrónoma",
+   "example_es": "El astrónomo mira las estrellas.",
+   "example_ko": "천문학자가 별을 관찰해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 62,
+   "spanish": "el historiador",
+   "korean": "역사학자",
+   "synonym": "la historiadora",
+   "example_es": "El historiador escribe sobre el pasado.",
+   "example_ko": "역사학자가 과거에 대해 써.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 63,
+   "spanish": "el arqueólogo",
+   "korean": "고고학자",
+   "synonym": "la arqueóloga",
+   "example_es": "El arqueólogo halló una tumba.",
+   "example_ko": "고고학자가 무덤을 발견했어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 64,
+   "spanish": "el filósofo",
+   "korean": "철학자",
+   "synonym": "la filósofa",
+   "example_es": "El filósofo piensa en la vida.",
+   "example_ko": "철학자가 삶에 대해 생각해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 65,
+   "spanish": "el psicólogo",
+   "korean": "심리학자",
+   "synonym": "la psicóloga",
+   "example_es": "El psicólogo escucha al paciente.",
+   "example_ko": "심리학자가 환자의 말을 들어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 66,
+   "spanish": "el sociólogo",
+   "korean": "사회학자",
+   "synonym": "la socióloga",
+   "example_es": "El sociólogo estudia la sociedad.",
+   "example_ko": "사회학자가 사회를 연구해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 67,
+   "spanish": "el antropólogo",
+   "korean": "인류학자",
+   "synonym": "la antropóloga",
+   "example_es": "El antropólogo estudia culturas.",
+   "example_ko": "인류학자가 문화를 연구해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 68,
+   "spanish": "el geógrafo",
+   "korean": "지리학자",
+   "synonym": "la geógrafa",
+   "example_es": "El geógrafo dibuja los mapas.",
+   "example_ko": "지리학자가 지도를 그려.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 69,
+   "spanish": "el matemático",
+   "korean": "수학자",
+   "synonym": "la matemática",
+   "example_es": "El matemático resuelve el enigma.",
+   "example_ko": "수학자가 수수께끼를 풀어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 70,
+   "spanish": "el informático",
+   "korean": "IT 전문가, 컴퓨터 기사",
+   "synonym": "la informática",
+   "example_es": "El informático arregló mi PC.",
+   "example_ko": "컴퓨터 기사가 내 PC를 고쳤어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 71,
+   "spanish": "el programador",
+   "korean": "프로그래머",
+   "synonym": "la programadora",
+   "example_es": "El programador escribe código.",
+   "example_ko": "프로그래머가 코드를 짜.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 72,
+   "spanish": "el diseñador",
+   "korean": "디자이너",
+   "synonym": "la diseñadora",
+   "example_es": "La diseñadora crea moda.",
+   "example_ko": "디자이너가 패션을 창조해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 73,
+   "spanish": "el publicista",
+   "korean": "광고업자",
+   "synonym": "la publicista",
+   "example_es": "El publicista diseña la campaña.",
+   "example_ko": "광고업자가 캠페인을 설계해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 74,
+   "spanish": "el modelo",
+   "korean": "모델",
+   "synonym": "la modelo",
+   "example_es": "La modelo desfila en la pasarela.",
+   "example_ko": "모델이 런웨이에서 워킹해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 75,
+   "spanish": "el joyero",
+   "korean": "보석 세공사",
+   "synonym": "la joyera",
+   "example_es": "El joyero limpia el diamante.",
+   "example_ko": "보석 세공사가 다이아몬드를 닦아.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 76,
+   "spanish": "el relojero",
+   "korean": "시계 수선공",
+   "synonym": "la relojera",
+   "example_es": "El relojero arregló el muelle.",
+   "example_ko": "시계 수선공이 태엽을 고쳤어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 77,
+   "spanish": "el anticuario",
+   "korean": "골동품상",
+   "synonym": "la anticuaria",
+   "example_es": "El anticuario vende muebles.",
+   "example_ko": "골동품상이 가구를 팔아.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 78,
+   "spanish": "el bibliotecario",
+   "korean": "사서",
+   "synonym": "la bibliotecaria",
+   "example_es": "La bibliotecaria presta libros.",
+   "example_ko": "사서가 책을 빌려줘.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 79,
+   "spanish": "el traductor",
+   "korean": "번역가",
+   "synonym": "la traductora",
+   "example_es": "La traductora traduce el texto.",
+   "example_ko": "번역가가 텍스트를 번역해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 80,
+   "spanish": "el intérprete",
+   "korean": "통역사",
+   "synonym": "la intérprete",
+   "example_es": "El intérprete habla tres idiomas.",
+   "example_ko": "통역사는 3개 국어를 해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 81,
+   "spanish": "el guía turístico",
+   "korean": "관광 가이드",
+   "synonym": "la guía turística",
+   "example_es": "El guía nos enseñó la ciudad.",
+   "example_ko": "가이드가 우리에게 도시를 보여줬어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 82,
+   "spanish": "el recepcionista",
+   "korean": "접수원",
+   "synonym": "la recepcionista",
+   "example_es": "La recepcionista me dio la llave.",
+   "example_ko": "접수원이 나에게 열쇠를 줬어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 83,
+   "spanish": "el conserje",
+   "korean": "관리인, 수직",
+   "synonym": "la conserje",
+   "example_es": "El conserje limpia el portal.",
+   "example_ko": "관리인이 현관을 청소해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 84,
+   "spanish": "el guardaespaldas",
+   "korean": "보디가드",
+   "synonym": "",
+   "example_es": "El guardaespaldas protege al VIP.",
+   "example_ko": "보디가드가 VIP를 보호해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 85,
+   "spanish": "el vigilante",
+   "korean": "경비원",
+   "synonym": "la vigilante",
+   "example_es": "El vigilante vigila el banco.",
+   "example_ko": "경비원이 은행을 감시해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 86,
+   "spanish": "el detective",
+   "korean": "탐정, 형사",
+   "synonym": "la detective",
+   "example_es": "El detective busca pruebas.",
+   "example_ko": "탐정이 증거를 찾아.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 87,
+   "spanish": "el espía",
+   "korean": "스파이",
+   "synonym": "la espía",
+   "example_es": "El espía robó los secretos.",
+   "example_ko": "스파이가 비밀을 훔쳤어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 88,
+   "spanish": "el mago",
+   "korean": "마술사",
+   "synonym": "la maga",
+   "example_es": "El mago hizo desaparecer al conejo.",
+   "example_ko": "마술사가 토끼를 사라지게 했어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 89,
+   "spanish": "el payaso",
+   "korean": "광대",
+   "synonym": "la payasa",
+   "example_es": "El payaso hace reír a los niños.",
+   "example_ko": "광대가 아이들을 웃게 해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 90,
+   "spanish": "el malabarista",
+   "korean": "저글러",
+   "synonym": "la malabarista",
+   "example_es": "El malabarista usa pelotas.",
+   "example_ko": "저글러가 공을 사용해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 91,
+   "spanish": "el domador",
+   "korean": "조련사",
+   "synonym": "la domadora",
+   "example_es": "El domador entrena al león.",
+   "example_ko": "조련사가 사자를 훈련해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 92,
+   "spanish": "el torero",
+   "korean": "투우사",
+   "synonym": "la torera",
+   "example_es": "El torero sale a la plaza.",
+   "example_ko": "투우사가 광장(투우장)으로 나가.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 93,
+   "spanish": "el deportista",
+   "korean": "운동선수",
+   "synonym": "la deportista",
+   "example_es": "El deportista entrena diario.",
+   "example_ko": "운동선수는 매일 훈련해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 94,
+   "spanish": "el futbolista",
+   "korean": "축구선수",
+   "synonym": "la futbolista",
+   "example_es": "El futbolista marcó un gol.",
+   "example_ko": "축구선수가 골을 넣었어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 95,
+   "spanish": "el tenista",
+   "korean": "테니스 선수",
+   "synonym": "la tenista",
+   "example_es": "La tenista ganó el torneo.",
+   "example_ko": "테니스 선수가 토너먼트에서 이겼어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 96,
+   "spanish": "el ciclista",
+   "korean": "자전거 선수",
+   "synonym": "la ciclista",
+   "example_es": "El ciclista sube la montaña.",
+   "example_ko": "자전거 선수가 산을 올라가.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 97,
+   "spanish": "el nadador",
+   "korean": "수영 선수",
+   "synonym": "la nadadora",
+   "example_es": "El nadador cruza la piscina.",
+   "example_ko": "수영 선수가 수영장을 가로질러.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 98,
+   "spanish": "el boxeador",
+   "korean": "권투 선수",
+   "synonym": "la boxeadora",
+   "example_es": "El boxeador tiene guantes rojos.",
+   "example_ko": "권투 선수는 빨간 글러브를 가졌어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 99,
+   "spanish": "el árbitro",
+   "korean": "심판",
+   "synonym": "la árbitra",
+   "example_es": "El árbitro pitó el final.",
+   "example_ko": "심판이 종료 휘슬을 불었어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 100,
+   "spanish": "el entrenador",
+   "korean": "코치, 감독",
+   "synonym": "la entrenadora",
+   "example_es": "El entrenador motiva al equipo.",
+   "example_ko": "코치가 팀에 동기를 부여해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 101,
+   "spanish": "el peluquero canino",
+   "korean": "애견 미용사",
+   "synonym": "la peluquera canina",
+   "example_es": "Llevé al perro al peluquero.",
+   "example_ko": "개를 애견 미용사에게 데려갔어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 102,
+   "spanish": "el paseador de perros",
+   "korean": "애견 산책 도우미",
+   "synonym": "la paseadora de perros",
+   "example_es": "El paseador lleva cinco perros.",
+   "example_ko": "산책 도우미가 개 다섯 마리를 데리고 가.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 103,
+   "spanish": "el socorrista",
+   "korean": "인명 구조원",
+   "synonym": "la socorrista",
+   "example_es": "El socorrista vigila la playa.",
+   "example_ko": "구조원이 해변을 감시해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 104,
+   "spanish": "el cartero",
+   "korean": "집배원",
+   "synonym": "la cartera",
+   "example_es": "La cartera entrega las cartas.",
+   "example_ko": "집배원이 편지를 배달해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 105,
+   "spanish": "el basurero",
+   "korean": "환경 미화원, 청소부",
+   "synonym": "la basurera",
+   "example_es": "El basurero recoge la bolsa.",
+   "example_ko": "청소부가 쓰레기 봉투를 수거해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 106,
+   "spanish": "el barrendero",
+   "korean": "거리 청소부",
+   "synonym": "la barrendera",
+   "example_es": "El barrendero limpia la acera.",
+   "example_ko": "거리 청소부가 보도를 청소해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 107,
+   "spanish": "el enterrador",
+   "korean": "장의사",
+   "synonym": "la enterradora",
+   "example_es": "El enterrador trabaja en el cementerio.",
+   "example_ko": "장의사가 공동묘지에서 일해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 108,
+   "spanish": "el cura",
+   "korean": "신부",
+   "synonym": "la cura (monja)",
+   "example_es": "El cura da la misa.",
+   "example_ko": "신부님이 미사를 집전하셔.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 109,
+   "spanish": "el pastor",
+   "korean": "목자, 목사",
+   "synonym": "la pastora",
+   "example_es": "El pastor cuida las ovejas.",
+   "example_ko": "목자가 양들을 돌봐.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 110,
+   "spanish": "el rabino",
+   "korean": "랍비",
+   "synonym": "",
+   "example_es": "El rabino lee la Torá.",
+   "example_ko": "랍비가 토라를 읽어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 111,
+   "spanish": "el monje",
+   "korean": "수도승",
+   "synonym": "la monja",
+   "example_es": "El monje vive en el monasterio.",
+   "example_ko": "수도승이 수도원에서 살아.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 112,
+   "spanish": "el voluntario",
+   "korean": "봉사자",
+   "synonym": "la voluntaria",
+   "example_es": "El voluntario ayuda a los pobres.",
+   "example_ko": "봉사자가 가난한 이들을 도와.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 113,
+   "spanish": "el becario",
+   "korean": "인턴, 장학생",
+   "synonym": "la becaria",
+   "example_es": "El becario aprende rápido.",
+   "example_ko": "인턴이 빨리 배워.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 114,
+   "spanish": "el jubilado",
+   "korean": "은퇴자",
+   "synonym": "la jubilada",
+   "example_es": "El jubilado pasea por el parque.",
+   "example_ko": "은퇴자가 공원을 산책해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 115,
+   "spanish": "el parado",
+   "korean": "실업자",
+   "synonym": "la parada",
+   "example_es": "El parado busca empleo hoy.",
+   "example_ko": "실업자가 오늘 일자리를 찾아.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 116,
+   "spanish": "el amo de casa",
+   "korean": "주부",
+   "synonym": "la ama de casa",
+   "example_es": "El amo de casa limpia todo.",
+   "example_ko": "주부가 모든 것을 청소해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 117,
+   "spanish": "el estudiante",
+   "korean": "학생",
+   "synonym": "la estudiante",
+   "example_es": "El estudiante lee el examen.",
+   "example_ko": "학생이 시험지를 읽어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 118,
+   "spanish": "el aprendiz",
+   "korean": "견습생",
+   "synonym": "la aprendiza",
+   "example_es": "El aprendiz observa al maestro.",
+   "example_ko": "견습생이 스승을 관찰해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 119,
+   "spanish": "el mentor",
+   "korean": "멘토, 스승",
+   "synonym": "la mentora",
+   "example_es": "El mentor guía mi carrera.",
+   "example_ko": "멘토가 내 경력을 이끌어줘.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 120,
+   "spanish": "el jefe",
+   "korean": "상사, 보스",
+   "synonym": "la jefa",
+   "example_es": "El jefe aprobó el proyecto.",
+   "example_ko": "상사가 프로젝트를 승인했어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 121,
+   "spanish": "el empleado",
+   "korean": "직원",
+   "synonym": "la empleada",
+   "example_es": "El empleado llegó temprano.",
+   "example_ko": "직원이 일찍 도착했어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 122,
+   "spanish": "el colega",
+   "korean": "동료",
+   "synonym": "la colega",
+   "example_es": "Mi colega es muy eficiente.",
+   "example_ko": "내 동료는 아주 유능해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 123,
+   "spanish": "el socio",
+   "korean": "파트너, 동업자",
+   "synonym": "la socia",
+   "example_es": "Mi socio invirtió capital.",
+   "example_ko": "내 동업자가 자본을 투자했어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 124,
+   "spanish": "el consultor",
+   "korean": "컨설턴트",
+   "synonym": "la consultora",
+   "example_es": "El consultor ofrece consejos.",
+   "example_ko": "컨설턴트가 조언을 제공해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 125,
+   "spanish": "el analista",
+   "korean": "분석가",
+   "synonym": "la analista",
+   "example_es": "El analista estudia los datos.",
+   "example_ko": "분석가가 데이터를 연구해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 126,
+   "spanish": "el terapeuta",
+   "korean": "치료사",
+   "synonym": "la terapeuta",
+   "example_es": "El terapeuta ayuda con el trauma.",
+   "example_ko": "치료사가 트라우마 치료를 도와.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 127,
+   "spanish": "el asesor",
+   "korean": "고문, 자문 위원",
+   "synonym": "la asesora",
+   "example_es": "El asesor legal es experto.",
+   "example_ko": "법률 고문은 전문가야.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 128,
+   "spanish": "el inversor",
+   "korean": "투자자",
+   "synonym": "la inversora",
+   "example_es": "El inversor compró acciones.",
+   "example_ko": "투자자가 주식을 샀어.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 129,
+   "spanish": "el auditor",
+   "korean": "감사원",
+   "synonym": "la auditora",
+   "example_es": "El auditor revisa la empresa.",
+   "example_ko": "감사원이 회사를 감사해.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 130,
+   "spanish": "el logopeda",
+   "korean": "언어 치료사",
+   "synonym": "la logopeda",
+   "example_es": "El niño va al logopeda.",
+   "example_ko": "아이가 언어 치료사에게 가.",
+   "tema": "trabajo"
+ },
+ {
+   "id": 131,
+   "spanish": "el nutricionista",
+   "korean": "영양사",
+   "synonym": "la nutricionista",
+   "example_es": "La nutricionista hizo mi dieta.",
+   "example_ko": "영양사가 내 식단을 짰어.",
+   "tema": "trabajo"
+ }
+]

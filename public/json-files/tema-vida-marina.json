@@ -1,0 +1,371 @@
+[
+ {
+   "id": 1,
+   "spanish": "la vida marina",
+   "korean": "해양 생물",
+   "synonym": "",
+   "example_es": "La vida marina es fascinante.",
+   "example_ko": "해양 생물은 매혹적이야.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 2,
+   "spanish": "el pez",
+   "korean": "물고기 (살아있는)",
+   "synonym": "",
+   "example_es": "El pez nada en el acuario.",
+   "example_ko": "물고기가 수족관에서 헤엄쳐.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 3,
+   "spanish": "el pescado",
+   "korean": "생선 (식용)",
+   "synonym": "",
+   "example_es": "Me gusta comer pescado fresco.",
+   "example_ko": "나는 신선한 생선 먹는 걸 좋아해.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 4,
+   "spanish": "la ballena",
+   "korean": "고래",
+   "synonym": "",
+   "example_es": "La ballena azul es el animal más grande.",
+   "example_ko": "흰긴수염고래는 가장 큰 동물이야.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 5,
+   "spanish": "el tiburón",
+   "korean": "상어",
+   "synonym": "",
+   "example_es": "El tiburón tiene dientes afilados.",
+   "example_ko": "상어는 날카로운 이빨을 가지고 있어.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 6,
+   "spanish": "el delfín",
+   "korean": "돌핀, 돌고래",
+   "synonym": "",
+   "example_es": "Los delfines son muy inteligentes.",
+   "example_ko": "돌고래들은 아주 영리해.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 7,
+   "spanish": "la orca",
+   "korean": "범고래",
+   "synonym": "",
+   "example_es": "La orca es un depredador marino.",
+   "example_ko": "범고래는 해양 포식자야.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 8,
+   "spanish": "la foca",
+   "korean": "물개",
+   "synonym": "",
+   "example_es": "La foca descansa sobre el hielo.",
+   "example_ko": "물개가 얼음 위에서 쉬고 있어.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 9,
+   "spanish": "el león marino",
+   "korean": "바다사자",
+   "synonym": "",
+   "example_es": "El león marino ruge muy fuerte.",
+   "example_ko": "바다사자가 아주 크게 울어.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 10,
+   "spanish": "la morsa",
+   "korean": "바다코끼리",
+   "synonym": "",
+   "example_es": "La morsa tiene colmillos largos.",
+   "example_ko": "바다코끼리는 긴 엄니를 가지고 있어.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 11,
+   "spanish": "el manatí",
+   "korean": "매너티",
+   "synonym": "",
+   "example_es": "El manatí vive en aguas cálidas.",
+   "example_ko": "매너티는 따뜻한 물에 살아.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 12,
+   "spanish": "la tortuga marina",
+   "korean": "바다거북",
+   "synonym": "",
+   "example_es": "La tortuga marina pone huevos en la arena.",
+   "example_ko": "바다거북은 모래에 알을 낳아.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 13,
+   "spanish": "el pulpo",
+   "korean": "문어",
+   "synonym": "",
+   "example_es": "El pulpo tiene ocho tentáculos.",
+   "example_ko": "문어는 여덟 개의 촉수(다리)를 가졌어.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 14,
+   "spanish": "el calamar",
+   "korean": "오징어",
+   "synonym": "",
+   "example_es": "El calamar suelta tinta negra.",
+   "example_ko": "오징어는 검은 먹물을 뿜어.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 15,
+   "spanish": "la sepia",
+   "korean": "갑오징어",
+   "synonym": "",
+   "example_es": "La sepia cambia de color para camuflarse.",
+   "example_ko": "갑오징어는 위장을 위해 색을 바꿔.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 16,
+   "spanish": "la medusa",
+   "korean": "해파리",
+   "synonym": "la malagua",
+   "example_es": "Ten cuidado con las medusas.",
+   "example_ko": "해파리를 조심하렴.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 17,
+   "spanish": "la raya",
+   "korean": "가오리",
+   "synonym": "",
+   "example_es": "La raya se esconde bajo la arena.",
+   "example_ko": "가오리는 모래 아래에 숨어 있어.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 18,
+   "spanish": "el caballito de mar",
+   "korean": "해마",
+   "synonym": "",
+   "example_es": "El caballito de mar es muy pequeño.",
+   "example_ko": "해마는 아주 작아.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 19,
+   "spanish": "la estrella de mar",
+   "korean": "불가사리",
+   "synonym": "",
+   "example_es": "Vi una estrella de mar roja.",
+   "example_ko": "빨간 불가사리를 봤어.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 20,
+   "spanish": "el erizo de mar",
+   "korean": "성게",
+   "synonym": "",
+   "example_es": "No pises el erizo de mar.",
+   "example_ko": "성게를 밟지 마라.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 21,
+   "spanish": "el cangrejo",
+   "korean": "게",
+   "synonym": "",
+   "example_es": "El cangrejo camina de lado.",
+   "example_ko": "게는 옆으로 걸어.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 22,
+   "spanish": "la langosta",
+   "korean": "바닷가재, 랍스터",
+   "synonym": "",
+   "example_es": "La langosta es un marisco caro.",
+   "example_ko": "바닷가재는 비싼 해산물이야.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 23,
+   "spanish": "el bogavante",
+   "korean": "유럽 바닷가재",
+   "synonym": "",
+   "example_es": "El bogavante es azul cuando está vivo.",
+   "example_ko": "유럽 바닷가재는 살아있을 때 파란색이야.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 24,
+   "spanish": "el langostino",
+   "korean": "대하, 왕새우",
+   "synonym": "",
+   "example_es": "Comimos langostinos a la plancha.",
+   "example_ko": "우리는 왕새우 구이를 먹었어.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 25,
+   "spanish": "la gamba",
+   "korean": "새우",
+   "synonym": "",
+   "example_es": "La gamba roja es típica de Denia.",
+   "example_ko": "빨간 새우는 데니아의 특산물이야.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 26,
+   "spanish": "el camarón",
+   "korean": "작은 새우",
+   "synonym": "la gambita",
+   "example_es": "El cóctel de camarones es rico.",
+   "example_ko": "새우 칵테일은 맛있어.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 27,
+   "spanish": "el mejillón",
+   "korean": "홍합",
+   "synonym": "",
+   "example_es": "Los mejillones al vapor son sanos.",
+   "example_ko": "홍합찜은 건강에 좋아.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 28,
+   "spanish": "la ostra",
+   "korean": "굴",
+   "synonym": "",
+   "example_es": "Las ostras se comen crudas.",
+   "example_ko": "굴은 날것으로 먹어.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 29,
+   "spanish": "la vieira",
+   "korean": "가리비",
+   "synonym": "",
+   "example_es": "La concha de la vieira es famosa.",
+   "example_ko": "가리비 껍데기는 유명해.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 30,
+   "spanish": "el arrecife",
+   "korean": "산호초",
+   "synonym": "",
+   "example_es": "El arrecife protege la costa.",
+   "example_ko": "산호초가 해안을 보호해.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 31,
+   "spanish": "el coral",
+   "korean": "산호",
+   "synonym": "",
+   "example_es": "El coral es un animal, no una planta.",
+   "example_ko": "산호는 식물이 아니라 동물이야.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 32,
+   "spanish": "la esponja de mar",
+   "korean": "해면",
+   "synonym": "",
+   "example_es": "Las esponjas de mar filtran el agua.",
+   "example_ko": "해면은 물을 여과해.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 33,
+   "spanish": "la anguila",
+   "korean": "장어",
+   "synonym": "",
+   "example_es": "La anguila eléctrica da calambres.",
+   "example_ko": "전기장어는 감전을 일으켜.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 34,
+   "spanish": "la morena",
+   "korean": "곰치",
+   "synonym": "",
+   "example_es": "La morena vive entre las rocas.",
+   "example_ko": "곰치는 바위 사이에 살아.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 35,
+   "spanish": "el atún",
+   "korean": "참치",
+   "synonym": "",
+   "example_es": "El atún rojo es muy apreciado.",
+   "example_ko": "참다랑어는 아주 귀하게 여겨져.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 36,
+   "spanish": "el salmón",
+   "korean": "연어",
+   "synonym": "",
+   "example_es": "El salmón nada contra la corriente.",
+   "example_ko": "연어는 물살을 거슬러 헤엄쳐.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 37,
+   "spanish": "el bacalao",
+   "korean": "대구",
+   "synonym": "",
+   "example_es": "El bacalao en salazón dura mucho.",
+   "example_ko": "염장 대구는 오래 보관할 수 있어.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 38,
+   "spanish": "la sardina",
+   "korean": "정박기, 정어리",
+   "synonym": "",
+   "example_es": "Las sardinas asadas huelen muy bien.",
+   "example_ko": "구운 정어리 냄새는 참 좋아.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 39,
+   "spanish": "el boquerón",
+   "korean": "멸치 (초절임 등)",
+   "synonym": "la anchoa",
+   "example_es": "Me encantan los boquerones en vinagre.",
+   "example_ko": "나는 식초에 절인 멸치를 정말 좋아해.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 40,
+   "spanish": "la manta raya",
+   "korean": "만타 가오리",
+   "synonym": "",
+   "example_es": "La manta raya parece que vuela.",
+   "example_ko": "만타 가오리는 나는 것처럼 보여.",
+   "tema": "vida marina"
+ },
+ {
+   "id": 41,
+   "spanish": "un banco",
+   "korean": "(물고기) 떼",
+   "synonym": "un cardumen",
+   "example_es": "El banco de peces es enorme.",
+   "example_ko": "물고기 떼가 엄청나게 커.",
+   "tema": "vida marina"
+ }
+]

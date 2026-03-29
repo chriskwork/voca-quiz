@@ -1,0 +1,281 @@
+[
+ {
+   "id": 1,
+   "spanish": "el color",
+   "korean": "색깔",
+   "synonym": "el colorido",
+   "example_es": "Me gusta este color.",
+   "example_ko": "나는 이 색깔을 좋아해요.",
+   "tema": "color"
+ },
+ {
+   "id": 2,
+   "spanish": "blanco",
+   "korean": "하얀색",
+   "synonym": "",
+   "example_es": "La pared es blanca.",
+   "example_ko": "벽이 하얀색이에요.",
+   "tema": "color"
+ },
+ {
+   "id": 3,
+   "spanish": "negro",
+   "korean": "검은색",
+   "synonym": "",
+   "example_es": "El coche es negro.",
+   "example_ko": "차가 검은색이에요.",
+   "tema": "color"
+ },
+ {
+   "id": 4,
+   "spanish": "rojo",
+   "korean": "빨간색",
+   "synonym": "colorado",
+   "example_es": "El tomate es rojo.",
+   "example_ko": "토마토는 빨간색이에요.",
+   "tema": "color"
+ },
+ {
+   "id": 5,
+   "spanish": "azul",
+   "korean": "파란색",
+   "synonym": "",
+   "example_es": "El cielo es azul.",
+   "example_ko": "하늘은 파란색이에요.",
+   "tema": "color"
+ },
+ {
+   "id": 6,
+   "spanish": "amarillo",
+   "korean": "노란색",
+   "synonym": "",
+   "example_es": "El sol es amarillo.",
+   "example_ko": "해는 노란색이에요.",
+   "tema": "color"
+ },
+ {
+   "id": 7,
+   "spanish": "verde",
+   "korean": "초록색",
+   "synonym": "",
+   "example_es": "La hierba es verde.",
+   "example_ko": "풀은 초록색이에요.",
+   "tema": "color"
+ },
+ {
+   "id": 8,
+   "spanish": "naranja",
+   "korean": "주황색",
+   "synonym": "anaranjado",
+   "example_es": "La fruta es naranja.",
+   "example_ko": "그 과일은 주황색이에요.",
+   "tema": "color"
+ },
+ {
+   "id": 9,
+   "spanish": "rosa",
+   "korean": "분홍색",
+   "synonym": "rosado",
+   "example_es": "La flor es rosa.",
+   "example_ko": "꽃이 분홍색이에요.",
+   "tema": "color"
+ },
+ {
+   "id": 10,
+   "spanish": "morado",
+   "korean": "보라색",
+   "synonym": "púrpura",
+   "example_es": "La uva es morada.",
+   "example_ko": "포도는 보라색이에요.",
+   "tema": "color"
+ },
+ {
+   "id": 11,
+   "spanish": "marrón",
+   "korean": "갈색",
+   "synonym": "café",
+   "example_es": "El chocolate es marrón.",
+   "example_ko": "초콜릿은 갈색이에요.",
+   "tema": "color"
+ },
+ {
+   "id": 12,
+   "spanish": "gris",
+   "korean": "회색",
+   "synonym": "",
+   "example_es": "El día está gris.",
+   "example_ko": "날이 흐려요.",
+   "tema": "color"
+ },
+ {
+   "id": 13,
+   "spanish": "dorado",
+   "korean": "금색",
+   "synonym": "",
+   "example_es": "El anillo es dorado.",
+   "example_ko": "반지가 금색이에요.",
+   "tema": "color"
+ },
+ {
+   "id": 14,
+   "spanish": "plateado",
+   "korean": "은색",
+   "synonym": "",
+   "example_es": "La moneda es plateada.",
+   "example_ko": "동전이 은색이에요.",
+   "tema": "color"
+ },
+ {
+   "id": 15,
+   "spanish": "claro",
+   "korean": "밝은 (연한)",
+   "synonym": "",
+   "example_es": "Es un azul claro.",
+   "example_ko": "연한 파란색이에요.",
+   "tema": "color"
+ },
+ {
+   "id": 16,
+   "spanish": "oscuro",
+   "korean": "어두운 (진한)",
+   "synonym": "",
+   "example_es": "Es un verde oscuro.",
+   "example_ko": "진한 초록색이에요.",
+   "tema": "color"
+ },
+ {
+   "id": 17,
+   "spanish": "brillante",
+   "korean": "빛나는",
+   "synonym": "",
+   "example_es": "El color es brillante.",
+   "example_ko": "색이 빛나요.",
+   "tema": "color"
+ },
+ {
+   "id": 18,
+   "spanish": "mate",
+   "korean": "무광의 (매트)",
+   "synonym": "",
+   "example_es": "Prefiero el color mate.",
+   "example_ko": "무광 색을 선호해요.",
+   "tema": "color"
+ },
+ {
+   "id": 19,
+   "spanish": "transparente",
+   "korean": "투명한",
+   "synonym": "",
+   "example_es": "El cristal es transparente.",
+   "example_ko": "유리는 투명해요.",
+   "tema": "color"
+ },
+ {
+   "id": 20,
+   "spanish": "multicolor",
+   "korean": "다채로운",
+   "synonym": "",
+   "example_es": "Es un diseño multicolor.",
+   "example_ko": "다채로운 디자인이에요.",
+   "tema": "color"
+ },
+ {
+   "id": 21,
+   "spanish": "el tono",
+   "korean": "색조 (톤)",
+   "synonym": "",
+   "example_es": "Me gusta este tono.",
+   "example_ko": "이 톤이 맘에 들어요.",
+   "tema": "color"
+ },
+ {
+   "id": 22,
+   "spanish": "la sombra",
+   "korean": "그늘 (음영)",
+   "synonym": "",
+   "example_es": "Mira la sombra.",
+   "example_ko": "그림자를 보세요.",
+   "tema": "color"
+ },
+ {
+   "id": 23,
+   "spanish": "la luz",
+   "korean": "빛",
+   "synonym": "",
+   "example_es": "La luz es fuerte.",
+   "example_ko": "빛이 강해요.",
+   "tema": "color"
+ },
+ {
+   "id": 24,
+   "spanish": "oscurecer",
+   "korean": "어둡게 하다",
+   "synonym": "",
+   "example_es": "Hay que oscurecerlo.",
+   "example_ko": "어둡게 해야 해요.",
+   "tema": "color"
+ },
+ {
+   "id": 25,
+   "spanish": "aclarar",
+   "korean": "밝게 하다",
+   "synonym": "",
+   "example_es": "Quiero aclararlo.",
+   "example_ko": "밝게 하고 싶어요.",
+   "tema": "color"
+ },
+ {
+   "id": 26,
+   "spanish": "pintar",
+   "korean": "칠하다",
+   "synonym": "",
+   "example_es": "Voy a pintar la silla.",
+   "example_ko": "의자를 칠할 거예요.",
+   "tema": "color"
+ },
+ {
+   "id": 27,
+   "spanish": "dibujar",
+   "korean": "그리다",
+   "synonym": "",
+   "example_es": "Ella sabe dibujar.",
+   "example_ko": "그녀는 그림을 잘 그려요.",
+   "tema": "color"
+ },
+ {
+   "id": 28,
+   "spanish": "el arcoíris",
+   "korean": "무지개",
+   "synonym": "",
+   "example_es": "Mira el arcoíris.",
+   "example_ko": "무지개를 보세요.",
+   "tema": "color"
+ },
+ {
+   "id": 29,
+   "spanish": "pálido",
+   "korean": "창백한 (연한)",
+   "synonym": "",
+   "example_es": "Está muy pálido.",
+   "example_ko": "매우 창백해요.",
+   "tema": "color"
+ },
+ {
+   "id": 30,
+   "spanish": "fosforescente",
+   "korean": "야광의",
+   "synonym": "",
+   "example_es": "Es fosforescente.",
+   "example_ko": "야광이에요.",
+   "tema": "color"
+ },
+ {
+   "id": 31,
+   "spanish": "el tinte",
+   "korean": "염료 (염색약)",
+   "synonym": "",
+   "example_es": "Usa el tinte.",
+   "example_ko": "염료를 사용하세요.",
+   "tema": "color"
+ }
+]

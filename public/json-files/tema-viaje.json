@@ -1,0 +1,677 @@
+[
+ {
+   "id": 1,
+   "spanish": "el aeropuerto",
+   "korean": "공항",
+   "synonym": "",
+   "example_es": "El aeropuerto está lejos.",
+   "example_ko": "공항이 멀어요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 2,
+   "spanish": "el avión",
+   "korean": "비행기",
+   "synonym": "",
+   "example_es": "El avión ya salió.",
+   "example_ko": "비행기가 벌써 출발했어요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 3,
+   "spanish": "la puerta (de embarque)",
+   "korean": "탑승구 (게이트)",
+   "synonym": "",
+   "example_es": "¿Dónde está la puerta?",
+   "example_ko": "탑승구가 어디예요?",
+   "tema": "viaje"
+ },
+ {
+   "id": 4,
+   "spanish": "el panel de información",
+   "korean": "이·착륙 전광판",
+   "synonym": "",
+   "example_es": "Mira el panel de información.",
+   "example_ko": "전광판을 보세요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 5,
+   "spanish": "el control de pasaportes",
+   "korean": "입국 심사대",
+   "synonym": "",
+   "example_es": "Pase por el control.",
+   "example_ko": "심사대를 통과하세요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 6,
+   "spanish": "el pasaporte",
+   "korean": "여권",
+   "synonym": "",
+   "example_es": "Necesito mi pasaporte.",
+   "example_ko": "제 여권이 필요해요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 7,
+   "spanish": "el piloto / la piloto",
+   "korean": "조종사",
+   "synonym": "",
+   "example_es": "El piloto es amable.",
+   "example_ko": "조종사가 친절해요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 8,
+   "spanish": "el azafato / la azafata",
+   "korean": "항공기 승무원",
+   "synonym": "",
+   "example_es": "La azafata me ayudó.",
+   "example_ko": "승무원이 저를 도와줬어요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 9,
+   "spanish": "la aerolínea",
+   "korean": "항공사",
+   "synonym": "",
+   "example_es": "¿Qué aerolínea usas?",
+   "example_ko": "어느 항공사를 이용하나요?",
+   "tema": "viaje"
+ },
+ {
+   "id": 10,
+   "spanish": "el asiento",
+   "korean": "좌석",
+   "synonym": "",
+   "example_es": "Este es mi asiento.",
+   "example_ko": "여기가 제 자리예요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 11,
+   "spanish": "el asiento de ventana",
+   "korean": "창가 쪽 좌석",
+   "synonym": "",
+   "example_es": "Prefiero el asiento de ventana.",
+   "example_ko": "창가 쪽 좌석을 선호해요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 12,
+   "spanish": "el asiento de pasillo",
+   "korean": "통로 쪽 좌석",
+   "synonym": "",
+   "example_es": "¿Tiene asiento de pasillo?",
+   "example_ko": "통로 쪽 좌석 있나요?",
+   "tema": "viaje"
+ },
+ {
+   "id": 13,
+   "spanish": "el/la auxiliar de vuelo",
+   "korean": "승무원",
+   "synonym": "",
+   "example_es": "Llamé al auxiliar de vuelo.",
+   "example_ko": "승무원을 불렀어요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 14,
+   "spanish": "el carrito",
+   "korean": "카트",
+   "synonym": "",
+   "example_es": "¿Dónde hay un carrito?",
+   "example_ko": "카트가 어디 있나요?",
+   "tema": "viaje"
+ },
+ {
+   "id": 15,
+   "spanish": "la tarjeta de embarque",
+   "korean": "탑승권",
+   "synonym": "el boleto (de avión)",
+   "example_es": "Tengo la tarjeta de embarque.",
+   "example_ko": "탑승권을 가지고 있어요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 16,
+   "spanish": "la pista",
+   "korean": "활주로",
+   "synonym": "",
+   "example_es": "El avión está en la pista.",
+   "example_ko": "비행기가 활주로에 있어요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 17,
+   "spanish": "despegar",
+   "korean": "이륙하다",
+   "synonym": "",
+   "example_es": "El avión va a despegar.",
+   "example_ko": "비행기가 이륙할 거예요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 18,
+   "spanish": "aterrizar",
+   "korean": "착륙하다",
+   "synonym": "",
+   "example_es": "Vamos a aterrizar pronto.",
+   "example_ko": "곧 착륙할 거예요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 19,
+   "spanish": "la aduana",
+   "korean": "세관",
+   "synonym": "",
+   "example_es": "Pasamos por la aduana.",
+   "example_ko": "우리는 세관을 통과해요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 20,
+   "spanish": "la recepción",
+   "korean": "접수대 (프런트)",
+   "synonym": "",
+   "example_es": "Ve a la recepción.",
+   "example_ko": "리셉션으로 가세요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 21,
+   "spanish": "el/la recepcionista",
+   "korean": "프런트 직원",
+   "synonym": "",
+   "example_es": "La recepcionista es joven.",
+   "example_ko": "리셉션 직원이 젊어요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 22,
+   "spanish": "la llave",
+   "korean": "열쇠",
+   "synonym": "",
+   "example_es": "Perdí mi llave.",
+   "example_ko": "열쇠를 잃어버렸어요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 23,
+   "spanish": "la habitación individual",
+   "korean": "싱글룸",
+   "synonym": "",
+   "example_es": "Quiero una habitación individual.",
+   "example_ko": "싱글룸을 원해요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 24,
+   "spanish": "la habitación doble",
+   "korean": "더블룸",
+   "synonym": "",
+   "example_es": "Reservé una habitación doble.",
+   "example_ko": "더블룸을 예약했어요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 25,
+   "spanish": "el número de habitación",
+   "korean": "방 번호",
+   "synonym": "",
+   "example_es": "No recuerdo el número.",
+   "example_ko": "방 번호가 기억 안 나요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 26,
+   "spanish": "el ascensor",
+   "korean": "엘리베이터",
+   "synonym": "el elevador (멕시코 등)",
+   "example_es": "El ascensor no funciona.",
+   "example_ko": "엘리베이터가 작동 안 해요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 27,
+   "spanish": "la maleta",
+   "korean": "여행 가방 (캐리어)",
+   "synonym": "la valija (아르헨티나 등)",
+   "example_es": "Mi maleta es pesada.",
+   "example_ko": "제 가방은 무거워요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 28,
+   "spanish": "facturar el equipaje",
+   "korean": "수하물을 부치다",
+   "synonym": "",
+   "example_es": "Quiero facturar mi equipaje.",
+   "example_ko": "수하물을 부치고 싶어요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 29,
+   "spanish": "los prismáticos",
+   "korean": "쌍안경",
+   "synonym": "los binoculares",
+   "example_es": "Uso los prismáticos.",
+   "example_ko": "쌍안경을 사용해요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 30,
+   "spanish": "la cámara",
+   "korean": "카메라",
+   "synonym": "",
+   "example_es": "Saca la cámara.",
+   "example_ko": "카메라를 꺼내 봐.",
+   "tema": "viaje"
+ },
+ {
+   "id": 31,
+   "spanish": "el/la guía",
+   "korean": "가이드",
+   "synonym": "",
+   "example_es": "El guía explica bien.",
+   "example_ko": "가이드가 설명을 잘해요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 32,
+   "spanish": "la mochila",
+   "korean": "배낭 (백팩)",
+   "synonym": "",
+   "example_es": "Llevo una mochila.",
+   "example_ko": "배낭을 메고 있어요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 33,
+   "spanish": "el castillo",
+   "korean": "성",
+   "synonym": "",
+   "example_es": "Visitamos un castillo.",
+   "example_ko": "우리는 성을 방문해요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 34,
+   "spanish": "la ruina",
+   "korean": "유적(지)",
+   "synonym": "",
+   "example_es": "Las ruinas son antiguas.",
+   "example_ko": "유적지가 오래되었어요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 35,
+   "spanish": "la señal",
+   "korean": "신호 (표지판)",
+   "synonym": "",
+   "example_es": "Sigue la señal.",
+   "example_ko": "표지판을 따라가세요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 36,
+   "spanish": "la estatua",
+   "korean": "조각상",
+   "synonym": "",
+   "example_es": "Mira esa estatua.",
+   "example_ko": "저 조각상을 보세요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 37,
+   "spanish": "el camping",
+   "korean": "캠핑(장)",
+   "synonym": "",
+   "example_es": "Vamos al camping.",
+   "example_ko": "캠핑장에 가요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 38,
+   "spanish": "el vagón",
+   "korean": "(기차) 객차",
+   "synonym": "",
+   "example_es": "Estamos en el vagón cinco.",
+   "example_ko": "우리는 5번 객차에 있어요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 39,
+   "spanish": "la locomotora",
+   "korean": "기관차",
+   "synonym": "",
+   "example_es": "La locomotora es grande.",
+   "example_ko": "기관차가 커요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 40,
+   "spanish": "el andén",
+   "korean": "승강장 (플랫폼)",
+   "synonym": "",
+   "example_es": "Esperamos en el andén.",
+   "example_ko": "플랫폼에서 기다려요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 41,
+   "spanish": "el revisor / la revisora",
+   "korean": "검표원",
+   "synonym": "",
+   "example_es": "El revisor viene.",
+   "example_ko": "검표원이 오고 있어요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 42,
+   "spanish": "el/la maquinista",
+   "korean": "기관사",
+   "synonym": "",
+   "example_es": "El maquinista saluda.",
+   "example_ko": "기관사가 인사해요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 43,
+   "spanish": "el conductor / la conductora",
+   "korean": "운전사",
+   "synonym": "",
+   "example_es": "El conductor maneja bien.",
+   "example_ko": "운전사가 운전을 잘해요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 44,
+   "spanish": "el tren",
+   "korean": "기차",
+   "synonym": "",
+   "example_es": "El tren llega tarde.",
+   "example_ko": "기차가 늦게 도착해요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 45,
+   "spanish": "el billete de tren",
+   "korean": "기차표",
+   "synonym": "el boleto de tren",
+   "example_es": "Compré un billete de tren.",
+   "example_ko": "기차표를 샀어요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 46,
+   "spanish": "la máquina de billetes",
+   "korean": "티켓 판매기",
+   "synonym": "la máquina de boletos",
+   "example_es": "Usa la máquina de billetes.",
+   "example_ko": "티켓 판매기를 사용하세요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 47,
+   "spanish": "el raíl",
+   "korean": "레일 (선로)",
+   "synonym": "la vía",
+   "example_es": "El raíl está roto.",
+   "example_ko": "선로가 끊어졌어요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 48,
+   "spanish": "el pasajero / la pasajera",
+   "korean": "승객",
+   "synonym": "",
+   "example_es": "Hay muchos pasajeros.",
+   "example_ko": "승객이 많아요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 49,
+   "spanish": "el barco",
+   "korean": "배",
+   "synonym": "",
+   "example_es": "El barco es blanco.",
+   "example_ko": "배가 하얀색이에요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 50,
+   "spanish": "el autobús",
+   "korean": "버스",
+   "synonym": "el camión (멕), el colectivo (아르), la guagua (카리브)",
+   "example_es": "Tomo el autobús.",
+   "example_ko": "버스를 타요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 51,
+   "spanish": "la entrada",
+   "korean": "입구",
+   "synonym": "",
+   "example_es": "La entrada está allí.",
+   "example_ko": "입구가 저기에 있어요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 52,
+   "spanish": "la salida",
+   "korean": "출구",
+   "synonym": "",
+   "example_es": "¿Dónde está la salida?",
+   "example_ko": "출구가 어디예요?",
+   "tema": "viaje"
+ },
+ {
+   "id": 53,
+   "spanish": "la llegada",
+   "korean": "도착",
+   "synonym": "",
+   "example_es": "¿A qué hora es la llegada?",
+   "example_ko": "도착 시간이 언제예요?",
+   "tema": "viaje"
+ },
+ {
+   "id": 54,
+   "spanish": "el hotel",
+   "korean": "호텔",
+   "synonym": "",
+   "example_es": "El hotel es caro.",
+   "example_ko": "호텔이 비싸요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 55,
+   "spanish": "el hostal",
+   "korean": "호스텔",
+   "synonym": "",
+   "example_es": "El hostal está limpio.",
+   "example_ko": "호스텔이 깨끗해요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 56,
+   "spanish": "el equipaje",
+   "korean": "짐 (수하물)",
+   "synonym": "",
+   "example_es": "No tengo mucho equipaje.",
+   "example_ko": "짐이 많지 않아요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 57,
+   "spanish": "el taxi",
+   "korean": "택시",
+   "synonym": "",
+   "example_es": "Llama a un taxi.",
+   "example_ko": "택시를 불러주세요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 58,
+   "spanish": "el/la turista",
+   "korean": "관광객",
+   "synonym": "",
+   "example_es": "Soy un turista.",
+   "example_ko": "저는 관광객이에요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 59,
+   "spanish": "sacar una foto",
+   "korean": "사진을 찍다",
+   "synonym": "tomar una foto",
+   "example_es": "¿Puedo sacar una foto?",
+   "example_ko": "사진 찍어도 될까요?",
+   "tema": "viaje"
+ },
+ {
+   "id": 60,
+   "spanish": "el restaurante",
+   "korean": "식당",
+   "synonym": "",
+   "example_es": "Vamos al restaurante.",
+   "example_ko": "식당에 가요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 61,
+   "spanish": "la agencia de viajes",
+   "korean": "여행사",
+   "synonym": "",
+   "example_es": "Fui a la agencia de viajes.",
+   "example_ko": "여행사에 갔어요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 62,
+   "spanish": "el billete",
+   "korean": "표 (티켓)",
+   "synonym": "el boleto",
+   "example_es": "Dame el billete.",
+   "example_ko": "티켓을 주세요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 63,
+   "spanish": "el museo",
+   "korean": "박물관",
+   "synonym": "",
+   "example_es": "El museo está cerrado.",
+   "example_ko": "박물관이 닫았어요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 64,
+   "spanish": "la playa",
+   "korean": "해변",
+   "synonym": "",
+   "example_es": "Vamos a la playa.",
+   "example_ko": "바다에 가자.",
+   "tema": "viaje"
+ },
+ {
+   "id": 65,
+   "spanish": "tomar el sol",
+   "korean": "일광욕하다",
+   "synonym": "",
+   "example_es": "Ella toma el sol.",
+   "example_ko": "그녀는 일광욕을 해요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 66,
+   "spanish": "la montaña",
+   "korean": "산",
+   "synonym": "",
+   "example_es": "Subo a la montaña.",
+   "example_ko": "산에 올라가요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 67,
+   "spanish": "el paisaje",
+   "korean": "풍경",
+   "synonym": "",
+   "example_es": "El paisaje es hermoso.",
+   "example_ko": "풍경이 아름다워요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 68,
+   "spanish": "la reserva",
+   "korean": "예약",
+   "synonym": "",
+   "example_es": "Tengo una reserva.",
+   "example_ko": "예약이 되어 있어요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 69,
+   "spanish": "el destino",
+   "korean": "목적지",
+   "synonym": "",
+   "example_es": "¿Cuál es su destino?",
+   "example_ko": "목적지가 어디인가요?",
+   "tema": "viaje"
+ },
+ {
+   "id": 70,
+   "spanish": "la escala",
+   "korean": "경유 (레이오버)",
+   "synonym": "",
+   "example_es": "Tengo una escala en Madrid.",
+   "example_ko": "마드리드에서 경유해요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 71,
+   "spanish": "el transbordo",
+   "korean": "환승",
+   "synonym": "",
+   "example_es": "Haz el transbordo aquí.",
+   "example_ko": "여기서 환승하세요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 72,
+   "spanish": "el mostrador",
+   "korean": "카운터",
+   "synonym": "",
+   "example_es": "Ve al mostrador.",
+   "example_ko": "카운터로 가세요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 73,
+   "spanish": "el seguro de viaje",
+   "korean": "여행자 보험",
+   "synonym": "",
+   "example_es": "Compré un seguro de viaje.",
+   "example_ko": "여행자 보험을 들었어요.",
+   "tema": "viaje"
+ },
+ {
+   "id": 74,
+   "spanish": "el mapa",
+   "korean": "지도",
+   "synonym": "",
+   "example_es": "Mira el mapa.",
+   "example_ko": "지도를 봐.",
+   "tema": "viaje"
+ },
+ {
+   "id": 75,
+   "spanish": "el crucero",
+   "korean": "크루즈",
+   "synonym": "",
+   "example_es": "Vamos de crucero.",
+   "example_ko": "크루즈 여행을 가요.",
+   "tema": "viaje"
+ }
+]

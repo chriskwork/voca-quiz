@@ -1,0 +1,362 @@
+[
+ {
+   "id": 1,
+   "spanish": "el medicamento",
+   "korean": "약 (의약품)",
+   "synonym": "la medicina",
+   "example_es": "Tomo el medicamento.",
+   "example_ko": "약을 복용해요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 2,
+   "spanish": "la receta",
+   "korean": "처방전",
+   "synonym": "",
+   "example_es": "Necesito una receta.",
+   "example_ko": "처방전이 필요해요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 3,
+   "spanish": "la farmacia",
+   "korean": "약국",
+   "synonym": "",
+   "example_es": "Voy a la farmacia.",
+   "example_ko": "약국에 가요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 4,
+   "spanish": "el farmacéutico / la farmacéutica",
+   "korean": "약사",
+   "synonym": "",
+   "example_es": "Pregunta al farmacéutico.",
+   "example_ko": "약사에게 물어보세요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 5,
+   "spanish": "la pastilla",
+   "korean": "알약",
+   "synonym": "",
+   "example_es": "Traga la pastilla.",
+   "example_ko": "알약을 삼키세요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 6,
+   "spanish": "la cápsula",
+   "korean": "캡슐",
+   "synonym": "",
+   "example_es": "Es una cápsula roja.",
+   "example_ko": "빨간색 캡슐이에요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 7,
+   "spanish": "el jarabe",
+   "korean": "시럽 (물약)",
+   "synonym": "",
+   "example_es": "Toma este jarabe.",
+   "example_ko": "이 시럽을 드세요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 8,
+   "spanish": "la pomada",
+   "korean": "연고",
+   "synonym": "el ungüento",
+   "example_es": "Aplica la pomada.",
+   "example_ko": "연고를 바르세요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 9,
+   "spanish": "la inyección",
+   "korean": "주사",
+   "synonym": "",
+   "example_es": "Odio las inyecciones.",
+   "example_ko": "주사 맞는 게 싫어요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 10,
+   "spanish": "el antibiótico",
+   "korean": "항생제",
+   "synonym": "",
+   "example_es": "Termina el antibiótico.",
+   "example_ko": "항생제를 다 드세요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 11,
+   "spanish": "el analgésico",
+   "korean": "진통제",
+   "synonym": "",
+   "example_es": "¿Tienes un analgésico?",
+   "example_ko": "진통제 있나요?",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 12,
+   "spanish": "la aspirina",
+   "korean": "아스피린",
+   "synonym": "",
+   "example_es": "Toma una aspirina.",
+   "example_ko": "아스피린을 드세요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 13,
+   "spanish": "el desinfectante",
+   "korean": "소독제",
+   "synonym": "",
+   "example_es": "Usa el desinfectante.",
+   "example_ko": "소독제를 사용하세요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 14,
+   "spanish": "el alcohol",
+   "korean": "알코올",
+   "synonym": "",
+   "example_es": "Limpia con alcohol.",
+   "example_ko": "알코올로 닦으세요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 15,
+   "spanish": "el agua oxigenada",
+   "korean": "과산화수소",
+   "synonym": "",
+   "example_es": "Usa agua oxigenada.",
+   "example_ko": "과산화수소를 쓰세요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 16,
+   "spanish": "la venda",
+   "korean": "붕대",
+   "synonym": "",
+   "example_es": "Ponle una venda.",
+   "example_ko": "붕대를 감아주세요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 17,
+   "spanish": "la tirita",
+   "korean": "일회용 밴드",
+   "synonym": "el curita",
+   "example_es": "Ponte una tirita.",
+   "example_ko": "밴드를 붙이세요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 18,
+   "spanish": "el esparadrapo",
+   "korean": "반창고 (테이프)",
+   "synonym": "",
+   "example_es": "Usa el esparadrapo.",
+   "example_ko": "반창고를 쓰세요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 19,
+   "spanish": "el algodón",
+   "korean": "솜",
+   "synonym": "",
+   "example_es": "Necesito un algodón.",
+   "example_ko": "솜이 필요해요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 20,
+   "spanish": "el termómetro",
+   "korean": "체온계",
+   "synonym": "",
+   "example_es": "Usa el termómetro.",
+   "example_ko": "체온계를 사용하세요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 21,
+   "spanish": "la vitamina",
+   "korean": "비타민",
+   "synonym": "",
+   "example_es": "Tomo vitaminas.",
+   "example_ko": "비타민을 먹어요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 22,
+   "spanish": "el suplemento",
+   "korean": "영양제",
+   "synonym": "",
+   "example_es": "Es un buen suplemento.",
+   "example_ko": "좋은 영양제예요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 23,
+   "spanish": "el colirio",
+   "korean": "안약",
+   "synonym": "",
+   "example_es": "Ponte el colirio.",
+   "example_ko": "안약을 넣으세요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 24,
+   "spanish": "el spray nasal",
+   "korean": "코 스프레이",
+   "synonym": "",
+   "example_es": "Usa el spray.",
+   "example_ko": "스프레이를 뿌리세요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 25,
+   "spanish": "la mascarilla",
+   "korean": "마스크",
+   "synonym": "el tapabocas",
+   "example_es": "Ponte la mascarilla.",
+   "example_ko": "마스크를 쓰세요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 26,
+   "spanish": "el efecto secundario",
+   "korean": "부작용",
+   "synonym": "",
+   "example_es": "Tiene efectos secundarios.",
+   "example_ko": "부작용이 있어요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 27,
+   "spanish": "la dosis",
+   "korean": "복용량",
+   "synonym": "",
+   "example_es": "Sigue la dosis.",
+   "example_ko": "정해진 양을 드세요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 28,
+   "spanish": "el prospecto",
+   "korean": "약 설명서",
+   "synonym": "",
+   "example_es": "Lee el prospecto.",
+   "example_ko": "설명서를 읽어보세요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 29,
+   "spanish": "la caducidad",
+   "korean": "유통기한",
+   "synonym": "",
+   "example_es": "Mira la caducidad.",
+   "example_ko": "기한을 확인하세요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 30,
+   "spanish": "el botiquín",
+   "korean": "구급상자",
+   "synonym": "",
+   "example_es": "Trae el botiquín.",
+   "example_ko": "구급상자를 가져오세요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 31,
+   "spanish": "el antiácido",
+   "korean": "제산제",
+   "synonym": "",
+   "example_es": "Tomo un antiácido.",
+   "example_ko": "제산제를 먹어요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 32,
+   "spanish": "el laxante",
+   "korean": "변비약",
+   "synonym": "",
+   "example_es": "Necesito un laxante.",
+   "example_ko": "변비약이 필요해요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 33,
+   "spanish": "el sedante",
+   "korean": "진정제",
+   "synonym": "",
+   "example_es": "Es un sedante suave.",
+   "example_ko": "순한 진정제예요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 34,
+   "spanish": "la alergia",
+   "korean": "알레르기",
+   "synonym": "",
+   "example_es": "Tengo alergia.",
+   "example_ko": "알레르기가 있어요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 35,
+   "spanish": "el síntoma",
+   "korean": "증상",
+   "synonym": "",
+   "example_es": "¿Cuál es el síntoma?",
+   "example_ko": "증상이 어때요?",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 36,
+   "spanish": "el calmante",
+   "korean": "진통제 (완화제)",
+   "synonym": "",
+   "example_es": "Busco 한 calmante.",
+   "example_ko": "진통제를 찾고 있어요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 37,
+   "spanish": "la gasa",
+   "korean": "거즈",
+   "synonym": "",
+   "example_es": "Limpia con la gasa.",
+   "example_ko": "거즈로 닦으세요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 38,
+   "spanish": "el suero",
+   "korean": "수혈액 / 식용생리식염수",
+   "synonym": "",
+   "example_es": "Necesito suero.",
+   "example_ko": "수액이 필요해요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 39,
+   "spanish": "la pomada labial",
+   "korean": "입술 연고 (립밤)",
+   "synonym": "",
+   "example_es": "Usa la pomada.",
+   "example_ko": "연고를 사용하세요.",
+   "tema": "medicamiento"
+ },
+ {
+   "id": 40,
+   "spanish": "la pastilla para la tos",
+   "korean": "기침 사탕 (트로키)",
+   "synonym": "",
+   "example_es": "Toma una pastilla.",
+   "example_ko": "기침 약을 드세요.",
+   "tema": "medicamiento"
+ }
+]

@@ -1,0 +1,1631 @@
+[
+ {
+   "id": 1,
+   "spanish": "Afganistán",
+   "korean": "아프가니스탄",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 2,
+   "spanish": "Albania",
+   "korean": "알바니아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 3,
+   "spanish": "Alemania",
+   "korean": "독일",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 4,
+   "spanish": "Andorra",
+   "korean": "안도라",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 5,
+   "spanish": "Angola",
+   "korean": "앙골라",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 6,
+   "spanish": "Arabia Saudi",
+   "korean": "사우디 아라비아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 7,
+   "spanish": "Argelia",
+   "korean": "알제리",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 8,
+   "spanish": "Argentina",
+   "korean": "아르헨티나",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 9,
+   "spanish": "Armenia",
+   "korean": "아르메니아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 10,
+   "spanish": "Australia",
+   "korean": "호주",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 11,
+   "spanish": "Austria",
+   "korean": "오스트리아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 12,
+   "spanish": "Azerbaiyán",
+   "korean": "아제르바이잔",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 13,
+   "spanish": "Bahamas",
+   "korean": "바하마",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 14,
+   "spanish": "Bangladés",
+   "korean": "방글라데시",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 15,
+   "spanish": "Barbados",
+   "korean": "바베이도스",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 16,
+   "spanish": "Baréin",
+   "korean": "바레인",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 17,
+   "spanish": "Bélgica",
+   "korean": "벨기에",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 18,
+   "spanish": "Belice",
+   "korean": "벨리즈",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 19,
+   "spanish": "Benín",
+   "korean": "베냉",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 20,
+   "spanish": "Bielorrusia",
+   "korean": "벨라루스",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 21,
+   "spanish": "Birmania",
+   "korean": "버마",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 22,
+   "spanish": "Bolivia",
+   "korean": "볼리비아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 23,
+   "spanish": "Bosnia-Herzegovina",
+   "korean": "보스니아 헤르체고비나",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 24,
+   "spanish": "Botsuana",
+   "korean": "보츠와나",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 25,
+   "spanish": "Brasil",
+   "korean": "브라질",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 26,
+   "spanish": "Brunéi",
+   "korean": "브루나이",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 27,
+   "spanish": "Bulgaria",
+   "korean": "불가리아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 28,
+   "spanish": "Burkina Faso",
+   "korean": "부르키나 파소",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 29,
+   "spanish": "Burundi",
+   "korean": "부룬디",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 30,
+   "spanish": "Bután",
+   "korean": "부탄",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 31,
+   "spanish": "Cabo Verde",
+   "korean": "카보베르데",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 32,
+   "spanish": "Camboya",
+   "korean": "캄보디아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 33,
+   "spanish": "Camerún",
+   "korean": "카메룬",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 34,
+   "spanish": "Canadá",
+   "korean": "캐나다",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 35,
+   "spanish": "Catar",
+   "korean": "카타르",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 36,
+   "spanish": "Chad",
+   "korean": "차드",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 37,
+   "spanish": "Chile",
+   "korean": "칠레",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 38,
+   "spanish": "China",
+   "korean": "중국",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 39,
+   "spanish": "Colombia",
+   "korean": "콜롬비아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 40,
+   "spanish": "Comoras",
+   "korean": "코모로",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 41,
+   "spanish": "Congo",
+   "korean": "콩코",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 42,
+   "spanish": "Corea del Norte",
+   "korean": "북한",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 43,
+   "spanish": "Corea del Sur",
+   "korean": "한국",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 44,
+   "spanish": "Costa de Marfil",
+   "korean": "코트디부아르",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 45,
+   "spanish": "Costa Rica",
+   "korean": "코스타리카",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 46,
+   "spanish": "Croacia",
+   "korean": "크로아티아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 47,
+   "spanish": "Cuba",
+   "korean": "쿠바",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 48,
+   "spanish": "Dinamarca",
+   "korean": "덴마크",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 49,
+   "spanish": "Dominica",
+   "korean": "도미니카",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 50,
+   "spanish": "Ecuador",
+   "korean": "에콰도르",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 51,
+   "spanish": "Egipto",
+   "korean": "이집트",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 52,
+   "spanish": "El Salvador",
+   "korean": "엘살바도르",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 53,
+   "spanish": "Emiratos Árabes Unidos",
+   "korean": "아랍에미리트",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 54,
+   "spanish": "Eslovaquia",
+   "korean": "슬로바키아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 55,
+   "spanish": "Eslovenia",
+   "korean": "슬로베니아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 56,
+   "spanish": "España",
+   "korean": "스페인",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 57,
+   "spanish": "Estados Unidos",
+   "korean": "미국",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 58,
+   "spanish": "Estonia",
+   "korean": "에스토니아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 59,
+   "spanish": "Etiopía",
+   "korean": "에티오피아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 60,
+   "spanish": "Filipinas",
+   "korean": "필리핀",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 61,
+   "spanish": "Finlandia",
+   "korean": "핀란드",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 62,
+   "spanish": "Fiyi",
+   "korean": "피지",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 63,
+   "spanish": "Francia",
+   "korean": "프랑스",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 64,
+   "spanish": "Gabón",
+   "korean": "가봉",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 65,
+   "spanish": "Gambia",
+   "korean": "감비아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 66,
+   "spanish": "Georgia",
+   "korean": "조지아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 67,
+   "spanish": "Ghana",
+   "korean": "가나",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 68,
+   "spanish": "Granada",
+   "korean": "그라나다",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 69,
+   "spanish": "Grecia",
+   "korean": "그리스",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 70,
+   "spanish": "Guatemala",
+   "korean": "과테말라",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 71,
+   "spanish": "Guinea",
+   "korean": "기니아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 72,
+   "spanish": "Haití",
+   "korean": "아이티",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 73,
+   "spanish": "Honduras",
+   "korean": "온두라스",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 74,
+   "spanish": "Hungría",
+   "korean": "헝가리",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 75,
+   "spanish": "India",
+   "korean": "인디아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 76,
+   "spanish": "Indonesia",
+   "korean": "인도네시아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 77,
+   "spanish": "Irak",
+   "korean": "이라크",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 78,
+   "spanish": "Irán",
+   "korean": "이란",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 79,
+   "spanish": "Irlanda",
+   "korean": "아일랜드",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 80,
+   "spanish": "Islandia",
+   "korean": "아이슬란드",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 81,
+   "spanish": "Israel",
+   "korean": "이스라엘",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 82,
+   "spanish": "Italia",
+   "korean": "이탈리아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 83,
+   "spanish": "Jamaica",
+   "korean": "자메이카",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 84,
+   "spanish": "Japón",
+   "korean": "일본",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 85,
+   "spanish": "Jordania",
+   "korean": "요르단",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 86,
+   "spanish": "Kazajistán",
+   "korean": "카자흐스탄",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 87,
+   "spanish": "Kenia",
+   "korean": "케냐",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 88,
+   "spanish": "Kirguistán",
+   "korean": "키르기스탄",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 89,
+   "spanish": "Kiribati",
+   "korean": "키리바시",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 90,
+   "spanish": "Kosovo",
+   "korean": "코소보",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 91,
+   "spanish": "Kuwait",
+   "korean": "쿠웨이트",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 92,
+   "spanish": "Laos",
+   "korean": "라오스",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 93,
+   "spanish": "Letonia",
+   "korean": "라트비아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 94,
+   "spanish": "Líbano",
+   "korean": "레바논",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 95,
+   "spanish": "Liberia",
+   "korean": "라이베리아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 96,
+   "spanish": "Libia",
+   "korean": "리비아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 97,
+   "spanish": "Liechtenstein",
+   "korean": "리히텐슈타인",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 98,
+   "spanish": "Lituania",
+   "korean": "리투아니아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 99,
+   "spanish": "Luxemburgo",
+   "korean": "룩셈부르크",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 100,
+   "spanish": "Macedonia",
+   "korean": "마케도니아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 101,
+   "spanish": "Madagascar",
+   "korean": "마다가스카르",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 102,
+   "spanish": "Malasia",
+   "korean": "말레이시아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 103,
+   "spanish": "Malaui",
+   "korean": "말라위",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 104,
+   "spanish": "Maldivas",
+   "korean": "몰디브",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 105,
+   "spanish": "Malí",
+   "korean": "말리",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 106,
+   "spanish": "Malta",
+   "korean": "몰타",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 107,
+   "spanish": "Marruecos",
+   "korean": "모로코",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 108,
+   "spanish": "México",
+   "korean": "멕시코",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 109,
+   "spanish": "Micronesia",
+   "korean": "미크로네시아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 110,
+   "spanish": "Moldavia",
+   "korean": "몰다비아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 111,
+   "spanish": "Mónaco",
+   "korean": "모나코",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 112,
+   "spanish": "Mongolia",
+   "korean": "몽골",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 113,
+   "spanish": "Montenegro",
+   "korean": "몬테네그로",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 114,
+   "spanish": "Mozambique",
+   "korean": "모잠비크",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 115,
+   "spanish": "Namibia",
+   "korean": "나미비아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 116,
+   "spanish": "Nauru",
+   "korean": "나우루",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 117,
+   "spanish": "Nepal",
+   "korean": "네팔",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 118,
+   "spanish": "Nicaragua",
+   "korean": "니카라과",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 119,
+   "spanish": "Níger",
+   "korean": "니제르",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 120,
+   "spanish": "Nigeria",
+   "korean": "나이지리아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 121,
+   "spanish": "Noruega",
+   "korean": "노르웨이",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 122,
+   "spanish": "Nueva Zelanda",
+   "korean": "뉴질랜드",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 123,
+   "spanish": "Omán",
+   "korean": "오만",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 124,
+   "spanish": "Países Bajos",
+   "korean": "네덜란드",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 125,
+   "spanish": "Pakistán",
+   "korean": "파키스탄",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 126,
+   "spanish": "Palaos",
+   "korean": "팔라우",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 127,
+   "spanish": "Palestina",
+   "korean": "팔레스타인",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 128,
+   "spanish": "Panamá",
+   "korean": "파나마",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 129,
+   "spanish": "Papúa Nueva Guinea",
+   "korean": "파푸아뉴기니",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 130,
+   "spanish": "Paraguay",
+   "korean": "파라과이",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 131,
+   "spanish": "Perú",
+   "korean": "페루",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 132,
+   "spanish": "Polonia",
+   "korean": "폴란드",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 133,
+   "spanish": "Portugal",
+   "korean": "포르투갈",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 134,
+   "spanish": "Reino Unido",
+   "korean": "영국",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 135,
+   "spanish": "República Centroafricana",
+   "korean": "중앙아프리카 공화국",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 136,
+   "spanish": "República Checa",
+   "korean": "체코 공화국",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 137,
+   "spanish": "República Democrática del Congo",
+   "korean": "콩고민주공화국",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 138,
+   "spanish": "República Dominicana",
+   "korean": "도미니카 공화국",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 139,
+   "spanish": "Ruanda",
+   "korean": "르완다",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 140,
+   "spanish": "Rumania",
+   "korean": "루마니아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 141,
+   "spanish": "Rusia",
+   "korean": "러시아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 142,
+   "spanish": "Samoa",
+   "korean": "사모아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 143,
+   "spanish": "San Marino",
+   "korean": "산마리노",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 144,
+   "spanish": "Santa Lucía",
+   "korean": "세인트루시아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 145,
+   "spanish": "Senegal",
+   "korean": "세네갈",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 146,
+   "spanish": "Serbia",
+   "korean": "세르비아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 147,
+   "spanish": "Sierra Leona",
+   "korean": "시에라리온",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 148,
+   "spanish": "Singapur",
+   "korean": "싱가포르",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 149,
+   "spanish": "Siria",
+   "korean": "시리아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 150,
+   "spanish": "Somalia",
+   "korean": "소말리아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 151,
+   "spanish": "Sri Lanka",
+   "korean": "스리랑카",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 152,
+   "spanish": "Suecia",
+   "korean": "스웨덴",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 153,
+   "spanish": "República de Sudáfrica",
+   "korean": "남아프리카 공화국",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 154,
+   "spanish": "Sudán",
+   "korean": "수단",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 155,
+   "spanish": "Sudán del Sur",
+   "korean": "남수단",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 156,
+   "spanish": "Suiza",
+   "korean": "스위스",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 157,
+   "spanish": "Surinam",
+   "korean": "수리남",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 158,
+   "spanish": "Tailandia",
+   "korean": "태국",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 159,
+   "spanish": "Taiwán",
+   "korean": "대만",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 160,
+   "spanish": "Tanzania",
+   "korean": "탄자니아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 161,
+   "spanish": "Tayikistán",
+   "korean": "타지키스탄",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 162,
+   "spanish": "Timor Oriental",
+   "korean": "동티모르",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 163,
+   "spanish": "Togo",
+   "korean": "토고",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 164,
+   "spanish": "Tonga",
+   "korean": "통가",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 165,
+   "spanish": "Trinidad y Tobago",
+   "korean": "트리니다드 토바고",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 166,
+   "spanish": "Túnez",
+   "korean": "튀니지",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 167,
+   "spanish": "Turkmenistán",
+   "korean": "투르크메니스탄",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 168,
+   "spanish": "Turquía",
+   "korean": "터키",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 169,
+   "spanish": "Tuvalu",
+   "korean": "투발루",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 170,
+   "spanish": "Ucrania",
+   "korean": "우크라이나",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 171,
+   "spanish": "Uganda",
+   "korean": "우간다",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 172,
+   "spanish": "Uruguay",
+   "korean": "우루과이",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 173,
+   "spanish": "Uzbekistán",
+   "korean": "우즈베키스탄",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 174,
+   "spanish": "Vanuatu",
+   "korean": "비누아투",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 175,
+   "spanish": "Vaticano",
+   "korean": "바티칸",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 176,
+   "spanish": "Venezuela",
+   "korean": "베네수엘라",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 177,
+   "spanish": "Vietnam",
+   "korean": "베트남",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 178,
+   "spanish": "Yemen",
+   "korean": "예멘",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 179,
+   "spanish": "Yibuti",
+   "korean": "지부티",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 180,
+   "spanish": "Zambia",
+   "korean": "잠비아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ },
+ {
+   "id": 181,
+   "spanish": "Zimbabue",
+   "korean": "짐바브웨",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "pais"
+ }
+]

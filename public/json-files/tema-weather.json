@@ -1,0 +1,398 @@
+[
+ {
+   "id": 1,
+   "spanish": "el clima",
+   "korean": "기후",
+   "synonym": "",
+   "example_es": "El clima de España es variado.",
+   "example_ko": "스페인의 기후는 다양해.",
+   "tema": "weather"
+ },
+ {
+   "id": 2,
+   "spanish": "el tiempo",
+   "korean": "날씨",
+   "synonym": "",
+   "example_es": "¿Qué tiempo hace hoy en Madrid?",
+   "example_ko": "오늘 마드리드 날씨가 어때?",
+   "tema": "weather"
+ },
+ {
+   "id": 3,
+   "spanish": "la temperatura",
+   "korean": "온도",
+   "synonym": "",
+   "example_es": "La temperatura subió diez grados.",
+   "example_ko": "온도가 10도 올라갔어.",
+   "tema": "weather"
+ },
+ {
+   "id": 4,
+   "spanish": "el grado",
+   "korean": "도 (온도 단위)",
+   "synonym": "",
+   "example_es": "Estamos a veinte grados.",
+   "example_ko": "지금은 20도야.",
+   "tema": "weather"
+ },
+ {
+   "id": 5,
+   "spanish": "el sol",
+   "korean": "해, 태양",
+   "synonym": "",
+   "example_es": "Hace mucho sol hoy.",
+   "example_ko": "오늘 햇빛이 아주 강해.",
+   "tema": "weather"
+ },
+ {
+   "id": 6,
+   "spanish": "la nube",
+   "korean": "구름",
+   "synonym": "",
+   "example_es": "Hay muchas nubes en el cielo.",
+   "example_ko": "하늘에 구름이 아주 많아.",
+   "tema": "weather"
+ },
+ {
+   "id": 7,
+   "spanish": "el cielo",
+   "korean": "하늘",
+   "synonym": "",
+   "example_es": "El cielo está despejado.",
+   "example_ko": "하늘이 맑게 갯어.",
+   "tema": "weather"
+ },
+ {
+   "id": 8,
+   "spanish": "la lluvia",
+   "korean": "비",
+   "synonym": "",
+   "example_es": "Me gusta el sonido de la lluvia.",
+   "example_ko": "나는 빗소리를 좋아해.",
+   "tema": "weather"
+ },
+ {
+   "id": 9,
+   "spanish": "la gota",
+   "korean": "방울",
+   "synonym": "",
+   "example_es": "Cayeron unas gotas de lluvia.",
+   "example_ko": "빗방울이 몇 방울 떨어졌어.",
+   "tema": "weather"
+ },
+ {
+   "id": 10,
+   "spanish": "el paraguas",
+   "korean": "우산",
+   "synonym": "",
+   "example_es": "No olvides llevar el paraguas.",
+   "example_ko": "우산 챙기는 거 잊지 마.",
+   "tema": "weather"
+ },
+ {
+   "id": 11,
+   "spanish": "el chubasco",
+   "korean": "소나기",
+   "synonym": "el aguacero",
+   "example_es": "Fue un chubasco muy fuerte.",
+   "example_ko": "강한 소나기였어.",
+   "tema": "weather"
+ },
+ {
+   "id": 12,
+   "spanish": "la tormenta",
+   "korean": "폭풍우",
+   "synonym": "",
+   "example_es": "Se acerca una tormenta eléctrica.",
+   "example_ko": "뇌우가 다가오고 있어.",
+   "tema": "weather"
+ },
+ {
+   "id": 13,
+   "spanish": "el rayo",
+   "korean": "번개, 낙뢰",
+   "synonym": "",
+   "example_es": "El rayo iluminó toda la calle.",
+   "example_ko": "번개가 온 거리를 밝혔어.",
+   "tema": "weather"
+ },
+ {
+   "id": 14,
+   "spanish": "el trueno",
+   "korean": "천둥",
+   "synonym": "",
+   "example_es": "El trueno sonó muy fuerte.",
+   "example_ko": "천둥소리가 아주 크게 들렸어.",
+   "tema": "weather"
+ },
+ {
+   "id": 15,
+   "spanish": "el viento",
+   "korean": "바람",
+   "synonym": "",
+   "example_es": "Hace mucho viento en la costa.",
+   "example_ko": "해안가에 바람이 많이 불어.",
+   "tema": "weather"
+ },
+ {
+   "id": 16,
+   "spanish": "la brisa",
+   "korean": "산들바람",
+   "synonym": "",
+   "example_es": "La brisa del mar es fresca.",
+   "example_ko": "바닷바람이 시원해.",
+   "tema": "weather"
+ },
+ {
+   "id": 17,
+   "spanish": "la nieve",
+   "korean": "눈",
+   "synonym": "",
+   "example_es": "La montaña está cubierta de nieve.",
+   "example_ko": "산이 눈으로 덮여 있어.",
+   "tema": "weather"
+ },
+ {
+   "id": 18,
+   "spanish": "el copo de nieve",
+   "korean": "눈송이",
+   "synonym": "",
+   "example_es": "Los copos de nieve caen suavemente.",
+   "example_ko": "눈송이들이 부드럽게 떨어져.",
+   "tema": "weather"
+ },
+ {
+   "id": 19,
+   "spanish": "el hielo",
+   "korean": "얼음",
+   "synonym": "",
+   "example_es": "Ten cuidado con el hielo en el suelo.",
+   "example_ko": "바닥에 얼음을 조심해.",
+   "tema": "weather"
+ },
+ {
+   "id": 20,
+   "spanish": "el granizo",
+   "korean": "우박",
+   "synonym": "",
+   "example_es": "El granizo dañó los coches.",
+   "example_ko": "우박이 차들을 망가뜨렸어.",
+   "tema": "weather"
+ },
+ {
+   "id": 21,
+   "spanish": "la niebla",
+   "korean": "안개",
+   "synonym": "la neblina",
+   "example_es": "Hay mucha niebla en la carretera.",
+   "example_ko": "도로에 안개가 자욱해.",
+   "tema": "weather"
+ },
+ {
+   "id": 22,
+   "spanish": "la humedad",
+   "korean": "습도",
+   "synonym": "",
+   "example_es": "La humedad es muy alta hoy.",
+   "example_ko": "오늘 습도가 아주 높아.",
+   "tema": "weather"
+ },
+ {
+   "id": 23,
+   "spanish": "el arcoíris",
+   "korean": "무지개",
+   "synonym": "",
+   "example_es": "Mira el arcoíris después de la lluvia.",
+   "example_ko": "비 온 뒤의 무지개를 봐.",
+   "tema": "weather"
+ },
+ {
+   "id": 24,
+   "spanish": "el calor",
+   "korean": "더위",
+   "synonym": "",
+   "example_es": "No soporto este calor.",
+   "example_ko": "이 더위를 못 참겠어.",
+   "tema": "weather"
+ },
+ {
+   "id": 25,
+   "spanish": "el frío",
+   "korean": "추위",
+   "synonym": "",
+   "example_es": "Hace un frío que pela.",
+   "example_ko": "살을 에는 듯한 추위야.",
+   "tema": "weather"
+ },
+ {
+   "id": 26,
+   "spanish": "fresco",
+   "korean": "시원한, 선선한",
+   "synonym": "",
+   "example_es": "Hace un tiempo fresco muy agradable.",
+   "example_ko": "아주 기분 좋게 선선한 날씨야.",
+   "tema": "weather"
+ },
+ {
+   "id": 27,
+   "spanish": "seco",
+   "korean": "건조한",
+   "synonym": "",
+   "example_es": "El aire está muy seco en invierno.",
+   "example_ko": "겨울에는 공기가 아주 건조해.",
+   "tema": "weather"
+ },
+ {
+   "id": 28,
+   "spanish": "húmedo",
+   "korean": "습한",
+   "synonym": "",
+   "example_es": "El clima tropical es muy húmedo.",
+   "example_ko": "열대 기후는 아주 습해.",
+   "tema": "weather"
+ },
+ {
+   "id": 29,
+   "spanish": "despejado",
+   "korean": "맑은, 갠",
+   "synonym": "",
+   "example_es": "Mañana estará despejado todo el día.",
+   "example_ko": "내일은 하루 종일 맑을 거야.",
+   "tema": "weather"
+ },
+ {
+   "id": 30,
+   "spanish": "nublado",
+   "korean": "구름 낀, 흐린",
+   "synonym": "",
+   "example_es": "El día está un poco nublado.",
+   "example_ko": "날이 좀 흐리네.",
+   "tema": "weather"
+ },
+ {
+   "id": 31,
+   "spanish": "cubierto",
+   "korean": "잔뜩 흐린",
+   "synonym": "",
+   "example_es": "El cielo está cubierto de nubes grises.",
+   "example_ko": "하늘이 회색 구름으로 뒤덮여 있어.",
+   "tema": "weather"
+ },
+ {
+   "id": 32,
+   "spanish": "templado",
+   "korean": "온화한",
+   "synonym": "",
+   "example_es": "Valencia tiene un clima templado.",
+   "example_ko": "발렌시아는 온화한 기후를 가지고 있어.",
+   "tema": "weather"
+ },
+ {
+   "id": 33,
+   "spanish": "la estación",
+   "korean": "계절",
+   "synonym": "",
+   "example_es": "Mi estación favorita es el otoño.",
+   "example_ko": "내가 제일 좋아하는 계절은 가을이야.",
+   "tema": "weather"
+ },
+ {
+   "id": 34,
+   "spanish": "el pronóstico",
+   "korean": "일기예보",
+   "synonym": "el reporte del clima",
+   "example_es": "¿Has visto el pronóstico del tiempo?",
+   "example_ko": "일기예보 봤어?",
+   "tema": "weather"
+ },
+ {
+   "id": 35,
+   "spanish": "la inundación",
+   "korean": "홍수",
+   "synonym": "",
+   "example_es": "La inundación cortó la calle principal.",
+   "example_ko": "홍수로 메인 도로가 끊겼어.",
+   "tema": "weather"
+ },
+ {
+   "id": 36,
+   "spanish": "la sequía",
+   "korean": "가뭄",
+   "synonym": "",
+   "example_es": "La sequía afectó a las cosechas.",
+   "example_ko": "가뭄이 수확에 영향을 줬어.",
+   "tema": "weather"
+ },
+ {
+   "id": 37,
+   "spanish": "el terremoto",
+   "korean": "지진",
+   "synonym": "el sismo",
+   "example_es": "El terremoto fue de magnitud cinco.",
+   "example_ko": "지진 규모가 5였어.",
+   "tema": "weather"
+ },
+ {
+   "id": 38,
+   "spanish": "el huracán",
+   "korean": "태풍, 허리케인",
+   "synonym": "el ciclón",
+   "example_es": "El huracán se dirige hacia el norte.",
+   "example_ko": "태풍이 북쪽으로 향하고 있어.",
+   "tema": "weather"
+ },
+ {
+   "id": 39,
+   "spanish": "la sombra",
+   "korean": "그늘",
+   "synonym": "",
+   "example_es": "Busquemos una sombra para descansar.",
+   "example_ko": "쉴 만한 그늘을 찾자.",
+   "tema": "weather"
+ },
+ {
+   "id": 40,
+   "spanish": "la ola de calor",
+   "korean": "폭염",
+   "synonym": "",
+   "example_es": "Estamos sufriendo una ola de calor.",
+   "example_ko": "우리는 지금 폭염을 겪고 있어.",
+   "tema": "weather"
+ },
+ {
+   "id": 41,
+   "spanish": "el bochorno",
+   "korean": "무더위 (후덥지근함)",
+   "synonym": "el calorón",
+   "example_es": "¡Qué bochorno hace esta tarde!",
+   "example_ko": "오늘 오후는 정말 후덥지근하네!",
+   "tema": "weather"
+ },
+ {
+   "id": 42,
+   "spanish": "la escarcha",
+   "korean": "서리",
+   "synonym": "",
+   "example_es": "Hay escarcha sobre el césped.",
+   "example_ko": "잔디 위에 서리가 내렸어.",
+   "tema": "weather"
+ },
+ {
+   "id": 43,
+   "spanish": "el vendaval",
+   "korean": "강풍",
+   "synonym": "",
+   "example_es": "El vendaval derribó algunos árboles.",
+   "example_ko": "강풍이 나무 몇 그루를 쓰러뜨렸어.",
+   "tema": "weather"
+ },
+ {
+   "id": 44,
+   "spanish": "el relámpago",
+   "korean": "번개 (빛)",
+   "synonym": "",
+   "example_es": "Vi un relámpago a lo lejos.",
+   "example_ko": "멀리서 번개 치는 걸 봤어.",
+   "tema": "weather"
+ }
+]

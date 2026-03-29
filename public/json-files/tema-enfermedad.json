@@ -1,0 +1,1082 @@
+[
+ {
+   "id": 1,
+   "spanish": "la enfermedad",
+   "korean": "질병, 병",
+   "synonym": "",
+   "example_es": "La prevención es clave para la enfermedad.",
+   "example_ko": "예방이 질병의 핵심이야.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 2,
+   "spanish": "el síntoma",
+   "korean": "증상",
+   "synonym": "",
+   "example_es": "¿Cuáles son los síntomas de la gripe?",
+   "example_ko": "독감 증상이 어떻게 되나요?",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 3,
+   "spanish": "el dolor",
+   "korean": "통증, 아픔",
+   "synonym": "",
+   "example_es": "Tengo un dolor fuerte en la espalda.",
+   "example_ko": "등에 심한 통증이 있어요.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 4,
+   "spanish": "la infección",
+   "korean": "감염",
+   "synonym": "",
+   "example_es": "La herida causó una infección grave.",
+   "example_ko": "상처가 심한 감염을 일으켰어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 5,
+   "spanish": "el virus",
+   "korean": "바이러스",
+   "synonym": "",
+   "example_es": "El virus se propaga por el aire.",
+   "example_ko": "바이러스는 공기를 통해 퍼져.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 6,
+   "spanish": "la bacteria",
+   "korean": "박테리아, 세균",
+   "synonym": "",
+   "example_es": "Algunas bacterias son resistentes.",
+   "example_ko": "어떤 박테리아들은 저항력이 강해.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 7,
+   "spanish": "la inflamación",
+   "korean": "염증, 부기",
+   "synonym": "",
+   "example_es": "La inflamación bajó con el hielo.",
+   "example_ko": "얼음찜질로 염증이 가라앉았어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 8,
+   "spanish": "la fiebre",
+   "korean": "열",
+   "synonym": "",
+   "example_es": "Tengo mucha fiebre desde anoche.",
+   "example_ko": "어젯밤부터 열이 많이 나요.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 9,
+   "spanish": "la tos",
+   "korean": "기침",
+   "synonym": "",
+   "example_es": "La tos seca es muy molesta.",
+   "example_ko": "마른기침은 정말 괴로워.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 10,
+   "spanish": "el resfriado",
+   "korean": "감기",
+   "synonym": "la gripe",
+   "example_es": "Tengo un resfriado común.",
+   "example_ko": "나는 일반적인 감기에 걸렸어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 11,
+   "spanish": "la gripe",
+   "korean": "독감",
+   "synonym": "",
+   "example_es": "La gripe es peor este año.",
+   "example_ko": "올해는 독감이 더 심하네.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 12,
+   "spanish": "el estornudo",
+   "korean": "재채기",
+   "synonym": "",
+   "example_es": "El estornudo es una reacción natural.",
+   "example_ko": "재채기는 자연스러운 반응이야.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 13,
+   "spanish": "la alergia",
+   "korean": "알레르기",
+   "synonym": "",
+   "example_es": "Tengo alergia al polen.",
+   "example_ko": "나는 꽃가루 알레르기가 있어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 14,
+   "spanish": "el asma",
+   "korean": "천식",
+   "synonym": "",
+   "example_es": "El asma dificulta la respiración.",
+   "example_ko": "천식은 호흡을 어렵게 해.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 15,
+   "spanish": "la diabetes",
+   "korean": "당뇨병",
+   "synonym": "",
+   "example_es": "La diabetes requiere control médico.",
+   "example_ko": "당뇨병은 의료적 관리가 필요해.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 16,
+   "spanish": "el cáncer",
+   "korean": "암",
+   "synonym": "",
+   "example_es": "El cáncer se detectó a tiempo.",
+   "example_ko": "암이 제때 발견되었어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 17,
+   "spanish": "el infarto",
+   "korean": "심근경색, 마비",
+   "synonym": "",
+   "example_es": "Sufrió un infarto al corazón.",
+   "example_ko": "그는 심근경색을 일으켰어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 18,
+   "spanish": "la parálisis",
+   "korean": "마비",
+   "synonym": "",
+   "example_es": "La parálisis afectó su pierna.",
+   "example_ko": "마비가 그의 다리에 영향을 줬어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 19,
+   "spanish": "la herida",
+   "korean": "상처",
+   "synonym": "",
+   "example_es": "Limpia la herida con alcohol.",
+   "example_ko": "알코올로 상처를 소독하렴.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 20,
+   "spanish": "la cicatriz",
+   "korean": "흉터",
+   "synonym": "",
+   "example_es": "La operación dejó una pequeña cicatriz.",
+   "example_ko": "수술이 작은 흉터를 남겼어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 21,
+   "spanish": "la quemadura",
+   "korean": "화상",
+   "synonym": "",
+   "example_es": "La quemadura es de segundo grado.",
+   "example_ko": "화상은 2도 화상이야.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 22,
+   "spanish": "la fractura",
+   "korean": "골절",
+   "synonym": "",
+   "example_es": "La radiografía confirmó la fractura.",
+   "example_ko": "엑스레이로 골절을 확인했어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 23,
+   "spanish": "el esguince",
+   "korean": "염좌, 삠",
+   "synonym": "",
+   "example_es": "Tengo un esguince en el tobillo.",
+   "example_ko": "발목에 염좌가 생겼어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 24,
+   "spanish": "la hinchazón",
+   "korean": "부기, 부어오름",
+   "synonym": "",
+   "example_es": "La hinchazón es normal tras el golpe.",
+   "example_ko": "충격 후의 부기는 정상이야.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 25,
+   "spanish": "el mareo",
+   "korean": "어지럼증",
+   "synonym": "",
+   "example_es": "Siento un mareo constante.",
+   "example_ko": "계속 어지러움을 느껴요.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 26,
+   "spanish": "la náusea",
+   "korean": "메스꺼움",
+   "synonym": "",
+   "example_es": "Tengo náuseas después de comer.",
+   "example_ko": "먹고 나서 메스꺼움을 느껴요.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 27,
+   "spanish": "el vómito",
+   "korean": "구토",
+   "synonym": "",
+   "example_es": "El vómito es un síntoma de virus.",
+   "example_ko": "구토는 바이러스의 증상이야.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 28,
+   "spanish": "la diarrea",
+   "korean": "설사",
+   "synonym": "",
+   "example_es": "La diarrea causa deshidratación.",
+   "example_ko": "설사는 탈수를 유발해.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 29,
+   "spanish": "el estreñimiento",
+   "korean": "변비",
+   "synonym": "",
+   "example_es": "La fibra ayuda contra el estreñimiento.",
+   "example_ko": "섬유질은 변비 예방에 좋아.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 30,
+   "spanish": "la fatiga",
+   "korean": "피로, 권태",
+   "synonym": "",
+   "example_es": "La fatiga crónica es un problema.",
+   "example_ko": "만성 피로는 문제야.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 31,
+   "spanish": "el insomnio",
+   "korean": "불면증",
+   "synonym": "",
+   "example_es": "El insomnio me afecta en el trabajo.",
+   "example_ko": "불면증이 업무에 영향을 줘.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 32,
+   "spanish": "la depresión",
+   "korean": "우울증",
+   "synonym": "",
+   "example_es": "La depresión necesita apoyo profesional.",
+   "example_ko": "우울증은 전문가의 도움이 필요해.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 33,
+   "spanish": "la ansiedad",
+   "korean": "불안증",
+   "synonym": "",
+   "example_es": "Siento mucha ansiedad por el examen.",
+   "example_ko": "시험 때문에 불안감이 커요.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 34,
+   "spanish": "el estrés",
+   "korean": "스트레스",
+   "synonym": "",
+   "example_es": "El estrés causa muchas enfermedades.",
+   "example_ko": "스트레스는 많은 병의 원인이야.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 35,
+   "spanish": "la receta",
+   "korean": "처방전",
+   "synonym": "",
+   "example_es": "El médico me dio una receta.",
+   "example_ko": "의사가 나에게 처방전을 줬어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 36,
+   "spanish": "el medicamento",
+   "korean": "약, 약물",
+   "synonym": "la medicina",
+   "example_es": "Toma el medicamento cada ocho horas.",
+   "example_ko": "8시간마다 약을 복용하렴.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 37,
+   "spanish": "la pastilla",
+   "korean": "알약, 정제",
+   "synonym": "",
+   "example_es": "Traga la pastilla con agua.",
+   "example_ko": "물을 마시며 알약을 삼키렴.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 38,
+   "spanish": "el jarabe",
+   "korean": "시럽, 물약",
+   "synonym": "",
+   "example_es": "El jarabe para la tos es dulce.",
+   "example_ko": "기침 시럽(물약)은 달아.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 39,
+   "spanish": "la inyección",
+   "korean": "주사",
+   "synonym": "",
+   "example_es": "La inyección me dio miedo.",
+   "example_ko": "주사가 무서웠어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 40,
+   "spanish": "la vacuna",
+   "korean": "백신",
+   "synonym": "",
+   "example_es": "La vacuna previene enfermedades.",
+   "example_ko": "백신은 질병을 예방해.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 41,
+   "spanish": "la cirugía",
+   "korean": "수술",
+   "synonym": "la operación",
+   "example_es": "La cirugía fue un éxito total.",
+   "example_ko": "수술은 완전 성공적이었어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 42,
+   "spanish": "el paciente",
+   "korean": "환자",
+   "synonym": "",
+   "example_es": "El paciente está en recuperación.",
+   "example_ko": "환자는 회복 중이야.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 43,
+   "spanish": "el médico",
+   "korean": "의사",
+   "synonym": "el doctor",
+   "example_es": "El médico me revisó la garganta.",
+   "example_ko": "의사가 내 목구멍을 살펴봤어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 44,
+   "spanish": "el enfermero",
+   "korean": "간호사",
+   "synonym": "",
+   "example_es": "La enfermera me tomó la presión.",
+   "example_ko": "간호사가 내 혈압을 쟀어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 45,
+   "spanish": "el hospital",
+   "korean": "병원",
+   "synonym": "",
+   "example_es": "El hospital está muy lleno hoy.",
+   "example_ko": "오늘 병원이 아주 붐비네.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 46,
+   "spanish": "la clínica",
+   "korean": "클리닉, 의원",
+   "synonym": "",
+   "example_es": "Fui a la clínica dental ayer.",
+   "example_ko": "어제 치과에 갔어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 47,
+   "spanish": "la farmacia",
+   "korean": "약국",
+   "synonym": "",
+   "example_es": "Compré las vendas en la farmacia.",
+   "example_ko": "약국에서 붕대를 샀어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 48,
+   "spanish": "la urgencia",
+   "korean": "응급상황, 응급실",
+   "synonym": "",
+   "example_es": "Llama a urgencias de inmediato.",
+   "example_ko": "즉시 응급실에 전화해.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 49,
+   "spanish": "la ambulancia",
+   "korean": "구급차",
+   "synonym": "",
+   "example_es": "La ambulancia llegó en cinco minutos.",
+   "example_ko": "구급차가 5분 만에 도착했어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 50,
+   "spanish": "la presión arterial",
+   "korean": "혈압",
+   "synonym": "",
+   "example_es": "Tengo la presión arterial alta.",
+   "example_ko": "나는 혈압이 높아.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 51,
+   "spanish": "el pulso",
+   "korean": "맥박",
+   "synonym": "",
+   "example_es": "El médico comprobó mi pulso.",
+   "example_ko": "의사가 내 맥박을 확인했어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 52,
+   "spanish": "el termómetro",
+   "korean": "온도계",
+   "synonym": "",
+   "example_es": "Pon el termómetro bajo el brazo.",
+   "example_ko": "겨드랑이 밑에 온도계를 두렴.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 53,
+   "spanish": "la radiografía",
+   "korean": "엑스레이",
+   "synonym": "",
+   "example_es": "La radiografía no mostró nada roto.",
+   "example_ko": "엑스레이에 부러진 곳은 없었어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 54,
+   "spanish": "el análisis de sangre",
+   "korean": "혈액 검사",
+   "synonym": "",
+   "example_es": "El análisis de sangre salió bien.",
+   "example_ko": "혈액 검사 결과가 좋게 나왔어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 55,
+   "spanish": "la anestesia",
+   "korean": "마취",
+   "synonym": "",
+   "example_es": "La anestesia me dejó dormido.",
+   "example_ko": "마취가 나를 잠들게 했어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 56,
+   "spanish": "el tratamiento",
+   "korean": "치료, 요법",
+   "synonym": "",
+   "example_es": "El tratamiento durará un mes.",
+   "example_ko": "치료는 한 달간 계속될 거야.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 57,
+   "spanish": "la recuperación",
+   "korean": "회복",
+   "synonym": "",
+   "example_es": "La recuperación será lenta.",
+   "example_ko": "회복은 느릴 거야.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 58,
+   "spanish": "el diagnóstico",
+   "korean": "진단",
+   "synonym": "",
+   "example_es": "Esperamos el diagnóstico final.",
+   "example_ko": "최종 진단을 기다리고 있어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 59,
+   "spanish": "la consulta",
+   "korean": "진료, 상담",
+   "synonym": "",
+   "example_es": "La consulta médica es a las diez.",
+   "example_ko": "의사 진료는 10시야.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 60,
+   "spanish": "el seguro médico",
+   "korean": "의료 보험",
+   "synonym": "",
+   "example_es": "Tengo un seguro médico privado.",
+   "example_ko": "나는 사설 의료 보험이 있어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 61,
+   "spanish": "la hemorragia",
+   "korean": "출혈",
+   "synonym": "",
+   "example_es": "Hay que detener la hemorragia.",
+   "example_ko": "출혈을 멈춰야 해.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 62,
+   "spanish": "el moretón",
+   "korean": "멍",
+   "synonym": "el cardenal",
+   "example_es": "Tengo un moretón en la pierna.",
+   "example_ko": "다리에 멍이 들었어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 63,
+   "spanish": "la picadura",
+   "korean": "(벌레) 물린 자국",
+   "synonym": "",
+   "example_es": "La picadura de abeja me duele.",
+   "example_ko": "벌에 물린 자리가 아파.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 64,
+   "spanish": "el sarpullido",
+   "korean": "발진, 두드러기",
+   "synonym": "",
+   "example_es": "Tengo un sarpullido en el brazo.",
+   "example_ko": "팔에 발진이 생겼어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 65,
+   "spanish": "la ampolla",
+   "korean": "물집",
+   "synonym": "",
+   "example_es": "Me salió una ampolla en el talón.",
+   "example_ko": "뒤꿈치에 물집이 생겼어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 66,
+   "spanish": "el resfriado",
+   "korean": "감기",
+   "synonym": "",
+   "example_es": "El resfriado se cura con descanso.",
+   "example_ko": "감기는 휴식으로 나아.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 67,
+   "spanish": "la indigestión",
+   "korean": "소화불량",
+   "synonym": "",
+   "example_es": "La cena me causó indigestión.",
+   "example_ko": "저녁 식사가 소화불량을 일으켰어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 68,
+   "spanish": "la acidez",
+   "korean": "속쓰림",
+   "synonym": "",
+   "example_es": "Tengo mucha acidez estomacal.",
+   "example_ko": "속쓰림이 아주 심해요.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 69,
+   "spanish": "el calambre",
+   "korean": "쥐, 경련",
+   "synonym": "",
+   "example_es": "Me dio un calambre en la pierna.",
+   "example_ko": "다리에 쥐가 났어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 70,
+   "spanish": "el desmayo",
+   "korean": "기절, 실신",
+   "synonym": "",
+   "example_es": "El desmayo ocurrió por el calor.",
+   "example_ko": "더위 때문에 기절했어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 71,
+   "spanish": "la insolación",
+   "korean": "일사병",
+   "synonym": "",
+   "example_es": "Usa gorra para evitar la insolación.",
+   "example_ko": "일사병을 피하기 위해 모자를 쓰렴.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 72,
+   "spanish": "la deshidratación",
+   "korean": "탈수",
+   "synonym": "",
+   "example_es": "La deshidratación es peligrosa.",
+   "example_ko": "탈수는 위험해.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 73,
+   "spanish": "el pánico",
+   "korean": "공황",
+   "synonym": "",
+   "example_es": "Sufrió un ataque de pánico.",
+   "example_ko": "그는 공황 발작을 일으켰어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 74,
+   "spanish": "la fobia",
+   "korean": "공포증",
+   "synonym": "",
+   "example_es": "Tengo fobia a las alturas.",
+   "example_ko": "나는 고소공포증이 있어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 75,
+   "spanish": "el trauma",
+   "korean": "트라우마, 외상",
+   "synonym": "",
+   "example_es": "El trauma psicológico es profundo.",
+   "example_ko": "심리적 트라우마는 깊어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 76,
+   "spanish": "el bulto",
+   "korean": "혹, 덩어리",
+   "synonym": "",
+   "example_es": "Me encontré un bulto en el cuello.",
+   "example_ko": "목에서 혹을 발견했어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 77,
+   "spanish": "la verruga",
+   "korean": "사마귀 (피부병)",
+   "synonym": "",
+   "example_es": "La verruga desapareció sola.",
+   "example_ko": "사마귀가 저절로 사라졌어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 78,
+   "spanish": "el lunar",
+   "korean": "점",
+   "synonym": "",
+   "example_es": "Revisa tus lunares cada año.",
+   "example_ko": "매년 점들을 확인해 봐.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 79,
+   "spanish": "la sorda",
+   "korean": "귀먹음, 난청",
+   "synonym": "la sordera",
+   "example_es": "La sordera afectó su oído izquierdo.",
+   "example_ko": "난청이 그의 왼쪽 귀에 영향을 줬어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 80,
+   "spanish": "la ceguera",
+   "korean": "실명",
+   "synonym": "",
+   "example_es": "La ceguera no le impidió estudiar.",
+   "example_ko": "실명도 그의 공부를 막지 못했어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 81,
+   "spanish": "el mudo",
+   "korean": "벙어리, 말 못 하는 사람",
+   "synonym": "",
+   "example_es": "Él es mudo pero se comunica bien.",
+   "example_ko": "그는 말을 못 하지만 소통은 잘해.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 82,
+   "spanish": "el tartamudeo",
+   "korean": "말더듬",
+   "synonym": "",
+   "example_es": "El tartamudeo aumentó por los nervios.",
+   "example_ko": "긴장해서 말더듬이 심해졌어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 83,
+   "spanish": "la calvicie",
+   "korean": "탈모, 대머리",
+   "synonym": "",
+   "example_es": "La calvicie es genética.",
+   "example_ko": "탈모는 유전이야.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 84,
+   "spanish": "la caspa",
+   "korean": "비듬",
+   "synonym": "",
+   "example_es": "Usa champú para la caspa.",
+   "example_ko": "비듬용 샴푸를 사용하렴.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 85,
+   "spanish": "la caries",
+   "korean": "충치",
+   "synonym": "",
+   "example_es": "Tengo dos caries en las muelas.",
+   "example_ko": "어금니에 충치가 두 개 있어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 86,
+   "spanish": "el sarro",
+   "korean": "치석",
+   "synonym": "",
+   "example_es": "El dentista me quitó el sarro.",
+   "example_ko": "치과 의사가 치석을 제거했어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 87,
+   "spanish": "la neumonía",
+   "korean": "폐렴",
+   "synonym": "",
+   "example_es": "La neumonía requiere antibióticos.",
+   "example_ko": "폐렴은 항생제가 필요해.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 88,
+   "spanish": "la bronquitis",
+   "korean": "기관지염",
+   "synonym": "",
+   "example_es": "La bronquitis me causa mucha tos.",
+   "example_ko": "기관지염 때문에 기침이 많이 나.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 89,
+   "spanish": "la tuberculosis",
+   "korean": "결핵",
+   "synonym": "",
+   "example_es": "La tuberculosis es contagiosa.",
+   "example_ko": "결핵은 전염성이 있어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 90,
+   "spanish": "el asma",
+   "korean": "천식",
+   "synonym": "",
+   "example_es": "Usa el inhalador para el asma.",
+   "example_ko": "천식용 흡입기를 사용하렴.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 91,
+   "spanish": "la migraña",
+   "korean": "편두통",
+   "synonym": "",
+   "example_es": "La migraña me da sensibilidad a la luz.",
+   "example_ko": "편두통 때문에 빛에 예민해져.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 92,
+   "spanish": "la epilepsia",
+   "korean": "간질",
+   "synonym": "",
+   "example_es": "Él controla su epilepsia con medicina.",
+   "example_ko": "그는 약으로 간질을 조절해.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 93,
+   "spanish": "el autismo",
+   "korean": "자폐증",
+   "synonym": "",
+   "example_es": "El autismo es un espectro.",
+   "example_ko": "자폐증은 스펙트럼이야.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 94,
+   "spanish": "la demencia",
+   "korean": "치매",
+   "synonym": "",
+   "example_es": "La demencia afecta a la memoria.",
+   "example_ko": "치매는 기억력에 영향을 줘.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 95,
+   "spanish": "el alzheimer",
+   "korean": "알츠하이머",
+   "synonym": "",
+   "example_es": "El alzheimer progresa lentamente.",
+   "example_ko": "알츠하이머는 천천히 진행돼.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 96,
+   "spanish": "el parkinson",
+   "korean": "파킨슨병",
+   "synonym": "",
+   "example_es": "El parkinson causa temblores.",
+   "example_ko": "파킨슨병은 떨림을 유발해.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 97,
+   "spanish": "la artritis",
+   "korean": "관절염",
+   "synonym": "",
+   "example_es": "La artritis me duele en invierno.",
+   "example_ko": "겨울에는 관절염이 아파요.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 98,
+   "spanish": "la osteoporosis",
+   "korean": "골다공증",
+   "synonym": "",
+   "example_es": "La osteoporosis debilita los huesos.",
+   "example_ko": "골다공증은 뼈를 약하게 해.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 99,
+   "spanish": "la obesidad",
+   "korean": "비만",
+   "synonym": "",
+   "example_es": "La obesidad aumenta el riesgo cardíaco.",
+   "example_ko": "비만은 심장 질환 위험을 높여.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 100,
+   "spanish": "el colesterol",
+   "korean": "콜레스테롤",
+   "synonym": "",
+   "example_es": "Tengo el colesterol alto.",
+   "example_ko": "나는 콜레스테롤 수치가 높아.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 101,
+   "spanish": "la anemia",
+   "korean": "빈혈",
+   "synonym": "",
+   "example_es": "La anemia me hace sentir cansado.",
+   "example_ko": "빈혈 때문에 피곤함을 느껴요.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 102,
+   "spanish": "la hepatitis",
+   "korean": "간염",
+   "synonym": "",
+   "example_es": "La hepatitis afecta al hígado.",
+   "example_ko": "간염은 간에 영향을 줘.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 103,
+   "spanish": "la úlcera",
+   "korean": "궤양",
+   "synonym": "",
+   "example_es": "La úlcera de estómago duele mucho.",
+   "example_ko": "위궤양은 정말 아파.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 104,
+   "spanish": "la piedra en el riñón",
+   "korean": "결석 (신장)",
+   "synonym": "",
+   "example_es": "Tiene piedras en el riñón.",
+   "example_ko": "그는 신장 결석이 있어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 105,
+   "spanish": "el quiste",
+   "korean": "낭종",
+   "synonym": "",
+   "example_es": "El médico analizó el quiste.",
+   "example_ko": "의사가 낭종을 분석했어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 106,
+   "spanish": "el tumor",
+   "korean": "종양",
+   "synonym": "",
+   "example_es": "El tumor resultó ser benigno.",
+   "example_ko": "종양은 양성으로 밝혀졌어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 107,
+   "spanish": "la metástasis",
+   "korean": "전이",
+   "synonym": "",
+   "example_es": "El cáncer hizo metástasis.",
+   "example_ko": "암이 전이되었어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 108,
+   "spanish": "la quimioterapia",
+   "korean": "화학요법 (항암치료)",
+   "synonym": "",
+   "example_es": "Empezó la quimioterapia hoy.",
+   "example_ko": "그는 오늘 항암치료를 시작했어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 109,
+   "spanish": "la radioterapia",
+   "korean": "방사선 치료",
+   "synonym": "",
+   "example_es": "La radioterapia redujo el tumor.",
+   "example_ko": "방사선 치료가 종양을 줄였어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 110,
+   "spanish": "la rehabilitación",
+   "korean": "재활",
+   "synonym": "",
+   "example_es": "La rehabilitación ayuda a caminar.",
+   "example_ko": "재활은 걷는 것을 도와줘.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 111,
+   "spanish": "el antibiótico",
+   "korean": "항생제",
+   "synonym": "",
+   "example_es": "Toma el antibiótico hasta el final.",
+   "example_ko": "항생제를 끝까지 다 복용하렴.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 112,
+   "spanish": "el analgésico",
+   "korean": "진통제",
+   "synonym": "",
+   "example_es": "Necesito un analgésico para el dolor.",
+   "example_ko": "통증을 위해 진통제가 필요해요.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 113,
+   "spanish": "el jarabe",
+   "korean": "기침약",
+   "synonym": "",
+   "example_es": "Este jarabe es para la tos seca.",
+   "example_ko": "이 기침약은 마른기침용이야.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 114,
+   "spanish": "la pomada",
+   "korean": "연고",
+   "synonym": "",
+   "example_es": "Ponte pomada en la picadura.",
+   "example_ko": "물린 자리에 연고를 바르렴.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 115,
+   "spanish": "la venda",
+   "korean": "붕대",
+   "synonym": "",
+   "example_es": "Envuelve el tobillo con una venda.",
+   "example_ko": "붕대로 발목을 감으렴.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 116,
+   "spanish": "el esparadrapo",
+   "korean": "반창고, 테이프",
+   "synonym": "",
+   "example_es": "Sujeta la gasa con esparadrapo.",
+   "example_ko": "거즈를 반창고로 고정하렴.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 117,
+   "spanish": "la tirita",
+   "korean": "일회용 밴드",
+   "synonym": "",
+   "example_es": "Ponte una tirita en el dedo.",
+   "example_ko": "손가락에 밴드 하나 붙이렴.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 118,
+   "spanish": "el desinfectante",
+   "korean": "소독제",
+   "synonym": "",
+   "example_es": "Usa desinfectante para las manos.",
+   "example_ko": "손 소독제를 사용하렴.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 119,
+   "spanish": "el reposo",
+   "korean": "안정, 휴식",
+   "synonym": "",
+   "example_es": "El médico recomendó reposo absoluto.",
+   "example_ko": "의사가 절대 안정을 권고했어.",
+   "tema": "enfermedad"
+ },
+ {
+   "id": 120,
+   "spanish": "la dieta",
+   "korean": "식단",
+   "synonym": "",
+   "example_es": "Sigue una dieta blanda hoy.",
+   "example_ko": "오늘은 자극 없는 식단을 따르렴.",
+   "tema": "enfermedad"
+ }
+]

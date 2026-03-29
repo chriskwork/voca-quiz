@@ -1,0 +1,452 @@
+[
+ {
+   "id": 1,
+   "spanish": "la tienda",
+   "korean": "상점, 가게",
+   "synonym": "el local",
+   "example_es": "La tienda abre a las nueve.",
+   "example_ko": "상점은 9시에 문을 열어.",
+   "tema": "tienda"
+ },
+ {
+   "id": 2,
+   "spanish": "el centro comercial",
+   "korean": "쇼핑몰, 백화점",
+   "synonym": "el mall",
+   "example_es": "Vamos al centro comercial el sábado.",
+   "example_ko": "토요일에 쇼핑몰에 가자.",
+   "tema": "tienda"
+ },
+ {
+   "id": 3,
+   "spanish": "el supermercado",
+   "korean": "슈퍼마켓",
+   "synonym": "el súper",
+   "example_es": "El supermercado está cerca de casa.",
+   "example_ko": "슈퍼마켓이 집 근처에 있어.",
+   "tema": "tienda"
+ },
+ {
+   "id": 4,
+   "spanish": "el mercado",
+   "korean": "시장",
+   "synonym": "la feria",
+   "example_es": "Compré fruta fresca en el mercado.",
+   "example_ko": "시장에서 신선한 과일을 샀어.",
+   "tema": "tienda"
+ },
+ {
+   "id": 5,
+   "spanish": "la panadería",
+   "korean": "빵집",
+   "synonym": "",
+   "example_es": "Huele a pan recién hecho en la panadería.",
+   "example_ko": "빵집에서 갓 구운 빵 냄새가 나.",
+   "tema": "tienda"
+ },
+ {
+   "id": 6,
+   "spanish": "la pastelería",
+   "korean": "제과점",
+   "synonym": "la repostería",
+   "example_es": "Compré una tarta en la pastelería.",
+   "example_ko": "제과점에서 케이크를 하나 샀어.",
+   "tema": "tienda"
+ },
+ {
+   "id": 7,
+   "spanish": "la carnicería",
+   "korean": "정육점",
+   "synonym": "",
+   "example_es": "La carne de esta carnicería es muy buena.",
+   "example_ko": "이 정육점 고기가 아주 좋아.",
+   "tema": "tienda"
+ },
+ {
+   "id": 8,
+   "spanish": "la pescadería",
+   "korean": "생선가게",
+   "synonym": "",
+   "example_es": "Pescado fresco en la pescadería del barrio.",
+   "example_ko": "동네 생선가게에 신선한 생선이 있어.",
+   "tema": "tienda"
+ },
+ {
+   "id": 9,
+   "spanish": "la frutería",
+   "korean": "과일가게",
+   "synonym": "",
+   "example_es": "La frutería tiene mangos maduros.",
+   "example_ko": "과일가게에 잘 익은 망고가 있어.",
+   "tema": "tienda"
+ },
+ {
+   "id": 10,
+   "spanish": "la verdulería",
+   "korean": "채소가게",
+   "synonym": "",
+   "example_es": "Compré lechuga en la verdulería.",
+   "example_ko": "채소가게에서 상추를 샀어.",
+   "tema": "tienda"
+ },
+ {
+   "id": 11,
+   "spanish": "la farmacia",
+   "korean": "약국",
+   "synonym": "la droguería",
+   "example_es": "La farmacia está de guardia hoy.",
+   "example_ko": "오늘 이 약국은 당번이야.",
+   "tema": "tienda"
+ },
+ {
+   "id": 12,
+   "spanish": "la librería",
+   "korean": "서점",
+   "synonym": "",
+   "example_es": "Busco un libro nuevo en la librería.",
+   "example_ko": "서점에서 새 책을 찾고 있어.",
+   "tema": "tienda"
+ },
+ {
+   "id": 13,
+   "spanish": "la papelería",
+   "korean": "문구점",
+   "synonym": "",
+   "example_es": "Necesito bolígrafos de la papelería.",
+   "example_ko": "문구점에서 볼펜이 필요해.",
+   "tema": "tienda"
+ },
+ {
+   "id": 14,
+   "spanish": "la floristería",
+   "korean": "꽃집",
+   "synonym": "",
+   "example_es": "El ramo de la floristería es precioso.",
+   "example_ko": "꽃집에서 만든 꽃다발이 정말 예뻐.",
+   "tema": "tienda"
+ },
+ {
+   "id": 15,
+   "spanish": "la zapatería",
+   "korean": "신발가게",
+   "synonym": "",
+   "example_es": "Me probé unas botas en la zapatería.",
+   "example_ko": "신발가게에서 부츠를 신어봤어.",
+   "tema": "tienda"
+ },
+ {
+   "id": 16,
+   "spanish": "la tienda de ropa",
+   "korean": "옷가게",
+   "synonym": "",
+   "example_es": "La tienda de ropa tiene rebajas.",
+   "example_ko": "옷가게에서 세일을 하고 있어.",
+   "tema": "tienda"
+ },
+ {
+   "id": 17,
+   "spanish": "la joyería",
+   "korean": "보석상",
+   "synonym": "",
+   "example_es": "El anillo de la joyería brilla mucho.",
+   "example_ko": "보석상의 반지가 아주 반짝거려.",
+   "tema": "tienda"
+ },
+ {
+   "id": 18,
+   "spanish": "la relojería",
+   "korean": "시계방",
+   "synonym": "",
+   "example_es": "Llevé mi reloj a la relojería.",
+   "example_ko": "시계를 시계방에 맡겼어.",
+   "tema": "tienda"
+ },
+ {
+   "id": 19,
+   "spanish": "la ferretería",
+   "korean": "철물점",
+   "synonym": "",
+   "example_es": "Compré clavos en la ferretería.",
+   "example_ko": "철물점에서 못을 좀 샀어.",
+   "tema": "tienda"
+ },
+ {
+   "id": 20,
+   "spanish": "la peluquería",
+   "korean": "미용실",
+   "synonym": "el salón de belleza",
+   "example_es": "Tengo cita en la peluquería a las cinco.",
+   "example_ko": "5시에 미용실 예약이 있어.",
+   "tema": "tienda"
+ },
+ {
+   "id": 21,
+   "spanish": "la barbería",
+   "korean": "이발소",
+   "synonym": "",
+   "example_es": "El barbero es muy profesional.",
+   "example_ko": "이발사가 아주 전문가야.",
+   "tema": "tienda"
+ },
+ {
+   "id": 22,
+   "spanish": "la juguetería",
+   "korean": "장난감 가게",
+   "synonym": "",
+   "example_es": "La juguetería está llena de niños.",
+   "example_ko": "장난감 가게에 아이들이 가득해.",
+   "tema": "tienda"
+ },
+ {
+   "id": 23,
+   "spanish": "la óptica",
+   "korean": "안경점",
+   "synonym": "",
+   "example_es": "Fui a la óptica a graduarme la vista.",
+   "example_ko": "시력을 측정하러 안경점에 갔어.",
+   "tema": "tienda"
+ },
+ {
+   "id": 24,
+   "spanish": "la perfumería",
+   "korean": "향수가게",
+   "synonym": "",
+   "example_es": "La perfumería huele de maravilla.",
+   "example_ko": "향수가게 냄새가 정말 좋아.",
+   "tema": "tienda"
+ },
+ {
+   "id": 25,
+   "spanish": "la estanquera",
+   "korean": "담배 가게 (Tabacos)",
+   "synonym": "",
+   "example_es": "Compré sellos en el estanco.",
+   "example_ko": "담배 가게에서 우표를 샀어.",
+   "tema": "tienda"
+ },
+ {
+   "id": 26,
+   "spanish": "la quiosco",
+   "korean": "가판대",
+   "synonym": "",
+   "example_es": "Compré el periódico en el quiosco.",
+   "example_ko": "가판대에서 신문을 샀어.",
+   "tema": "tienda"
+ },
+ {
+   "id": 27,
+   "spanish": "la tienda de muebles",
+   "korean": "가구점",
+   "synonym": "",
+   "example_es": "La tienda de muebles tiene sofás cómodos.",
+   "example_ko": "가구점에 편안한 소파들이 있어.",
+   "tema": "tienda"
+ },
+ {
+   "id": 28,
+   "spanish": "la tienda de informática",
+   "korean": "컴퓨터 가게",
+   "synonym": "",
+   "example_es": "Arreglaron mi portátil en la tienda de informática.",
+   "example_ko": "컴퓨터 가게에서 내 노트북을 수리했어.",
+   "tema": "tienda"
+ },
+ {
+   "id": 29,
+   "spanish": "la tintorería",
+   "korean": "세탁소",
+   "synonym": "",
+   "example_es": "Lleva el traje a la tintorería.",
+   "example_ko": "정장을 세탁소에 맡기렴.",
+   "tema": "tienda"
+ },
+ {
+   "id": 30,
+   "spanish": "la lavandería",
+   "korean": "빨래방",
+   "synonym": "",
+   "example_es": "La lavandería autoservicio es barata.",
+   "example_ko": "셀프 빨래방은 저렴해.",
+   "tema": "tienda"
+ },
+ {
+   "id": 31,
+   "spanish": "el escaparate",
+   "korean": "진열창",
+   "synonym": "la vitrina",
+   "example_es": "Me quedé mirando el escaparate.",
+   "example_ko": "나는 진열창을 멍하니 쳐다봤어.",
+   "tema": "tienda"
+ },
+ {
+   "id": 32,
+   "spanish": "el mostrador",
+   "korean": "카운터, 계산대",
+   "synonym": "la caja",
+   "example_es": "Paga la compra en el mostrador.",
+   "example_ko": "계산대에서 계산하세요.",
+   "tema": "tienda"
+ },
+ {
+   "id": 33,
+   "spanish": "el dependiente / la dependienta",
+   "korean": "점원",
+   "synonym": "el vendedor",
+   "example_es": "El dependiente me ayudó a elegir.",
+   "example_ko": "점원이 선택하는 걸 도와줬어.",
+   "tema": "tienda"
+ },
+ {
+   "id": 34,
+   "spanish": "el cliente / la cliente",
+   "korean": "손님",
+   "synonym": "",
+   "example_es": "El cliente siempre tiene la razón.",
+   "example_ko": "손님은 항상 옳다.",
+   "tema": "tienda"
+ },
+ {
+   "id": 35,
+   "spanish": "el precio",
+   "korean": "가격",
+   "synonym": "",
+   "example_es": "¿Cuál es el precio de esta chaqueta?",
+   "example_ko": "이 재킷 가격이 얼마인가요?",
+   "tema": "tienda"
+ },
+ {
+   "id": 36,
+   "spanish": "la oferta",
+   "korean": "할인, 제안",
+   "synonym": "",
+   "example_es": "Hay una oferta de dos por uno.",
+   "example_ko": "1+1 할인 행사가 있어.",
+   "tema": "tienda"
+ },
+ {
+   "id": 37,
+   "spanish": "el descuento",
+   "korean": "할인",
+   "synonym": "la rebaja",
+   "example_es": "Me hicieron un descuento del diez por ciento.",
+   "example_ko": "10퍼센트 할인을 받았어.",
+   "tema": "tienda"
+ },
+ {
+   "id": 38,
+   "spanish": "el recibo",
+   "korean": "영수증",
+   "synonym": "la factura",
+   "example_es": "Guarda el recibo por si acaso.",
+   "example_ko": "혹시 모르니 영수증을 보관하렴.",
+   "tema": "tienda"
+ },
+ {
+   "id": 39,
+   "spanish": "la bolsa",
+   "korean": "봉투",
+   "synonym": "",
+   "example_es": "¿Desea una bolsa de plástico?",
+   "example_ko": "비닐봉지 필요하세요?",
+   "tema": "tienda"
+ },
+ {
+   "id": 40,
+   "spanish": "el carrito",
+   "korean": "쇼핑 카트",
+   "synonym": "",
+   "example_es": "Llena el carrito con la compra.",
+   "example_ko": "쇼핑 카트를 물건으로 채우렴.",
+   "tema": "tienda"
+ },
+ {
+   "id": 41,
+   "spanish": "la cesta",
+   "korean": "쇼핑 바구니",
+   "synonym": "",
+   "example_es": "Llevo los huevos en la cesta.",
+   "example_ko": "바구니에 달걀을 담아 가.",
+   "tema": "tienda"
+ },
+ {
+   "id": 42,
+   "spanish": "probador",
+   "korean": "탈의실",
+   "synonym": "",
+   "example_es": "El probador está ocupado ahora.",
+   "example_ko": "지금 탈의실이 사용 중이야.",
+   "tema": "tienda"
+ },
+ {
+   "id": 43,
+   "spanish": "la talla",
+   "korean": "사이즈",
+   "synonym": "",
+   "example_es": "¿Qué talla de pantalón usas?",
+   "example_ko": "바지 사이즈 몇 입으세요?",
+   "tema": "tienda"
+ },
+ {
+   "id": 44,
+   "spanish": "en efectivo",
+   "korean": "현금으로",
+   "synonym": "",
+   "example_es": "Solo aceptamos pagos en efectivo.",
+   "example_ko": "현금 결제만 가능합니다.",
+   "tema": "tienda"
+ },
+ {
+   "id": 45,
+   "spanish": "con tarjeta",
+   "korean": "카드로",
+   "synonym": "",
+   "example_es": "¿Puedo pagar con tarjeta de crédito?",
+   "example_ko": "신용카드로 결제할 수 있나요?",
+   "tema": "tienda"
+ },
+ {
+   "id": 46,
+   "spanish": "la tienda de comestibles",
+   "korean": "식료품점",
+   "synonym": "la bodega / los abarrotes",
+   "example_es": "La tienda de comestibles abre los domingos.",
+   "example_ko": "식료품점은 일요일에도 문을 열어.",
+   "tema": "tienda"
+ },
+ {
+   "id": 47,
+   "spanish": "el estante",
+   "korean": "선반",
+   "synonym": "",
+   "example_es": "Busca el producto en el estante de arriba.",
+   "example_ko": "위쪽 선반에서 제품을 찾아봐.",
+   "tema": "tienda"
+ },
+ {
+   "id": 48,
+   "spanish": "la sección",
+   "korean": "구역, 코너",
+   "synonym": "",
+   "example_es": "La sección de lácteos está al fondo.",
+   "example_ko": "유제품 코너는 안쪽에 있어.",
+   "tema": "tienda"
+ },
+ {
+   "id": 49,
+   "spanish": "la cola",
+   "korean": "줄",
+   "synonym": "la fila",
+   "example_es": "Hay mucha cola en la caja.",
+   "example_ko": "계산대에 줄이 아주 길어.",
+   "tema": "tienda"
+ },
+ {
+   "id": 50,
+   "spanish": "cerrado",
+   "korean": "닫힘",
+   "synonym": "",
+   "example_es": "Lo siento, la tienda está cerrada.",
+   "example_ko": "죄송합니다, 상점 문이 닫혔어요.",
+   "tema": "tienda"
+ }
+]

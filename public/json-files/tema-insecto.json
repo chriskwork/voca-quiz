@@ -1,0 +1,758 @@
+[
+ {
+   "id": 1,
+   "spanish": "el insecto",
+   "korean": "곤충",
+   "synonym": "el bicho",
+   "example_es": "Hay miles de especies de insectos.",
+   "example_ko": "수천 종의 곤충이 있어.",
+   "tema": "insecto"
+ },
+ {
+   "id": 2,
+   "spanish": "la hormiga",
+   "korean": "개미",
+   "synonym": "",
+   "example_es": "La hormiga lleva comida al hormiguero.",
+   "example_ko": "개미가 개미집으로 먹이를 운반해.",
+   "tema": "insecto"
+ },
+ {
+   "id": 3,
+   "spanish": "la abeja",
+   "korean": "벌",
+   "synonym": "",
+   "example_es": "La abeja poliniza las flores.",
+   "example_ko": "벌이 꽃을 수분시켜.",
+   "tema": "insecto"
+ },
+ {
+   "id": 4,
+   "spanish": "la avispa",
+   "korean": "말벌",
+   "synonym": "",
+   "example_es": "La avispa me picó en el jardín.",
+   "example_ko": "정원에서 말벌에게 쏘였어.",
+   "tema": "insecto"
+ },
+ {
+   "id": 5,
+   "spanish": "el zángano",
+   "korean": "수벌, 게으름뱅이",
+   "synonym": "",
+   "example_es": "El zángano no recolecta néctar.",
+   "example_ko": "수벌은 꿀을 채취하지 않아.",
+   "tema": "insecto"
+ },
+ {
+   "id": 6,
+   "spanish": "el abejorro",
+   "korean": "범블비, 뒤영벌",
+   "synonym": "",
+   "example_es": "El abejorro es grande y peludo.",
+   "example_ko": "범블비는 크고 털이 많아.",
+   "tema": "insecto"
+ },
+ {
+   "id": 7,
+   "spanish": "la mariposa",
+   "korean": "나비",
+   "synonym": "",
+   "example_es": "La mariposa tiene alas de colores.",
+   "example_ko": "나비는 알록달록한 날개를 가졌어.",
+   "tema": "insecto"
+ },
+ {
+   "id": 8,
+   "spanish": "la oruga",
+   "korean": "애벌레",
+   "synonym": "",
+   "example_es": "La oruga se convirtió en mariposa.",
+   "example_ko": "애벌레가 나비로 변했어.",
+   "tema": "insecto"
+ },
+ {
+   "id": 9,
+   "spanish": "la polilla",
+   "korean": "나방",
+   "synonym": "",
+   "example_es": "La polilla vuela hacia la luz.",
+   "example_ko": "나방이 빛을 향해 날아가.",
+   "tema": "insecto"
+ },
+ {
+   "id": 10,
+   "spanish": "la mosca",
+   "korean": "파리",
+   "synonym": "",
+   "example_es": "La mosca es muy molesta en verano.",
+   "example_ko": "여름에는 파리가 아주 성가셔.",
+   "tema": "insecto"
+ },
+ {
+   "id": 11,
+   "spanish": "el mosquito",
+   "korean": "모기",
+   "synonym": "el zancudo",
+   "example_es": "El mosquito me picó anoche.",
+   "example_ko": "어젯밤에 모기한테 물렸어.",
+   "tema": "insecto"
+ },
+ {
+   "id": 12,
+   "spanish": "la larva",
+   "korean": "유충, 애벌레",
+   "synonym": "",
+   "example_es": "Las larvas viven en el agua.",
+   "example_ko": "유충들은 물속에 살아.",
+   "tema": "insecto"
+ },
+ {
+   "id": 13,
+   "spanish": "el escarabajo",
+   "korean": "딱정벌레",
+   "synonym": "",
+   "example_es": "El escarabajo tiene un caparazón duro.",
+   "example_ko": "딱정벌레는 단단한 껍질을 가졌어.",
+   "tema": "insecto"
+ },
+ {
+   "id": 14,
+   "spanish": "la mariquita",
+   "korean": "무당벌레",
+   "synonym": "la vaquita de san antón",
+   "example_es": "La mariquita tiene puntos negros.",
+   "example_ko": "무당벌레는 검은 점이 있어.",
+   "tema": "insecto"
+ },
+ {
+   "id": 15,
+   "spanish": "el saltamontes",
+   "korean": "메뚜기",
+   "synonym": "el chapulín",
+   "example_es": "El saltamontes salta muy alto.",
+   "example_ko": "메뚜기는 아주 높이 뛰어.",
+   "tema": "insecto"
+ },
+ {
+   "id": 16,
+   "spanish": "el grillo",
+   "korean": "귀뚜라미",
+   "synonym": "",
+   "example_es": "El grillo canta por la noche.",
+   "example_ko": "귀뚜라미가 밤에 노래해.",
+   "tema": "insecto"
+ },
+ {
+   "id": 17,
+   "spanish": "la langosta",
+   "korean": "메뚜기 떼, 바닷가재",
+   "synonym": "",
+   "example_es": "La plaga de langostas destruyó el cultivo.",
+   "example_ko": "메뚜기 떼가 농작물을 파괴했어.",
+   "tema": "insecto"
+ },
+ {
+   "id": 18,
+   "spanish": "la libélula",
+   "korean": "잠자리",
+   "synonym": "",
+   "example_es": "La libélula vuela sobre el estanque.",
+   "example_ko": "잠자리가 연못 위를 날아다녀.",
+   "tema": "insecto"
+ },
+ {
+   "id": 19,
+   "spanish": "la mantis religiosa",
+   "korean": "사마귀",
+   "synonym": "",
+   "example_es": "La mantis religiosa caza otros insectos.",
+   "example_ko": "사마귀는 다른 곤충들을 사냥해.",
+   "tema": "insecto"
+ },
+ {
+   "id": 20,
+   "spanish": "la cucaracha",
+   "korean": "바퀴벌레",
+   "synonym": "",
+   "example_es": "La cucaracha es muy resistente.",
+   "example_ko": "바퀴벌레는 생명력이 아주 강해.",
+   "tema": "insecto"
+ },
+ {
+   "id": 21,
+   "spanish": "la termita",
+   "korean": "흰개미",
+   "synonym": "",
+   "example_es": "Las termitas se comen la madera.",
+   "example_ko": "흰개미는 나무를 갉아먹어.",
+   "tema": "insecto"
+ },
+ {
+   "id": 22,
+   "spanish": "el piojo",
+   "korean": "이",
+   "synonym": "",
+   "example_es": "El niño tiene piojos en la cabeza.",
+   "example_ko": "아이가 머리에 이가 있어.",
+   "tema": "insecto"
+ },
+ {
+   "id": 23,
+   "spanish": "la pulga",
+   "korean": "벼룩",
+   "synonym": "",
+   "example_es": "El perro tiene muchas pulgas.",
+   "example_ko": "개가 벼룩이 많아.",
+   "tema": "insecto"
+ },
+ {
+   "id": 24,
+   "spanish": "la garrapata",
+   "korean": "진드기",
+   "synonym": "",
+   "example_es": "Revisa al perro por si tiene garrapata.",
+   "example_ko": "진드기가 있는지 개를 확인해 봐.",
+   "tema": "insecto"
+ },
+ {
+   "id": 25,
+   "spanish": "la chinche",
+   "korean": "빈대, 노린재",
+   "synonym": "",
+   "example_es": "Hay chinches en la cama.",
+   "example_ko": "침대에 빈대가 있어.",
+   "tema": "insecto"
+ },
+ {
+   "id": 26,
+   "spanish": "el tábano",
+   "korean": "등에",
+   "synonym": "",
+   "example_es": "El tábano da picaduras dolorosas.",
+   "example_ko": "등에는 아픈 상처를 남겨.",
+   "tema": "insecto"
+ },
+ {
+   "id": 27,
+   "spanish": "la luciérnaga",
+   "korean": "반딧불이",
+   "synonym": "",
+   "example_es": "Las luciérnagas brillan en la oscuridad.",
+   "example_ko": "반딧불이는 어둠 속에서 빛나.",
+   "tema": "insecto"
+ },
+ {
+   "id": 28,
+   "spanish": "la cigarra",
+   "korean": "매미",
+   "synonym": "chicharra",
+   "example_es": "La cigarra hace mucho ruido.",
+   "example_ko": "매미가 아주 시끄럽게 울어.",
+   "tema": "insecto"
+ },
+ {
+   "id": 29,
+   "spanish": "el abejorro",
+   "korean": "말벌류, 땡비",
+   "synonym": "",
+   "example_es": "Ten cuidado con ese abejorro.",
+   "example_ko": "저 말벌을 조심해.",
+   "tema": "insecto"
+ },
+ {
+   "id": 30,
+   "spanish": "la araña",
+   "korean": "거미",
+   "synonym": "",
+   "example_es": "La araña teje una telaraña.",
+   "example_ko": "거미가 거미줄을 쳐.",
+   "tema": "insecto"
+ },
+ {
+   "id": 31,
+   "spanish": "la telaraña",
+   "korean": "거미줄",
+   "synonym": "",
+   "example_es": "Hay una telaraña en el rincón.",
+   "example_ko": "구석에 거미줄이 있어.",
+   "tema": "insecto"
+ },
+ {
+   "id": 32,
+   "spanish": "el escorpión",
+   "korean": "전갈",
+   "synonym": "el alacrán",
+   "example_es": "El escorpión tiene un aguijón.",
+   "example_ko": "전갈은 독침을 가졌어.",
+   "tema": "insecto"
+ },
+ {
+   "id": 33,
+   "spanish": "el ciempiés",
+   "korean": "지네",
+   "synonym": "",
+   "example_es": "El ciempiés tiene muchísimas patas.",
+   "example_ko": "지네는 다리가 아주 많아.",
+   "tema": "insecto"
+ },
+ {
+   "id": 34,
+   "spanish": "el milpiés",
+   "korean": "노래기",
+   "synonym": "",
+   "example_es": "El milpiés se enrolla sobre sí mismo.",
+   "example_ko": "노래기는 몸을 동글게 말아.",
+   "tema": "insecto"
+ },
+ {
+   "id": 35,
+   "spanish": "el bicho bola",
+   "korean": "공벌레, 쥐며느리",
+   "synonym": "",
+   "example_es": "El bicho bola vive bajo las piedras.",
+   "example_ko": "공벌레는 돌 밑에 살아.",
+   "tema": "insecto"
+ },
+ {
+   "id": 36,
+   "spanish": "el caracol",
+   "korean": "달팽이",
+   "synonym": "",
+   "example_es": "El caracol camina despacio.",
+   "example_ko": "달팽이는 천천히 걸어.",
+   "tema": "insecto"
+ },
+ {
+   "id": 37,
+   "spanish": "la babosa",
+   "korean": "민달팽이",
+   "synonym": "",
+   "example_es": "La babosa deja un rastro de baba.",
+   "example_ko": "민달팽이는 점액 흔적을 남겨.",
+   "tema": "insecto"
+ },
+ {
+   "id": 38,
+   "spanish": "la lombriz",
+   "korean": "지렁이",
+   "synonym": "",
+   "example_es": "La lombriz es buena para la tierra.",
+   "example_ko": "지렁이는 흙에 이로워.",
+   "tema": "insecto"
+ },
+ {
+   "id": 39,
+   "spanish": "la sanguijuela",
+   "korean": "거머리",
+   "synonym": "",
+   "example_es": "La sanguijuela se pega a la piel.",
+   "example_ko": "거머리가 피부에 달라붙어.",
+   "tema": "insecto"
+ },
+ {
+   "id": 40,
+   "spanish": "el bicho",
+   "korean": "벌레 (일반)",
+   "synonym": "",
+   "example_es": "No mates a ese bicho.",
+   "example_ko": "그 벌레를 죽이지 마.",
+   "tema": "insecto"
+ },
+ {
+   "id": 41,
+   "spanish": "el aguijón",
+   "korean": "(곤충의) 침",
+   "synonym": "",
+   "example_es": "La abeja perdió su aguijón.",
+   "example_ko": "벌이 자기 침을 잃었어.",
+   "tema": "insecto"
+ },
+ {
+   "id": 42,
+   "spanish": "la antena",
+   "korean": "더듬이",
+   "synonym": "",
+   "example_es": "El insecto mueve sus antenas.",
+   "example_ko": "곤충이 더듬이를 움직여.",
+   "tema": "insecto"
+ },
+ {
+   "id": 43,
+   "spanish": "el ala",
+   "korean": "날개",
+   "synonym": "",
+   "example_es": "Las alas de la mariposa son frágiles.",
+   "example_ko": "나비의 날개는 약해.",
+   "tema": "insecto"
+ },
+ {
+   "id": 44,
+   "spanish": "el capullo",
+   "korean": "고치",
+   "synonym": "",
+   "example_es": "La seda se saca del capullo.",
+   "example_ko": "실크는 고치에서 추출해.",
+   "tema": "insecto"
+ },
+ {
+   "id": 45,
+   "spanish": "la colmena",
+   "korean": "벌통, 벌집",
+   "synonym": "",
+   "example_es": "Hay mucha miel en la colmena.",
+   "example_ko": "벌통에 꿀이 가득해.",
+   "tema": "insecto"
+ },
+ {
+   "id": 46,
+   "spanish": "el hormiguero",
+   "korean": "개미집",
+   "synonym": "",
+   "example_es": "No pises el hormiguero.",
+   "example_ko": "개미집을 밟지 마.",
+   "tema": "insecto"
+ },
+ {
+   "id": 47,
+   "spanish": "la picadura",
+   "korean": "(곤충에게) 물린 상처",
+   "synonym": "",
+   "example_es": "Tengo una picadura que me pica.",
+   "example_ko": "물린 자리가 가려워.",
+   "tema": "insecto"
+ },
+ {
+   "id": 48,
+   "spanish": "el veneno",
+   "korean": "독",
+   "synonym": "",
+   "example_es": "El veneno de la araña es potente.",
+   "example_ko": "거미의 독은 강력해.",
+   "tema": "insecto"
+ },
+ {
+   "id": 49,
+   "spanish": "zumbido",
+   "korean": "윙윙거리는 소리",
+   "synonym": "",
+   "example_es": "Oigo el zumbido de una mosca.",
+   "example_ko": "파리의 윙윙 소리가 들려.",
+   "tema": "insecto"
+ },
+ {
+   "id": 50,
+   "spanish": "metamorfosis",
+   "korean": "변태",
+   "synonym": "",
+   "example_es": "La metamorfosis es un cambio total.",
+   "example_ko": "변태는 완전한 변화야.",
+   "tema": "insecto"
+ },
+ {
+   "id": 51,
+   "spanish": "la mantis",
+   "korean": "사마귀",
+   "synonym": "",
+   "example_es": "La mantis espera a su presa inmóvil.",
+   "example_ko": "사마귀는 움직이지 않고 먹잇감을 기다려.",
+   "tema": "insecto"
+ },
+ {
+   "id": 52,
+   "spanish": "el saltamontes",
+   "korean": "베짱이, 여치",
+   "synonym": "la langosta",
+   "example_es": "El saltamontes verde se camufla bien.",
+   "example_ko": "초록색 베짱이는 위장을 잘해.",
+   "tema": "insecto"
+ },
+ {
+   "id": 53,
+   "spanish": "el bicho palo",
+   "korean": "대나무벌레, 대벌레",
+   "synonym": "",
+   "example_es": "El bicho palo parece una rama seca.",
+   "example_ko": "대벌레는 마른 나뭇가지처럼 보여.",
+   "tema": "insecto"
+ },
+ {
+   "id": 54,
+   "spanish": "la polilla de la seda",
+   "korean": "누에나방",
+   "synonym": "",
+   "example_es": "La polilla de la seda produce hilos.",
+   "example_ko": "누에나방은 실을 생산해.",
+   "tema": "insecto"
+ },
+ {
+   "id": 55,
+   "spanish": "el gusano de seda",
+   "korean": "누에",
+   "synonym": "",
+   "example_es": "El gusano de seda come moras.",
+   "example_ko": "누에는 뽕잎을 먹어.",
+   "tema": "insecto"
+ },
+ {
+   "id": 56,
+   "spanish": "el escarabajo pelotero",
+   "korean": "소똥구리",
+   "synonym": "",
+   "example_es": "El escarabajo pelotero rueda su bola.",
+   "example_ko": "소똥구리가 자기 공을 굴려.",
+   "tema": "insecto"
+ },
+ {
+   "id": 57,
+   "spanish": "el ciervo volante",
+   "korean": "사슴벌레",
+   "synonym": "",
+   "example_es": "El ciervo volante tiene pinzas grandes.",
+   "example_ko": "사슴벌레는 큰 집게를 가졌어.",
+   "tema": "insecto"
+ },
+ {
+   "id": 58,
+   "spanish": "el escarabajo rinoceronte",
+   "korean": "장수풍뎅이",
+   "synonym": "",
+   "example_es": "El escarabajo rinoceronte es muy fuerte.",
+   "example_ko": "장수풍뎅이는 아주 힘이 세.",
+   "tema": "insecto"
+ },
+ {
+   "id": 59,
+   "spanish": "la luciérnaga",
+   "korean": "개똥벌레",
+   "synonym": "el bicho de luz",
+   "example_es": "La luciérnaga brilla por la noche.",
+   "example_ko": "개똥벌레는 밤에 빛을 내.",
+   "tema": "insecto"
+ },
+ {
+   "id": 60,
+   "spanish": "el tábano",
+   "korean": "말파리, 등에",
+   "synonym": "",
+   "example_es": "El tábano es muy agresivo en verano.",
+   "example_ko": "등에는 여름에 아주 공격적이야.",
+   "tema": "insecto"
+ },
+ {
+   "id": 61,
+   "spanish": "la chinche de cama",
+   "korean": "빈대",
+   "synonym": "",
+   "example_es": "Las chinches de cama son difíciles de eliminar.",
+   "example_ko": "빈대는 제거하기가 아주 힘들어.",
+   "tema": "insecto"
+ },
+ {
+   "id": 62,
+   "spanish": "la garrapata",
+   "korean": "진드기",
+   "synonym": "",
+   "example_es": "Quítale la garrapata al perro con cuidado.",
+   "example_ko": "강아지한테서 진드기를 조심해서 떼어내렴.",
+   "tema": "insecto"
+ },
+ {
+   "id": 63,
+   "spanish": "el ácaro",
+   "korean": "진드기, 먼지진드기",
+   "synonym": "",
+   "example_es": "Los ácaros del polvo causan alergia.",
+   "example_ko": "집먼지진드기는 알레르기를 유발해.",
+   "tema": "insecto"
+ },
+ {
+   "id": 64,
+   "spanish": "el bicho",
+   "korean": "벌레 (비칭/애칭)",
+   "synonym": "",
+   "example_es": "¡Hay un bicho enorme en la pared!",
+   "example_ko": "벽에 엄청나게 큰 벌레가 있어!",
+   "tema": "insecto"
+ },
+ {
+   "id": 65,
+   "spanish": "el exoesqueleto",
+   "korean": "외골격",
+   "synonym": "",
+   "example_es": "El insecto tiene un exoesqueleto duro.",
+   "example_ko": "곤충은 딱딱한 외골격을 가졌어.",
+   "tema": "insecto"
+ },
+ {
+   "id": 66,
+   "spanish": "el tórax",
+   "korean": "가슴 (곤충의 부위)",
+   "synonym": "",
+   "example_es": "Las patas nacen del tórax.",
+   "example_ko": "다리는 가슴 부위에서 시작돼.",
+   "tema": "insecto"
+ },
+ {
+   "id": 67,
+   "spanish": "el abdomen",
+   "korean": "배 (곤충의 부위)",
+   "synonym": "",
+   "example_es": "El abdomen del insecto es segmentado.",
+   "example_ko": "곤충의 배는 마디로 나뉘어 있어.",
+   "tema": "insecto"
+ },
+ {
+   "id": 68,
+   "spanish": "el parásito",
+   "korean": "기생충",
+   "synonym": "",
+   "example_es": "La pulga es un parásito común.",
+   "example_ko": "벼룩은 흔한 기생충이야.",
+   "tema": "insecto"
+ },
+ {
+   "id": 69,
+   "spanish": "la plaga",
+   "korean": "해충, 역병",
+   "synonym": "",
+   "example_es": "La plaga destruyó toda la cosecha.",
+   "example_ko": "해충 떼가 모든 수확물을 망쳤어.",
+   "tema": "insecto"
+ },
+ {
+   "id": 70,
+   "spanish": "el insecticida",
+   "korean": "살충제",
+   "synonym": "",
+   "example_es": "Echa insecticida para matar moscas.",
+   "example_ko": "파리를 잡으려고 살충제를 뿌려.",
+   "tema": "insecto"
+ },
+ {
+   "id": 71,
+   "spanish": "picar",
+   "korean": "(벌레가) 쏘다, 물다",
+   "synonym": "",
+   "example_es": "Me picó una abeja en la mano.",
+   "example_ko": "벌이 내 손을 쐈어.",
+   "tema": "insecto"
+ },
+ {
+   "id": 72,
+   "spanish": "morder",
+   "korean": "(벌레가) 깨물다",
+   "synonym": "",
+   "example_es": "Cuidado, esa araña puede morder.",
+   "example_ko": "조심해, 그 거미는 깨물 수도 있어.",
+   "tema": "insecto"
+ },
+ {
+   "id": 73,
+   "spanish": "volar",
+   "korean": "날다",
+   "synonym": "",
+   "example_es": "Las mariposas vuelan de flor en flor.",
+   "example_ko": "나비들이 꽃에서 꽃으로 날아다녀.",
+   "tema": "insecto"
+ },
+ {
+   "id": 74,
+   "spanish": "arrastrarse",
+   "korean": "기어가다",
+   "synonym": "",
+   "example_es": "El gusano se arrastra por la tierra.",
+   "example_ko": "벌레가 땅 위를 기어가.",
+   "tema": "insecto"
+ },
+ {
+   "id": 75,
+   "spanish": "zumbir",
+   "korean": "윙윙거리다",
+   "synonym": "",
+   "example_es": "El mosquito zumba en mi oído.",
+   "example_ko": "모기가 내 귀에서 윙윙거려.",
+   "tema": "insecto"
+ },
+ {
+   "id": 76,
+   "spanish": "tejer",
+   "korean": "(거미줄을) 짜다",
+   "synonym": "",
+   "example_es": "La araña teje su red de noche.",
+   "example_ko": "거미가 밤에 자기 그물을 짜.",
+   "tema": "insecto"
+ },
+ {
+   "id": 77,
+   "spanish": "polinizar",
+   "korean": "수분하다",
+   "synonym": "",
+   "example_es": "Las abejas ayudan a polinizar.",
+   "example_ko": "벌들은 수분을 도와줘.",
+   "tema": "insecto"
+ },
+ {
+   "id": 78,
+   "spanish": "mudar",
+   "korean": "허물을 벗다",
+   "synonym": "",
+   "example_es": "La serpiente y algunos insectos mudan.",
+   "example_ko": "뱀과 일부 곤충은 허물을 벗어.",
+   "tema": "insecto"
+ },
+ {
+   "id": 79,
+   "spanish": "la larva",
+   "korean": "구더기, 유충",
+   "synonym": "",
+   "example_es": "La larva se alimenta de hojas.",
+   "example_ko": "유충은 잎을 먹고 살아.",
+   "tema": "insecto"
+ },
+ {
+   "id": 80,
+   "spanish": "el insecto palo",
+   "korean": "대벌레",
+   "synonym": "",
+   "example_es": "Es difícil ver al insecto palo.",
+   "example_ko": "대벌레는 보기가 힘들어.",
+   "tema": "insecto"
+ },
+ {
+   "id": 81,
+   "spanish": "un enjambre",
+   "korean": "(벌, 곤충) 떼",
+   "synonym": "",
+   "example_es": "Un enjambre me asustó ayer.",
+   "example_ko": "벌 떼가 어제 나를 놀라게 했어.",
+   "tema": "insecto"
+ },
+ {
+   "id": 82,
+   "spanish": "un enjambre de mosquitos",
+   "korean": "모기 떼",
+   "synonym": "",
+   "example_es": "Hay un enjambre de mosquitos.",
+   "example_ko": "모기 떼가 있어.",
+   "tema": "insecto"
+ },
+ {
+   "id": 83,
+   "spanish": "un hormiguero",
+   "korean": "개미집, 개미 떼",
+   "synonym": "",
+   "example_es": "Pisaste el hormiguero sin querer.",
+   "example_ko": "너는 실수로 개미집을 밟았어.",
+   "tema": "insecto"
+ },
+ {
+   "id": 84,
+   "spanish": "una colonia de hormigas",
+   "korean": "개미 군집",
+   "synonym": "",
+   "example_es": "La colonia de hormigas trabaja.",
+   "example_ko": "개미 군집이 일하고 있어.",
+   "tema": "insecto"
+ }
+]

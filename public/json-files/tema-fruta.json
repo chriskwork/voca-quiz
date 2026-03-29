@@ -1,0 +1,497 @@
+[
+ {
+   "id": 1,
+   "spanish": "las frutas",
+   "korean": "과일들",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 2,
+   "spanish": "las bayas",
+   "korean": "베리류",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 3,
+   "spanish": "el arándano",
+   "korean": "블루베리",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 4,
+   "spanish": "la frambuesa",
+   "korean": "산딸기",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 5,
+   "spanish": "la fresa",
+   "korean": "딸기",
+   "synonym": "la frutilla",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 6,
+   "spanish": "la grosella negra",
+   "korean": "블랙베리",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 7,
+   "spanish": "la grosella roja",
+   "korean": "크랜베리",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 8,
+   "spanish": "los cítricos",
+   "korean": "감귤류",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 9,
+   "spanish": "el limón",
+   "korean": "레몬",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 10,
+   "spanish": "la mandarina",
+   "korean": "귤",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 11,
+   "spanish": "la naranja",
+   "korean": "오렌지",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 12,
+   "spanish": "el pomelo",
+   "korean": "자몽",
+   "synonym": "la toronja",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 13,
+   "spanish": "el melón",
+   "korean": "멜론",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 14,
+   "spanish": "la sandía",
+   "korean": "수박",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 15,
+   "spanish": "el aguacate",
+   "korean": "아보카도",
+   "synonym": "la palta",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 16,
+   "spanish": "la carambola",
+   "korean": "카람볼라, 스타후르츠",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 17,
+   "spanish": "la chirimoya",
+   "korean": "체리모야",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 18,
+   "spanish": "el coco",
+   "korean": "코코넛",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 19,
+   "spanish": "el datíl",
+   "korean": "대추",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 20,
+   "spanish": "la fruta da la pasión",
+   "korean": "패션후르츠",
+   "synonym": "la maracuyá",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 21,
+   "spanish": "el kiwi",
+   "korean": "키위",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 22,
+   "spanish": "el litchi",
+   "korean": "리치",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 23,
+   "spanish": "el mango",
+   "korean": "망고",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 24,
+   "spanish": "la papaya",
+   "korean": "파파야",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 25,
+   "spanish": "la piña",
+   "korean": "파인애플",
+   "synonym": "el ananá",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 26,
+   "spanish": "el plátano",
+   "korean": "바나나 (요리용/일반)",
+   "synonym": "el guineo",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 27,
+   "spanish": "la banana",
+   "korean": "바나나 (일반)",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 28,
+   "spanish": "el albaricoque",
+   "korean": "살구",
+   "synonym": "el damasco",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 29,
+   "spanish": "la cereza",
+   "korean": "체리",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 30,
+   "spanish": "la ciruela",
+   "korean": "자두",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 31,
+   "spanish": "el higo",
+   "korean": "무화과",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 32,
+   "spanish": "el caqui",
+   "korean": "감",
+   "synonym": "el kaki",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 33,
+   "spanish": "la manzana",
+   "korean": "사과",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 34,
+   "spanish": "el melocotón",
+   "korean": "복숭아",
+   "synonym": "el durazno",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 35,
+   "spanish": "la nectarina",
+   "korean": "천도복숭아",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 36,
+   "spanish": "el níspero",
+   "korean": "비파나무열매",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 37,
+   "spanish": "la pera",
+   "korean": "배",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 38,
+   "spanish": "la uva",
+   "korean": "포도",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 39,
+   "spanish": "los frutos secos",
+   "korean": "견과류",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 40,
+   "spanish": "la almendra",
+   "korean": "아몬드",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 41,
+   "spanish": "la avellana",
+   "korean": "헤이즐넛",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 42,
+   "spanish": "la bellota",
+   "korean": "도토리",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 43,
+   "spanish": "el cacahuete",
+   "korean": "땅콩",
+   "synonym": "el maní",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 44,
+   "spanish": "la castaña",
+   "korean": "밤",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 45,
+   "spanish": "la nuez",
+   "korean": "호두",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 46,
+   "spanish": "el pistacho",
+   "korean": "피스타치오",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 47,
+   "spanish": "dulce",
+   "korean": "단, 달콤한",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 48,
+   "spanish": "ácido",
+   "korean": "신, 시큼한",
+   "synonym": "agrio",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 49,
+   "spanish": "maduro",
+   "korean": "익은",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 50,
+   "spanish": "verde",
+   "korean": "덜 익은 (초록색의)",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 51,
+   "spanish": "podrido",
+   "korean": "상한, 썩은",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 52,
+   "spanish": "jugoso",
+   "korean": "즙이 많은",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 53,
+   "spanish": "fresco",
+   "korean": "신선한",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 54,
+   "spanish": "la cáscara",
+   "korean": "껍질",
+   "synonym": "",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ },
+ {
+   "id": 55,
+   "spanish": "la semilla",
+   "korean": "씨앗",
+   "synonym": "la pepa",
+   "example_es": "",
+   "example_ko": "",
+   "tema": "fruta"
+ }
+]

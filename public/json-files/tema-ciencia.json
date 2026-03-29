@@ -1,0 +1,1154 @@
+[
+ {
+   "id": 1,
+   "spanish": "la ciencia",
+   "korean": "과학",
+   "synonym": "",
+   "example_es": "La ciencia explica el mundo natural.",
+   "example_ko": "과학은 자연 세계를 설명해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 2,
+   "spanish": "el científico / la científica",
+   "korean": "과학자",
+   "synonym": "",
+   "example_es": "La científica ganó un premio Nobel.",
+   "example_ko": "그 과학자는 노벨상을 받았어.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 3,
+   "spanish": "el experimento",
+   "korean": "실험",
+   "synonym": "",
+   "example_es": "Hicimos un experimento en el laboratorio.",
+   "example_ko": "우리는 실험실에서 실험을 했어.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 4,
+   "spanish": "el laboratorio",
+   "korean": "실험실",
+   "synonym": "",
+   "example_es": "El laboratorio tiene equipos modernos.",
+   "example_ko": "실험실은 현대적인 장비를 갖추고 있어.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 5,
+   "spanish": "la investigación",
+   "korean": "연구, 조사",
+   "synonym": "",
+   "example_es": "La investigación médica salva vidas.",
+   "example_ko": "의학 연구는 생명을 구해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 6,
+   "spanish": "el método científico",
+   "korean": "과학적 방법",
+   "synonym": "",
+   "example_es": "Sigue el método científico paso a paso.",
+   "example_ko": "과학적 방법을 단계별로 따르렴.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 7,
+   "spanish": "la hipótesis",
+   "korean": "가설",
+   "synonym": "",
+   "example_es": "Debemos probar esta hipótesis.",
+   "example_ko": "우리는 이 가설을 검증해야 해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 8,
+   "spanish": "la teoría",
+   "korean": "이론",
+   "synonym": "",
+   "example_es": "La teoría de la evolución은 es fundamental.",
+   "example_ko": "진화론은 근본적인 이론이야.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 9,
+   "spanish": "la prueba",
+   "korean": "증거, 시험",
+   "synonym": "la evidencia",
+   "example_es": "No hay pruebas suficientes todavía.",
+   "example_ko": "아직 충분한 증거가 없어.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 10,
+   "spanish": "el descubrimiento",
+   "korean": "발견",
+   "synonym": "",
+   "example_es": "Fue el descubrimiento más importante del siglo.",
+   "example_ko": "그것은 세기 최대의 발견이었어.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 11,
+   "spanish": "el invento",
+   "korean": "발명품",
+   "synonym": "",
+   "example_es": "La bombilla es un gran invento.",
+   "example_ko": "전구는 위대한 발명품이야.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 12,
+   "spanish": "la observación",
+   "korean": "관찰",
+   "synonym": "",
+   "example_es": "La observación es clave en la ciencia.",
+   "example_ko": "관찰은 과학에서 핵심이야.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 13,
+   "spanish": "el análisis",
+   "korean": "분석",
+   "synonym": "",
+   "example_es": "El análisis de datos llevó tiempo.",
+   "example_ko": "데이터 분석에 시간이 걸렸어.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 14,
+   "spanish": "el resultado",
+   "korean": "결과",
+   "synonym": "",
+   "example_es": "Los resultados fueron sorprendentes.",
+   "example_ko": "결과가 놀라웠어.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 15,
+   "spanish": "la conclusión",
+   "korean": "결론",
+   "synonym": "",
+   "example_es": "Llegamos a una conclusión lógica.",
+   "example_ko": "우리는 논리적인 결론에 도달했어.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 16,
+   "spanish": "la materia",
+   "korean": "물질",
+   "synonym": "",
+   "example_es": "Todo lo que vemos es materia.",
+   "example_ko": "우리가 보는 모든 것은 물질이야.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 17,
+   "spanish": "el átomo",
+   "korean": "원자",
+   "synonym": "",
+   "example_es": "El átomo es la unidad básica.",
+   "example_ko": "원자는 기본 단위야.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 18,
+   "spanish": "la molécula",
+   "korean": "분자",
+   "synonym": "",
+   "example_es": "El agua está formada por moléculas.",
+   "example_ko": "물은 분자들로 이루어져 있어.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 19,
+   "spanish": "el elemento",
+   "korean": "원소",
+   "synonym": "",
+   "example_es": "El oxígeno es un elemento químico.",
+   "example_ko": "산소는 화학 원소야.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 20,
+   "spanish": "la sustancia",
+   "korean": "물질, 실체",
+   "synonym": "",
+   "example_es": "Mezcla las dos sustancias con cuidado.",
+   "example_ko": "두 물질을 조심스럽게 섞으렴.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 21,
+   "spanish": "la energía",
+   "korean": "에너지",
+   "synonym": "",
+   "example_es": "La energía solar es renovable.",
+   "example_ko": "태양 에너지는 재생 가능해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 22,
+   "spanish": "la fuerza",
+   "korean": "힘",
+   "synonym": "",
+   "example_es": "La fuerza de gravedad nos atrae.",
+   "example_ko": "중력이 우리를 끌어당겨.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 23,
+   "spanish": "la gravedad",
+   "korean": "중력",
+   "synonym": "",
+   "example_es": "La gravedad es menor en la Luna.",
+   "example_ko": "달에서는 중력이 더 약해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 24,
+   "spanish": "la masa",
+   "korean": "질량",
+   "synonym": "",
+   "example_es": "La masa se mide en kilogramos.",
+   "example_ko": "질량은 킬로그램으로 측정해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 25,
+   "spanish": "el volumen",
+   "korean": "부피",
+   "synonym": "",
+   "example_es": "Calcula el volumen de este cubo.",
+   "example_ko": "이 정육면체의 부피를 계산해 봐.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 26,
+   "spanish": "la densidad",
+   "korean": "밀도",
+   "synonym": "",
+   "example_es": "El aceite tiene menor densidad que el agua.",
+   "example_ko": "기름은 물보다 밀도가 낮아.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 27,
+   "spanish": "la velocidad",
+   "korean": "속도",
+   "synonym": "",
+   "example_es": "La velocidad de la luz es constante.",
+   "example_ko": "빛의 속도는 일정해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 28,
+   "spanish": "la aceleración",
+   "korean": "가속도",
+   "synonym": "",
+   "example_es": "El coche tiene una gran aceleración.",
+   "example_ko": "그 자동차는 가속도가 엄청나.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 29,
+   "spanish": "la presión",
+   "korean": "압력",
+   "synonym": "",
+   "example_es": "La presión atmosférica baja en la montaña.",
+   "example_ko": "산에서는 기압이 낮아져.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 30,
+   "spanish": "la temperatura",
+   "korean": "온도",
+   "synonym": "",
+   "example_es": "La temperatura se mide en grados.",
+   "example_ko": "온도는 도로 측정해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 31,
+   "spanish": "el calor",
+   "korean": "열",
+   "synonym": "",
+   "example_es": "El calor se transfiere por contacto.",
+   "example_ko": "열은 접촉을 통해 전달돼.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 32,
+   "spanish": "la luz",
+   "korean": "빛",
+   "synonym": "",
+   "example_es": "La luz blanca se divide en colores.",
+   "example_ko": "백색광은 여러 색으로 나뉘어.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 33,
+   "spanish": "el sonido",
+   "korean": "소리",
+   "synonym": "",
+   "example_es": "El sonido viaja por el aire.",
+   "example_ko": "소리는 공기를 통해 전달돼.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 34,
+   "spanish": "la electricidad",
+   "korean": "전기",
+   "synonym": "",
+   "example_es": "La electricidad fluye por el cable.",
+   "example_ko": "전기가 전선을 타고 흘러.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 35,
+   "spanish": "el magnetismo",
+   "korean": "자기",
+   "synonym": "",
+   "example_es": "El magnetismo atrae a los metales.",
+   "example_ko": "자기는 금속을 끌어당겨.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 36,
+   "spanish": "la química",
+   "korean": "화학",
+   "synonym": "",
+   "example_es": "La química estudia las reacciones.",
+   "example_ko": "화학은 반응을 연구해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 37,
+   "spanish": "la física",
+   "korean": "물리",
+   "synonym": "",
+   "example_es": "La física explica las leyes naturales.",
+   "example_ko": "물리학은 자연 법칙을 설명해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 38,
+   "spanish": "la biología",
+   "korean": "생물학",
+   "synonym": "",
+   "example_es": "La biología estudia los seres vivos.",
+   "example_ko": "생물학은 생명체를 연구해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 39,
+   "spanish": "la astronomía",
+   "korean": "천문학",
+   "synonym": "",
+   "example_es": "La astronomía estudia los astros.",
+   "example_ko": "천문학은 천체를 연구해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 40,
+   "spanish": "el microscopio",
+   "korean": "현미경",
+   "synonym": "",
+   "example_es": "Mira las bacterias por el microscopio.",
+   "example_ko": "현미경으로 박테리아를 보렴.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 41,
+   "spanish": "el telescopio",
+   "korean": "망원경",
+   "synonym": "",
+   "example_es": "Miré las estrellas con el telescopio.",
+   "example_ko": "망원경으로 별들을 관찰했어.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 42,
+   "spanish": "la reacción",
+   "korean": "반응",
+   "synonym": "",
+   "example_es": "La reacción química produjo gas.",
+   "example_ko": "화학 반응으로 가스가 생성됐어.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 43,
+   "spanish": "la mezcla",
+   "korean": "혼합물",
+   "synonym": "",
+   "example_es": "La mezcla de sal y agua es una solución.",
+   "example_ko": "소금과 물의 혼합물은 용액이야.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 44,
+   "spanish": "el componente",
+   "korean": "성분",
+   "synonym": "",
+   "example_es": "El agua es un componente esencial.",
+   "example_ko": "물은 필수적인 성분이야.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 45,
+   "spanish": "el gas",
+   "korean": "기체",
+   "synonym": "",
+   "example_es": "El helio es un gas muy ligero.",
+   "example_ko": "헬륨은 아주 가벼운 기체야.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 46,
+   "spanish": "el líquido",
+   "korean": "액체",
+   "synonym": "",
+   "example_es": "El mercurio es un metal líquido.",
+   "example_ko": "수은은 액체 금속이야.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 47,
+   "spanish": "el sólido",
+   "korean": "고체",
+   "synonym": "",
+   "example_es": "El hielo es agua en estado sólido.",
+   "example_ko": "얼음은 고체 상태의 물이야.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 48,
+   "spanish": "la evaporación",
+   "korean": "증발",
+   "synonym": "",
+   "example_es": "La evaporación ocurre con el calor.",
+   "example_ko": "증발은 열과 함께 일어나.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 49,
+   "spanish": "la condensación",
+   "korean": "응축",
+   "synonym": "",
+   "example_es": "La condensación forma gotas de agua.",
+   "example_ko": "응축은 물방울을 형성해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 50,
+   "spanish": "la fusión",
+   "korean": "융해, 녹음",
+   "synonym": "",
+   "example_es": "La fusión del hielo requiere energía.",
+   "example_ko": "얼음이 녹으려면 에너지가 필요해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 51,
+   "spanish": "la radiación",
+   "korean": "방사능, 복사",
+   "synonym": "",
+   "example_es": "La radiación solar llega a la Tierra.",
+   "example_ko": "태양 복사 에너지가 지구에 도달해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 52,
+   "spanish": "el espectro",
+   "korean": "스펙트럼",
+   "synonym": "",
+   "example_es": "El arcoíris es un espectro de luz.",
+   "example_ko": "무지개는 빛의 스펙트럼이야.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 53,
+   "spanish": "la órbita",
+   "korean": "궤도",
+   "synonym": "",
+   "example_es": "La Tierra gira en su órbita.",
+   "example_ko": "지구는 자신의 궤도를 따라 돌아.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 54,
+   "spanish": "el planeta",
+   "korean": "행성",
+   "synonym": "",
+   "example_es": "Marte es el cuarto planeta.",
+   "example_ko": "화성은 네 번째 행성이야.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 55,
+   "spanish": "el satélite",
+   "korean": "위성",
+   "synonym": "",
+   "example_es": "La Luna es el satélite natural.",
+   "example_ko": "달은 천연 위성이야.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 56,
+   "spanish": "la galaxia",
+   "korean": "은하",
+   "synonym": "",
+   "example_es": "Vivimos en la galaxia Vía Láctea.",
+   "example_ko": "우리는 은하수 은하에 살아.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 57,
+   "spanish": "el universo",
+   "korean": "우주",
+   "synonym": "",
+   "example_es": "El universo se está expandiendo.",
+   "example_ko": "우주는 계속 팽창하고 있어.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 58,
+   "spanish": "la célula",
+   "korean": "세포",
+   "synonym": "",
+   "example_es": "La célula es la base de la vida.",
+   "example_ko": "세포는 생명의 기초야.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 59,
+   "spanish": "el ADN",
+   "korean": "DNA",
+   "synonym": "",
+   "example_es": "El ADN contiene la información genética.",
+   "example_ko": "DNA는 유전 정보를 담고 있어.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 60,
+   "spanish": "el gen",
+   "korean": "유전자",
+   "synonym": "",
+   "example_es": "Los genes determinan los rasgos.",
+   "example_ko": "유전자가 특징을 결정해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 61,
+   "spanish": "la evolución",
+   "korean": "진화",
+   "synonym": "",
+   "example_es": "La evolución es un proceso lento.",
+   "example_ko": "진화는 느린 과정이야.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 62,
+   "spanish": "la bacteria",
+   "korean": "박테리아",
+   "synonym": "",
+   "example_es": "Algunas bacterias son beneficiosas.",
+   "example_ko": "어떤 박테리아는 유익해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 63,
+   "spanish": "el virus",
+   "korean": "바이러스",
+   "synonym": "",
+   "example_es": "El virus se propaga rápidamente.",
+   "example_ko": "바이러스는 빠르게 퍼져.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 64,
+   "spanish": "el ecosistema",
+   "korean": "생태계",
+   "synonym": "",
+   "example_es": "Debemos cuidar el ecosistema frágil.",
+   "example_ko": "취약한 생태계를 보호해야 해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 65,
+   "spanish": "el medio ambiente",
+   "korean": "환경",
+   "synonym": "",
+   "example_es": "La ciencia protege el medio ambiente.",
+   "example_ko": "과학은 환경을 보호해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 66,
+   "spanish": "la atmósfera",
+   "korean": "대기",
+   "synonym": "",
+   "example_es": "La atmósfera nos protege del sol.",
+   "example_ko": "대기는 태양으로부터 우리를 보호해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 67,
+   "spanish": "el oxígeno",
+   "korean": "산소",
+   "synonym": "",
+   "example_es": "Necesitamos oxígeno para respirar.",
+   "example_ko": "우리는 숨 쉬기 위해 산소가 필요해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 68,
+   "spanish": "el hidrógeno",
+   "korean": "수소",
+   "synonym": "",
+   "example_es": "El hidrógeno es el elemento más abundante.",
+   "example_ko": "수소는 가장 풍부한 원소야.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 69,
+   "spanish": "el carbono",
+   "korean": "탄소",
+   "synonym": "",
+   "example_es": "El diamante está hecho de carbono.",
+   "example_ko": "다이아몬드는 탄소로 만들어졌어.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 70,
+   "spanish": "el nitrógeno",
+   "korean": "질소",
+   "synonym": "",
+   "example_es": "El aire es mayormente nitrógeno.",
+   "example_ko": "공기는 대부분 질소로 이루어져 있어.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 71,
+   "spanish": "la investigación",
+   "korean": "연구, 조사",
+   "synonym": "",
+   "example_es": "La investigación científica requiere rigor.",
+   "example_ko": "과학 연구는 엄격함을 요구해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 72,
+   "spanish": "el dato",
+   "korean": "데이터, 자료",
+   "synonym": "",
+   "example_es": "Analizamos los datos del experimento.",
+   "example_ko": "우리는 실험 데이터를 분석했어.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 73,
+   "spanish": "la variable",
+   "korean": "변수",
+   "synonym": "",
+   "example_es": "Controla la variable independiente.",
+   "example_ko": "독립 변수를 통제하렴.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 74,
+   "spanish": "la ecuación",
+   "korean": "방정식",
+   "synonym": "",
+   "example_es": "Resolvimos la ecuación matemática.",
+   "example_ko": "우리는 수학 방정식을 풀었어.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 75,
+   "spanish": "la fórmula",
+   "korean": "공식",
+   "synonym": "",
+   "example_es": "Aprende la fórmula del agua.",
+   "example_ko": "물의 화학 공식을 외우렴.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 76,
+   "spanish": "el laboratorio",
+   "korean": "실험실",
+   "synonym": "",
+   "example_es": "El laboratorio debe estar limpio.",
+   "example_ko": "실험실은 청결해야 해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 77,
+   "spanish": "la sustancia",
+   "korean": "물질",
+   "synonym": "",
+   "example_es": "Identifica la sustancia desconocida.",
+   "example_ko": "알 수 없는 물질을 식별해 봐.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 78,
+   "spanish": "el núcleo",
+   "korean": "핵",
+   "synonym": "",
+   "example_es": "El núcleo está en el centro.",
+   "example_ko": "핵은 중심에 있어.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 79,
+   "spanish": "el protón",
+   "korean": "양성자",
+   "synonym": "",
+   "example_es": "El protón tiene carga positiva.",
+   "example_ko": "양성자는 양전하를 띠고 있어.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 80,
+   "spanish": "el neutrón",
+   "korean": "중성자",
+   "synonym": "",
+   "example_es": "El neutrón no tiene carga eléctrica.",
+   "example_ko": "중성자는 전하를 띠지 않아.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 81,
+   "spanish": "el electrón",
+   "korean": "전자",
+   "synonym": "",
+   "example_es": "El electrón tiene carga negativa.",
+   "example_ko": "전자는 음전하를 띠고 있어.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 82,
+   "spanish": "el protón",
+   "korean": "양성자",
+   "synonym": "",
+   "example_es": "El protón se encuentra en el núcleo.",
+   "example_ko": "양성자는 핵 안에 위치해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 83,
+   "spanish": "el neutrón",
+   "korean": "중성자",
+   "synonym": "",
+   "example_es": "El neutrón no tiene carga eléctrica.",
+   "example_ko": "중성자는 전하를 띠지 않아.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 84,
+   "spanish": "el núcleo",
+   "korean": "핵",
+   "synonym": "",
+   "example_es": "El núcleo del átomo es muy pequeño.",
+   "example_ko": "원자의 핵은 아주 작아.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 85,
+   "spanish": "la partícula",
+   "korean": "입자",
+   "synonym": "",
+   "example_es": "La partícula se mueve a gran velocidad.",
+   "example_ko": "입자가 아주 빠른 속도로 움직여.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 86,
+   "spanish": "el vacío",
+   "korean": "진공",
+   "synonym": "",
+   "example_es": "El sonido no viaja por el vacío.",
+   "example_ko": "소리는 진공 상태에서 전달되지 않아.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 87,
+   "spanish": "la onda",
+   "korean": "파동",
+   "synonym": "",
+   "example_es": "La luz se comporta como una onda.",
+   "example_ko": "빛은 파동처럼 행동해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 88,
+   "spanish": "la radiación",
+   "korean": "방사선",
+   "synonym": "",
+   "example_es": "La radiación ultravioleta es peligrosa.",
+   "example_ko": "자외선 방사선은 위험해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 89,
+   "spanish": "la energía nuclear",
+   "korean": "핵에너지",
+   "synonym": "",
+   "example_es": "La energía nuclear es una fuente potente.",
+   "example_ko": "핵에너지는 강력한 에너지원이야.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 90,
+   "spanish": "el microscopio",
+   "korean": "현미경",
+   "synonym": "",
+   "example_es": "Mira la célula por el microscopio.",
+   "example_ko": "현미경으로 세포를 보렴.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 91,
+   "spanish": "el telescopio",
+   "korean": "망원경",
+   "synonym": "",
+   "example_es": "Usa el telescopio para ver los anillos.",
+   "example_ko": "고리를 보려면 망원경을 사용해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 92,
+   "spanish": "el termómetro",
+   "korean": "온도계",
+   "synonym": "",
+   "example_es": "El termómetro marca treinta grados.",
+   "example_ko": "온도계가 30도를 가리키고 있어.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 93,
+   "spanish": "el barómetro",
+   "korean": "기압계",
+   "synonym": "",
+   "example_es": "El barómetro mide la presión del aire.",
+   "example_ko": "기압계는 공기의 압력을 측정해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 94,
+   "spanish": "la probeta",
+   "korean": "시험관, 실린더",
+   "synonym": "",
+   "example_es": "Vierte el líquido en la probeta.",
+   "example_ko": "액체를 시험관에 부으렴.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 95,
+   "spanish": "el matraz",
+   "korean": "플라스크",
+   "synonym": "",
+   "example_es": "Mezcla las sustancias en el matraz.",
+   "example_ko": "플라스크에 물질들을 섞으렴.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 96,
+   "spanish": "el reactivo",
+   "korean": "시약",
+   "synonym": "",
+   "example_es": "Añade el reactivo con cuidado.",
+   "example_ko": "시약을 조심스럽게 추가해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 97,
+   "spanish": "el compuesto",
+   "korean": "화합물",
+   "synonym": "",
+   "example_es": "El agua es un compuesto químico.",
+   "example_ko": "물은 화학 화합물이야.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 98,
+   "spanish": "la solución",
+   "korean": "용액",
+   "synonym": "",
+   "example_es": "La solución es transparente.",
+   "example_ko": "용액이 투명해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 99,
+   "spanish": "la disolución",
+   "korean": "용해, 분해",
+   "synonym": "",
+   "example_es": "La disolución del azúcar es rápida.",
+   "example_ko": "설탕의 용해는 빨라.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 100,
+   "spanish": "la precipitación",
+   "korean": "침전, 강수",
+   "synonym": "",
+   "example_es": "La precipitación ocurre en el fondo.",
+   "example_ko": "침전은 바닥에서 일어나.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 101,
+   "spanish": "el ecosistema",
+   "korean": "생태계",
+   "synonym": "",
+   "example_es": "Cada especie es vital para el ecosistema.",
+   "example_ko": "각 종은 생태계에 필수적이야.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 102,
+   "spanish": "la biodiversidad",
+   "korean": "생물 다양성",
+   "synonym": "",
+   "example_es": "Debemos proteger la biodiversidad.",
+   "example_ko": "생물 다양성을 보호해야 해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 103,
+   "spanish": "la fotosíntesis",
+   "korean": "광합성",
+   "synonym": "",
+   "example_es": "Las plantas realizan la fotosíntesis.",
+   "example_ko": "식물들은 광합성을 해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 104,
+   "spanish": "el metabolismo",
+   "korean": "신진대사",
+   "synonym": "",
+   "example_es": "El ejercicio acelera el metabolismo.",
+   "example_ko": "운동은 신진대사를 촉진해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 105,
+   "spanish": "la genética",
+   "korean": "유전학",
+   "synonym": "",
+   "example_es": "La genética explica la herencia.",
+   "example_ko": "유전학은 유전을 설명해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 106,
+   "spanish": "el genoma",
+   "korean": "게놈, 유전체",
+   "synonym": "",
+   "example_es": "El genoma humano es muy complejo.",
+   "example_ko": "인간 게놈은 아주 복잡해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 107,
+   "spanish": "la biotecnología",
+   "korean": "생명 공학",
+   "synonym": "",
+   "example_es": "La biotecnología avanza cada día.",
+   "example_ko": "생명 공학은 매일 발전하고 있어.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 108,
+   "spanish": "la robótica",
+   "korean": "로봇 공학",
+   "synonym": "",
+   "example_es": "La robótica cambia la industria.",
+   "example_ko": "로봇 공학은 산업을 변화시켜.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 109,
+   "spanish": "la inteligencia artificial",
+   "korean": "인공지능",
+   "synonym": "",
+   "example_es": "La inteligencia artificial es el futuro.",
+   "example_ko": "인공지능은 미래야.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 110,
+   "spanish": "el algoritmo",
+   "korean": "알고리즘",
+   "synonym": "",
+   "example_es": "El algoritmo procesa los datos.",
+   "example_ko": "알고리즘이 데이터를 처리해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 111,
+   "spanish": "la fibra óptica",
+   "korean": "광섬유",
+   "synonym": "",
+   "example_es": "La fibra óptica es muy rápida.",
+   "example_ko": "광섬유는 아주 빨라.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 112,
+   "spanish": "el panel solar",
+   "korean": "태양광 패널",
+   "synonym": "",
+   "example_es": "Instala un panel solar en el tejado.",
+   "example_ko": "지붕에 태양광 패널을 설치해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 113,
+   "spanish": "la energía renovable",
+   "korean": "재생 에너지",
+   "synonym": "",
+   "example_es": "El viento es una energía renovable.",
+   "example_ko": "바람은 재생 에너지야.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 114,
+   "spanish": "el calentamiento global",
+   "korean": "지구 온난화",
+   "synonym": "",
+   "example_es": "El calentamiento global afecta al clima.",
+   "example_ko": "지구 온난화가 기후에 영향을 줘.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 115,
+   "spanish": "el efecto invernadero",
+   "korean": "온실 효과",
+   "synonym": "",
+   "example_es": "El efecto invernadero sube la temperatura.",
+   "example_ko": "온실 효과가 온도를 높여.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 116,
+   "spanish": "el ozono",
+   "korean": "오존",
+   "synonym": "",
+   "example_es": "La capa de ozono nos protege.",
+   "example_ko": "오존층이 우리를 보호해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 117,
+   "spanish": "el fósil",
+   "korean": "화석",
+   "synonym": "",
+   "example_es": "Encontramos un fósil de dinosaurio.",
+   "example_ko": "공룡 화석을 발견했어.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 118,
+   "spanish": "la geología",
+   "korean": "지질학",
+   "synonym": "",
+   "example_es": "La geología estudia las rocas.",
+   "example_ko": "지질학은 암석을 연구해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 119,
+   "spanish": "la placa tectónica",
+   "korean": "지각 판",
+   "synonym": "",
+   "example_es": "Las placas tectónicas se mueven.",
+   "example_ko": "지각 판들이 움직여.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 120,
+   "spanish": "el sismógrafo",
+   "korean": "지진계",
+   "synonym": "",
+   "example_es": "El sismógrafo detectó un temblor.",
+   "example_ko": "지진계가 떨림을 감지했어.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 121,
+   "spanish": "el cero absoluto",
+   "korean": "절대영도",
+   "synonym": "",
+   "example_es": "Nada es más frío que el cero absoluto.",
+   "example_ko": "절대영도보다 더 차가운 것은 없어.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 122,
+   "spanish": "alcalino",
+   "korean": "알칼리성의",
+   "synonym": "básico",
+   "example_es": "El jabón tiene un pH alcalino.",
+   "example_ko": "비누는 알칼리성 pH를 가지고 있어.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 123,
+   "spanish": "ácido",
+   "korean": "산성의",
+   "synonym": "",
+   "example_es": "El limón es un fruto muy ácido.",
+   "example_ko": "레몬은 아주 산성인 과일이야.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 124,
+   "spanish": "el pH",
+   "korean": "pH, 수소 이온 지수",
+   "synonym": "",
+   "example_es": "Mide el pH de la solución.",
+   "example_ko": "용액의 pH를 측정해 보렴.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 125,
+   "spanish": "el destilado",
+   "korean": "증류물",
+   "synonym": "",
+   "example_es": "El agua destilada es pura.",
+   "example_ko": "증류수는 순수해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 126,
+   "spanish": "la solubilidad",
+   "korean": "용해도",
+   "synonym": "",
+   "example_es": "La solubilidad aumenta con el calor.",
+   "example_ko": "용해도는 열과 함께 증가해.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 127,
+   "spanish": "la viscosidad",
+   "korean": "점도, 끈적임",
+   "synonym": "",
+   "example_es": "La miel tiene una alta viscosidad.",
+   "example_ko": "꿀은 점도가 높아.",
+   "tema": "ciencia"
+ },
+ {
+   "id": 128,
+   "spanish": "la radiactividad",
+   "korean": "방사능",
+   "synonym": "",
+   "example_es": "La radiactividad es difícil de medir.",
+   "example_ko": "방사능은 측정하기가 어려워.",
+   "tema": "ciencia"
+ }
+]
