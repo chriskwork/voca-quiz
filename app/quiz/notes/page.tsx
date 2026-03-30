@@ -43,7 +43,7 @@ export default function NoteQuiz() {
       // 중복되는 테마 제거
       const temas = [...new Set(notes.map((n) => n.tema))];
 
-      const arrays = await Promise.all(temas.map((t) => fetch(`/json-files/tema-${t}.json`).then((r) => r.json())));
+      const arrays = await Promise.all(temas.map((t) => fetch(`/json-files/es-ko/tema-${t}.json`).then((r) => r.json())));
 
       setAllVocas(arrays.flat());
       // 오답 전부 출제

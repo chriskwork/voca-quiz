@@ -44,7 +44,7 @@ const TEMA_META: Record<string, { emoji: string; name: string }> = {
 // Load json files
 function getTemas() {
   return Object.entries(TEMA_META).map(([tema, meta]) => {
-    const filePath = path.join(process.cwd(), "public/json-files", `tema-${tema}.json`);
+    const filePath = path.join(process.cwd(), "public/json-files/es-ko", `tema-${tema}.json`);
     const words = JSON.parse(fs.readFileSync(filePath, "utf-8"));
     return { tema, ...meta, count: words.length };
   });

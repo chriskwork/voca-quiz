@@ -19,11 +19,18 @@ export default function TemaVoca() {
   const router = useRouter();
 
   useEffect(() => {
-    fetch(`/json-files/tema-${slug}.json`)
+    fetch(`/json-files/es-ko/tema-${slug}.json`)
       .then((res) => res.json())
       .then(setVocas)
       .catch((e) => console.error("fetch 실패:", e));
   }, [slug]);
+  // 다국어 추가할때
+  // fetch(`/json-files/${lang}/tema-${slug}.json`)
+  //
+  // lib/language-context.tsx — Context + Provider + useLanguage hook 만들기
+  // app/layout.tsx — Provider로 앱 전체 감싸기
+  // 설정 UI에서 언어 선택 → setLang("es-en") 호출
+  // 각 페이지 fetch 경로에 ${lang} 끼워넣기
 
   return !slug ? (
     <div className="pt-20 text-tema-brown text-sm text-center">로딩 중입니다...</div>
