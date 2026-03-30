@@ -47,7 +47,7 @@ export default function TemaQuiz() {
   const [selected, setSelected] = useState<number | null>(null);
 
   useEffect(() => {
-    fetch(`/json-files/tema-${slug}.json`)
+    fetch(`/json-files/es-ko/tema-${slug}.json`)
       .then((res) => res.json())
       .then((data: Voca[]) => {
         setAllVocas(data);
