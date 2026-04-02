@@ -52,7 +52,7 @@ export default function TemaVoca() {
 
       <button
         onClick={() => router.replace(`/quiz/${slug}`)}
-        className="right-6 bottom-6 fixed bg-linear-to-br from-tema-brown to-tema-orange px-6 py-3 rounded-4xl text-md text-white"
+        className="right-6 bottom-22 fixed bg-linear-to-br from-tema-brown to-tema-orange px-6 py-3 rounded-4xl text-md text-white cursor-pointer"
       >
         퀴즈 시작
       </button>
