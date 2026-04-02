@@ -70,6 +70,7 @@ export default function RandomQuiz() {
   const [wrong, setWrong] = useState<Voca[]>([]);
   const [finished, setFinished] = useState(false);
   const [selected, setSelected] = useState<number | null>(null);
+  const [started, setStarted] = useState(false);
 
   useEffect(() => {
     Promise.all(TEMAS.map((t) => fetch(`/json-files/es-ko/tema-${t}.json`).then((r) => r.json())))
@@ -86,8 +87,70 @@ export default function RandomQuiz() {
     [current, questions, allVocas],
   );
 
+  const answer = questions[current];
+
+  function handleSelect(picked: Voca) {
+    if (selected !== null) return;
+
+    setSelected(picked.id);
+
+    const isCorrect = picked.id === answer.id;
+    if (!isCorrect) setWrong((prev) => [...prev, answer]);
+
+    setTimeout(() => {
+      setSelected(null);
+      if (current + 1 >= questions.length) {
+        setFinished(true);
+        setStarted(false);
+        saveWrongNotes(wrong);
+      } else {
+        setCurrent((prev) => prev + 1);
+      }
+    }, 1000);
+  }
+
+  // Screen - loading
   if (questions.length === 0) return <div className="pt-20 text-sm text-center">로딩 중...</div>;
 
+  // Screen - start quiz
+  if (started)
+    return (
+      <div className="px-4 py-6">
+        <p className="mb-6 text-gray-400 text-sm">
+          {current + 1} / {questions.length}
+        </p>
+
+        <h2 className="mb-10 font-bold text-2xl text-center">{answer.spanish}</h2>
+
+        <ul className="flex flex-col gap-6">
+          {choices.map((v) => {
+            const isSelected = selected === v.id;
+            const isAnswer = v.id === answer.id;
+            const showResult = selected !== null;
+
+            let style = "py-3 border rounded-xl w-full text-center";
+            if (showResult && isAnswer) style += " bg-green-200 border-green-400";
+            else if (showResult && isSelected) style += " bg-red-200 border-red-400";
+
+            return (
+              <li key={`${v.tema}-${v.id}`}>
+                <button className={style} onClick={() => handleSelect(v)}>
+                  {v.korean}
+                </button>
+              </li>
+            );
+          })}
+        </ul>
+
+        <p className="mt-20 text-xs">
+          틀린답: {wrong.length} / 10
+          <br />
+          틀린답은 오답노트에 저장됩니다.
+        </p>
+      </div>
+    );
+
+  // Screen - end quiz
   if (finished)
     return (
       <div className="flex flex-col items-center gap-6 px-4 py-20">
@@ -104,11 +167,13 @@ export default function RandomQuiz() {
               setCurrent(0);
               setWrong([]);
               setFinished(false);
+              setStarted(true);
               return;
             }
             setQuestions((prev) => [...prev, ...next]);
             setCurrent((prev) => prev + 1);
             setFinished(false);
+            setStarted(true);
           }}
         >
           10개 더 풀기
@@ -122,60 +187,19 @@ export default function RandomQuiz() {
       </div>
     );
 
-  const answer = questions[current];
-
-  function handleSelect(picked: Voca) {
-    if (selected !== null) return;
-
-    setSelected(picked.id);
-
-    const isCorrect = picked.id === answer.id;
-    if (!isCorrect) setWrong((prev) => [...prev, answer]);
-
-    setTimeout(() => {
-      setSelected(null);
-      if (current + 1 >= questions.length) {
-        setFinished(true);
-        saveWrongNotes(wrong);
-      } else {
-        setCurrent((prev) => prev + 1);
-      }
-    }, 1000);
-  }
-
+  // Screen - main screen
   return (
-    <div className="px-4 py-6">
-      <p className="mb-6 text-gray-400 text-sm">
-        {current + 1} / {questions.length}
-      </p>
+    <div className="mx-auto px-4 py-6">
+      <h2 className="mb-4 font-semibold text-md text-tema-brown text-center">랜덤퀴즈</h2>
 
-      <h2 className="mb-10 font-bold text-2xl text-center">{answer.spanish}</h2>
-
-      <ul className="flex flex-col gap-6">
-        {choices.map((v) => {
-          const isSelected = selected === v.id;
-          const isAnswer = v.id === answer.id;
-          const showResult = selected !== null;
-
-          let style = "py-3 border rounded-xl w-full text-center";
-          if (showResult && isAnswer) style += " bg-green-200 border-green-400";
-          else if (showResult && isSelected) style += " bg-red-200 border-red-400";
-
-          return (
-            <li key={`${v.tema}-${v.id}`}>
-              <button className={style} onClick={() => handleSelect(v)}>
-                {v.korean}
-              </button>
-            </li>
-          );
-        })}
-      </ul>
-
-      <p className="mt-20 text-xs">
-        틀린답: {wrong.length} / 10
-        <br />
-        틀린답은 오답노트에 저장됩니다.
-      </p>
+      <button
+        onClick={() => {
+          setStarted(true);
+        }}
+        className="bg-linear-to-br from-tema-brown to-tema-orange px-6 py-3 rounded-4xl text-md text-white"
+      >
+        퀴즈 시작
+      </button>
     </div>
   );
 }
