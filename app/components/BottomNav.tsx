@@ -4,8 +4,6 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { Home, Shuffle, BookOpen } from "lucide-react";
 
-// active ? "#7B4A1E" : "#A0896A"
-
 const links = [
   {
     href: "/",
