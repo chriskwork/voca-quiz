@@ -66,7 +66,7 @@ export default function Home() {
           스페인어를 정복해요
         </h1>
         <p className="opacity-60 mt-2 mb-8 text-sm">
-          {temas.length}개 테마 · {totalWords.toLocaleString()}개 단어
+          총 {temas.length}개 테마 · {totalWords.toLocaleString()}개 단어
         </p>
 
         <Link
