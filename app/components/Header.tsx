@@ -1,6 +1,6 @@
 "use client";
 
-import { Menu, Search, Home, Shuffle, BookOpen, Settings } from "lucide-react";
+import { Menu, Search, Home, Shuffle, BookOpen, Settings, Info } from "lucide-react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
@@ -66,18 +66,18 @@ export default function Header() {
           </Link>
 
           {/* General 섹션 */}
-          <p className="px-4 pt-4 pb-1 font-bold text-[10px] text-tema-brown-muted uppercase tracking-widest">
+          {/* <p className="px-4 pt-4 pb-1 font-bold text-[10px] text-tema-brown-muted uppercase tracking-widest">
             General
-          </p>
-          <Link
+          </p> */}
+          {/* <Link
             href="/search"
             onClick={() => setIsOpen(false)}
             className={`flex items-center gap-3 px-4 py-3 rounded-xl font-semibold ${pathname === "/search" ? "bg-tema-cream text-tema-brown" : "text-tema-brown"}`}
           >
             <Search size={18} />
             검색
-          </Link>
-          <Link
+          </Link> */}
+          {/* <Link
             href="/settings"
             onClick={() => setIsOpen(false)}
             className={`flex items-center gap-3 px-4 py-3 rounded-xl font-semibold ${pathname === "/settings" ? "bg-tema-cream text-tema-brown" : "text-tema-brown"}`}
@@ -85,6 +85,14 @@ export default function Header() {
             <Settings size={18} />
             설정
           </Link>
+
+          <Link
+            href="/info"
+            onClick={() => setIsOpen(false)}
+            className={`flex items-center gap-3 px-4 py-3 rounded-xl font-semibold ${pathname === "/info" ? "bg-tema-cream text-tema-brown" : "text-tema-brown"}`}
+          >
+            <Info size={18} />앱 소개
+          </Link> */}
         </div>
       </div>
     </header>
