@@ -73,7 +73,7 @@ export default function NotePage() {
       {notes.length > 0 ? (
         <button
           onClick={() => router.replace(`/quiz/notes`)}
-          className="right-6 bottom-6 fixed bg-linear-to-br from-tema-brown to-tema-orange px-6 py-2 rounded-4xl text-white text-sm"
+          className="right-6 bottom-6 fixed bg-linear-to-br from-tema-brown to-tema-orange px-6 py-3 rounded-4xl text-md text-white"
         >
           퀴즈 시작
         </button>
