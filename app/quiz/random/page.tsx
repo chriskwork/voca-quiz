@@ -109,6 +109,10 @@ export default function RandomQuiz() {
     }, 1000);
   }
 
+  // Screen ::
+  // main, started quiz, finished quiz
+  // depends on setStarted, setFinished state
+
   // Screen - loading
   if (questions.length === 0) return <div className="pt-20 text-sm text-center">로딩 중...</div>;
 
@@ -189,16 +193,21 @@ export default function RandomQuiz() {
 
   // Screen - main screen
   return (
-    <div className="mx-auto px-4 py-6">
-      <h2 className="mb-4 font-semibold text-md text-tema-brown text-center">랜덤퀴즈</h2>
+    <div className="flex flex-col mx-auto px-4 py-6 w-full h-full">
+      <h1 className="mb-4 py-4 font-semibold text-tema-brown text-lg text-center">랜덤퀴즈</h1>
+
+      <p className="mb-16 text-md">
+        랜덤퀴즈는 {TEMAS.length}개 테마 전체에서 무작위로 10개씩 퀴즈가 나옵니다. 멈추지 않고 계속 진행할 경우 이미
+        나왔던 단어는 질문에서 제외됩니다. Ánimo!
+      </p>
 
       <button
         onClick={() => {
           setStarted(true);
         }}
-        className="bg-linear-to-br from-tema-brown to-tema-orange px-6 py-3 rounded-4xl text-md text-white"
+        className="bg-linear-to-br from-tema-brown to-tema-orange mt-auto px-6 py-3 rounded-4xl text-md text-white cursor-pointer"
       >
-        퀴즈 시작
+        시작하기
       </button>
     </div>
   );
